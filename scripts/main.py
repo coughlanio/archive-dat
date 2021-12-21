@@ -1,6 +1,5 @@
 import tempfile
 import shutil
-import uuid
 import os
 import subprocess
 import zipfile
@@ -60,8 +59,8 @@ for config in CONFIGS:
     type = config.get("type", "Default")
     date = datetime.today().strftime("%Y-%m-%d")
 
-    for f in config.get("files", []):
-        output_file = os.path.join(tmp_dir, f"{str(uuid.uuid4())}.xml")
+    for i, f in enumerate(config.get("files", [])):
+        output_file = os.path.join(tmp_dir, f"{i}.xml")
         request.urlretrieve(f, output_file)
 
     dat_name = f"{manufacturer} - {system} {type}"
