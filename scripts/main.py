@@ -75,7 +75,7 @@ for config in CONFIGS:
     print("Running sabretools")
     subprocess.run(
         [
-            "dotnetx64",
+            "dotnet",
             executable,
             "-ud",
             "-m",
