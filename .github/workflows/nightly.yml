@@ -1,0 +1,27 @@
+name: nightly
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '5.0.x'
+
+      - name: Run script
+        run: python scripts/main.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Chris Coughlan'
+          git config --global user.email 'chris@coughlan.io'
+          git add .
+          git commit -m "nightly - `date +'%Y-%m-%d'`"
+          git push
