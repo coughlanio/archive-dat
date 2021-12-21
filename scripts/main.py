@@ -46,9 +46,8 @@ CONFIGS = [
     },
 ]
 
-print("Extracting SabreTools")
 st_dir = tempfile.mkdtemp()
-print(st_dir)
+
 with zipfile.ZipFile("tools/sabretools.zip", "r") as zf:
     zf.extractall(st_dir)
     zf.close()
@@ -63,16 +62,13 @@ for config in CONFIGS:
 
     for f in config.get("files", []):
         output_file = os.path.join(tmp_dir, f"{str(uuid.uuid4())}.xml")
-        print(f"Downloading {f}")
         request.urlretrieve(f, output_file)
 
 
     dat_name = f"{manufacturer} - {system} {type}"
 
     executable = os.path.join(st_dir, "SabreTools.dll")
-    print(executable)
 
-    print("Running sabretools")
     subprocess.run(
         [
             "dotnet",
