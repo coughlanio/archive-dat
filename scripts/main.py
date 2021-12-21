@@ -84,7 +84,7 @@ for config in CONFIGS:
             f"-n={dat_name}",
             f"-de={dat_name}",
             f"-v={date}",
-            f"-co=Generated from Achive.org XMLs",
+            f"-co=Generated from Archive.org XMLs",
             f"-au=Teddy",
             f"-c=Archive.org {type}",
             "--filter=!machine.name:Default",
