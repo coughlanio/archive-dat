@@ -58,12 +58,11 @@ for config in CONFIGS:
     manufacturer = config.get("manufacturer", "Default")
     system = config.get("system", "Default")
     type = config.get("type", "Default")
-    date = datetime.today().strftime('%Y-%m-%d')
+    date = datetime.today().strftime("%Y-%m-%d")
 
     for f in config.get("files", []):
         output_file = os.path.join(tmp_dir, f"{str(uuid.uuid4())}.xml")
         request.urlretrieve(f, output_file)
-
 
     dat_name = f"{manufacturer} - {system} {type}"
 
