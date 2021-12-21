@@ -18,10 +18,6 @@ jobs:
       - name: Run script
         run: python scripts/main.py
 
-      - name: Commit changes
-        run: |
-          git config --global user.name 'Chris Coughlan'
-          git config --global user.email 'chris@coughlan.io'
-          git add .
-          git commit -m "nightly - `date +'%Y-%m-%d'`"
-          git push
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "nightly - `date +'%Y-%m-%d'`"
