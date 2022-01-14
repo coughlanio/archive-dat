@@ -5,8 +5,8 @@
 		<name>Sega - Mega-CD Redump CHDs</name>
 		<description>Sega - Mega-CD Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-01-13</version>
-		<date>2022-01-13</date>
+		<version>2022-01-14</version>
+		<date>2022-01-14</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -527,6 +527,7 @@
 		<rom name="Software Toolworks' Star Wars Chess, The (USA) (Alt).chd" size="106453365" crc="c87b8893" md5="42fd6397ee986030427625bb4ac2cfd5" sha1="de0329bc738179b63884caf83829f9a2b8e7f4c8" date="1603715665" />
 		<rom name="Software Toolworks' Star Wars Chess, The (USA).chd" size="106453415" crc="b90e25e9" md5="d17aac73bf02cc97458be53d8fa7ecfc" sha1="a537cac9f2e35572c1e9209819a435eab363f941" date="1603715692" />
 		<rom name="Sol-Feace (USA) (RE2).chd" size="307318818" crc="901c12df" md5="178faf77b4b49721819692ef7748ea4e" sha1="03e4785e99cb019f42d025b343247e2703447d86" date="1603715735" />
+		<rom name="Sol-Feace (USA) (RE).chd" size="307324130" crc="30a87292" md5="21b9b09994f535446f177826d49d1657" sha1="e3495868b624aa7ba958e2bbaea223ddc5b7fa12" date="1642043815" />
 		<rom name="Sonic CD (USA) (Beta).chd" size="333761642" crc="24954c80" md5="89b936d43641febb4b5b105e4e3b6900" sha1="6ee6b4b2378964b27958d84c58747612f6b2f085" date="1603715813" />
 		<rom name="Sonic CD (USA) (RE125) (Alt).chd" size="337290688" crc="af98ae0c" md5="76820cab4c8477791a58ca2d6e49f0d7" sha1="aea9252946eca9d96ca55139593dfc9a1f0b2769" date="1603715868" />
 		<rom name="Sonic CD (USA) (RE125).chd" size="337290690" crc="9b9ede73" md5="9bea7f919426e6447ea104f76ee6b7c3" sha1="4fd85d068eef700dfcd9b1de9f5e3a2e9e443bd5" date="1603715921" />
