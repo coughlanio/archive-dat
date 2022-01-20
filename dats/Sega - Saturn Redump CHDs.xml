@@ -5,8 +5,8 @@
 		<name>Sega - Saturn Redump CHDs</name>
 		<description>Sega - Saturn Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-01-19</version>
-		<date>2022-01-19</date>
+		<version>2022-01-20</version>
+		<date>2022-01-20</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -443,6 +443,7 @@
 		<rom name="Japan/Bug! Jump Shite, Funzukechatte, Petchanko (Japan).chd" size="122328763" crc="3545d413" md5="35359449f3039f2ae6ced4ba37460705" sha1="8e367eddeeed38aba81630e73fa6efe52b3fe98f" date="1601927169" />
 		<rom name="Japan/Bulk Slash (Japan).chd" size="84366467" crc="3452f9a5" md5="3d732bc01769fdcf9fdf19205e8b8f4b" sha1="4b395183005bf45c23c7ef98349dc91e755a91d0" date="1601927183" />
 		<rom name="Japan/Burning Rangers (Japan) (Demo).chd" size="257662732" crc="ce7b6528" md5="2e66fe5b582c6747f23cda0ba8042f28" sha1="6474e93d9a8fa0c4e18b8361a68a246f66346c4c" date="1601927212" />
+		<rom name="Japan/Burning Rangers (Japan) (Proto).chd" size="310696820" crc="531259fb" md5="b8d5f6ce0bb41818e2ab9fda0eefd132" sha1="a88ff12738f772cc8b4dc4dd49db7d16f2a4587a" date="1642613447" />
 		<rom name="Japan/Burning Rangers (Japan).chd" size="285125205" crc="8faf9b9a" md5="17351b5c0b3621e5645dcb53a445ef5a" sha1="9f59ff5f52cc1725916799e982d606136e9b0a5b" date="1601927268" />
 		<rom name="Japan/Can Can Bunny Extra (Japan).chd" size="383945332" crc="c96a7a82" md5="452b51a011baef5c044a87eaf7c64c9f" sha1="bfdb01cd97cdca7347eef374a15870846665aad1" date="1601927307" />
 		<rom name="Japan/Can Can Bunny Premiere 2 (Japan) (Disc 1) (Rev A).chd" size="309404869" crc="e1613791" md5="d345f1ec07514404d14509cbc103c75f" sha1="2e244208eea213d10b7ca0ff84ab8a6aeff27ed6" date="1601927379" />
@@ -1347,6 +1348,7 @@
 		<rom name="Japan/Rapyulus Panic (Japan).chd" size="51165744" crc="394a0cba" md5="c3edafef693d0a0b723e82b210076663" sha1="1cf51322111a6d650c6ea608970406ba9a0b3ad4" date="1602084024" />
 		<rom name="Japan/Rayman (Japan).chd" size="310794149" crc="da547cfe" md5="121cca8f54cef4e45910014ab3331e43" sha1="801b11d1f60fa1a83397d673060b9b9580efbe4b" date="1602084064" />
 		<rom name="Japan/Real Bout Garou Densetsu (Japan) (2M).chd" size="249465207" crc="14d4d2bc" md5="1e4d1054159a27e81af0f15b0f7099c2" sha1="694798dbf35a11761a7614f2533c3fd469099d56" date="1602084109" />
+		<rom name="Japan/Real Bout Garou Densetsu (Japan) (Ja,Es) (Demo).chd" size="249474941" crc="e33fa61e" md5="a17a116c11ab153735daa15c29f4a44a" sha1="ebd3ef6693faff4825240fc246fdb28cca98ee29" date="1642613485" />
 		<rom name="Japan/Real Bout Garou Densetsu Special (Japan) (Rev A).chd" size="387016871" crc="61c3ecf6" md5="5d1059d6c92f608b79a5bca2958ae9c8" sha1="8e429fe1bddaeb1db63ce9ff463c20f516cacf5c" date="1602084151" />
 		<rom name="Japan/Real Bout Garou Densetsu Special (Japan).chd" size="386996750" crc="18a8f728" md5="f2fb9c46079b718b6ece5ff4ac4a61f3" sha1="2047868c0ac8e43379752aac32e69e32ace58d90" date="1602084193" />
 		<rom name="Japan/Real Mahjong Adventure Umi e - Summer Waltz (Japan) (P's Club Genteiban).chd" size="258501218" crc="a26c5f5c" md5="f8a91432ca24dcba49218832f7a2e54d" sha1="4a9a753aa08fd1a2004bb52f81965cd43eba4cdf" date="1602084224" />
@@ -1592,7 +1594,9 @@
 		<rom name="Japan/Skull Fang - Kuuga Gaiden (Japan).chd" size="296725342" crc="983da546" md5="4bd7b8d5c0ad2d799ac945812e4c63ab" sha1="220a4771aa50d384edc4615adeac26cc86b1dc2e" date="1602116439" />
 		<rom name="Japan/Sky Target (Japan).chd" size="360612288" crc="73317770" md5="078cbb9baa0ef0bdc1374dce24d731f5" sha1="2ae9f058b54b1a08025cc5d5ad7587ecfd01a72d" date="1602116507" />
 		<rom name="Japan/Slam 'n Jam '96 featuring Magic &amp; Kareem (Japan).chd" size="85344044" crc="b7030bd5" md5="adb2970b75ded2231ab78da51e259c04" sha1="656b4c45fc5384c74e67f591d9c2457cd3ab8ab6" date="1602116521" />
+		<rom name="Japan/Slayers Royal 2 (Japan) (1M).chd" size="285382430" crc="95363df4" md5="dd9055c83d2ef22d7b34c80b7d9e3350" sha1="6a6aa1c150640673e327b3b02c895ff58d6222b6" date="1642613562" />
 		<rom name="Japan/Slayers Royal 2 (Japan) (1M, 2M).chd" size="285382430" crc="95363df4" md5="dd9055c83d2ef22d7b34c80b7d9e3350" sha1="6a6aa1c150640673e327b3b02c895ff58d6222b6" date="1602116646" />
+		<rom name="Japan/Slayers Royal 2 (Japan) (2M).chd" size="285382428" crc="237c9a71" md5="9a6c5fafa8e9d52a19ead6a1dc41864c" sha1="a8443438da0a4fc18bacaa3f407c778a4e980af3" date="1642613605" />
 		<rom name="Japan/Slayers Royal (Japan).chd" size="280188536" crc="4ec02a4d" md5="8b70874cdcd6e416098bc77b2a7f1a28" sha1="13344c052867918ac3eee8dddd0017a74755becb" date="1602116595" />
 		<rom name="Japan/Snatcher (Japan).chd" size="407573505" crc="fe632e8c" md5="abc5796d7978661297b57d8818dfb1eb" sha1="00bff3b7accfba6f4ec5737fb2b4e59d4360386d" date="1602116741" />
 		<rom name="Japan/Soeldnerschild (Japan).chd" size="86998383" crc="43ba4f3f" md5="daeab9c33ddf1596e091c0c9d0a4edb4" sha1="76518bbebc6e8ab57c334202350fb0cf95058e8f" date="1602116756" />
@@ -1772,6 +1776,7 @@
 		<rom name="Japan/Thunderhawk II (Japan).chd" size="245992885" crc="aaeb0869" md5="aa5a960958856b0c02fe0265a41821a6" sha1="891500414da6a785fa08b5377cdcecb21c138fd3" date="1602161459" />
 		<rom name="Japan/Tilk - Aoi Umi kara Kita Shoujo (Japan).chd" size="369628708" crc="f9a669cb" md5="77aeace0ba5fa52f0981f68b6eb549e5" sha1="d527ca7a209253087ab7f17ba882b44b695624ab" date="1602161496" />
 		<rom name="Japan/Time Bokan Series - Bokan to Ippatsu! Doronboo Kanpekiban (Japan).chd" size="303683910" crc="ac02f927" md5="4c4add27e9feca1d7086a9bc58fb2bec" sha1="5078aff884d174a6552f1169d87079cb7e567095" date="1602161533" />
+		<rom name="Japan/Time Bokan Series - Bokan to Ippatsu! Doronbow Kanpekiban (Japan).chd" size="303683910" crc="ac02f927" md5="4c4add27e9feca1d7086a9bc58fb2bec" sha1="5078aff884d174a6552f1169d87079cb7e567095" date="1642613667" />
 		<rom name="Japan/Time Commando (Japan).chd" size="367893983" crc="4648e282" md5="a8f9f9b9a38d100355efd77c8dcd264b" sha1="81d9191e5577f68e0907135a3f3c2b50bdb10df5" date="1602161564" />
 		<rom name="Japan/Time Gal &amp; Ninja Hayate (Japan) (En,Ja) (Disc 1) (Time Gal).chd" size="312302854" crc="39dfc00a" md5="3558f1a2bf23d32349660c50a27098ff" sha1="cf95f074bd46453908ee1c44dc791fcacda29654" date="1602161592" />
 		<rom name="Japan/Time Gal &amp; Ninja Hayate (Japan) (En,Ja) (Disc 2) (Ninja Hayate) (3M).chd" size="318378137" crc="74024d3a" md5="726dd1c0bc7c99a043d64a1515078cf3" sha1="dd894351bbd96619b0525c813114baed90c836ca" date="1602161627" />
@@ -2049,7 +2054,9 @@
 		<rom name="Other-Regions/Shellshock (Germany).chd" size="348313888" crc="8837f472" md5="892ee3e2411b4e793a136405379dad4b" sha1="9c464eb8323008de6e744024a5361eed4f3a575f" date="1601469376" />
 		<rom name="Other-Regions/Soviet Strike (France).chd" size="454593392" crc="4c2ca005" md5="7635a3117f069a589935bc792994fd62" sha1="a7874d42943b265d57ea351f52e3e5fa5dc284e0" date="1601469419" />
 		<rom name="Other-Regions/Soviet Strike (Germany).chd" size="453970825" crc="87922a3d" md5="64af89fe6b465bbc544e3e1aae67e449" sha1="13b17a3908cc3d8105910e68b5b73b8969ce8b4f" date="1601469468" />
+		<rom name="Other-Regions/Virtua Fighter 2 (Korea).chd" size="409599155" crc="96947970" md5="17ef813b5273cc7886c9c1d7187082e4" sha1="5dc2456ec086efdce5e949abe888f5018b176497" date="1642613730" />
 		<rom name="Other-Regions/Virtua Fighter Kids (Korea).chd" size="361678403" crc="53f2ea1d" md5="cb160a57e091160738e92f6328757e96" sha1="a3a97dddbb43086db220d85c27fb086672c5f9aa" date="1601469550" />
+		<rom name="Other-Regions/Virtua Fighter Remix (Korea).chd" size="388017510" crc="771a6985" md5="1a4cf66486a9eb4bd4bae226ec7620c9" sha1="2709be49b7560536ca8ae8e03000abd43662b34c" date="1642613790" />
 		<rom name="Other-Regions/World Cup Golf - Professional Edition (France).chd" size="503772838" crc="17405291" md5="6145486b988f77beb37452deeaef3ebe" sha1="a26bf78d982f97ea3179b815b32a68c569de3e39" date="1601469607" />
 		<rom name="Other-Regions/World Cup Golf - Professional Edition (Germany) (Rev A).chd" size="501052614" crc="124771a4" md5="4734c185693786fe3bf1f7bb6b7edc32" sha1="535a27c0944758bfe946ac8e30592a53960479ab" date="1601469685" />
 		<rom name="Other-Regions/Worldwide Soccer - Sega International Victory Goal Edition (Korea).chd" size="314535270" crc="a0c7dad9" md5="9356b0ac4e69d3e82e4e2552cd8a117a" sha1="86360519415a8024c80c42a2681c485c63148db4" date="1601469712" />
@@ -2359,6 +2366,7 @@
 		<rom name="USA/Ultimate Mortal Kombat 3 (USA).chd" size="211908160" crc="d161cf13" md5="9fb7d214736e637a28e0d46bd96399d8" sha1="5bd5b3a50ebcf3d14d2eb2ac0df43b40bd834c09" date="1601899937" />
 		<rom name="USA/Valora Valley Golf (USA).chd" size="244204040" crc="74501bc2" md5="acf8b762a6a2a017bf87507fb111bd3f" sha1="b3d4afa7a91cb79dd3d0bbb500a40a098ad27fe2" date="1601905213" />
 		<rom name="USA/Virtua Cop 2 (USA).chd" size="213940135" crc="0ae7ae3b" md5="55f05af6a25d20dd204f8fd3ec21c386" sha1="3650584df72b58aa22b3b6738e7658ce9984f2cf" date="1601905340" />
+		<rom name="USA/Virtua Cop (USA) (5S, 6S).chd" size="317204799" crc="f3d22f75" md5="ddb1ea471ee5baf2a53c8eda8322926d" sha1="e0895016cb5c518d57c39bc2951e9ae724131ef9" date="1642613843" />
 		<rom name="USA/Virtua Cop (USA) (6S).chd" size="317204799" crc="f3d22f75" md5="ddb1ea471ee5baf2a53c8eda8322926d" sha1="e0895016cb5c518d57c39bc2951e9ae724131ef9" date="1601905251" />
 		<rom name="USA/Virtua Cop (USA) (7S).chd" size="317207419" crc="b53e0e8c" md5="0b5aea25999cc308a077124d611756c9" sha1="ba672d0646e1b2146eb9461e035f6a8857a87f8a" date="1601905279" />
 		<rom name="USA/Virtua Cop (USA) (8S, 12S).chd" size="317178543" crc="150a85c9" md5="7803853a2b6eb441d6a7e6836cdf439a" sha1="8ea29ae54c41a2f2ef53b37f291413a655341fe2" date="1601905309" />

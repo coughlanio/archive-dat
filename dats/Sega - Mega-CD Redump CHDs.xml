@@ -5,8 +5,8 @@
 		<name>Sega - Mega-CD Redump CHDs</name>
 		<description>Sega - Mega-CD Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-01-19</version>
-		<date>2022-01-19</date>
+		<version>2022-01-20</version>
+		<date>2022-01-20</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -496,6 +496,7 @@
 		<rom name="Road Rash (USA).chd" size="344640154" crc="68a935c0" md5="0e438c66056fd0e7aa3691ec2c8ffdfe" sha1="de286619787af20b4e3106d0d91f5e7e4ee57e18" date="1603683505" />
 		<rom name="Robo Aleste (USA).chd" size="334661128" crc="9a66ea5f" md5="28118a699750cbfb172109dc8e3a574e" sha1="8e690684fe7287bd6d51cb81c2fa8abafdaa831c" date="1603683608" />
 		<rom name="Samurai Shodown (USA) (RE).chd" size="255183776" crc="67e94948" md5="5e75007343f342951e29d2bfcd3f3eb9" sha1="f56e0c919d10a0d24e2dce9c7118e49f6dc07fb1" date="1603713662" />
+		<rom name="Secret of Monkey Island, The (USA) (Limited Run Games).chd" size="199724506" crc="fa8842b2" md5="d0c0a8facfbeec12449f58a29a447a74" sha1="3afdbea0cedee68d066496ac74b7035334fc892f" date="1642605375" />
 		<rom name="Secret of Monkey Island, The (USA) (RE).chd" size="199735953" crc="a2807b26" md5="b41f367032672f420623ff8728cd3ec4" sha1="157f56307acf010a06e5665f54a8b159fcb844ee" date="1603713698" />
 		<rom name="Sega Classics Arcade Collection (USA) (4-in-1) (RE2).chd" size="79782417" crc="2d54c28f" md5="f046b2e4413486fdcacb1bd8235d3157" sha1="ba4d79e0c6c568d86e3170f03f7ab2f0a0322f7f" date="1603713740" />
 		<rom name="Sega Classics Arcade Collection (USA) (4-in-1) (RE).chd" size="84032882" crc="de653324" md5="26103f1a0839781618eacbdfc84e63f8" sha1="3c9202f66d04455c75e008286991e34572a614b1" date="1603713720" />
