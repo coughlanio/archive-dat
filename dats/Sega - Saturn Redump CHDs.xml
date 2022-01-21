@@ -5,8 +5,8 @@
 		<name>Sega - Saturn Redump CHDs</name>
 		<description>Sega - Saturn Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-01-20</version>
-		<date>2022-01-20</date>
+		<version>2022-01-21</version>
+		<date>2022-01-21</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -2367,7 +2367,6 @@
 		<rom name="USA/Valora Valley Golf (USA).chd" size="244204040" crc="74501bc2" md5="acf8b762a6a2a017bf87507fb111bd3f" sha1="b3d4afa7a91cb79dd3d0bbb500a40a098ad27fe2" date="1601905213" />
 		<rom name="USA/Virtua Cop 2 (USA).chd" size="213940135" crc="0ae7ae3b" md5="55f05af6a25d20dd204f8fd3ec21c386" sha1="3650584df72b58aa22b3b6738e7658ce9984f2cf" date="1601905340" />
 		<rom name="USA/Virtua Cop (USA) (5S, 6S).chd" size="317204799" crc="f3d22f75" md5="ddb1ea471ee5baf2a53c8eda8322926d" sha1="e0895016cb5c518d57c39bc2951e9ae724131ef9" date="1642613843" />
-		<rom name="USA/Virtua Cop (USA) (6S).chd" size="317204799" crc="f3d22f75" md5="ddb1ea471ee5baf2a53c8eda8322926d" sha1="e0895016cb5c518d57c39bc2951e9ae724131ef9" date="1601905251" />
 		<rom name="USA/Virtua Cop (USA) (7S).chd" size="317207419" crc="b53e0e8c" md5="0b5aea25999cc308a077124d611756c9" sha1="ba672d0646e1b2146eb9461e035f6a8857a87f8a" date="1601905279" />
 		<rom name="USA/Virtua Cop (USA) (8S, 12S).chd" size="317178543" crc="150a85c9" md5="7803853a2b6eb441d6a7e6836cdf439a" sha1="8ea29ae54c41a2f2ef53b37f291413a655341fe2" date="1601905309" />
 		<rom name="USA/Virtua Fighter 2 (USA) (RE).chd" size="409583239" crc="824cdff4" md5="75c58ef7d4c9566b2e760a509148fea3" sha1="2525e93ea6b8ad1053ea3382bfcfe0aaaf37d658" date="1601905417" />
