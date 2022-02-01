@@ -5,8 +5,8 @@
 		<name>NEC - PC Engine CD Redump CHDs</name>
 		<description>NEC - PC Engine CD Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-01-31</version>
-		<date>2022-01-31</date>
+		<version>2022-02-01</version>
+		<date>2022-02-01</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -380,6 +380,7 @@
 		<rom name="Shin Onryou Senki (Japan).chd" size="131855607" crc="ab1390b6" md5="e7ba770092f124adc95af8d88dd3b6e8" sha1="0cc9d7ccf41713360ab40d4b4c8f40d1a19fa15f" date="1603026503" />
 		<rom name="Shinsetsu Shiawase Usagi 2 - Kairaku e no Invitation (Japan) (Unl).chd" size="103864243" crc="4a992b47" md5="987f33d53fa41c843ae7b3b0bcd2f7f8" sha1="de67e3bdbcc574a73a5205d3ff169796dfd693fc" date="1603026516" />
 		<rom name="Shinsetsu Shiawase Usagi (Japan).chd" size="148735792" crc="a54d04b0" md5="ef5bc28520b3e06a394cff76d3eb80ac" sha1="01aa22d5f4b462b28d85a003aa41fd54fa1e19ca" date="1628720115" />
+		<rom name="Shinsetsu Shiawase Usagi f - Yuujou yorimo Aiyoku (Japan) (Unl).chd" size="83757663" crc="45294e98" md5="eb0e933fd002a49b361c79fc423549e1" sha1="3345c8975376f88b08cc870a58f72df0017ad9b1" date="1643636832" />
 		<rom name="Shougi Database Kiyuu (Japan).chd" size="134395429" crc="be635cb0" md5="0945160e63338094401287bf1085a261" sha1="30f4e636d422317502fd0ab7dd3ae0b0ad501d7e" date="1603026532" />
 		<rom name="SimEarth - The Living Planet (Japan).chd" size="163853848" crc="353186d8" md5="4c6384cad1c0706e495df1ff386ea95b" sha1="2b5624c6855d92f998e3d6fdff34be24e36b61fc" date="1603026553" />
 		<rom name="Slot Gambler (Japan).chd" size="139031526" crc="676d85ad" md5="dc4bcd810f5b5773e3da74190b7ced43" sha1="f7565f19cdd2ffb80d8a477ed59bc6f964fc8a9f" date="1603026568" />
