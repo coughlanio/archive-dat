@@ -5,8 +5,8 @@
 		<name>Sega - Mega-CD Redump CHDs</name>
 		<description>Sega - Mega-CD Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-01</version>
-		<date>2022-04-01</date>
+		<version>2022-04-02</version>
+		<date>2022-04-02</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -97,6 +97,7 @@
 		<rom name="Prize Fighter (Japan) (Disc 1).chd" size="263988263" crc="57d69bfe" md5="84e9b9d708ed691ed87fd5ba617aef38" sha1="11151d69605534d4dda57e778059e5b2833f515d" date="1603710681" />
 		<rom name="Prize Fighter (Japan) (Disc 2).chd" size="308843492" crc="3f04f87b" md5="a5d05c4e3fa5bc5867f70d6e7b267c63" sha1="876098fc8cdbafb24276ca4dff855a26825f452e" date="1603710733" />
 		<rom name="Pro Yakyuu Super League CD (Japan).chd" size="77502462" crc="f034b939" md5="ecff864198d23803eccdc9f344b2913a" sha1="97f7ea31dbac516d0329a2bdb8ff4a1e4747b39b" date="1603710758" />
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan) (Demo).chd" size="4238058" crc="118ab41f" md5="21ab040184fc8f3386f6489ead73cd13" sha1="b35483ea7de249b9838cecffbe74899f801fab77" date="1648822530" />
 		<rom name="Psychic Detective Series Vol. 3 - Aya (Japan).chd" size="123101485" crc="d60de25f" md5="885a1bb20f218c46361c782c4929631c" sha1="feb38b0cc2ff03d198867aad94c9272dc3bf9ac3" date="1603710785" />
 		<rom name="Psychic Detective Series Vol. 4 - Orgel (Japan).chd" size="143192730" crc="92c8eea2" md5="8888aac1c92fb789c51b531963d10a6c" sha1="da36debf8f5bd41c0b84be926ddb30cf3ba19f15" date="1603710820" />
 		<rom name="Quiz Scramble Special (Japan) (Rev B).chd" size="75869284" crc="51da55a8" md5="625660442d0cdb1dfba11f38cb683cbc" sha1="7fc799eb9c6330617c750c6b2c2acfc8f553f91c" date="1603666736" />

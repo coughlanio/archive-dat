@@ -5,8 +5,8 @@
 		<name>Sega - Saturn Redump CHDs</name>
 		<description>Sega - Saturn Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-01</version>
-		<date>2022-04-01</date>
+		<version>2022-04-02</version>
+		<date>2022-04-02</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -436,6 +436,7 @@
 		<rom name="Japan/Bouken Katsugeki Monomono (Japan) (Demo).chd" size="5772175" crc="ab1ea828" md5="ee8c6360be522e8e1ed28ed1a06f5b8f" sha1="a7e5b0dc18f834df0c5d9d2678a245c7860e4b5c" date="1601926939" />
 		<rom name="Japan/Bouken Katsugeki Monomono (Japan).chd" size="94072091" crc="a6b371a7" md5="561a527f04ae60ac3e66855b8070197c" sha1="fb11f1d71de8b96a41faa405e2302adaf8c152d2" date="1601926950" />
 		<rom name="Japan/Brain Battle Q (Japan).chd" size="286625781" crc="2b0ab03b" md5="6b055f0592fb9232237bf58fc669a1c1" sha1="80fa69cabbcffa9dc676dfdc0e80dd731fd93c08" date="1601926978" />
+		<rom name="Japan/BrainDead 13 (Japan).chd" size="470090966" crc="d4e7ef5f" md5="662de9afb915457f5b4a77ea354307b7" sha1="8f53e65e67623cd423d414ad0d83f2ce3b013530" date="1648831727" />
 		<rom name="Japan/Break Point (Japan).chd" size="82313948" crc="84824c64" md5="f6c3dd89f0b25530a6b41276a3c35b21" sha1="13980cf5751d46d52e4b9702b363471a5fea4b92" date="1601927060" />
 		<rom name="Japan/BreakThru! (Japan).chd" size="5039930" crc="8faa8544" md5="ccacc935d150e1a3c64c8bb9c1ceef24" sha1="e68b27e7b019f6a4cfbd0c2cbefd772faf4ab8de" date="1601927064" />
 		<rom name="Japan/Bubble Symphony (Japan).chd" size="408864094" crc="8a8a7993" md5="6b1b44815a7a0efeb7e89771f6dd544e" sha1="4c2e13ad643c00fb9e9414080cf7794689fc7bbb" date="1601927102" />
@@ -1500,6 +1501,7 @@
 		<rom name="Japan/SegaSaturn - Movie Tools - Cinepak for Sega Saturn (Japan) (Hybrid Version).chd" size="21397001" crc="ec5f715d" md5="89eee8bc24aeb0ad82954a0eed718a85" sha1="e9f6bac17cd067ca2f6e554ce976a778cd8fe655" date="1602103358" />
 		<rom name="Japan/SegaSaturn - SGL Tool Kit - Sega 3D Game Library (Japan).chd" size="37464889" crc="e63b44d4" md5="6cb1ff7e0fab8e070bee9ac74c811178" sha1="1d51135e658bd3b5ba0323a405a987fec16f5e25" date="1602103366" />
 		<rom name="Japan/SegaSaturn Electronic Book Operator (Japan).chd" size="1312356" crc="7b1514ae" md5="9e75953ee94d78710330088f44da1d65" sha1="5152aa8a3f666afac094a243f379b0e2ea9aa5ca" date="1602103379" />
+		<rom name="Japan/SegaSaturn FDD Operator (Japan).chd" size="969002" crc="d5bdc49c" md5="6bbced5ec5c0a437db43844e53235cac" sha1="4b1d5c5c3840b03322c82eb8713015c50a386f95" date="1648831730" />
 		<rom name="Japan/SegaSaturn Internet 2 (Japan).chd" size="3788062" crc="514fae41" md5="d684655445152cb68b676999c369b365" sha1="6fceab3144d3df1017950748e009f717302cb1f2" date="1602108721" />
 		<rom name="Japan/SegaSaturn Internet Vol. 1 (Japan).chd" size="12627609" crc="5b8dbb9d" md5="51b01d3f549c6d7f3963b605592b466a" sha1="3f64d9d9a43bc01e9a0463a1f7d235751cf02626" date="1602108728" />
 		<rom name="Japan/SegaSaturn Photo CD Operator (Japan) (Rev A).chd" size="19069861" crc="2c45f007" md5="86cc70f73eea0955027b34013e97650d" sha1="3fa78ec4e74cee9e7f4be9fe5d66430fabe13ab1" date="1602108735" />

@@ -5,8 +5,8 @@
 		<name>NEC - PC Engine CD Redump CHDs</name>
 		<description>NEC - PC Engine CD Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-01</version>
-		<date>2022-04-01</date>
+		<version>2022-04-02</version>
+		<date>2022-04-02</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -54,6 +54,7 @@
 		<rom name="Browning (Japan).chd" size="237772086" crc="9da7dff0" md5="017d68cf9d9c664602fc17e344f6d891" sha1="fdc841c702598a0adbfdd82bff67e7516e2364d0" date="1602854369" />
 		<rom name="BuilderLand - The Story of Melba (Japan).chd" size="124320559" crc="b0d1a609" md5="3b7f89a3a06658a0511b08071e3efcf6" sha1="72fa924213eff3bf69e37c2519f28dfb6ea84877" date="1602854392" />
 		<rom name="Burai - Yatsudama no Yuushi Densetsu (Japan).chd" size="342251951" crc="b55633e7" md5="c4c34bb0bb0b0f278a830acb41a82da4" sha1="a8f29e983bdeea46e8d34173337dabb401e231e0" date="1602854449" />
+		<rom name="Burai II - Yami Koutei no Gyakushuu (Japan) (Demo).chd" size="260515053" crc="f4998b4e" md5="c2e97afd2dcdb3de331882c5efe8e1ae" sha1="480325007b0ff2d72a4a4cc2d4798d7eb0dd54ed" date="1648822667" />
 		<rom name="Burai II - Yami Koutei no Gyakushuu (Japan).chd" size="409623859" crc="b9af22fc" md5="90b250508882104a919136332743f089" sha1="9cf782fa7357fd4a7172632f48dbc29a36b05a3b" date="1602854500" />
 		<rom name="CAL II (Japan) (Alt).chd" size="204031415" crc="254ba7b9" md5="27a87239102577c1428113bc516f4df8" sha1="21261b3b476c6f53ef8219036b44caaee78799fb" date="1602854524" />
 		<rom name="CAL II (Japan).chd" size="204031415" crc="74872893" md5="ed6597a87cc96556b8aef422af82427b" sha1="24da17d3773fa2e60d16edac9c4050206040c45f" date="1602854550" />
@@ -540,6 +541,7 @@
 		<description>CHD-TGCD</description>
 		<rom name="Addams Family, The (USA).chd" size="7856344" crc="418cfa3f" md5="4fb8f418d48b3fb210bd072b8bc1e25e" sha1="bd71f0d29de9a33e4da8429476a31c6d8dfbfe99" date="1602773222" />
 		<rom name="Beyond Shadowgate (USA).chd" size="188553758" crc="d7fc4229" md5="f2fd6e216c5e9442afc16d2e6caea15a" sha1="273c4a95cdc8b3b7659af88050eaa099e0d3449c" date="1602773244" />
+		<rom name="Bikini Girls (USA) (Unl).chd" size="3781700" crc="8a046259" md5="b308c7e39bb8f35cc298172186264fdc" sha1="d2924bdbf477e4a9aacc0523faab687192194b92" date="1648822670" />
 		<rom name="Bonk III - Bonk's Big Adventure (USA).chd" size="372077994" crc="cfbeea1f" md5="5fc7b7415844291516b6ea6593c7493f" sha1="d53a2d17ee6730254890a68e46bc2294940ed8c7" date="1602773276" />
 		<rom name="Buster Bros. (USA).chd" size="136037557" crc="3b08a23a" md5="75c043cb60cc704e477442e346de917c" sha1="cac44daf6539c7db1ec8f70c523a1bc02f42b0a5" date="1602773293" />
 		<rom name="Camp California (USA).chd" size="356513465" crc="c21fc0cd" md5="471d5a46260d96a2957cbc370d5a6f5c" sha1="a9355214ea2350516dcf5c7c28977f67a8d2bcb9" date="1602773336" />
