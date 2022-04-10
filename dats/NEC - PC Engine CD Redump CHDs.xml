@@ -5,8 +5,8 @@
 		<name>NEC - PC Engine CD Redump CHDs</name>
 		<description>NEC - PC Engine CD Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-09</version>
-		<date>2022-04-09</date>
+		<version>2022-04-10</version>
+		<date>2022-04-10</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -54,7 +54,7 @@
 		<rom name="Browning (Japan).chd" size="237772086" crc="9da7dff0" md5="017d68cf9d9c664602fc17e344f6d891" sha1="fdc841c702598a0adbfdd82bff67e7516e2364d0" date="1602854369" />
 		<rom name="BuilderLand - The Story of Melba (Japan).chd" size="124320559" crc="b0d1a609" md5="3b7f89a3a06658a0511b08071e3efcf6" sha1="72fa924213eff3bf69e37c2519f28dfb6ea84877" date="1602854392" />
 		<rom name="Burai - Yatsudama no Yuushi Densetsu (Japan).chd" size="342251951" crc="b55633e7" md5="c4c34bb0bb0b0f278a830acb41a82da4" sha1="a8f29e983bdeea46e8d34173337dabb401e231e0" date="1602854449" />
-		<rom name="Burai II - Yami Koutei no Gyakushuu (Japan) (Demo).chd" size="260515053" crc="f4998b4e" md5="c2e97afd2dcdb3de331882c5efe8e1ae" sha1="480325007b0ff2d72a4a4cc2d4798d7eb0dd54ed" date="1648822667" />
+		<rom name="Burai II - Yami Koutei no Gyakushuu (Japan) (Demo).chd" size="260515053" crc="f4998b4e" md5="c2e97afd2dcdb3de331882c5efe8e1ae" sha1="480325007b0ff2d72a4a4cc2d4798d7eb0dd54ed" date="1649464097" />
 		<rom name="Burai II - Yami Koutei no Gyakushuu (Japan).chd" size="409623859" crc="b9af22fc" md5="90b250508882104a919136332743f089" sha1="9cf782fa7357fd4a7172632f48dbc29a36b05a3b" date="1602854500" />
 		<rom name="CAL II (Japan) (Alt).chd" size="204031415" crc="254ba7b9" md5="27a87239102577c1428113bc516f4df8" sha1="21261b3b476c6f53ef8219036b44caaee78799fb" date="1602854524" />
 		<rom name="CAL II (Japan).chd" size="204031415" crc="74872893" md5="ed6597a87cc96556b8aef422af82427b" sha1="24da17d3773fa2e60d16edac9c4050206040c45f" date="1602854550" />
@@ -155,7 +155,8 @@
 		<rom name="Ginga Fukei Densetsu Sapphire (Japan).chd" size="248834315" crc="917064e6" md5="ad5146137a3ed27cb182c9096bcf50af" sha1="06a74ff3d8a17da480dc2df79bf461fc7da621d9" date="1602862209" />
 		<rom name="Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FAAT).chd" size="375378410" crc="5789f480" md5="5461034d667f9044ca6c4a23bce96128" sha1="556576f59a4aa8851f5fd4a34086e500ebc0392e" date="1602862316" />
 		<rom name="Ginga Ojousama Densetsu Yuna 2 - Eien no Princess (Japan) (FABT).chd" size="375379679" crc="020759a7" md5="f8ad85707559a18b5f3b8faf61016731" sha1="882ad9030f8e4748f356fdcf85f2658f962d4725" date="1602862345" />
-		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FABT, FACT).chd" size="262984027" crc="4c053629" md5="24dde972bc22227c7bb8a807ecda0a5d" sha1="24c6505063c02638083d2573ec5136127181d882" date="1602862252" />
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (Demo).chd" size="171242379" crc="a415c6e3" md5="9f92195194412f1462a76a9855f2e4f5" sha1="1edfe508125a6eefeeeed4daa52583cfa22d064c" date="1649476144" />
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT).chd" size="262984027" crc="4c053629" md5="24dde972bc22227c7bb8a807ecda0a5d" sha1="24c6505063c02638083d2573ec5136127181d882" date="1649513913" />
 		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAFT).chd" size="263042158" crc="d3b8e3c0" md5="89d4ecc4608155d8a110d427a5ee7cf4" sha1="20afe4100a2938cbf8c14b7e99e1de7bcc880208" date="1602862282" />
 		<rom name="Ginga Ojousama Densetsu Yuna HuVIDEO CD (Japan).chd" size="232978431" crc="191e0e19" md5="4a4b3e5f802443f7a93846a0f6f298f7" sha1="5ed3bb8144986552ff73149062b4bc948d105d18" date="1602862364" />
 		<rom name="Go! Go! Birdie Chance (Japan).chd" size="141467527" crc="63054b9d" md5="7e7defcf919945cb771ffbc04f12d7f8" sha1="a9c7e1cb6ac2779f103d425512934597c5937a03" date="1602862380" />
@@ -194,7 +195,7 @@
 		<rom name="IQ Panic (Japan).chd" size="307439441" crc="9955060c" md5="47f6c0daecdf5d70a1776ccf33a22d18" sha1="373521afbd029af10e9425f807bf1e1bf655c0e6" date="1602863157" />
 		<rom name="J-Thunder - Tsumetai Hada wa Shoujo o Nurasu (Japan) (Unl).chd" size="201959514" crc="b07c3ff6" md5="50f5daffb7387c67fd9ece87bad4233a" sha1="1f5eea26f7f14f9d9f377f7e4e01e984f617ba7f" date="1628719953" />
 		<rom name="J. B. Harold Series 1 - Murder Club (Japan).chd" size="240880904" crc="e76f1100" md5="dc89c1fef51625a580859b8fcb140f86" sha1="970d1f45c3f322037078ed3bc1bacd831606e14e" date="1602863178" />
-		<rom name="J. League Tremendous Soccer '94 (Japan).chd" size="345579415" crc="d4e837c1" md5="97bc6122b09196cca3bed7f91d0e8c9a" sha1="63216f38b4420fae4a82bb322d7486bcb6a3c0be" date="1602863225" />
+		<rom name="J.League Tremendous Soccer '94 (Japan).chd" size="345579415" crc="d4e837c1" md5="97bc6122b09196cca3bed7f91d0e8c9a" sha1="63216f38b4420fae4a82bb322d7486bcb6a3c0be" date="1649514042" />
 		<rom name="Jack Nicklaus' World Tour Golf - 162 Holes (Japan).chd" size="103168052" crc="3cb24f97" md5="b79f7b5fba418c2d6b388fdde7bb95d4" sha1="8376c70cf5ff90e4793b4e890c2cf352bb35c48a" date="1602863235" />
 		<rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Kanketsu-hen (Japan).chd" size="88984897" crc="1e49978f" md5="ab7bdf11947a222742edc044c2bc4e0c" sha1="c8b8d9b4b81f50f8e5560687be2b2c0197d5b3c8" date="1602863252" />
 		<rom name="Jantei Monogatari 2 - Uchuu Tantei Diban - Shutsudou-hen (Japan).chd" size="84611096" crc="a0c2a656" md5="303108cf39bd359b10db3f038d1dad9a" sha1="f325e74aec8e5ec39619f2ef676ccc6b23de7924" date="1602863261" />
@@ -203,7 +204,8 @@
 		<rom name="Jim Power in Mutant Planet (Japan).chd" size="409958887" crc="c8910b76" md5="180692d382155d44750466918793934b" sha1="abff18dd9f78d26a65c0403550aa18ac4252f45b" date="1602863322" />
 		<rom name="Juuouki (Japan) (Rev 4).chd" size="37110369" crc="9212df7c" md5="cc9dc18eaf98a229bb359ee8c1566a1d" sha1="736fca2b649936d8c597f24ea93d8ec8290859d7" date="1602863329" />
 		<rom name="Juuouki (Japan) (Rev 5).chd" size="38859317" crc="78310e73" md5="caa64cb8332a3fe543d0da5673581d7a" sha1="0a302a534bb7742322ea019e6acb70afa774f636" date="1602863338" />
-		<rom name="Kabuki Ittouryoudan (Japan).chd" size="283614716" crc="7c12a97c" md5="3bd47e541054e60e1a51a03900ca8fcb" sha1="a4210a73bce6fd73b6c53005ddc7b915de933dbb" date="1602863365" />
+		<rom name="Kabuki Ittouryoudan (Japan) (FAAT).chd" size="283614716" crc="7c12a97c" md5="3bd47e541054e60e1a51a03900ca8fcb" sha1="a4210a73bce6fd73b6c53005ddc7b915de933dbb" date="1649544147" />
+		<rom name="Kabuki Ittouryoudan (Japan) (FABT).chd" size="283613662" crc="3458cd18" md5="65a7aa6f1ae37fe630bcd8488630c580" sha1="1172837fb72b58ed9d45b7ff014942ba2c24ff02" date="1649544204" />
 		<rom name="Kagami no Kuni no Legend (Japan).chd" size="266020163" crc="c2e6d2a0" md5="680db47a19ab4ba922e03743e488bd65" sha1="1f9bfe91468f6e58cb48536d7a7180488465d2b1" date="1602863399" />
 		<rom name="Kaizou Choujin Shubibinman 3 - Ikai no Princess (Japan).chd" size="336294195" crc="68364187" md5="01eb61a93fdb674e1d45e4c87851f5b1" sha1="6b41717026fbc1a58963ab92a397ae4d92222571" date="1602863444" />
 		<rom name="Kakutou Haou Densetsu - Algunos (Japan).chd" size="135619839" crc="6869875b" md5="775dcc88281f2bb76f012a6fc06c7478" sha1="7e3ba435be321dfc02c41be506e618f7f252f09c" date="1602863468" />
@@ -541,7 +543,7 @@
 		<description>CHD-TGCD</description>
 		<rom name="Addams Family, The (USA).chd" size="7856344" crc="418cfa3f" md5="4fb8f418d48b3fb210bd072b8bc1e25e" sha1="bd71f0d29de9a33e4da8429476a31c6d8dfbfe99" date="1602773222" />
 		<rom name="Beyond Shadowgate (USA).chd" size="188553758" crc="d7fc4229" md5="f2fd6e216c5e9442afc16d2e6caea15a" sha1="273c4a95cdc8b3b7659af88050eaa099e0d3449c" date="1602773244" />
-		<rom name="Bikini Girls (USA) (Unl).chd" size="3781700" crc="8a046259" md5="b308c7e39bb8f35cc298172186264fdc" sha1="d2924bdbf477e4a9aacc0523faab687192194b92" date="1648822670" />
+		<rom name="Bikini Girls (USA) (Unl).chd" size="3781700" crc="8a046259" md5="b308c7e39bb8f35cc298172186264fdc" sha1="d2924bdbf477e4a9aacc0523faab687192194b92" date="1649476147" />
 		<rom name="Bonk III - Bonk's Big Adventure (USA).chd" size="372077994" crc="cfbeea1f" md5="5fc7b7415844291516b6ea6593c7493f" sha1="d53a2d17ee6730254890a68e46bc2294940ed8c7" date="1602773276" />
 		<rom name="Buster Bros. (USA).chd" size="136037557" crc="3b08a23a" md5="75c043cb60cc704e477442e346de917c" sha1="cac44daf6539c7db1ec8f70c523a1bc02f42b0a5" date="1602773293" />
 		<rom name="Camp California (USA).chd" size="356513465" crc="c21fc0cd" md5="471d5a46260d96a2957cbc370d5a6f5c" sha1="a9355214ea2350516dcf5c7c28977f67a8d2bcb9" date="1602773336" />

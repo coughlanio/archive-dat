@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-09</version>
-		<date>2022-04-09</date>
+		<version>2022-04-10</version>
+		<date>2022-04-10</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -8603,7 +8603,6 @@
 		<rom name="Action Replay 2 - Bonus PSone Codes! (USA) (Disc 2) (Unl).chd" size="4112513" crc="d8dae632" md5="c3c5cfe306df706bb0e85bfe0eee18e7" sha1="9d440399cc05342571248447e4b5f006d79358ab" date="1634130571" />
 		<rom name="Action Replay 2 - Bonus PSone Codes! (USA) (En,Fr,Es,Pt) (Disc 2) (Unl) (Rev 1).chd" size="1414986" crc="f5920b23" md5="2d0dda92d3d43b63b5f3b7ca1a8d2757" sha1="a69cab79308bb164517d84ae7eb1a684117d6fbd" date="1634130574" />
 		<rom name="Action Replay 2 V2 - Bonus PSone Codes (USA) (Disc 2) (Unl).chd" size="8040711" crc="ab8786cd" md5="a1235adae1c6baef88a7262bb41dbe29" sha1="7fc326529d563dc1b6109a3b8f0d04afc6cb3f5c" date="1634130578" />
-		<rom name="Action Replay 2 Version 2.30 (USA) (En,Fr,Es,Pt) (Disc 2) (Bonus PSone Codes!) (Unl).chd" size="1414986" crc="f5920b23" md5="2d0dda92d3d43b63b5f3b7ca1a8d2757" sha1="a69cab79308bb164517d84ae7eb1a684117d6fbd" date="1615761427" />
 		<rom name="Action Replay for PSX &amp; PSone (USA) (Unl).chd" size="1414845" crc="aff98722" md5="9b8356ca5364a5c2a0b8bab716ba865a" sha1="786c46a2c52d2fad5da38bd823457cb07fbf9ae9" date="1602970373" />
 		<rom name="Action Replay Ultimate Codes for Final Fantasy Compilation Pack (USA) (Unl).chd" size="705606" crc="eb0d3da5" md5="b1713aa5df3a976df88fd6ddc63954a8" sha1="f0a5ec078295a02489a79c7625ebfbb9553bb38d" date="1600787468" />
 		<rom name="Activision Classics (USA).chd" size="51018837" crc="af05f178" md5="a7b1e2f844826a602088b49c6d680fa2" sha1="f4de9764beb2873d42a9f4b087551df76e0ba0bc" date="1600787476" />
@@ -8639,7 +8638,6 @@
 		<rom name="Andretti Racing (USA).chd" size="496519504" crc="1acf85b6" md5="f430ca9378c20357c272dcc6333a1121" sha1="9550d9169a29064177c57a11c9653b4b9b0375ea" date="1600797371" />
 		<rom name="Animaniacs - Ten Pin Alley (USA).chd" size="124894753" crc="5fa09e66" md5="82b6f1f2cee51625f6dd686e5ce01e04" sha1="317638649293663b400a3989f43f52b8fd7d7608" date="1600798011" />
 		<rom name="Animorphs - Shattered Reality (USA).chd" size="204659219" crc="6ff345c9" md5="60bbab7d810447d7668953c917d9dae8" sha1="0f202547574a2e556f61ee09a5e41da33eaaaeea" date="1600798211" />
-		<rom name="Ape Escape (USA) (Demo 1) (EDC).chd" size="36202973" crc="cd9a432d" md5="675e5455e91c204cd4faf6d8301c6812" sha1="06a01b2210fab5ef29382fef22f608b6336f7b24" date="1600799110" />
 		<rom name="Ape Escape (USA) (Demo 1).chd" size="36202973" crc="cd9a432d" md5="675e5455e91c204cd4faf6d8301c6812" sha1="06a01b2210fab5ef29382fef22f608b6336f7b24" date="1615761443" />
 		<rom name="Ape Escape (USA) (Demo 2) (EDC).chd" size="43642935" crc="4865d8aa" md5="eaf08de656373f9fc56dbfbb69007303" sha1="91c9649f1e62286f445333b234c74b90d6768876" date="1600799118" />
 		<rom name="Ape Escape (USA) (Demo 2).chd" size="43590207" crc="a7695fc2" md5="6f80f8dc7e23a0276b26c43dc3237b7e" sha1="727b0aeebfbc2368764cd433a4847bdb007fbe6b" date="1600799128" />
@@ -9173,8 +9171,6 @@
 		<rom name="Fox Hunt (USA) (Disc 1).chd" size="455587339" crc="0d1048c8" md5="bfb2ef54d6686c4e3187592dfd984cfb" sha1="1312494796b532495bf28df44c408788b1d74565" date="1601686041" />
 		<rom name="Fox Hunt (USA) (Disc 2).chd" size="483439872" crc="b0e5ba0a" md5="20de7e16b460704073661ff437271136" sha1="dd4fa0c49811f599ec9c1271d0759b06c29cdf85" date="1601686079" />
 		<rom name="Fox Hunt (USA) (Disc 3).chd" size="483347780" crc="534d44fa" md5="945d941faa491b7ea56238dfd7c42008" sha1="a6f73b6494a5c367a89fd92088dd104dfaa6a81e" date="1601686128" />
-		<rom name="FOX Sports Golf '99 (USA).chd" size="197941816" crc="4abb340c" md5="d746fcbffc6e9ba68eccc70f06a562c2" sha1="713b5a81fc66bec4edcd6d7b9ad03616b32e8aac" date="1601686145" />
-		<rom name="FOX Sports Soccer '99 (USA) (En,Es).chd" size="147728416" crc="b96c3b54" md5="0c17ad447b7181cc5032e674f647124b" sha1="bf94033903f53e08b56fa99e57b112cfe1fb2d3f" date="1601686163" />
 		<rom name="FoxKids.com - Micro Maniacs Racing (USA).chd" size="288538921" crc="9b38789d" md5="a5268778d3ce0f7382e3e353a3fdfc21" sha1="7a8738a74044ca76b1d18034e619a70019a0fd4b" date="1601686188" />
 		<rom name="Frank Thomas Big Hurt Baseball (USA).chd" size="96012817" crc="64c1ae11" md5="d4e4a20ba431c8e3fecf979eaf22cc63" sha1="812682c9d41d1c5ac735f4a1fba679a37f6783ec" date="1601686198" />
 		<rom name="Freestyle Boardin' '99 (USA).chd" size="327775486" crc="9689cd5e" md5="755e03f16976cb4bbd4e04ff007903d2" sha1="bcf0ad065a379ab99e0d4a15f75f1a86ddfa3d9f" date="1601686240" />
@@ -9182,7 +9178,6 @@
 		<rom name="Frogger 2 - Swampy's Revenge (USA).chd" size="196740003" crc="34fbddf8" md5="ba9406f70320c8b8cb76a7d55c6fe9fc" sha1="55f11aa254a9a08febeae1730b3cfd601bff53a8" date="1601686289" />
 		<rom name="Frogger (USA).chd" size="150501909" crc="21497288" md5="8acc182c16d26bc969f7d40429aac311" sha1="a107892f10740ba2619f37ce48ced0096f2fec80" date="1601686270" />
 		<rom name="Front Mission 3 (USA).chd" size="324719477" crc="a04e228e" md5="1824292e6113cdb9d78e5684ec60b168" sha1="2f6fba29feb448d3fd8cb939f96538a664317cd4" date="1601686316" />
-		<rom name="Fun + Learning (USA) (En,De,Es,It).chd" size="113893895" crc="ac257a10" md5="051dbf88cc917ca0221656f111d53f86" sha1="d510e5fa74e4ed0d5e1b596547a24cbed33a5c96" date="1601686328" />
 		<rom name="Future Cop - L.A.P.D. (USA) (Demo).chd" size="46477118" crc="bbdba52f" md5="dc847e11aa602954810466b04fde597c" sha1="b0052ec00d3bc87f13ee71a74383f2f2bd27018f" date="1601686340" />
 		<rom name="Future Cop - L.A.P.D. (USA).chd" size="247190006" crc="4b80aa21" md5="6b9357c25d059f897185dfb6f6c5007d" sha1="e3da447f9f3f7d7539ecfa2c2556da7e84a12a53" date="1601686368" />
 		<rom name="G-Police (USA) (Disc 1).chd" size="429871056" crc="6a528057" md5="b9336a1c493a75cf7f6b76136509d608" sha1="34a7f81ea522d9d214c0beaf9bfbd8e90c0215ca" date="1601686418" />
@@ -9200,8 +9195,6 @@
 		<rom name="Game of Life, The (USA).chd" size="337427928" crc="8ab97cb4" md5="0df6d10f1a69dd95f26f93cc7c12c022" sha1="eea63d273f9f83b13ec1d0e99c6181fa13ca3cda" date="1601686875" />
 		<rom name="GamePro Action Disc 1 (USA) (Unl).chd" size="345667411" crc="23f15882" md5="e99d9cd181d657c26eb2a260592cc7fe" sha1="26730230e6ba4e73d9631cd38db8d53cbe2caba9" date="1601686936" />
 		<rom name="GamePro Action Disc 2 (USA) (Unl).chd" size="404689016" crc="69adc55e" md5="e99b40500a8b30f4127e052d6cd4d3df" sha1="bb0907fb09f1fdda3c23aa97ded337bbb86d3f38" date="1601686974" />
-		<rom name="GameShark 2 - Video Game Enhancer - Code Archive Disc (USA) (Disc 2) (Unl) (Rev 1).chd" size="267810475" crc="e8888b32" md5="2f76491818d8dbcf3f33332636ef2ad4" sha1="b442a9bdeecfade7de38325b39c4b829a62301aa" date="1634132473" />
-		<rom name="GameShark 2 - Video Game Enhancer - Code Archive Disc (USA) (Disc 2) (Unl).chd" size="268541848" crc="f3aa3588" md5="1350cc70abc1917459e045b8f6af4e9e" sha1="a1cf43918b9cfb17f46233253b9999cf52f833da" date="1634132818" />
 		<rom name="GameShark 2 V2 - Video Game Enhancer - Code Archive Disc (USA) (En,Fr,Es,Pt) (Unl) (v1.0).chd" size="40852676" crc="fd3476ba" md5="db87c619b3107d1148fc1c9cda2681ee" sha1="783258165673ccfd704ac108520a813324d33e58" date="1634132835" />
 		<rom name="GameShark 2 Version 2 Code Archive Disc Version 1 (USA) (Unl).chd" size="40852676" crc="fd3476ba" md5="db87c619b3107d1148fc1c9cda2681ee" sha1="783258165673ccfd704ac108520a813324d33e58" date="1601687070" />
 		<rom name="GameShark - Metal Gear Solid 2 - Sons of Liberty (USA) (Disc 2) (Strategy in Action) (Unl).chd" size="501179884" crc="604aec8e" md5="ab4f94d1b35f1b8ddae8a6d6018f3eee" sha1="86f6fd27131a716bc2574cc1349f5e39fc152d93" date="1601687030" />
