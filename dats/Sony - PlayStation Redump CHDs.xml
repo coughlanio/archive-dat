@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-10</version>
-		<date>2022-04-10</date>
+		<version>2022-04-11</version>
+		<date>2022-04-11</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -9104,6 +9104,7 @@
 		<rom name="Fear Effect (USA) (Disc 2).chd" size="360286065" crc="3308455e" md5="0b7ee737dd22a286c714059a6f01f14a" sha1="662fe5d4c8ecddc96795efabc500747a1b09623a" date="1601677371" />
 		<rom name="Fear Effect (USA) (Disc 3).chd" size="304304087" crc="b85127ae" md5="558a220b5179ffdc716a5acef94c9be5" sha1="f4762edc29b91f601f75487465d3747721163ed9" date="1601677451" />
 		<rom name="Fear Effect (USA) (Disc 4).chd" size="330655123" crc="d46d5e7e" md5="78999d59019d7f4d9efe0260d472531f" sha1="5c2baceea6ce991a0aa28db383986ff61feb2bdb" date="1601677564" />
+		<rom name="Fear Factor (USA) (Beta).chd" size="134211705" crc="c43c01e2" md5="fff0c6d1681e25c6130e1ecc2f18ddc0" sha1="fd1456592410457e0e3377fbea46b8eddc14d781" date="1649599742" />
 		<rom name="Felony 11-79 (USA).chd" size="233255110" crc="84d9bef7" md5="de5ea9a20e16ee9f0f522560a237d15c" sha1="5ed1521764ca9d7ae8b09b5f73b5fa2b27a10fc6" date="1601678588" />
 		<rom name="FIFA 99 (USA).chd" size="448561316" crc="09767752" md5="e280cf5485ce8cbbe67664bd9da424fc" sha1="5bbc77fcb9f2970cd785415d3a4e79cb6a4b6671" date="1601678870" />
 		<rom name="FIFA 2000 - Major League Soccer (USA) (En,De,Es,Nl,Sv).chd" size="305924436" crc="7a585d72" md5="886e34ba72daf1e333d52bb14c5ad6ee" sha1="a5e3e015220e61887475fe2ad99213b51379cdc5" date="1601678736" />
@@ -9171,6 +9172,8 @@
 		<rom name="Fox Hunt (USA) (Disc 1).chd" size="455587339" crc="0d1048c8" md5="bfb2ef54d6686c4e3187592dfd984cfb" sha1="1312494796b532495bf28df44c408788b1d74565" date="1601686041" />
 		<rom name="Fox Hunt (USA) (Disc 2).chd" size="483439872" crc="b0e5ba0a" md5="20de7e16b460704073661ff437271136" sha1="dd4fa0c49811f599ec9c1271d0759b06c29cdf85" date="1601686079" />
 		<rom name="Fox Hunt (USA) (Disc 3).chd" size="483347780" crc="534d44fa" md5="945d941faa491b7ea56238dfd7c42008" sha1="a6f73b6494a5c367a89fd92088dd104dfaa6a81e" date="1601686128" />
+		<rom name="Fox Sports Golf '99 (USA).chd" size="197941816" crc="4abb340c" md5="d746fcbffc6e9ba68eccc70f06a562c2" sha1="713b5a81fc66bec4edcd6d7b9ad03616b32e8aac" date="1649619023" />
+		<rom name="Fox Sports Soccer '99 (USA) (En,Es).chd" size="147728416" crc="b96c3b54" md5="0c17ad447b7181cc5032e674f647124b" sha1="bf94033903f53e08b56fa99e57b112cfe1fb2d3f" date="1649619071" />
 		<rom name="FoxKids.com - Micro Maniacs Racing (USA).chd" size="288538921" crc="9b38789d" md5="a5268778d3ce0f7382e3e353a3fdfc21" sha1="7a8738a74044ca76b1d18034e619a70019a0fd4b" date="1601686188" />
 		<rom name="Frank Thomas Big Hurt Baseball (USA).chd" size="96012817" crc="64c1ae11" md5="d4e4a20ba431c8e3fecf979eaf22cc63" sha1="812682c9d41d1c5ac735f4a1fba679a37f6783ec" date="1601686198" />
 		<rom name="Freestyle Boardin' '99 (USA).chd" size="327775486" crc="9689cd5e" md5="755e03f16976cb4bbd4e04ff007903d2" sha1="bcf0ad065a379ab99e0d4a15f75f1a86ddfa3d9f" date="1601686240" />
@@ -9178,6 +9181,7 @@
 		<rom name="Frogger 2 - Swampy's Revenge (USA).chd" size="196740003" crc="34fbddf8" md5="ba9406f70320c8b8cb76a7d55c6fe9fc" sha1="55f11aa254a9a08febeae1730b3cfd601bff53a8" date="1601686289" />
 		<rom name="Frogger (USA).chd" size="150501909" crc="21497288" md5="8acc182c16d26bc969f7d40429aac311" sha1="a107892f10740ba2619f37ce48ced0096f2fec80" date="1601686270" />
 		<rom name="Front Mission 3 (USA).chd" size="324719477" crc="a04e228e" md5="1824292e6113cdb9d78e5684ec60b168" sha1="2f6fba29feb448d3fd8cb939f96538a664317cd4" date="1601686316" />
+		<rom name="Fun + Learning (USA) (En,De,Es,It) (Unl).chd" size="113893895" crc="ac257a10" md5="051dbf88cc917ca0221656f111d53f86" sha1="d510e5fa74e4ed0d5e1b596547a24cbed33a5c96" date="1649604375" />
 		<rom name="Future Cop - L.A.P.D. (USA) (Demo).chd" size="46477118" crc="bbdba52f" md5="dc847e11aa602954810466b04fde597c" sha1="b0052ec00d3bc87f13ee71a74383f2f2bd27018f" date="1601686340" />
 		<rom name="Future Cop - L.A.P.D. (USA).chd" size="247190006" crc="4b80aa21" md5="6b9357c25d059f897185dfb6f6c5007d" sha1="e3da447f9f3f7d7539ecfa2c2556da7e84a12a53" date="1601686368" />
 		<rom name="G-Police (USA) (Disc 1).chd" size="429871056" crc="6a528057" md5="b9336a1c493a75cf7f6b76136509d608" sha1="34a7f81ea522d9d214c0beaf9bfbd8e90c0215ca" date="1601686418" />
@@ -9195,8 +9199,6 @@
 		<rom name="Game of Life, The (USA).chd" size="337427928" crc="8ab97cb4" md5="0df6d10f1a69dd95f26f93cc7c12c022" sha1="eea63d273f9f83b13ec1d0e99c6181fa13ca3cda" date="1601686875" />
 		<rom name="GamePro Action Disc 1 (USA) (Unl).chd" size="345667411" crc="23f15882" md5="e99d9cd181d657c26eb2a260592cc7fe" sha1="26730230e6ba4e73d9631cd38db8d53cbe2caba9" date="1601686936" />
 		<rom name="GamePro Action Disc 2 (USA) (Unl).chd" size="404689016" crc="69adc55e" md5="e99b40500a8b30f4127e052d6cd4d3df" sha1="bb0907fb09f1fdda3c23aa97ded337bbb86d3f38" date="1601686974" />
-		<rom name="GameShark 2 V2 - Video Game Enhancer - Code Archive Disc (USA) (En,Fr,Es,Pt) (Unl) (v1.0).chd" size="40852676" crc="fd3476ba" md5="db87c619b3107d1148fc1c9cda2681ee" sha1="783258165673ccfd704ac108520a813324d33e58" date="1634132835" />
-		<rom name="GameShark 2 Version 2 Code Archive Disc Version 1 (USA) (Unl).chd" size="40852676" crc="fd3476ba" md5="db87c619b3107d1148fc1c9cda2681ee" sha1="783258165673ccfd704ac108520a813324d33e58" date="1601687070" />
 		<rom name="GameShark - Metal Gear Solid 2 - Sons of Liberty (USA) (Disc 2) (Strategy in Action) (Unl).chd" size="501179884" crc="604aec8e" md5="ab4f94d1b35f1b8ddae8a6d6018f3eee" sha1="86f6fd27131a716bc2574cc1349f5e39fc152d93" date="1601687030" />
 		<rom name="GameShark - Video Game Enhancer - Version 5 (USA) (Unl).chd" size="778582" crc="5b8bf7ae" md5="cb9e90dc6f7ef2da42ef3113e1aba159" sha1="438269d3a20e1517fe07031323a75bb10e801439" date="1634132404" />
 		<rom name="GameShark CDX (USA) (En,Fr,Es,Pt) (Unl) (v4.1).chd" size="40976124" crc="5c3dc651" md5="fdc013150a4effb61ed9193f78a14639" sha1="50894c8da2b1ff996082f57876759a546330e2cb" date="1634132854" />

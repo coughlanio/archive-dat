@@ -5,8 +5,8 @@
 		<name>NEC - PC Engine CD Redump CHDs</name>
 		<description>NEC - PC Engine CD Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-10</version>
-		<date>2022-04-10</date>
+		<version>2022-04-11</version>
+		<date>2022-04-11</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -214,6 +214,7 @@
 		<rom name="Kaze no Densetsu Xanadu (Japan) (Demo).chd" size="332532090" crc="44073107" md5="fe43ef9dc5b88210850c1caa0ae329a0" sha1="ae90c3354f5f89ae6a136b2d6ac082a6cd214d59" date="1602863583" />
 		<rom name="Kiaidan 00 (Japan).chd" size="328234655" crc="b596fcda" md5="ceb20cbff2eda58c3509ebccd35acd4e" sha1="34e3ea201cb984f58e66e26a633dc70415e8204c" date="1602863613" />
 		<rom name="Kick Boxing, The (Japan).chd" size="55949835" crc="4f55b64e" md5="276b84c441010ebf69f76e6b2d754d7c" sha1="6d2d85ebe7c316634a274c2410addd791b863ffd" date="1602863622" />
+		<rom name="Kisou Louga (Japan) (Demo).chd" size="262804126" crc="c0ffbf55" md5="cc8693f3b96a7160ba823648b27b7a43" sha1="919f0057018ee7b19065befad4811078854af70c" date="1649554359" />
 		<rom name="Kisou Louga (Japan) (FABT).chd" size="261606599" crc="d3698735" md5="c85ba2cd63908e2264a3a17822048922" sha1="c28569247d3d0fe33ce84841b11ffa6dc704c6b2" date="1602863653" />
 		<rom name="Kisou Louga II - The Ends of Shangrila (Japan).chd" size="269413727" crc="11f819ea" md5="9602339501b28cedf955f2d95f5b301e" sha1="46f15ff93f076587d23405eb31097b9e2ca5bc7e" date="1602863683" />
 		<rom name="KO Seiki Beast Sanjuushi - Gaia Fukkatsu - Kanketsu-hen (Japan).chd" size="300480481" crc="e6ebeac0" md5="f500faef9dab7edbbcb1c0e32cbf66fd" sha1="55cb2f1daa8c4287dbdbe12d809da8f43467bd9b" date="1602863714" />
@@ -229,6 +230,7 @@
 		<rom name="Last Armageddon (Japan) (Rev 6).chd" size="294878538" crc="4cfa0aeb" md5="5cd5446f5e16cb45292abe32c829e7af" sha1="e3f0b38dfa30fc1f6a8c96153575c5d72af05900" date="1602866069" />
 		<rom name="Legend of Xanadu - Kaze no Densetsu Xanadu (Japan).chd" size="360580914" crc="3cb78ae6" md5="0d75b07290a2901655ed66d24affc09e" sha1="d0b25fef4025186cf93b9ef6929fc604fb428f9c" date="1602866112" />
 		<rom name="Legend of Xanadu - Kaze no Densetsu Xanadu II (Japan).chd" size="290020960" crc="9a6e4b97" md5="a4c62dd64d479346bc23c487e8fe3cf5" sha1="4741237a50b1443f66ab3b34f85b5c738e5e883f" date="1602866158" />
+		<rom name="Legion (Japan) (Rev 4).chd" size="170508808" crc="27e9f30a" md5="38c10c26958cae32f78ef6e15a9f0805" sha1="cb1737069f73759d85e450e7cdc362b14ab3ee46" date="1649559169" />
 		<rom name="Legion (Japan).chd" size="170508808" crc="27e9f30a" md5="38c10c26958cae32f78ef6e15a9f0805" sha1="cb1737069f73759d85e450e7cdc362b14ab3ee46" date="1602866174" />
 		<rom name="Lemmings (Japan).chd" size="197844487" crc="0605c41d" md5="f1c7c5958c795daa16df522714e5c9ee" sha1="398c6d5f0d264710a5cbe8d94e667b50f569335c" date="1602866195" />
 		<rom name="Linda^3 (Japan) (Rev 1).chd" size="404184584" crc="7aa82d4d" md5="5e8a844166916bb2b82bce5fa208210f" sha1="2679a25252141f150573816d90ec08cb112d9be3" date="1602866253" />
