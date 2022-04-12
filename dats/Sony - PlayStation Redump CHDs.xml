@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-11</version>
-		<date>2022-04-11</date>
+		<version>2022-04-12</version>
+		<date>2022-04-12</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -9199,6 +9199,9 @@
 		<rom name="Game of Life, The (USA).chd" size="337427928" crc="8ab97cb4" md5="0df6d10f1a69dd95f26f93cc7c12c022" sha1="eea63d273f9f83b13ec1d0e99c6181fa13ca3cda" date="1601686875" />
 		<rom name="GamePro Action Disc 1 (USA) (Unl).chd" size="345667411" crc="23f15882" md5="e99d9cd181d657c26eb2a260592cc7fe" sha1="26730230e6ba4e73d9631cd38db8d53cbe2caba9" date="1601686936" />
 		<rom name="GamePro Action Disc 2 (USA) (Unl).chd" size="404689016" crc="69adc55e" md5="e99b40500a8b30f4127e052d6cd4d3df" sha1="bb0907fb09f1fdda3c23aa97ded337bbb86d3f38" date="1601686974" />
+		<rom name="GameShark 2 - Video Game Enhancer - Code Archive Disc (USA) (En,Fr,Es,Pt) (Unl) (Rev 2).chd" size="40852676" crc="fd3476ba" md5="db87c619b3107d1148fc1c9cda2681ee" sha1="783258165673ccfd704ac108520a813324d33e58" date="1649683040" />
+		<rom name="GameShark 2 - Video Game Enhancer - Code Archive Disc (USA) (Unl) (Rev 1).chd" size="267810475" crc="e8888b32" md5="2f76491818d8dbcf3f33332636ef2ad4" sha1="b442a9bdeecfade7de38325b39c4b829a62301aa" date="1649683134" />
+		<rom name="GameShark 2 - Video Game Enhancer - Code Archive Disc (USA) (Unl).chd" size="268541848" crc="f3aa3588" md5="1350cc70abc1917459e045b8f6af4e9e" sha1="a1cf43918b9cfb17f46233253b9999cf52f833da" date="1649683214" />
 		<rom name="GameShark - Metal Gear Solid 2 - Sons of Liberty (USA) (Disc 2) (Strategy in Action) (Unl).chd" size="501179884" crc="604aec8e" md5="ab4f94d1b35f1b8ddae8a6d6018f3eee" sha1="86f6fd27131a716bc2574cc1349f5e39fc152d93" date="1601687030" />
 		<rom name="GameShark - Video Game Enhancer - Version 5 (USA) (Unl).chd" size="778582" crc="5b8bf7ae" md5="cb9e90dc6f7ef2da42ef3113e1aba159" sha1="438269d3a20e1517fe07031323a75bb10e801439" date="1634132404" />
 		<rom name="GameShark CDX (USA) (En,Fr,Es,Pt) (Unl) (v4.1).chd" size="40976124" crc="5c3dc651" md5="fdc013150a4effb61ed9193f78a14639" sha1="50894c8da2b1ff996082f57876759a546330e2cb" date="1634132854" />
@@ -9414,6 +9417,7 @@
 		<rom name="Land Before Time, The - Return to the Great Valley (USA).chd" size="165555130" crc="5c32d21b" md5="abad87fa9529a121c9f623eb95a9bf08" sha1="85f0d3efca5e0e348379c5a96be787713437f6b5" date="1601666149" />
 		<rom name="Largo Winch - Commando SAR (USA).chd" size="125657044" crc="b4af938d" md5="38fc986f99bf15ebf98c4212db8a7a8b" sha1="25b233793b539c6f123a49e3b7ff9711358c8c29" date="1601666179" />
 		<rom name="Laser Clean (USA) (Unl).chd" size="2914910" crc="cc3ee3ba" md5="4a4e28a9c64deb6a6bf6ff58513333e5" sha1="34bd2a15c9845b05221fa2771653e7e927fb2235" date="1601742905" />
+		<rom name="Legacy of Kain - Soul Reaver (USA) (Beta).chd" size="236677395" crc="b45e898e" md5="3465bc599c5358281596c1585d58c309" sha1="a36c2bbca3dfae020e978832deb35739795237eb" date="1649683279" />
 		<rom name="Legacy of Kain - Soul Reaver (USA).chd" size="399165582" crc="140573e2" md5="b0147b73f27f3dae1d86accfb8cf8e25" sha1="1cfb3592bc799390060d6b46c604580616248b93" date="1601666287" />
 		<rom name="Legend of Dragoon, The (USA) (Disc 1).chd" size="232661825" crc="9f747793" md5="38865d4b1f2673305b0057d7c7a955eb" sha1="fefcf4f571caceab4f6898735bccd07d33df4cca" date="1601666324" />
 		<rom name="Legend of Dragoon, The (USA) (Disc 2).chd" size="263844579" crc="7418ac24" md5="ac2572e28cf2e5e501ae1caaa2eeac0b" sha1="2314dd77cace26e6409eff84903af294188fdcab" date="1601666377" />
@@ -9924,6 +9928,7 @@
 		<rom name="PlayStation Underground Volume 2.3 (USA) (Disc 1).chd" size="532026579" crc="7f377400" md5="9237cc628346d74deeb4c2d13484fa1b" sha1="0c8b1e05b8766bb76d600e484346015c3d788fb9" date="1601777591" />
 		<rom name="PlayStation Underground Volume 2.3 (USA) (Disc 2).chd" size="397405432" crc="7dcee03f" md5="937298f2ab8c6a8acc4fc50925ce5ce2" sha1="c8eae7bb32167e349255a0d636833486fde96a5f" date="1601777624" />
 		<rom name="PlayStation-Pepsi Sampler Disc (USA).chd" size="113912638" crc="2b9b2b2a" md5="8ed00c4bcb9605411a9c579ac8b139bc" sha1="333539f2a24af2f23fc85d279ad34af3a964f388" date="1601605169" />
+		<rom name="PO'ed (USA) (Beta).chd" size="14821575" crc="9ce9ce98" md5="8832629e38c6e2b0ebb1ead1234f4bfa" sha1="cf5286f4b5a8387d4cedde671a0eb690b0085ed2" date="1649683287" />
 		<rom name="PO'ed (USA).chd" size="41184833" crc="d6e0385d" md5="e34ed143a36d3e3b2453945c3bebc32a" sha1="9d849f5f83ec5c6405aa2a1cd384f2accd21d3e3" date="1601605192" />
 		<rom name="Pocket Fighter (USA).chd" size="157333641" crc="68538313" md5="aa29bf56a349a17e6f068b8b017da803" sha1="2ce98caaf54bfdfd2094a6a8a96e8f36778888df" date="1601605223" />
 		<rom name="Point Blank 2 (USA).chd" size="235665521" crc="8aeeb5c7" md5="68544c7b0387afd5a6d93687cb882353" sha1="4effe12435631f10be99d5fb3f27dcb2eff39b48" date="1601605321" />
@@ -10187,6 +10192,8 @@
 		<rom name="Spyro - Year of the Dragon (USA) (Demo).chd" size="23897609" crc="3a0840ce" md5="c9f24b15ae3bf0f7aa931f8c34f0a57e" sha1="15557413333048eca523f86f7f905bea795142fb" date="1601572996" />
 		<rom name="Spyro - Year of the Dragon (USA) (Rev 1).chd" size="405657729" crc="1101edfc" md5="2019671dfca89b72221a69c99bba00dd" sha1="003b8eec08589da04a8cd83a2b9317d58477f9fe" date="1601573051" />
 		<rom name="Spyro - Year of the Dragon (USA).chd" size="349591846" crc="6f28f3fd" md5="dbeed097ef839ca33b37b4e3f590d7ea" sha1="5d15ed2a761d023d391e46e24464631662930638" date="1601573082" />
+		<rom name="Spyro the Dragon (USA) (Beta) (1998-06-15).chd" size="241106794" crc="08fda086" md5="a262f367d0754b853d5289760e8426b7" sha1="97b951dd74e1195086972be3cf767143342b8919" date="1649691616" />
+		<rom name="Spyro the Dragon (USA) (Beta) (1998-07-18).chd" size="282448205" crc="7b0a94cb" md5="fdcd06f4220fa7b6538e3c0714b27df3" sha1="9bae8c6f7825d05114a6389a44ceda903c1006c9" date="1649711903" />
 		<rom name="Spyro the Dragon (USA) (Demo 1).chd" size="34178604" crc="6c8f48ae" md5="b9c8139a6453d5c0084c34547f440ecc" sha1="27a5a8ec775b6869276327d51d5b5fdee284fb81" date="1601573159" />
 		<rom name="Spyro the Dragon (USA) (Demo 2).chd" size="52026886" crc="b464f111" md5="60998a42b57c89685d1709830938d2d1" sha1="2dd09d82675a64d51175275104c5e4c9efeca5cf" date="1601573168" />
 		<rom name="Spyro the Dragon (USA).chd" size="351701780" crc="a46b22d6" md5="916479df840e2a922818f18001fbc2c4" sha1="e38da3aa01c273def470d4c3325dc676741d6d1e" date="1601573200" />
