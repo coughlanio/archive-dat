@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-12</version>
-		<date>2022-04-12</date>
+		<version>2022-04-13</version>
+		<date>2022-04-13</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -131,9 +131,10 @@
 		<rom name="Asterix &amp; Obelix Take On Caesar (Europe) (Es,Sv,No).chd" size="449698858" crc="16be3606" md5="fea05915e0b5857e93eb19c1ec847e8a" sha1="0351d774e79b2f1a2d1433594686b9e8e8984ef7" date="1602244939" />
 		<rom name="Asterix &amp; Obelix Take On Caesar (Europe) (Fr,De,Nl).chd" size="485143979" crc="4908813f" md5="10868a5d1f5863bf72a328e06b31b411" sha1="ddd68e6c5ab84fe5249354d8c2eb6386c96eae1e" date="1602244982" />
 		<rom name="Asterix &amp; Obelix Take On Caesar (Europe).chd" size="277693832" crc="f95668fe" md5="85793b7f12536f7c514f774098cd365a" sha1="af464b9e607d34a7fe6b577d6e14dffed5dd8201" date="1602245004" />
-		<rom name="Asterix (Europe) (De,Es,It).chd" size="427940114" crc="430abb45" md5="3fb2e4206faf284c8372c4ebc3631f31" sha1="7fdee73b20e80435f0604ca6e218b78108840e42" date="1602245036" />
+		<rom name="Asterix (Europe) (De,Es,It) (Rev 1).chd" size="427940114" crc="430abb45" md5="3fb2e4206faf284c8372c4ebc3631f31" sha1="7fdee73b20e80435f0604ca6e218b78108840e42" date="1649772314" />
 		<rom name="Asterix (Europe) (En,Fr,De,Nl).chd" size="425274957" crc="5b60b10c" md5="b7f770314401d809e165907177b1aae0" sha1="b9bba889d0a3a3743f32ea8240e0956ff8df2579" date="1602245076" />
 		<rom name="Asterix (Europe) (En,Fr,Es,It).chd" size="424310644" crc="5d920d19" md5="2d8b3523b54897a02515a10ad6d2b6ef" sha1="bc9668730eaaab34a9c9229239f64035404b2ce0" date="1602245120" />
+		<rom name="Asterix (Europe) (En,Fr,Nl) (Rev 1).chd" size="429582191" crc="2284857c" md5="5ec69f67ff7fc13f0762146ee0b6e62a" sha1="928aebcb9099edcfd906d61a3a33d984470b990e" date="1649772455" />
 		<rom name="Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl) (Demo).chd" size="171018769" crc="4506271b" md5="2f226970c4a0fe1e810efebc91884697" sha1="46e709da998046c5c1dbce84ab1d2427ac57609a" date="1602245158" />
 		<rom name="Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl).chd" size="445135680" crc="36a1c128" md5="5ede9656107ed671cb2a119ed83b14d5" sha1="8f43be4f35ee0c5de943fa2c762b946919d1bbfe" date="1602245237" />
 		<rom name="Asteroids (Europe).chd" size="58858903" crc="3623d4a0" md5="430d373bf507f9282d79af97de23382c" sha1="182c3fb24f051c4e212a7a94f0752781ca82b7c3" date="1602245248" />
@@ -459,6 +460,7 @@
 		<rom name="Disney's 102 Dalmatians - Puppies to the Rescue (Europe).chd" size="79292120" crc="d28f5bb7" md5="5de8697db0bd7c2b2d76b1b4b04d6435" sha1="71a371d5c09136f3f925e7b7d512f33de4ea9d7d" date="1602595111" />
 		<rom name="Disney's Action Game featuring Hercules (Europe).chd" size="217174075" crc="e8f8d878" md5="c932ea6b6a9532632bf0615c17c70bbc" sha1="7a77633e1b48a51ba0bd6877a6c4e12f6cd00ccc" date="1602595136" />
 		<rom name="Disney's Aladdin in Nasira's Revenge (Europe).chd" size="396851556" crc="f73cbd97" md5="338f953623373618bb3b35762be8b11c" sha1="a2f9981e82d422df3075477076a2ba199e19949d" date="1602595174" />
+		<rom name="Disney's Atlantis - The Lost Empire (Europe) (Beta).chd" size="200298523" crc="c0c10ec7" md5="bb53bb059657be7dd59a9d476ca6d36a" sha1="f075adc779a2e6e8040a3194bd460403fa8fb6d0" date="1649793669" />
 		<rom name="Disney's Atlantis - The Lost Empire (Europe).chd" size="200298527" crc="d4503f5e" md5="3db4f73ab86688f194ddef59bb5f55f5" sha1="5b1136af6e7f0e9cfa446252191ceeb7f7c48b15" date="1602595195" />
 		<rom name="Disney's Dinosaur (Europe) (En,Nl,Sv,No,Da,Fi).chd" size="340671503" crc="21765b8d" md5="a61dd8a975d033f9bb6d559f9bb58798" sha1="b63697712b599b02671e59c8d153c847aeb26a0f" date="1602595226" />
 		<rom name="Disney's Donald Duck - Quack Attack (Europe) (En,Fr,De,It).chd" size="444021182" crc="10c02d34" md5="a50fa0d552741dbcd1eef7989b2b8776" sha1="b0a7b22cf42964152091713f2b98a2217e080c8e" date="1602595261" />
@@ -1391,6 +1393,7 @@
 		<rom name="PO'ed (Europe) (En,Fr,De,Es,It).chd" size="52379594" crc="84dcfcbe" md5="ae047db075bd4a9d24165b5a765435e7" sha1="b587a9501a27dc086926d1b066bb32fd6301d723" date="1604339925" />
 		<rom name="Pocket Fighter (Europe).chd" size="157369706" crc="b3d58cf1" md5="a8592ce557fc2cd166c803812ec0d0df" sha1="c3306025089a38f2a92c7a08352461d39f5fe8d4" date="1604339976" />
 		<rom name="Point Blank 2 (Europe, Australia) (En,Fr,De,Es,It).chd" size="252784286" crc="e9600b16" md5="19035e6cfdc8ee5a239c88a3ec19c90e" sha1="af3137d8e09e21a1ae303697fa4942a582375f5f" date="1604340229" />
+		<rom name="Point Blank 3 (Europe) (En,Fr,De,Es,It) (Beta).chd" size="176018314" crc="b6772f6d" md5="f279ebfa2912cd97c27aa3b99a845a35" sha1="a3f884e8749bfe6591bb32496b41060162a3c83a" date="1649793741" />
 		<rom name="Point Blank 3 (Europe) (En,Fr,De,Es,It).chd" size="174511051" crc="4d1f2a68" md5="a77a4c96f2a010b1943b30e38ddcf91d" sha1="c1e32c3d0096e9b7010032db4205ec5767f7c035" date="1604340301" />
 		<rom name="Point Blank (Europe) (Demo).chd" size="148530482" crc="51a5951c" md5="c80c3d7b8e414184f5d097a3d737986c" sha1="8960602238a329426700ec622486accbbbdf36d7" date="1604340029" />
 		<rom name="Point Blank (Europe) (En,Fr,De) (Rev 1).chd" size="170492528" crc="098df1ec" md5="8efb57d4ac70197aa6917dc1ce568672" sha1="4c86f4f1f8b8d09184c3ea036dd1ad9b5bd379e8" date="1604340078" />
@@ -1504,12 +1507,10 @@
 		<rom name="Reel Fishing (Europe).chd" size="136767408" crc="fd15d946" md5="2c0d0de7efda0a8c9f7fbae7babd89e4" sha1="26d904d5c28a71e1ec60a2055545c7b4fdd3d6d2" date="1604453440" />
 		<rom name="Reel Fishing II (Europe) (En,De) (Beta).chd" size="254635367" crc="3524ff45" md5="c362e4d680e51105b104337f677e81de" sha1="8bdca8ce1f6343cc1733aa3eccb68733c664f33b" date="1634153438" />
 		<rom name="Reel Fishing II (Europe) (En,De).chd" size="254635382" crc="78514f46" md5="962c2073d08b561926c1729b5cf88bd0" sha1="85abb8ac96f51942a1473236a90aabc11f4be90d" date="1604453486" />
-		<rom name="Registered Users Demo 02 (Europe).chd" size="200648690" crc="6b61c23b" md5="657c5a84fe01f8381286833d29138d57" sha1="c3bb711e773c5ad61e4ce45fbda639b08764bb2e" date="1604453577" />
 		<rom name="Registered Users Demo 03 (Europe).chd" size="208757206" crc="c72faf10" md5="a343a1b5468a2a90c631d254d783f1fc" sha1="653a43067745ee60efb4457c490755f7ca833642" date="1604453617" />
 		<rom name="Registered Users Demo 05 (Europe) (En,Fr,De,Es,It).chd" size="262591321" crc="e23c22e9" md5="ac066d6e6cac2021c3f4ede2aa574c59" sha1="f7c88cf613807b86307f82d978fc3efc6e7f240e" date="1604453688" />
 		<rom name="Registered Users Demo 06 (Europe).chd" size="318099042" crc="5f9f8d19" md5="f42531a010b6eccb00d26a66efa968a7" sha1="c46e6f7c9c4ff121db7a10b847c424e29fde975c" date="1604454784" />
 		<rom name="Registered Users Demo 08 (Europe).chd" size="302486614" crc="c0fc05b6" md5="cb8c401111b386b3ef37e5ffc093e0ef" sha1="aa5013269a1e9a9ea3e4712a173c90ba3726de78" date="1604454872" />
-		<rom name="Registered Users Demo (Europe).chd" size="295378094" crc="f14fc0e6" md5="3ad97806cfae4497c0be7cdaf3fad870" sha1="2a9a1478699711b5084ef9872b97948fe8d26afd" date="1604453544" />
 		<rom name="Registration Demo 01 (Europe).chd" size="289028388" crc="3a4491ca" md5="6b9dc966d4a096f576a9c1c141be7607" sha1="65f1d93b6309e2d588c808912a22261cb78d88cf" date="1604454946" />
 		<rom name="Renegade Racers (Europe).chd" size="296617327" crc="300f2083" md5="8093dd128eaa21e05b0143c85b31cf3d" sha1="be4c76bd4ef443f3c3e1d2a580d93154f1ba99fd" date="1604455013" />
 		<rom name="Rescue Heroes - Molten Menace (Europe).chd" size="271467916" crc="b44e841b" md5="90246436a3a8bca650e48d15bf3e8c78" sha1="34533d3b20dfaffaa00d4f5a6271053f0125c0bd" date="1604455062" />
@@ -1840,10 +1841,7 @@
 		<rom name="Tomb Raider III - Adventures of Lara Croft (Europe) (Rev 1).chd" size="385874311" crc="d1286133" md5="e3c595bd743bb762f5dd521ce253e38d" sha1="a170bd7e2303d322206bdd3b4f1efd22ecb395db" date="1615768751" />
 		<rom name="Tomb Raider III - Adventures of Lara Croft (Europe).chd" size="385451307" crc="8f182590" md5="60da44149b4ac374cf81162b42f09100" sha1="b8de17866ab0ebc3c0953ae12385800da8ffa2a7" date="1606247913" />
 		<rom name="Tomb Raider Trilogy - Demo Disc (Europe).chd" size="97364949" crc="46971a7c" md5="b25379f2298dbb0823e2e75adfd68dfc" sha1="bf0f771eaef35d3b8265b357c0ac1f4c2bed49bf" date="1606247942" />
-		<rom name="Tombi (Europe) (En,Es,Pt,Sv,Da) (Beta).chd" size="253987261" crc="25a8b919" md5="5aa9e758ca80ffddfe3a36b99bea43d1" sha1="d167056d5d2e248022bc5acf4b0787bccd5db105" date="1615768823" />
 		<rom name="Tombi! 2 (Europe).chd" size="191797396" crc="3c96fd26" md5="0c0d76899c056d3d3d928e1c5211a936" sha1="73c7add7f3b3a44ea7652e7eed0766980fea0091" date="1606248138" />
-		<rom name="Tombi! (Europe) (En,Es,Pt,Sv,Da).chd" size="253843638" crc="459c2a58" md5="92cfac63017a857e5a39ce85b5f12f28" sha1="a78f9f0d1a39e161d8f519e4b0172c19a4d3c5f5" date="1606248011" />
-		<rom name="Tombi! (Europe) (En,Fr,De,It,Nl).chd" size="253223035" crc="14921cf9" md5="c28a6be3fe4b4681f9104d2cb6d2cd16" sha1="061b5924f25f6eac94a7a90bbf341ac8f65007e7" date="1606248089" />
 		<rom name="Tommi Maekinen Rally (Europe) (En,Fr,De,Es,Fi) (Demo).chd" size="76373796" crc="dcdb308b" md5="c9a36e9d605f392e153801375640e6b3" sha1="8044644243a92a8ab398f639c7ead4762d941246" date="1606248164" />
 		<rom name="Tommi Maekinen Rally (Europe) (En,Fr,De,Es,Fi).chd" size="366268721" crc="f3b3d503" md5="82ae54c381ea405f907d8293b0c88706" sha1="0ec76d52d3e6a21c26f79167c7988c20a1704136" date="1606248251" />
 		<rom name="Tony Hawk's Pro Skater 2 (Europe) (Demo).chd" size="20750761" crc="8498041b" md5="ba40bf75499ad00c5b1ed86d2f26dd48" sha1="19814031d90ab3267681a888d59e749c293d5edd" date="1606248261" />
@@ -7658,7 +7656,6 @@
 		<rom name="GameGenius Ver. 5.0 (Taiwan) (En,Zh) (Unl).chd" size="368099" crc="a8aa3695" md5="c92ec32ebaaf7b4e4388fa442b3d776d" sha1="b125102da3bfb6e31b74e20181ccf436d766ef8b" date="1603577956" />
 		<rom name="Gauntlet Legends (France).chd" size="394743682" crc="54489e31" md5="1d911d7bdb108c46c19b4c29949fc645" sha1="32e0dff1fed72a4afbbe8351c5c33374451c42ae" date="1603578051" />
 		<rom name="Gauntlet Legends (Germany).chd" size="394941528" crc="89fcff77" md5="da6e65edd46813451aac54c3d354524b" sha1="2e12645b0f32f46559b19c0f3d3e5e0e83139ea2" date="1603578142" />
-		<rom name="Gensou Suikoden II (Asia) (Demo).chd" size="92093913" crc="48cd4645" md5="667052728377df15998ef1ea0e3a31f5" sha1="d293dff7fe4d36ccb52f11ebd516b1f8df383761" date="1603578184" />
 		<rom name="Germany Speziale 11-99 (Germany).chd" size="341094597" crc="c3e13713" md5="be38e652f53f5fbecd4a93c52d27f850" sha1="78979e3f02893f5138eef525fe8e8f4d5a986bce" date="1603578264" />
 		<rom name="Ghost in the Shell (France).chd" size="411834485" crc="21948a7e" md5="23d4a92607bd364fdbd07bce4c78fefe" sha1="4556626c46ee8d74f9e098b24853d08f50d0fcbc" date="1603578370" />
 		<rom name="Ghost in the Shell (Germany).chd" size="411743828" crc="6647f0e5" md5="53994295553a2664fcb62e4eb400f518" sha1="d5ceef35de9e98814cc815757647eb5834485f8f" date="1603578452" />
@@ -7804,7 +7801,6 @@
 		<rom name="Kurushi Final (Spain).chd" size="312512327" crc="9ecaaecb" md5="9c20c4a4f04139f27dc108abc7c8ee06" sha1="43ed729b2ca2acb81d8ed78822fc6ecef546d628" date="1603644795" />
 		<rom name="L'ile LEGO 2 - La Revanche de Cassbrik (France).chd" size="154504263" crc="1fc91e8c" md5="5401e2384fb7d843e228ee619c41167d" sha1="c6076a03ba6b7fdc3db5283f6fa864f30fa77b5c" date="1603644835" />
 		<rom name="Largo Winch - Commando SAR (France).chd" size="125435588" crc="09793e66" md5="6f6feff7c8cb13eb381652fd25e3a8c9" sha1="c5bbe1d4cd6882310b99881efee11f429d75d97e" date="1603644855" />
-		<rom name="Le Monde Des Bleus 2 (France) (Demo).chd" size="48069596" crc="55431a26" md5="21b9cb8e80aaf066b815792b61f182f4" sha1="783cae53df82e1db7d837d803d227e9c1ac8565a" date="1603644876" />
 		<rom name="Legacy of Kain - Soul Reaver (France).chd" size="394522080" crc="3f3671a2" md5="56822626fcfa00cdc40f934bb0632294" sha1="ea8c4ec4e5d7abc1ba356bf0a942e78a5247a349" date="1603644946" />
 		<rom name="Legacy of Kain - Soul Reaver (Germany).chd" size="404389056" crc="7ec562e5" md5="9f302dfa8b810d63a3710d95403e860f" sha1="dcdac0f4dcc9a558dd715b7d45fa64044797ec1e" date="1603645032" />
 		<rom name="Legacy of Kain - Soul Reaver (Italy).chd" size="400205585" crc="045f12ae" md5="91d8834475ec4b99310ec99decaa22c5" sha1="77480b0527383d90131ad5504462d8289ce59305" date="1603645100" />
@@ -7904,8 +7900,6 @@
 		<rom name="Men in Black - The Series - Crashdown (Italy).chd" size="429422682" crc="317537b5" md5="d8aff921a6b51155e6bf3118cf82505a" sha1="f9b2b2d9d4845682377ec70b5a3d026e03ecfa52" date="1603990019" />
 		<rom name="Men in Black - The Series - Crashdown (Spain).chd" size="427789240" crc="321974c4" md5="08398dcd566d0ca95f37e3b1930a809b" sha1="8944edfb54d353e5ba9e51ad63b5a92f0641239c" date="1603990104" />
 		<rom name="Metal Gear Solid (Asia) (Demo).chd" size="190873802" crc="d2a5b040" md5="4642e97c2ba5cb46a74492e3dab1ad96" sha1="9a0296fbfa55008d1e4903ceafc2b80633f0d6ec" date="1603990142" />
-		<rom name="Metal Gear Solid (Asia) (Disc 1).chd" size="413782332" crc="d069bfa5" md5="ab3bb330fdde37d12720f2a245d20bd5" sha1="f47fbcc9cff72b9e403526a02934e92a647a6c3f" date="1603990234" />
-		<rom name="Metal Gear Solid (Asia) (Disc 2).chd" size="378637658" crc="b6c8d2b9" md5="8d7f829513cbeb55f2ae87abd2cabc98" sha1="32106bc7c90f512cbc4bed0d8a9065c20e5e4ee0" date="1603990342" />
 		<rom name="Metal Gear Solid (France) (Disc 1).chd" size="390990466" crc="c534aee3" md5="ebe44e9ec5cf52d7c59768d06e918a75" sha1="864e1a0bc639ab77b06e30514a89d5434efef874" date="1603990423" />
 		<rom name="Metal Gear Solid (France) (Disc 2).chd" size="360163282" crc="1aeae5ff" md5="d725d291bf6588febc253912ab3b3360" sha1="b916aa8ec761a019bd3c97e25ea2cac3f9f77003" date="1603990487" />
 		<rom name="Metal Gear Solid (Germany) (Disc 1).chd" size="393907324" crc="921e1a2b" md5="5550101f9b32d320c301869afd8e7cf3" sha1="739b24e6a6737453535cb572573565a56c95db7e" date="1603990564" />
@@ -8297,7 +8291,6 @@
 		<rom name="Star Wars - Rebel Assault II - The Hidden Empire (Italy) (Disc 2).chd" size="464259891" crc="12db4928" md5="705315e84d8e09f574862ec57042629a" sha1="8f12ac2230c78e93529a45739db522b1851bb24f" date="1606613554" />
 		<rom name="Star Wars - Rebel Assault II - The Hidden Empire (Spain) (Disc 1).chd" size="452847156" crc="60c39a3f" md5="7389887b2021b8ade6b975ce46fd6701" sha1="b04db8fbbeff1e5fa404bbb29e10e2621dd3fa40" date="1606613631" />
 		<rom name="Star Wars - Rebel Assault II - The Hidden Empire (Spain) (Disc 2).chd" size="464212199" crc="aada0fd6" md5="eb41117d15cb46cceae30af24062f257" sha1="433f42c48b4bdaab20a28a82152dd7e98d7448e8" date="1606613692" />
-		<rom name="StationMaster 4-2001 Xploder (Germany) (En,De) (Unl).chd" size="418710" crc="b75fded0" md5="0c1afda1f21604a198142d8e2b04952a" sha1="735ceaed3357ec7cb5b6e552127fbf7932d5553e" date="1606613698" />
 		<rom name="Strategie Speziale '98 (Germany).chd" size="319002965" crc="88f8cd4a" md5="6d6c567ae651e4b6d7d549b6ea7175fb" sha1="1c346e7b3ce2ee13df89e349f4547d759582723c" date="1606613729" />
 		<rom name="Strikers 1945 II (Korea).chd" size="191179924" crc="ab012e00" md5="c3ce0b5186cd1c204925027a20792531" sha1="2268c38b1f145d76c89c8c424279f58132f66029" date="1606613752" />
 		<rom name="Stuart Little 2 (Denmark).chd" size="405397369" crc="55003d4c" md5="6d7414bb02a2957676f12494f12b4660" sha1="35d07d34028093cb614bfbdf417f736a4bfa07a3" date="1606613796" />
@@ -8559,7 +8552,6 @@
 		<rom name="Xenocracy - The Ultimate Solar War (Germany).chd" size="480829361" crc="bf3f4873" md5="d19d28fd18c120b66e2d2f01402eeceb" sha1="9ebb1847bae6e0df439f7e65a56dcd873b52cdbe" date="1602760963" />
 		<rom name="Xenocracy - The Ultimate Solar War (Italy).chd" size="504458471" crc="0ea89c2b" md5="9d3026201fa20290860f55b0321424b8" sha1="3d57f725ae4700a5d2b17656002ad1f9846141e7" date="1602943375" />
 		<rom name="Xenocracy - The Ultimate Solar War (Spain).chd" size="508840356" crc="90057b90" md5="9b014dc863cd3481f6a45803102b1314" sha1="c7bd798f9d48dbdb7593bed96eb6124f7bc353a4" date="1602943511" />
-		<rom name="Xploder CD9000 (Germany) (Demo) (Unl).chd" size="336132" crc="28e119f5" md5="5dde5b26a4304efbd67f3622b68d9b77" sha1="48443ad7e1eba63b0e2d679429993cf1526978f1" date="1603036924" />
 		<rom name="Xploder CD9000 Directors Cut (Germany) (Unl).chd" size="1646864" crc="d52862c8" md5="b81d5c2078013e47487a9923a30d872d" sha1="6b9aed65f4d8de29711a555a40ce88d69e1904f7" date="1603036928" />
 		<rom name="Xploder CD9000 Version 2.0 (Germany) (En,Fr,De,It) (Unl).chd" size="474208" crc="3f4e0a03" md5="e47674326c9791591f701f6a34558b6c" sha1="08f3394e8eae0cb86f12619e1654dfeb9c190629" date="1603036936" />
 		<rom name="You Don't Know Jack (Germany).chd" size="328112520" crc="32aca0fb" md5="8fd345fefc325c208d4793dedfcc46e4" sha1="03e1f4a3e7eca6844bac5e114a365ee19219f7c1" date="1602005374" />
@@ -10442,6 +10434,7 @@
 		<rom name="Unknown Variable 1 - Masque Manor (USA).chd" size="277116888" crc="8d30a6d7" md5="3fa7edc1ecfde792df4abcd9a4c66fdf" sha1="6bdf8d5f47c018199beb71ebb3fb84d9f267a8d2" date="1601516876" />
 		<rom name="Unknown Variable 2 - Raven's Ridge (USA).chd" size="311226199" crc="4f65136a" md5="d588d3ffaff1b056bf98aff572a130f9" sha1="60421a8680fb2c770ca6a082f15d39dc454837d1" date="1601516913" />
 		<rom name="Uprising X (USA).chd" size="346405722" crc="6edab1f2" md5="796cc163f5884dff2f6a2253586987b4" sha1="b2093d83bb5a64975ae634ad7a40e1f562bc24d4" date="1601516945" />
+		<rom name="Urban Chaos (USA) (Beta).chd" size="233632791" crc="e30f2fc4" md5="c01106031c7e69bc7943ca8bb399e5fa" sha1="32c122ae537f6a666daf9b999b0efd01d8e2072e" date="1649721176" />
 		<rom name="Urban Chaos (USA).chd" size="284392237" crc="81cf79f2" md5="933c31d33b160ffdaaec3ed67c3523e8" sha1="9a82310f59a507c9efa3d3ab8618a0a47f7da457" date="1601516971" />
 		<rom name="V-Tennis (USA).chd" size="138592372" crc="1bd29cf6" md5="35245b3e3266f9a9eed035fc076d057b" sha1="fae3ed9b7786f7e3718eb3d79ef73941bbbdab9b" date="1601516986" />
 		<rom name="V.I.P. (USA).chd" size="437001927" crc="74ed8d80" md5="5b9a20c48e243cdeef068f8ebe4516cf" sha1="7e8c678dda3ee62bfd200d42875f5f8c7e6db57a" date="1601517027" />
@@ -10456,6 +10449,7 @@
 		<rom name="Vanishing Point (USA).chd" size="363782850" crc="c112d3f7" md5="3ee402578dbc7361d729fcf9644c1dc2" sha1="f1fa9855f05447cdda577826d75015762bbfb17b" date="1601517370" />
 		<rom name="Vegas Games 2000 (USA).chd" size="165053813" crc="b95993e8" md5="0eb9cb8a773e575ba518dffb90999266" sha1="ca45ca9f073fff42d25f2ece693276abf7bd6daa" date="1601517395" />
 		<rom name="Viewpoint (USA).chd" size="354944901" crc="fee5a915" md5="23a1f0c54e7f404626b6eca6d032e096" sha1="257421337be096de4745a6cafeeca29858a661a5" date="1601517443" />
+		<rom name="Vigilante 8 (USA) (Beta).chd" size="257760405" crc="884e9d10" md5="41bce0c50d94e77542af85c05c2b1dec" sha1="5b024ead50d18fe9c4d4f98c1c1f3aa70a3c8e7e" date="1649771995" />
 		<rom name="Vigilante 8 (USA) (Demo).chd" size="141912085" crc="176749e9" md5="47e40d042b6baf469b3fe8c53abc1ae3" sha1="968df40bfd413bbd238620be7c02d1153d44ed57" date="1601517460" />
 		<rom name="Vigilante 8 (USA) (Rev 1).chd" size="373330019" crc="f592294e" md5="e450e6eef3731f33e8ed79b0c961cb84" sha1="1f2774835b55468a81098129ef23e3189a70f2c3" date="1601517510" />
 		<rom name="Vigilante 8 (USA).chd" size="373283021" crc="7443b400" md5="8c99792bd92f5747f5c90a3e696d07d5" sha1="19965c02aeb72e94f2737ea81b75761fa5ed68e8" date="1601517549" />
