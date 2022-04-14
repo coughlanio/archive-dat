@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-13</version>
-		<date>2022-04-13</date>
+		<version>2022-04-14</version>
+		<date>2022-04-14</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -1507,7 +1507,9 @@
 		<rom name="Reel Fishing (Europe).chd" size="136767408" crc="fd15d946" md5="2c0d0de7efda0a8c9f7fbae7babd89e4" sha1="26d904d5c28a71e1ec60a2055545c7b4fdd3d6d2" date="1604453440" />
 		<rom name="Reel Fishing II (Europe) (En,De) (Beta).chd" size="254635367" crc="3524ff45" md5="c362e4d680e51105b104337f677e81de" sha1="8bdca8ce1f6343cc1733aa3eccb68733c664f33b" date="1634153438" />
 		<rom name="Reel Fishing II (Europe) (En,De).chd" size="254635382" crc="78514f46" md5="962c2073d08b561926c1729b5cf88bd0" sha1="85abb8ac96f51942a1473236a90aabc11f4be90d" date="1604453486" />
+		<rom name="Registered User Demo 02 (Europe).chd" size="200648690" crc="6b61c23b" md5="657c5a84fe01f8381286833d29138d57" sha1="c3bb711e773c5ad61e4ce45fbda639b08764bb2e" date="1649812425" />
 		<rom name="Registered Users Demo 03 (Europe).chd" size="208757206" crc="c72faf10" md5="a343a1b5468a2a90c631d254d783f1fc" sha1="653a43067745ee60efb4457c490755f7ca833642" date="1604453617" />
+		<rom name="Registered Users Demo 04 (Europe).chd" size="295378094" crc="f14fc0e6" md5="3ad97806cfae4497c0be7cdaf3fad870" sha1="2a9a1478699711b5084ef9872b97948fe8d26afd" date="1649812653" />
 		<rom name="Registered Users Demo 05 (Europe) (En,Fr,De,Es,It).chd" size="262591321" crc="e23c22e9" md5="ac066d6e6cac2021c3f4ede2aa574c59" sha1="f7c88cf613807b86307f82d978fc3efc6e7f240e" date="1604453688" />
 		<rom name="Registered Users Demo 06 (Europe).chd" size="318099042" crc="5f9f8d19" md5="f42531a010b6eccb00d26a66efa968a7" sha1="c46e6f7c9c4ff121db7a10b847c424e29fde975c" date="1604454784" />
 		<rom name="Registered Users Demo 08 (Europe).chd" size="302486614" crc="c0fc05b6" md5="cb8c401111b386b3ef37e5ffc093e0ef" sha1="aa5013269a1e9a9ea3e4712a173c90ba3726de78" date="1604454872" />
@@ -1842,6 +1844,10 @@
 		<rom name="Tomb Raider III - Adventures of Lara Croft (Europe).chd" size="385451307" crc="8f182590" md5="60da44149b4ac374cf81162b42f09100" sha1="b8de17866ab0ebc3c0953ae12385800da8ffa2a7" date="1606247913" />
 		<rom name="Tomb Raider Trilogy - Demo Disc (Europe).chd" size="97364949" crc="46971a7c" md5="b25379f2298dbb0823e2e75adfd68dfc" sha1="bf0f771eaef35d3b8265b357c0ac1f4c2bed49bf" date="1606247942" />
 		<rom name="Tombi! 2 (Europe).chd" size="191797396" crc="3c96fd26" md5="0c0d76899c056d3d3d928e1c5211a936" sha1="73c7add7f3b3a44ea7652e7eed0766980fea0091" date="1606248138" />
+		<rom name="Tombi! (Europe) (En,Es,Pt,Sv,Da) (Beta).chd" size="253987261" crc="25a8b919" md5="5aa9e758ca80ffddfe3a36b99bea43d1" sha1="d167056d5d2e248022bc5acf4b0787bccd5db105" date="1649889316" />
+		<rom name="Tombi! (Europe) (En,Es,Pt,Sv,Da) (Rev 1).chd" size="253843638" crc="459c2a58" md5="92cfac63017a857e5a39ce85b5f12f28" sha1="a78f9f0d1a39e161d8f519e4b0172c19a4d3c5f5" date="1649816956" />
+		<rom name="Tombi! (Europe) (En,Es,Pt,Sv,Da).chd" size="253223684" crc="0ff98c80" md5="3d30c4b24733ad9e054ef598787bcf58" sha1="49cc3fda98950d92fc1483b723e3e001a1a997ce" date="1649880190" />
+		<rom name="Tombi! (Europe) (En,Fr,De,It,Nl) (Rev 1).chd" size="253842998" crc="47b05372" md5="e16639aab6e30df31e7b4e041a85664d" sha1="2cecc49fda76f47bedd1ae76eb49d8191eb95698" date="1649859078" />
 		<rom name="Tommi Maekinen Rally (Europe) (En,Fr,De,Es,Fi) (Demo).chd" size="76373796" crc="dcdb308b" md5="c9a36e9d605f392e153801375640e6b3" sha1="8044644243a92a8ab398f639c7ead4762d941246" date="1606248164" />
 		<rom name="Tommi Maekinen Rally (Europe) (En,Fr,De,Es,Fi).chd" size="366268721" crc="f3b3d503" md5="82ae54c381ea405f907d8293b0c88706" sha1="0ec76d52d3e6a21c26f79167c7988c20a1704136" date="1606248251" />
 		<rom name="Tony Hawk's Pro Skater 2 (Europe) (Demo).chd" size="20750761" crc="8498041b" md5="ba40bf75499ad00c5b1ed86d2f26dd48" sha1="19814031d90ab3267681a888d59e749c293d5edd" date="1606248261" />
@@ -2021,6 +2027,7 @@
 		<rom name="WWF Attitude (Europe).chd" size="432005804" crc="5f4abeb0" md5="32014f7f7f6fa40c35522cbcd5f3c46a" sha1="6928a090c51cd62aa30ef616ef5db49bc6ba0b7e" date="1606314894" />
 		<rom name="WWF In Your House (Europe).chd" size="131769116" crc="50ebf9f5" md5="9f778c48c77ff391c67213ba7801abe1" sha1="9ccd67e1b5a12c02facd4c488d3f6601cefeef7d" date="1606314943" />
 		<rom name="WWF SmackDown! 2 - Know Your Role (Europe).chd" size="506433185" crc="1e76abfb" md5="2302adcd37227764a1fd4fcffc0d19fc" sha1="3e2b1488584e394ccf158c02ba65d40b388768be" date="1606315143" />
+		<rom name="WWF SmackDown! (Europe) (Demo).chd" size="44427887" crc="e843bcbc" md5="2c203bab0692d78125726ec64b75a49d" sha1="8bee36232ef4d93f22e549f5b9983f93cf698f53" date="1649863055" />
 		<rom name="WWF SmackDown! (Europe).chd" size="411344116" crc="5d549b67" md5="a19fe0cdb08553bcdc10ba51f00f481e" sha1="6cf0ff19f858e7102e8b662a4a7be9b6396aeb92" date="1606315023" />
 		<rom name="WWF War Zone (Europe).chd" size="475975990" crc="889bcc32" md5="4b9edc3c91096943ca74c9b50f89424a" sha1="476615c3b6fef14e119d201a892e11c188677db9" date="1606315247" />
 		<rom name="WWF WrestleMania - The Arcade Game (Europe).chd" size="41619117" crc="099ba2c7" md5="e843f0b97320491e0c3ac85273e1fae8" sha1="2a64276bfec1c7a2250bf7c9121d204817486e6a" date="1606315266" />
