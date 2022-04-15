@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-14</version>
-		<date>2022-04-14</date>
+		<version>2022-04-15</version>
+		<date>2022-04-15</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -1848,6 +1848,7 @@
 		<rom name="Tombi! (Europe) (En,Es,Pt,Sv,Da) (Rev 1).chd" size="253843638" crc="459c2a58" md5="92cfac63017a857e5a39ce85b5f12f28" sha1="a78f9f0d1a39e161d8f519e4b0172c19a4d3c5f5" date="1649816956" />
 		<rom name="Tombi! (Europe) (En,Es,Pt,Sv,Da).chd" size="253223684" crc="0ff98c80" md5="3d30c4b24733ad9e054ef598787bcf58" sha1="49cc3fda98950d92fc1483b723e3e001a1a997ce" date="1649880190" />
 		<rom name="Tombi! (Europe) (En,Fr,De,It,Nl) (Rev 1).chd" size="253842998" crc="47b05372" md5="e16639aab6e30df31e7b4e041a85664d" sha1="2cecc49fda76f47bedd1ae76eb49d8191eb95698" date="1649859078" />
+		<rom name="Tombi! (Europe) (En,Fr,De,It,Nl).chd" size="253223035" crc="14921cf9" md5="c28a6be3fe4b4681f9104d2cb6d2cd16" sha1="061b5924f25f6eac94a7a90bbf341ac8f65007e7" date="1649896274" />
 		<rom name="Tommi Maekinen Rally (Europe) (En,Fr,De,Es,Fi) (Demo).chd" size="76373796" crc="dcdb308b" md5="c9a36e9d605f392e153801375640e6b3" sha1="8044644243a92a8ab398f639c7ead4762d941246" date="1606248164" />
 		<rom name="Tommi Maekinen Rally (Europe) (En,Fr,De,Es,Fi).chd" size="366268721" crc="f3b3d503" md5="82ae54c381ea405f907d8293b0c88706" sha1="0ec76d52d3e6a21c26f79167c7988c20a1704136" date="1606248251" />
 		<rom name="Tony Hawk's Pro Skater 2 (Europe) (Demo).chd" size="20750761" crc="8498041b" md5="ba40bf75499ad00c5b1ed86d2f26dd48" sha1="19814031d90ab3267681a888d59e749c293d5edd" date="1606248261" />
@@ -7022,7 +7023,7 @@
 		<rom name="Cheatcode S (France) (Unl).chd" size="1872569" crc="74cdba92" md5="420f6df2abc24bea7b46d1fc5dd718f8" sha1="c657311f9695c65af4df335e5d5abffeef3df365" date="1602451218" />
 		<rom name="Chevaliers de Baphomet, Les (France).chd" size="334949072" crc="e6864ef1" md5="48412bf558ae983fd6fb2e7888a30f05" sha1="043f1d7268bd6d563bfd21fcb1cbdc9d59414784" date="1602504587" />
 		<rom name="Chi Vuol Essere Miliardario (Italy).chd" size="174288402" crc="31e0f9d7" md5="7597e3f0da1d5ac19258481936ba1570" sha1="df00000eafe141db33bcc33246b3e21521d58df1" date="1602504607" />
-		<rom name="Chi Vuol Essere Milionario - Seconda Edizione (Italy).chd" size="248128127" crc="464d44c5" md5="a01ad9e09034aededc6a52e7cc6369ff" sha1="79243686160063fd6298a3e1671fb1f13776e5f4" date="1602504649" />
+		<rom name="Chi Vuol Essere Milionario Seconda Edizione (Italy).chd" size="248128127" crc="464d44c5" md5="a01ad9e09034aededc6a52e7cc6369ff" sha1="79243686160063fd6298a3e1671fb1f13776e5f4" date="1649962938" />
 		<rom name="Chine - Intrigue dans la Cite Interdite (France).chd" size="330174268" crc="e9cab68a" md5="c4aa3af209c278057232de66df3f72dc" sha1="0f922b1d2fbfe5c28bd78e1a2b6f0f5000036317" date="1602504718" />
 		<rom name="Chronicles of the Sword (France) (Disc 1).chd" size="338305483" crc="cbceaaef" md5="346102e6c23cc3560fcbed05f1f331ad" sha1="eecc84c1fb468e8bd082772845109bd630940a8a" date="1602504800" />
 		<rom name="Chronicles of the Sword (France) (Disc 2).chd" size="241941037" crc="e6d65135" md5="05cab3990afb442468753ffe322a8e3d" sha1="9921179e0ce25f3e1968d14c259e85e88c5a15cd" date="1602504827" />
@@ -7035,7 +7036,7 @@
 		<rom name="Cina - Crimini nella Citta Proibita (Italy).chd" size="331637182" crc="3899e0f7" md5="bc5b08fdaae2157363f02a39cbb2c085" sha1="f33fad52cc67b58f4f1cb7b5fd83a86c19e73e70" date="1602505190" />
 		<rom name="Cite des Enfants Perdus, La (France) (Demo).chd" size="57759476" crc="cf0f04aa" md5="3807aa668718ebfb4a257e52df193aa9" sha1="ad384f0889c735b79805a131f07b44f047ffd3ca" date="1602505220" />
 		<rom name="Cite des Enfants Perdus, La (France).chd" size="225358459" crc="8dd40fe1" md5="0f41ea418e092d02d32e9202f035dc22" sha1="7833c8735cc3d7977c7921bd9014903d00f88257" date="1602505247" />
-		<rom name="Ciudad de los ninos perdidos, La (Spain).chd" size="226111272" crc="73db0b46" md5="076c1f121b525cb24f357a76074e7556" sha1="443dfa77514763f9b8b5b53cab9e64bfde286b1e" date="1602505278" />
+		<rom name="Ciudad de los Ninos Perdidos, La (Spain).chd" size="226111272" crc="73db0b46" md5="076c1f121b525cb24f357a76074e7556" sha1="443dfa77514763f9b8b5b53cab9e64bfde286b1e" date="1649963041" />
 		<rom name="Civilization II (France).chd" size="256538685" crc="141103f0" md5="38ef857623ff888e65f77b6df47d9696" sha1="cbf70fb445b1751d2ef82be7101775644cc04c09" date="1602505313" />
 		<rom name="Civilization II (Germany).chd" size="256398013" crc="6c7be488" md5="f7fac4a58829e6116831670c63461626" sha1="0a23452b1f79aebf5e9fc96358c4572c69dccb7d" date="1602505365" />
 		<rom name="Civilization II (Italy).chd" size="254536211" crc="e4a1abb7" md5="a5367c47b25fa6b36bd0b88ab92b4b53" sha1="f0cddcf749dad62c4726e3562ceacfbfb226ab34" date="1602505396" />
@@ -7161,7 +7162,7 @@
 		<rom name="Disney Dinosauri (Italy).chd" size="328065508" crc="c39196bf" md5="a40a27b0160592c39132ac1ded9734f8" sha1="ab2785f202cbb7e5d195e93e1ba0050bb8b842b9" date="1602606518" />
 		<rom name="Disney Dinosaurio (Spain).chd" size="327106754" crc="04751a30" md5="d7a7b7628c9b41ce1e3d42e4a28d0a85" sha1="574d8dc32d496f125d76ce0395e0bbab0f5c503c" date="1602606547" />
 		<rom name="Disney El Emperador y sus Locuras (Spain).chd" size="378659022" crc="9462013d" md5="a88ebae5470fcb30918e69473c200f6c" sha1="909bb1b255dc8c04d18d880736658ff2aec5d2d7" date="1602606587" />
-		<rom name="Disney El planeta del tesoro (Spain).chd" size="237713886" crc="95b0eec9" md5="b0711a52cc1a0566515d4d9eb9c11de0" sha1="db8d62984dc630ba87f4502cf914ff6218b68fc2" date="1602606607" />
+		<rom name="Disney El Planeta del Tesoro (Spain).chd" size="237713886" crc="95b0eec9" md5="b0711a52cc1a0566515d4d9eb9c11de0" sha1="db8d62984dc630ba87f4502cf914ff6218b68fc2" date="1649963132" />
 		<rom name="Disney Fais Ton Histoire! Mulan (France).chd" size="102065095" crc="4054e20a" md5="23e8c1c31350d2f3d255dacd5413b35b" sha1="412cb6179f47bbc3355973d889c7739d9aafda41" date="1602606620" />
 		<rom name="Disney Il Pianeta del Tesoro (Italy).chd" size="239017299" crc="c8cdaf5d" md5="936f6c0ba8f0a95b052da173c07ddae3" sha1="6a805f36bf78b8dff33f69dd085170c2bd8e017c" date="1602606644" />
 		<rom name="Disney Il Re Leone - La Grande Avventura di Simba (Italy).chd" size="411317644" crc="af81eef8" md5="930af775b77ab70317eff4d59c560872" sha1="ee9729025f176d29e4cc4dec88a384c7c9fefcaf" date="1602606677" />
@@ -7197,6 +7198,7 @@
 		<rom name="Disney's 102 Dalmatians - Puppies to the Rescue (Scandinavia) (Sv,No,Da).chd" size="156662230" crc="c7c0f552" md5="daa465a55b4943a061efc53d5d8029e5" sha1="f813c671e1796e818daa27cc995035e1129ce95a" date="1602607258" />
 		<rom name="Disney's Action Game met Hercules (Netherlands).chd" size="212958859" crc="e6ea69ab" md5="aedda06110845b9d37abc6e4965a50b2" sha1="4c04541fb6886e98a6ef5d72eaaf7cbf49c3a8d0" date="1602607278" />
 		<rom name="Disney's Action spel med Herkules (Sweden).chd" size="213442567" crc="2fafdac4" md5="7595434999fbb790d7be3df2803e2586" sha1="647da6255360987132e225c9a9a27025d3992b17" date="1602607299" />
+		<rom name="Disney's Action Spel med Herkules (Sweden).chd" size="213442567" crc="2fafdac4" md5="7595434999fbb790d7be3df2803e2586" sha1="647da6255360987132e225c9a9a27025d3992b17" date="1649978289" />
 		<rom name="Disney's Aladdin in Nasira's Wraak (Netherlands).chd" size="390173080" crc="36f4a654" md5="7aef7e9e1f0994280153a70f51100c0c" sha1="6e49f3eb10d552fab65ff2c561203719129a43c2" date="1602607331" />
 		<rom name="Disney's Atlantis - De Verzonken Stad (Netherlands).chd" size="200616331" crc="89c041f0" md5="6ee33b8501e0ba30faba9302887ffe9b" sha1="e345fb5790ad3d8181bbd873ecca72480f514c6e" date="1602607354" />
 		<rom name="Disney's Atlantis - En foersvunnen vaerld (Sweden).chd" size="199331791" crc="092ad332" md5="535917bc1161469971135ec60ca6f6a2" sha1="1dee89e6bbe9956a1d7a62480c7bcc4d5384aa87" date="1602607377" />
@@ -7226,6 +7228,7 @@
 		<rom name="Disney-Pixar A Bug's Life - Disneys Malen und Spielen (Germany).chd" size="126705146" crc="1db053e2" md5="66995131e6f243bab4c9ef740c85eb2d" sha1="610783ac91bbaade19149c3f87a738737009b4aa" date="1602608373" />
 		<rom name="Disney-Pixar A Bug's Life - Megaminimondo (Italy) (Rev 1).chd" size="471366293" crc="a1e79e97" md5="9aa727e4489ccadaf439a2daf80ebb82" sha1="0d4f28315695cb8ab0f584ad2bafbd1057ea11ea" date="1602608682" />
 		<rom name="Disney-Pixar A Bug's Life - Megaminimondo (Italy).chd" size="471365201" crc="cf9597fe" md5="c28e4a37e84c8712255a643d257b8b5f" sha1="c7790d74a6c2346bba33d36b31605d4b1421f2ca" date="1602608723" />
+		<rom name="Disney-Pixar Bichos - Una Aventura en Miniatura (Spain).chd" size="472305028" crc="f45a7c46" md5="5031a199891756c73993593cc7fec5cc" sha1="05435b1231c7746288928850f2eeddb46c27b912" date="1649978465" />
 		<rom name="Disney-Pixar Bichos Una Aventura en Miniatura (Spain).chd" size="472305028" crc="f45a7c46" md5="5031a199891756c73993593cc7fec5cc" sha1="05435b1231c7746288928850f2eeddb46c27b912" date="1602608775" />
 		<rom name="Disney-Pixar Bottega dei Giochi - A Bug's Life Megaminimondo (Italy).chd" size="118997582" crc="e18cc8f6" md5="07f421d5babf4097d5ac2b6f81fe4f28" sha1="41db43916f97a9f3127fced3acce7aa31909dfeb" date="1602608788" />
 		<rom name="Disney-Pixar Buzz Lightyear da Comando Stellare (Italy).chd" size="320908313" crc="9395eac6" md5="892679b70d832c4e6e119fe2bc2fd644" sha1="faa617c918c4be46c88ddd3ca2f6ca9c3261fa6f" date="1615764182" />
