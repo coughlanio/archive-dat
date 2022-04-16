@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-15</version>
-		<date>2022-04-15</date>
+		<version>2022-04-16</version>
+		<date>2022-04-16</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -7197,7 +7197,6 @@
 		<rom name="Disney Winnie l'Ourson - La Chasse au Miel de Tigrou (France).chd" size="142063798" crc="66315262" md5="1a47e5986d3a523619cbe49c6ca4bb84" sha1="4226ef1801c2254c4aa3686a0cf9bcdb0e437e2d" date="1602672522" />
 		<rom name="Disney's 102 Dalmatians - Puppies to the Rescue (Scandinavia) (Sv,No,Da).chd" size="156662230" crc="c7c0f552" md5="daa465a55b4943a061efc53d5d8029e5" sha1="f813c671e1796e818daa27cc995035e1129ce95a" date="1602607258" />
 		<rom name="Disney's Action Game met Hercules (Netherlands).chd" size="212958859" crc="e6ea69ab" md5="aedda06110845b9d37abc6e4965a50b2" sha1="4c04541fb6886e98a6ef5d72eaaf7cbf49c3a8d0" date="1602607278" />
-		<rom name="Disney's Action spel med Herkules (Sweden).chd" size="213442567" crc="2fafdac4" md5="7595434999fbb790d7be3df2803e2586" sha1="647da6255360987132e225c9a9a27025d3992b17" date="1602607299" />
 		<rom name="Disney's Action Spel med Herkules (Sweden).chd" size="213442567" crc="2fafdac4" md5="7595434999fbb790d7be3df2803e2586" sha1="647da6255360987132e225c9a9a27025d3992b17" date="1649978289" />
 		<rom name="Disney's Aladdin in Nasira's Wraak (Netherlands).chd" size="390173080" crc="36f4a654" md5="7aef7e9e1f0994280153a70f51100c0c" sha1="6e49f3eb10d552fab65ff2c561203719129a43c2" date="1602607331" />
 		<rom name="Disney's Atlantis - De Verzonken Stad (Netherlands).chd" size="200616331" crc="89c041f0" md5="6ee33b8501e0ba30faba9302887ffe9b" sha1="e345fb5790ad3d8181bbd873ecca72480f514c6e" date="1602607354" />
@@ -7217,7 +7216,6 @@
 		<rom name="Disney's Party mit Winnie Puuh (Germany).chd" size="325766619" crc="27a6fc62" md5="cfc4210071ad38fa51386adba89227de" sha1="b8295b3a1554df1034131946b564bd936faaa338" date="1602616312" />
 		<rom name="Disney's Peter Pan - Avonturen in Nooitgedachtland (Netherlands).chd" size="343979313" crc="eb5ffb92" md5="bf8daad2b4f4f9dcc6f799b3806bf9f6" sha1="ac281b96b98e61b1d652acb52bf583005052e9af" date="1602616339" />
 		<rom name="Disney's Piratenplaneet - De Schat van Kapitein Flint (Netherlands).chd" size="240002575" crc="273bff52" md5="5ca518c5b3b921892d51bdb611a887ce" sha1="22570d3efd5cd29f79c4c32529c7d777987b35aa" date="1602616363" />
-		<rom name="Disney's Skattkammarplaneten (Sweden).chd" size="237450221" crc="91844879" md5="ce364c2e33a1dca8a15b19f8db92d860" sha1="395ed41ae1794643819675a6d102f7e7f6c5b5bf" date="1602616385" />
 		<rom name="Disney's Spelen met Winnie de Poeh en zijn Vriendjes! (Netherlands).chd" size="323701773" crc="a6c8d8e8" md5="0344126afcef9ea5387de34594fa4251" sha1="a4bffc4689bffb54e41bd8e60b3067a86aad2790" date="1602616418" />
 		<rom name="Disney's Tarzan (Netherlands).chd" size="297222645" crc="ccc65b95" md5="414e7e69acb14f9020c63e4d11424b0e" sha1="e9640aad4c9d8b06b743480536e0f24de7ef3211" date="1602616455" />
 		<rom name="Disney's Teigetjes Honingjacht (Netherlands).chd" size="141060253" crc="21384b7c" md5="96d582ca58ebcfed8633f38336960160" sha1="a5578d7823129757629cc3b1522aa6dc6166fa9b" date="1602616484" />
@@ -7229,7 +7227,6 @@
 		<rom name="Disney-Pixar A Bug's Life - Megaminimondo (Italy) (Rev 1).chd" size="471366293" crc="a1e79e97" md5="9aa727e4489ccadaf439a2daf80ebb82" sha1="0d4f28315695cb8ab0f584ad2bafbd1057ea11ea" date="1602608682" />
 		<rom name="Disney-Pixar A Bug's Life - Megaminimondo (Italy).chd" size="471365201" crc="cf9597fe" md5="c28e4a37e84c8712255a643d257b8b5f" sha1="c7790d74a6c2346bba33d36b31605d4b1421f2ca" date="1602608723" />
 		<rom name="Disney-Pixar Bichos - Una Aventura en Miniatura (Spain).chd" size="472305028" crc="f45a7c46" md5="5031a199891756c73993593cc7fec5cc" sha1="05435b1231c7746288928850f2eeddb46c27b912" date="1649978465" />
-		<rom name="Disney-Pixar Bichos Una Aventura en Miniatura (Spain).chd" size="472305028" crc="f45a7c46" md5="5031a199891756c73993593cc7fec5cc" sha1="05435b1231c7746288928850f2eeddb46c27b912" date="1602608775" />
 		<rom name="Disney-Pixar Bottega dei Giochi - A Bug's Life Megaminimondo (Italy).chd" size="118997582" crc="e18cc8f6" md5="07f421d5babf4097d5ac2b6f81fe4f28" sha1="41db43916f97a9f3127fced3acce7aa31909dfeb" date="1602608788" />
 		<rom name="Disney-Pixar Buzz Lightyear da Comando Stellare (Italy).chd" size="320908313" crc="9395eac6" md5="892679b70d832c4e6e119fe2bc2fd644" sha1="faa617c918c4be46c88ddd3ca2f6ca9c3261fa6f" date="1615764182" />
 		<rom name="Disney-Pixar Captain Buzz Lightyear - Star Command (Germany).chd" size="323729875" crc="deaf28ad" md5="4a37d4719a4630520342fb6678eeb51e" sha1="cff5f767707625a06e674cd9059f59823acae541" date="1602608851" />
@@ -7288,6 +7285,7 @@
 		<rom name="Disneys Peter Pan - Rueckkehr nach Nimmerland (Germany).chd" size="344311414" crc="6b4ff386" md5="90c959cbd83e9bb4a205739c652431b9" sha1="f23b35e3b0c1bdf3886de946162b993dc2eff1d5" date="1602673266" />
 		<rom name="Disneys Plys' Spil-og-Leg-Sted (Denmark).chd" size="323702296" crc="288a7e93" md5="18dae5721f8ec98c5f4a398388b3dbd8" sha1="3e4834a218ed07f8cc0307c36ef6592070e3f9e1" date="1602673314" />
 		<rom name="Disneys Skatteplaneten (Denmark).chd" size="237272299" crc="e2248244" md5="694b3787af89715758b02df32fd7f0af" sha1="2cff3d2644061c5fcc113cf60829bfcbc7cac417" date="1602673346" />
+		<rom name="Disneys Skattkammarplaneten (Sweden).chd" size="237450221" crc="91844879" md5="ce364c2e33a1dca8a15b19f8db92d860" sha1="395ed41ae1794643819675a6d102f7e7f6c5b5bf" date="1649984855" />
 		<rom name="Disneys Tarzan (Denmark).chd" size="289130033" crc="cf3f18b8" md5="1d5b27e906c64752802620670fe15260" sha1="7b86afdced61fd12191777ae8c02ea4fa83057f4" date="1602673380" />
 		<rom name="Disneys Tarzan (Germany).chd" size="289610452" crc="dbdc56bf" md5="4b8e8dbb2debf6a93f65107346ad33fa" sha1="be37971ef5f74c3f309d46620306a67e406c78e4" date="1602673422" />
 		<rom name="Disneys Tarzan (Norway).chd" size="296750565" crc="2ad958c3" md5="1b6fa27fe338e28a902857d0300d34ab" sha1="97a1c25aa6ff78e16372b4791259bc14e54839ba" date="1602673456" />
@@ -7626,6 +7624,7 @@
 		<rom name="Forsaken (Italy).chd" size="381851864" crc="0d215dcf" md5="b41fa3ac8ce043fa840118058b391704" sha1="a21405b8b6f7e914d75c5a448121c183cc6eec70" date="1603576809" />
 		<rom name="Forsaken (Spain).chd" size="381860233" crc="041ed9e4" md5="699dad19cab90b04ec24ed9028ac33eb" sha1="057d20c5532a0de364aca24b986fd03b3b2ebce9" date="1603576864" />
 		<rom name="Frankreich 98 - Die Fussball-WM (Germany) (En,Fr,De,Es,Nl,Sv,Da).chd" size="509449970" crc="49ad1aa0" md5="957cae82d54aca5955f71e4f5c744b2e" sha1="4fd786bef774d7ba0673e5593ed419fbcef634b2" date="1603576927" />
+		<rom name="Free Spin Demo Disc! Voellig Gratis Demo Disc! (Germany).chd" size="229049233" crc="606f8c5c" md5="a0067debab382fa704f44e816930a9bc" sha1="771e2cfd31e1708fb00af9361941c7ec207e30ab" date="1650023852" />
 		<rom name="Frontschweine (Germany).chd" size="194438501" crc="16460bcc" md5="aff6491fad22caccb477cf5692c86674" sha1="7a4753f26c04b1825ece3df9bc3ce2813006f796" date="1603576971" />
 		<rom name="Fussball Live 2 (Germany) (Demo).chd" size="37071873" crc="f2b75751" md5="e7e3904b5bbb00307c73b62fad0725d5" sha1="e5b51d77683a128f586a6d2f4d3d8e8a0eb82b02" date="1603577071" />
 		<rom name="Fussball Live 2 (Germany).chd" size="344428758" crc="2aea749c" md5="8a30aac01f688287d76c4fce76d0a94c" sha1="e42eccc9b33e9f6e83ec10837a8406fe2687c250" date="1603577169" />
@@ -7856,8 +7855,8 @@
 		<rom name="Louvre - A Maldicao (Portugal) (Disc 2).chd" size="442075184" crc="476c4236" md5="a31adf99c6e6c75a5924820dbfbc6b5c" sha1="36cb3dda76c77c205130861a967122c411348dd0" date="1603651049" />
 		<rom name="Louvre - L'Ultime Malediction (France) (Disc 1).chd" size="387487897" crc="719712fb" md5="79efa4445c3e1527d8907fc279539f3a" sha1="20e4ba8d82a5cfd0e9233aac5460bc8e4fec9645" date="1603651113" />
 		<rom name="Louvre - L'Ultime Malediction (France) (Disc 2).chd" size="439375333" crc="ed2391c1" md5="bd6610c9d103e9714270ef385847eaf5" sha1="7cd28e225b016609d6b1886fd60f992e33da65f1" date="1603651230" />
-		<rom name="Louvre - La maldicion final (Spain) (Disc 1).chd" size="386919680" crc="ea95b9e3" md5="5eed61ea926fe630e94be04b74357ba0" sha1="d04797306167983d89443508ee73c79b06388629" date="1603651300" />
-		<rom name="Louvre - La maldicion final (Spain) (Disc 2).chd" size="443156288" crc="9be10d8c" md5="caf122ee095472b45117800a3be45b89" sha1="c5ac325a0db6943bc9623516357108f01dfa5b01" date="1603651369" />
+		<rom name="Louvre - La Maldicion Final (Spain) (Disc 1).chd" size="386919680" crc="ea95b9e3" md5="5eed61ea926fe630e94be04b74357ba0" sha1="d04797306167983d89443508ee73c79b06388629" date="1650030484" />
+		<rom name="Louvre - La Maldicion Final (Spain) (Disc 2).chd" size="443156288" crc="9be10d8c" md5="caf122ee095472b45117800a3be45b89" sha1="c5ac325a0db6943bc9623516357108f01dfa5b01" date="1650030587" />
 		<rom name="Louvre - La Maledizione Finale (Italy) (Disc 1).chd" size="387154901" crc="f692a613" md5="7264fb709e4781e5725377ce5abdc578" sha1="37eb0357bb77b85d794091d3eaa102d50f81068d" date="1603651453" />
 		<rom name="Louvre - La Maledizione Finale (Italy) (Disc 2).chd" size="443362908" crc="0588da54" md5="141277eec4848189a59426bc32549593" sha1="df3e9a3fe067767487bef4dc02b09e2384a5d6d5" date="1603651549" />
 		<rom name="Lussan Nathhorst Presenterar Riding Star (Sweden).chd" size="47246709" crc="b6cb007a" md5="3a69a2b51055a719f45e0631baac69f5" sha1="c0914f9c1c4c487d6dc5564b5bd914f64e0d8467" date="1603651568" />
@@ -7928,7 +7927,7 @@
 		<rom name="Monde des Bleus 2, Le (France) (Demo).chd" size="48069596" crc="55431a26" md5="21b9cb8e80aaf066b815792b61f182f4" sha1="783cae53df82e1db7d837d803d227e9c1ac8565a" date="1615764897" />
 		<rom name="Monde des Bleus 2, Le (France).chd" size="350041537" crc="1967a159" md5="7aa628c016d0dfc0efe2ae0fa141ca89" sha1="90bad8fcb570e2498e930f60b8aa32cb84943c7c" date="1603993120" />
 		<rom name="Monde des Bleus, Le - Le Jeu Officiel de l'Equipe de France (France).chd" size="179791274" crc="dbebc74e" md5="5baa562c5c5b3d0334997391755dd463" sha1="23958d5c9d5104f7115321fc9e331f38961659a7" date="1603993170" />
-		<rom name="Moorhuhn 2 - Die Jagd geht weiter (Germany).chd" size="14997967" crc="c72bb35a" md5="efa9d118b0d01587e8b345ff5d767421" sha1="f91fdbdab01012dc5ebf889316040f42efa2ac75" date="1603993177" />
+		<rom name="Moorhuhn 2 - Die Jagd Geht Weiter (Germany).chd" size="14997967" crc="c72bb35a" md5="efa9d118b0d01587e8b345ff5d767421" sha1="f91fdbdab01012dc5ebf889316040f42efa2ac75" date="1650051408" />
 		<rom name="Moorhuhn Kart (Germany).chd" size="206813980" crc="2b62ee9d" md5="c8c3a8f3de14d893c8e270af09207a58" sha1="9ef7f63fc2854851c34bc28dfa11da68b680a948" date="1603993219" />
 		<rom name="Moorhuhn X (Germany) (En,De).chd" size="69715649" crc="033c40dc" md5="54db12f7f3f340044c5bce2a106eddd7" sha1="e84fb66330fb888956acca571f8f27aca939ebb8" date="1603993245" />
 		<rom name="Moto Racer (France) (Demo).chd" size="27207421" crc="5c06999f" md5="4c349948ab535b7bd1787c08c935c2d9" sha1="c2da9362f0beebe3754810d1033efdfc67ae46a4" date="1603993265" />
