@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-16</version>
-		<date>2022-04-16</date>
+		<version>2022-04-17</version>
+		<date>2022-04-17</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -8251,6 +8251,7 @@
 		<rom name="Soviet Strike (France).chd" size="512154724" crc="01f74083" md5="4c4df1cfa6a2410405bc74ea2386475b" sha1="ab2e914bd7ee075db1e7ca13e56869dc020cdf0b" date="1606611622" />
 		<rom name="Soviet Strike (Germany).chd" size="511000169" crc="1a4fff53" md5="ef5f0974e0aa429d27bf5941f205f370" sha1="cc91030941f988a2a142bbd3d1a63a4d7dcafc98" date="1606611704" />
 		<rom name="Space Debris (France).chd" size="264356246" crc="87124c27" md5="fc83ee8176cb6138b84bb5ee469006e5" sha1="e2f15fcc082e5b3719395fba1f73c3e5aed13baa" date="1606611735" />
+		<rom name="Space Debris (Germany) (Beta).chd" size="265571612" crc="14309870" md5="c39d933c7e8ae355dcce87edc9a27eb2" sha1="8d4aea2e66f3eb025fa6a9df7c50538ec45c31a9" date="1650111548" />
 		<rom name="Space Debris (Germany).chd" size="264357285" crc="6a231836" md5="735b22186da7bd4641eff49915bae9df" sha1="928bfaa26040ac78c17c38dcb051a80ccb690b17" date="1606611778" />
 		<rom name="Space Debris (Italy).chd" size="264355343" crc="3508bdb6" md5="30ebc209e75acaf339c9a06863a59215" sha1="4a71766e28349236bfe8c0d6ead30c13d54287ac" date="1606611814" />
 		<rom name="Space Debris (Spain).chd" size="264356044" crc="6e9598c8" md5="054ca9eedc6bc7d5abd346ff26583fff" sha1="c9ffd7b1aed810c062ef5ce6c9d9207192266612" date="1606611846" />
@@ -8290,6 +8291,7 @@
 		<rom name="Star Wars - Episode I - The Phantom Menace (Australia) (Demo).chd" size="50554800" crc="7b0dface" md5="f6e359a392d3cfcdfb3c6d132b801034" sha1="d857871a3c5db97fc80f99dcd787c46158e2c1cd" date="1606613098" />
 		<rom name="Star Wars - Episodio I - Jedi Power Battles (Italy).chd" size="278200927" crc="48269f86" md5="a36293c31e8f3f410ffdb13083dd7840" sha1="c32019a7e2be3203592f018c757f61f9d7b32ece" date="1606613134" />
 		<rom name="Star Wars - Episodio I - Jedi Power Battles (Spain).chd" size="278187937" crc="d3e76fef" md5="17d658d61ca3051a4a7ff6e9d085dd51" sha1="2c600be40ba9fdcbd46feda3fd5e9ee828b97dbb" date="1606613162" />
+		<rom name="Star Wars - Episodio I - La Amenaza Fantasma (Spain) (Demo).chd" size="50163319" crc="c8d405b9" md5="5349e3f12dd6f2269db9a83d8592aa0d" sha1="454fffe15e14a170607a45ee9402a5c092d14eb4" date="1650111555" />
 		<rom name="Star Wars - Episodio I - La Amenaza Fantasma (Spain).chd" size="441549056" crc="618008cf" md5="dfb7904c1ffc9cae556dfc15002dedd6" sha1="7df79785b9c1010b4c5df29f252ef978d99b1fc2" date="1606613207" />
 		<rom name="Star Wars - Episodio I - La Minaccia Fantasma (Italy).chd" size="452356826" crc="afaf6281" md5="44ec720cec48a19c89d2ee9aa9f423d2" sha1="bdd9a459b02384764f6056b05b6e7df8caf267ee" date="1606613269" />
 		<rom name="Star Wars - Rebel Assault II - The Hidden Empire (France) (Disc 1).chd" size="452746469" crc="c9632540" md5="dd049d916673fbf344ac2cc2631247c7" sha1="175c06db1be50108d70d70c11d20f81bf89d7227" date="1606613313" />
@@ -8318,6 +8320,7 @@
 		<rom name="Suikoden II (Germany).chd" size="311567730" crc="0c93a6db" md5="26e3107a4e895e59ef1812795377a111" sha1="b630be5368072ad0e469ca3526801910c934d801" date="1606654474" />
 		<rom name="Suikoden II (Italy).chd" size="311326954" crc="64ad589d" md5="d7b60b5fae8d28555214d60d41d6fa69" sha1="5bfe0b147c1645bf72307e9ae9ce698080f97d26" date="1606654510" />
 		<rom name="Suikoden II (Spain).chd" size="311258744" crc="91cc62f7" md5="ac281dee6070763ad0d3a317c0547d06" sha1="d0c968c783c381d25ff42e3820f9272a03d3db61" date="1606654567" />
+		<rom name="Super Lite Best Vol. 2 - Sanvein &amp; Bomb Boat (Korea) (En,Ko).chd" size="116541758" crc="759bd1e7" md5="00e930b972d93f611cf5664211dfc808" sha1="6cef1f2b2319cd0652acef099c53749e6ed8eff1" date="1650119414" />
 		<rom name="Suzuki Alstare Challenge (France).chd" size="252420657" crc="c6373ded" md5="013db657a8a7fa48124b8e8f678ed255" sha1="5107ee796ffba2bf43aa6eaacce51a9ff669dc95" date="1606654591" />
 		<rom name="Swing (Germany).chd" size="296095430" crc="60d8b9db" md5="c46bf17a8bd3804452574d5eee3a45f4" sha1="6b9dbc602598699dba92fba1f056dd5b0f8dd8f7" date="1606656669" />
 		<rom name="Sydney 2000 (Australia).chd" size="412573140" crc="598515f2" md5="72c91b51399388f1b4c590beb3bafbc6" sha1="dd8d14728bfab4e79089cf777c6cbb0e69be4e71" date="1606657752" />
@@ -8412,6 +8415,7 @@
 		<rom name="Tomb Raider II - Starring Lara Croft (France).chd" size="355319655" crc="b41ae8cb" md5="5e0579452eb6d866e3820cdd2f3d072f" sha1="fb46f7bea1e04c691e33ed95c5bbac050702479a" date="1606682395" />
 		<rom name="Tomb Raider II - Starring Lara Croft (Germany).chd" size="355262048" crc="f1f7256c" md5="cd32a17f380561fb780f1bfc9020413d" sha1="9c5d16a7deb2de61750de1755e3be70a4024797d" date="1606682456" />
 		<rom name="Tomb Raider II - Starring Lara Croft (Italy).chd" size="353543531" crc="1a5bb697" md5="f938a7cf81aa81d26ed20558c4f24b6f" sha1="b7bcff77eb6e9de866a03140b6e1bca12b3fb84d" date="1606682524" />
+		<rom name="Tomb Raider III - Adventures of Lara Croft (Asia) (Disc 1) (Japanese Version).chd" size="385603419" crc="7b049483" md5="425c12175deae3e88cc482a437022713" sha1="dda465c2c2f6b2b28ac7cb60de0a450370b1d67a" date="1650153860" />
 		<rom name="Tomb Raider III - Adventures of Lara Croft (Asia) (Disc 2) (International Version).chd" size="386871655" crc="984cc1c5" md5="697aaab0d63f2f232e50f3a322c74750" sha1="bf8897cb78f764d012c82e5548b5d98d9fe149d1" date="1606682568" />
 		<rom name="Tomb Raider III - Adventures of Lara Croft (Germany) (Rev 1).chd" size="386665018" crc="92d286d2" md5="742c00ab679a8dac718dafc637da13aa" sha1="dd0f0fac32bb16f3181d759e951ffa5cbc2cafd2" date="1606682641" />
 		<rom name="Tomb Raider III - Adventures of Lara Croft (Germany).chd" size="386244041" crc="a7abbc95" md5="a3abe75aa2abd62c83c1aeb155272ba3" sha1="cebe8d337738f35896ca70a51c69b5313d23a19b" date="1606682681" />
@@ -8428,6 +8432,7 @@
 		<rom name="Tombi! 2 (Germany).chd" size="194510515" crc="b879cefe" md5="f7ccb9203526dbdaad1028f12b9a0468" sha1="f903cf553d0ac9234fe8f2243ac7505ab9fd16f6" date="1606668786" />
 		<rom name="Tombi! 2 (Italy).chd" size="195120310" crc="f8078d52" md5="2d43615b07bff8dfd8c6f70d89641e08" sha1="327b936dba9b3705d845f435fef4aafda02edaea" date="1606668811" />
 		<rom name="Tombi! 2 - Contra los cerdiablos (Spain).chd" size="193880783" crc="d00523ce" md5="e160e83e1ac930accca4411554f63c04" sha1="278690af8992dc5e8259430f48f8b8bfda39e565" date="1606668836" />
+		<rom name="Tombi! 2 - Contra los Cerdiablos (Spain).chd" size="193880783" crc="d00523ce" md5="e160e83e1ac930accca4411554f63c04" sha1="278690af8992dc5e8259430f48f8b8bfda39e565" date="1650153910" />
 		<rom name="Tommi Maekinen Rally (Italy).chd" size="360295529" crc="390ec1a0" md5="5f5cb3a874d696c11ac55b481a092394" sha1="b8c8bc66c7c4e320a655b297acdbadb10f8af59c" date="1606683180" />
 		<rom name="Tony Hawk's Pro Skater 2 (Australia) (Demo).chd" size="20760982" crc="370e7e05" md5="35a141ecab3161e12a984355538c457f" sha1="db6d60141b35cfba2be2b0e9107170cfce341f70" date="1606683191" />
 		<rom name="Tony Hawk's Pro Skater 2 (France).chd" size="459447972" crc="0f4d2654" md5="1361b71d464b25d98ea381e211bc5d46" sha1="da0ab1815b60760dcefe2f337c7769e9d3971a0c" date="1606683290" />
