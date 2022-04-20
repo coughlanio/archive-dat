@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-19</version>
-		<date>2022-04-19</date>
+		<version>2022-04-20</version>
+		<date>2022-04-20</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -2220,6 +2220,7 @@
 		<rom name="Angel Blade - Neo Tokyo Guardians (Japan) (Major Wave).chd" size="82725342" crc="662874d5" md5="dba0165da404f25bbd1c4e673e36b1aa" sha1="ff848f5efd89afdbd8a7dabcef83202c9d273cea" date="1602197933" />
 		<rom name="Angel Blade - Neo Tokyo Guardians (Japan).chd" size="94297575" crc="680e5431" md5="4030cb85149a1173b531e8cbd88941d9" sha1="958557117866b0d7666e9dedb2d74eb63d66c44d" date="1602197947" />
 		<rom name="Angel Graffiti - Anata e no Profile (Japan).chd" size="420490556" crc="171c460a" md5="a393a93019abd4b42e3fc038100f7056" sha1="b1331cf70c21eb339d9c9e5b1815021888d04650" date="1602197992" />
+		<rom name="Angelique - Tenkuu no Requiem (Japan) (Premium Box).chd" size="433662921" crc="257434ed" md5="779c78b2af9e1b3ca7ff8d2134c3667d" sha1="383ab1988cc586ace47f173d036b6ba3846cc084" date="1650331096" />
 		<rom name="Angelique - Tenkuu no Requiem (Japan).chd" size="433662922" crc="7a7ca6a6" md5="ec45b7e0aca875e6650919ebac19ecb9" sha1="2bb81b67924e0dbf24daf3aeb356ec5df6b29cf8" date="1602198089" />
 		<rom name="Angelique Duet (Japan) (Angelique History).chd" size="467991010" crc="eb107692" md5="aa52d8ab33c4985f6b99abd4c0a3a6e4" sha1="4d78b68ad39470980e7153e972c5bae857218501" date="1602198147" />
 		<rom name="Angelique Duet (Japan).chd" size="467991011" crc="d5ff303d" md5="918d86a8c78eec4609411388342831fa" sha1="81be58b2c39cb64f4a21ac1625cd8b214d8693ef" date="1602198206" />
@@ -2253,6 +2254,7 @@
 		<rom name="Arc the Lad - Monster Game with Casino Game (Japan) (Disc 2) (Casino Game).chd" size="278233668" crc="b8fb7df0" md5="c38201bfb4b9baad286c886523c32c9d" sha1="cfdcc86e09f10eeba45c6fb957417a4df9d3abcf" date="1602198971" />
 		<rom name="Arc the Lad II (Japan) (Rev 1).chd" size="320441188" crc="b7ee87d7" md5="f1444557a8dbee6770fe5c38460643b3" sha1="5b1673c43e5215acc321e1de72b5962a2627b3d7" date="1602199002" />
 		<rom name="Arc the Lad II (Japan).chd" size="320531324" crc="08a8a0c5" md5="b3009d21730e55bd89024e47b3a6849f" sha1="e4825b13b29dd1ec1d8aa56523284813b83eac7d" date="1602199034" />
+		<rom name="Arc the Lad II - Characters &amp; World CG Movie Collection (Japan).chd" size="92221765" crc="4695b350" md5="e6e31e71a5466b87ef0d77331edea77c" sha1="94cf702dc031cab63d2d7d97be7b88b63affc0bb" date="1650371462" />
 		<rom name="Arc the Lad III (Japan) (Demo 2).chd" size="30043875" crc="61bf6d0c" md5="9e63439fec4a52e9986d10749ad865d4" sha1="83f20437dd2841b4a40289407ecc9fbfbc7d2b0d" date="1634247027" />
 		<rom name="Arc the Lad III (Japan) (Disc 1) (Rev 1).chd" size="265066666" crc="6745dfd2" md5="317737426c235b739d9ce7722820a633" sha1="72cde2afe9154f7e7f823876de91192fd1e522d7" date="1602199086" />
 		<rom name="Arc the Lad III (Japan) (Disc 1).chd" size="265094449" crc="893f3758" md5="449d9ed6ad8808c021ba3411b5a89483" sha1="62908fa902159dea82a001c382f49c5aff6cfad3" date="1602199179" />
@@ -2596,6 +2598,7 @@
 		<rom name="Championship Bass (Japan).chd" size="161551475" crc="a1a61726" md5="a25d7d267a7f340cea259ef95e77a589" sha1="e428b53bb69e5bb37d3a7a6c123d4e972fe601eb" date="1602442832" />
 		<rom name="Chaos Break (Japan).chd" size="229881199" crc="c168a4fe" md5="5311e1760267d442ad095c460cc6221b" sha1="cbfd20bad84bb05a91c2e06abb304c38247b09d4" date="1602442904" />
 		<rom name="Chaos Control (Japan).chd" size="326402187" crc="83abaf82" md5="f54adf47681d3ff1f45a08f110ffe030" sha1="796ad466b417a90567f2da4d4062015464738f77" date="1602443040" />
+		<rom name="Character Tkool (Japan).chd" size="34793497" crc="269c77e4" md5="29da9f4cfd51149ebadda162f8d98663" sha1="8c8950bc3a0d94b27ef64fe70c86e5245f22587b" date="1650371474" />
 		<rom name="Charumera (Japan).chd" size="50829216" crc="dd599ce2" md5="7ff0ca8d2c035dff5fb29b143e66c86e" sha1="b1a06259d28131136fa86a8efb64ce136f6c9443" date="1602443057" />
 		<rom name="Chase the Express (Japan) (Demo 1).chd" size="358386143" crc="5acc750e" md5="4bde3b5f244034ab25031049565cb909" sha1="3255868ec57d3200bb83081ef22700a0a238daab" date="1634252574" />
 		<rom name="Chase the Express (Japan) (Demo 2).chd" size="358387808" crc="cada7de3" md5="4f7aaf5ed859ef022b5b395bf136a5d7" sha1="3cbbb760bcb1456e247717c69c53fa32947c216d" date="1634252661" />
@@ -2618,6 +2621,7 @@
 		<rom name="Chippoke Ralph no Daibouken - The Adventure of Little Ralph (Japan) (Demo).chd" size="38607779" crc="9f41ff7e" md5="847e59a46a62c8cc6884cbbc5eaefcc6" sha1="54d89d14e9d8943ef0c8a475c8a41373fe7d034e" date="1634252671" />
 		<rom name="Chippoke Ralph no Daibouken - The Adventure of Little Ralph (Japan) (Rev 1).chd" size="49897739" crc="e3718aa9" md5="6ab87861b6a79231ace25779ab2af28b" sha1="19399e451af2dfb313d5272966487cdcebca32b7" date="1602444462" />
 		<rom name="Chivas 1-2-3 - Destiny! Unmei o Kaeru Mono! (Japan).chd" size="329473412" crc="e1212ac5" md5="1cf128dfbdaa38e5373ecb28a1ba279c" sha1="b2b12d252a6303ad75ec1a3a53056f3ddd472f8b" date="1615770172" />
+		<rom name="Chocobo no Fushigi na Dungeon 2 (Japan, Asia).chd" size="277379947" crc="ab71f5e7" md5="3b2f51c7c24163be7db6c63cb7a72b1e" sha1="e4d6dd267108f4577d510462eb8f703e50a92938" date="1650385911" />
 		<rom name="Chocobo no Fushigi na Dungeon (Japan).chd" size="334200423" crc="dd0d33f0" md5="fb2b1e61e788b4933a031777e3b51f56" sha1="6fdb6555858d5f925e0560d7323e0b0807249111" date="1602444629" />
 		<rom name="Chocobo Racing - Genkai e no Road (Japan).chd" size="181584740" crc="00230f90" md5="e413fab8f2b8a4057f36b035ed1cfd25" sha1="f5c12fbdb85121286dbbb6eddf6ceb39826aa11e" date="1602444760" />
 		<rom name="Chocobo Stallion (Japan).chd" size="127446544" crc="f878e262" md5="ddf00fcb5fc2dd140f0d68fec77654db" sha1="0e3065763e4c106e2b4fd9ee478be25dc562a60a" date="1602444788" />
@@ -2695,6 +2699,7 @@
 		<rom name="Cocktail Harmony (Japan).chd" size="375751370" crc="eb482e63" md5="6fde28ed360330a2ee13e11a0f405d6e" sha1="a089866bef200a93fb2021610746ac7c6880f259" date="1602462108" />
 		<rom name="Colin McRae - The Rally 02 (Japan).chd" size="164722285" crc="08267ef5" md5="633e4dffb507be494aa6f51f09e8d10f" sha1="9bfe429a2244ab1c49630dbee9c316b16f49ad6c" date="1602462247" />
 		<rom name="Colin McRae - The Rally (Japan) (Demo).chd" size="52666297" crc="a421db05" md5="c3c38c4623eaeab6e9738e45601501d7" sha1="b223c66e00c4d38ce78a790dc1f901549a66f8fa" date="1634253841" />
+		<rom name="Colin McRae - The Rally (Japan).chd" size="242882798" crc="43bbaf55" md5="f47a323b930b7ce165000ad379b734c9" sha1="46519e6fe042f8ddbce53189a8e8a435ff1b4073" date="1650386021" />
 		<rom name="Colony Wars (Japan) (Demo).chd" size="13843470" crc="1b849c1f" md5="1ce67623caa6ac8f9536915f7265669f" sha1="f96d1af2adf5a2c6874743712ad97e284dc905c5" date="1634253846" />
 		<rom name="Colony Wars (Japan) (Disc 1).chd" size="339743832" crc="ef60782c" md5="f9407e36d6baa73e221d5ad8cc1dee66" sha1="b6fef7706f2d19f7b305105bf1ad91821a757ff9" date="1602462306" />
 		<rom name="Colony Wars (Japan) (Disc 2).chd" size="415246625" crc="2143dd48" md5="64979bc7d8d2fe21b53efac47522f67e" sha1="a6bb39c22c068daefa3aa8e9c17942c2faa93c9f" date="1602462912" />
@@ -2928,6 +2933,7 @@
 		<rom name="Dengeki PlayStation D45 (Japan).chd" size="292419505" crc="c382f9d9" md5="7fcd4137f35825991423de9b8cddbaa7" sha1="2e68be334810670541e018a67acccccc16d738c1" date="1650207055" />
 		<rom name="Dengeki PlayStation D (Japan).chd" size="289896749" crc="f08e29bc" md5="0e231302b6e27ce5dbeee953ffbcc45c" sha1="73233eb602a69859d5cdf8cafc9a6d089b490a8e" date="1650200287" />
 		<rom name="Dengeki PlayStation D - Konami Fanbook (Japan).chd" size="472947517" crc="0032fe7f" md5="c43ab11f432d61cef4b37ae41c044066" sha1="6283ef8163d48a98bc0931103da7ec4a65391ed0" date="1650200392" />
+		<rom name="Denkou Sekka Micro Runner - Maniac Hakase no Hisaku (Japan).chd" size="290268910" crc="04194141" md5="3e869e56f0d89f0bc4be117e8ff88250" sha1="467c65974b445b8aad6afba765ffe11252513567" date="1650392884" />
 		<rom name="Denpa Shounen-teki Game (Japan).chd" size="23955428" crc="c35016c8" md5="764275458a523c5198da717bcae63eb5" sha1="c5e6c5763492a41359f2bc90449b94811830aa69" date="1602537662" />
 		<rom name="Densetsu no Ogre Battle (Japan).chd" size="90276355" crc="7df5a1fe" md5="b1c2ecb8c7cd17a56f1611659f156ce1" sha1="65a99931908238a1aeedfbf52e244039aac4c3f0" date="1602595654" />
 		<rom name="Densetsu-juu no Ana - Monster Complete World Ver. 2 (Japan).chd" size="274050675" crc="75f1d6e2" md5="7ddada88aa717d72b577cb6b9f2dee22" sha1="8449d23f70e7f2c23ee181fbc8277a2befedb9c6" date="1602537695" />
@@ -3566,6 +3572,7 @@
 		<rom name="Guuguuthropus (Japan).chd" size="18575408" crc="ab3aeb0b" md5="b365d5dc95f3c06fe2585b2aa0bff8d5" sha1="b10a9347a2f423aa2273640338008a640c7a039c" date="1603142916" />
 		<rom name="Gyuwambler Jiko Chuushinha - Ippatsu Shoubu! (Japan).chd" size="21885373" crc="ca74ccff" md5="7030199d74f3fba07e385eb2706fc608" sha1="b548dcfd4edb8635e6a7929895abdb4ff652f211" date="1603142924" />
 		<rom name="Hacha Mecha Pon! (Japan).chd" size="6322305" crc="1fff17b9" md5="d939303322944a4a9d0fc199a179598e" sha1="5b2ff766138c0e26c3650c750533eef1f31ea760" date="1603142931" />
+		<rom name="Haishin 2 (Japan) (DigiCube Best Selection).chd" size="108830705" crc="f608608a" md5="5be022a06ba3ef94ded705e4536d268b" sha1="b52581fbe3476fb07be8c7492d20bb7e21657da0" date="1650331145" />
 		<rom name="Haishin 2 (Japan).chd" size="114683137" crc="d1953aa1" md5="3ba319441285359d3f6ad52a3d8f2c87" sha1="93aef8991c72e6de1d08e5617065e018df7754c5" date="1650315639" />
 		<rom name="Hajime no Ippo - The Fighting! (Japan).chd" size="329777250" crc="ea10a9fd" md5="fa48eca1a4aa007ef3e61a3649ba012b" sha1="a72cac5fea6db79f83a1c4932a3c8a6493201906" date="1603146731" />
 		<rom name="Hakai-ou - King of Crusher (Japan).chd" size="305559913" crc="7e4b48b6" md5="ac3eccc1198eb77cbf236bde640718dd" sha1="8513a2a0956c0a125e932c5b5544a775969f6530" date="1606748042" />
