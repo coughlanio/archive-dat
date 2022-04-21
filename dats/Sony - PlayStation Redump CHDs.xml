@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-20</version>
-		<date>2022-04-20</date>
+		<version>2022-04-21</version>
+		<date>2022-04-21</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -3036,10 +3036,10 @@
 		<rom name="Doki Doki Pretty League - Nekketsu Otome Seishunki (Japan) (Disc 3).chd" size="136336375" crc="70a83c2e" md5="e6f8c688c90d990de75c60639fafa968" sha1="3f18d75a708691d821e5d0ff48573dd7570aeaa8" date="1602677667" />
 		<rom name="Doki Doki Shutter Chance - Koi no Puzzle o Kumitatete (Japan) (Major Wave).chd" size="194514289" crc="5816ebec" md5="4d8ffa120f4d8ba225638324d053e0ee" sha1="865cd14f80355afbad990f9d731590a06dd3d52d" date="1602677712" />
 		<rom name="Doki Doki Shutter Chance - Koi no Puzzle o Kumitatete (Japan).chd" size="194500403" crc="482a6346" md5="4837f79645a270af03f2b8bfe9cff592" sha1="6868cef22bec8b8b9a51ec83c6f2e28ef2be4975" date="1602677736" />
-		<rom name="Dokiou Ki (Japan).chd" size="225265173" crc="f5fa88af" md5="05f04d0671f8b706b6c2e38ff23b1d66" sha1="aef929b4375d148b803e86ac6b6014e27bc98e15" date="1602677770" />
+		<rom name="Dokiou-ki (Japan).chd" size="225265173" crc="f5fa88af" md5="05f04d0671f8b706b6c2e38ff23b1d66" sha1="aef929b4375d148b803e86ac6b6014e27bc98e15" date="1650459370" />
 		<rom name="Doko Demo Hamster 2 (Japan).chd" size="34782186" crc="e5d9bfd2" md5="322f4a935565c572d9c7c84c09b97d90" sha1="3e96db7a08051eba2c85a2356b1d7b4486f84d73" date="1602677786" />
 		<rom name="Doko Demo Hamster 4 - Doki Doki Sugoroku Daibouken! (Japan).chd" size="222211773" crc="1bacd000" md5="34c1a563e8aece8b3a6753f9b8de9302" sha1="a5e4e5ad3f6c5756d1a56dfafa234bfdd4f672fe" date="1602677817" />
-		<rom name="Doko Demo Hamster - Bi! Click Tanken-tai (Japan).chd" size="46665312" crc="bd5897dc" md5="5e6038c8ea8037972dded2e64343a4be" sha1="36df9e565696830fdb4a999d3994d2f1905f5daf" date="1602677779" />
+		<rom name="Doko Demo Hamster - Bi! Click Tankentai (Japan).chd" size="46665312" crc="bd5897dc" md5="5e6038c8ea8037972dded2e64343a4be" sha1="36df9e565696830fdb4a999d3994d2f1905f5daf" date="1650459381" />
 		<rom name="Doko Demo Issho (Japan) (Calpis Water Version).chd" size="231878249" crc="3eab7363" md5="e3b173762a1772322ee1ecf3775fdca2" sha1="7d837dfa41c69390aadb50043179db9f194ffccc" date="1602677843" />
 		<rom name="Doko Demo Issho (Japan) (Demo).chd" size="69358953" crc="649b3bed" md5="36671af3df166310d9c509cc0ddd622f" sha1="88bd341f6c007002adb4b2f2b92fb737096d32d3" date="1634255195" />
 		<rom name="Doko Demo Issho (Japan) (Rev 1).chd" size="239552132" crc="cae8b1d2" md5="a5d1e403729972e39582b959fba2bc69" sha1="c06201e877d353f64292b5f1332587a7b8dcadc4" date="1602677956" />
@@ -3060,6 +3060,7 @@
 		<rom name="Dotsubo-chan (Japan).chd" size="163400712" crc="a5e225b9" md5="73c4186a0683ce9b8e2b37a0f83102c5" sha1="ebdd3d581a21fb680c2780d4bcce8d5822dfdf96" date="1602678531" />
 		<rom name="Double Dragon (Japan).chd" size="289307951" crc="be28143e" md5="e9b4c6d45904043db5d83a0238651f43" sha1="1192dfda73850fff62ed48e0be8178cce8c4e6cb" date="1602678563" />
 		<rom name="Doubutsu Chara Navi Uranai 2 - Kosei Shinrigaku + Ren'ai Uranai Puzzle (Japan).chd" size="264956183" crc="481e5c1d" md5="80e685d540f8195cb88fa0498fc4f3f7" sha1="c9c506dd0a9bc6b9fb9783d805303e098b134bc1" date="1602678590" />
+		<rom name="Douga de Puzzle da! Puppukupuu (Japan).chd" size="411909665" crc="9aaf6bf8" md5="9d58eed3575b7b286956617f5055e58e" sha1="b6bf86e096fbcb9a95d6de25bc1d80837b144aee" date="1650459519" />
 		<rom name="Doukyuu - Billiard Master (Japan).chd" size="274319669" crc="c8bed7a1" md5="7678a73d21543cd44198f179465a0526" sha1="0efbfefd8fda17fb26f1737d20262953a3e8e2fb" date="1602678688" />
 		<rom name="Doukyuu re-mix - Billiards Multiple (Japan).chd" size="355295160" crc="5eb9b7a4" md5="e167581fc4e3928bf468d647bb38bdd3" sha1="1ab320696b17c47940ea56adda15c966dd875d4f" date="1602678727" />
 		<rom name="Doukyuusei 2 (Japan) (Extra Box).chd" size="394390902" crc="deb95a5f" md5="2466e6148e6c09dd00158dd90336c0cb" sha1="62342a795ed4f46fed2d58896214dac11ce521c0" date="1602678784" />
@@ -3128,6 +3129,7 @@
 		<rom name="Econo Kids - Ta ga Tame ni Kane wa Naru (Japan).chd" size="44559626" crc="4a1e36e7" md5="d938e7cdaaa7d3a7a448da7752398c23" sha1="bdd1dee3cc827d7d19f1961be2cc3c2f86e81e53" date="1603033917" />
 		<rom name="Ecsaform (Japan) (Disc 1).chd" size="153612448" crc="11148e7f" md5="a2663ce16a32fc6189b05ae9a803bd5b" sha1="99ce7e195b7a69c7878196a8713df8010bda5c41" date="1603021285" />
 		<rom name="Ecsaform (Japan) (Disc 2).chd" size="69151421" crc="0fe3fb9e" md5="52dfb599f92176bc438cf0985918748c" sha1="3b18d491caeefdcefb8b2edcc2ac46e2a6bb2d11" date="1603021303" />
+		<rom name="Efficus - Kono Omoi o Kimi ni... (Japan).chd" size="315738744" crc="fa3ae7e5" md5="157a41c60a66e9c9f5e8a1a371cc630c" sha1="0178d448e5408aec0a5146a873a81e75dcac32a6" date="1650466511" />
 		<rom name="Egg (Japan) (Major Wave).chd" size="82776032" crc="852b0875" md5="c79dd35bca92fd90c2359f99220e17af" sha1="ec80f56b13245d57c3b776effdf17f2f39948e5e" date="1603021473" />
 		<rom name="Egg (Japan).chd" size="89391378" crc="4f21929e" md5="d7df7e4043a0ff60718fd784665ccecf" sha1="df152023ae28884f618b8236d15222a65fd6502b" date="1603021492" />
 		<rom name="EGWord Ver 2.00 (Japan).chd" size="15882402" crc="e1815576" md5="8090d07f2f8c1f1f277a675f9008dc69" sha1="3a0d9aff05e8a551d72a6aa11746b5fcbffff459" date="1603021501" />
