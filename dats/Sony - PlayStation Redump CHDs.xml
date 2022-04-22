@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-21</version>
-		<date>2022-04-21</date>
+		<version>2022-04-22</version>
+		<date>2022-04-22</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -2639,6 +2639,9 @@
 		<rom name="Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 1).chd" size="139014680" crc="4ca86916" md5="f3abbda20a390ff7d522f1d78ee674ba" sha1="0c94f15d3be504edb02b3830cf91890f9c9fc15c" date="1602455666" />
 		<rom name="Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 2).chd" size="241859496" crc="d3a19993" md5="c35e67d6954f232cb7d3c4c90014b34d" sha1="622a550f62c222d2f69d2a7c3c95d8005d8fd2dd" date="1602455737" />
 		<rom name="Chou Jiryoku Senshi Microman - Generation 2000 (Japan).chd" size="447398669" crc="32980550" md5="f1b4d6e9653ee9881bfd5e900f096819" sha1="389965c8d13a92e68c5dcad6fdf09a8a25e55a55" date="1602455801" />
+		<rom name="Chou Kousoku Gran Doll (Japan) (Disc 1) (Premium Edition).chd" size="357287118" crc="20657ffe" md5="aa64c2276f07449de07b7a54fe09d7cd" sha1="3b62abde735730d4bf09e05c0b3c31fc1b785da8" date="1650504642" />
+		<rom name="Chou Kousoku Gran Doll (Japan) (Disc 2) (Tokusei Premium Disc) (Premium Edition).chd" size="295627131" crc="11e9a33f" md5="7a73945c975976cc3a2e51c75f82a916" sha1="0863d3370b683c367c962f17b1d4111e325eceff" date="1650504740" />
+		<rom name="Chou Kousoku Gran Doll (Japan).chd" size="357287119" crc="849ea6fa" md5="5ecb365bc7ba647dfb8f82b0dfa8fb0c" sha1="3161164b1ed11a1c890b4d14fd4e79bb1e4c4408" date="1650504845" />
 		<rom name="Chou Mashin Eiyuuden Wataru - Another Step (Japan).chd" size="150448590" crc="9645f6f2" md5="d6432caa363af92095c831b4c802e231" sha1="bcf5a55580229ca6a0e1b551720eaae033350ead" date="1602455912" />
 		<rom name="Chou Nazo-ou (Japan).chd" size="474766952" crc="2d4e4891" md5="5dbf9a25fb567d960b7e5243bdf51353" sha1="5d744ede964cecbc97b3a078ccd7f4db111cef0b" date="1615770317" />
 		<rom name="Chou Sentou Kyuugi Vanborg (Japan).chd" size="332103651" crc="54e7815f" md5="3ec32c1810b1d87215ce7fcbd10b8c79" sha1="62fcfd65066975552b364f7bc43474e379d41526" date="1602456042" />
@@ -2767,6 +2770,7 @@
 		<rom name="Cross Tantei Monogatari (Japan) (Disc 2).chd" size="350115495" crc="5976d884" md5="05bd8eeef8a9b8cb426f47b587f917e5" sha1="9576090e456db2afdcfa81ec416b85b29ac3c742" date="1602428098" />
 		<rom name="Cross Tantei Monogatari (Japan) (Taikenban).chd" size="256197831" crc="db3e3e0b" md5="8524a0566a2b3913d46bf725d09d3698" sha1="36355b6e457dbafecbd90bd0a40e7c3c35c2d47c" date="1634305315" />
 		<rom name="Crow, The - City of Angels (Japan).chd" size="158084248" crc="3ed259dc" md5="204796c0986c99525b8ac31cf693724d" sha1="80fc99650d1fb5602dd11e12100adf195c822792" date="1602428221" />
+		<rom name="Crown Knights, The - Jaja-uma! Quartet - Mega Dream Destruction+ (Japan).chd" size="226131235" crc="92f592ca" md5="68656420cf678584b8cde297a6c354f1" sha1="35053c4f499e9688287241b37ab76d198063a36f" date="1650510222" />
 		<rom name="CRW - Counter Revolution War (Japan).chd" size="198740025" crc="b361374c" md5="ef69e3d00714af185d7772c5fa8c6e2b" sha1="fabaf1eccdc49dd4d4bf974db8e6873ca553c3ad" date="1602428266" />
 		<rom name="Cu-On-Pa (Japan) (Demo).chd" size="102535102" crc="9e34cf78" md5="fd223349246cb2287f67373c0b11a632" sha1="e047124a48e1a6876f0b75dee0ee0334bf981a3d" date="1634254122" />
 		<rom name="Cu-On-Pa (Japan).chd" size="381030574" crc="68dc9c5f" md5="b2e336496780409647fc8d4b0821e98a" sha1="e926745f8a4b1e40ee75946dea06fc41b27034b4" date="1602428319" />
