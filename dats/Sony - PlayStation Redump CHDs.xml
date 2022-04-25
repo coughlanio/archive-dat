@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-24</version>
-		<date>2022-04-24</date>
+		<version>2022-04-25</version>
+		<date>2022-04-25</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -3724,14 +3724,18 @@
 		<rom name="Honkaku Mahjong - Tetsuman Special (Japan) (Rev 1).chd" size="333602837" crc="a56e639b" md5="66539624af9d6082abfeb846037c56e9" sha1="188d4a890981cf5b05744831c132c57390bb1a73" date="1603156178" />
 		<rom name="Honkaku Mahjong - Tetsuman Special (Japan).chd" size="333602082" crc="3d85d833" md5="fb706f56eebfa3d8424b94ddd05ab309" sha1="665e1ae238deddd580da0615890af8dec74cc536" date="1603156226" />
 		<rom name="Honkaku Shougi - Shougi-ou (Japan).chd" size="78076249" crc="9993b641" md5="04a3e22c276d274a39dd6f3962dc1596" sha1="ac8b3c48a443634a1f52e9f2850295b7bbb14362" date="1603156241" />
+		<rom name="Honkaku Yonin Uchi Pro Mahjong - Mahjong-ou (Japan).chd" size="134192904" crc="cea2feae" md5="d4299054c1863e21d739dca81513391a" sha1="8f353a6b259ae79e83558a67adba9f0140d24b62" date="1650764645" />
 		<rom name="Honkakuha Yonin Uchi - Mahjong Club (Japan) (Honkakuha de 1300).chd" size="1000085" crc="01c5364c" md5="3c42d30d044c16da482c7edbf83c171c" sha1="d250e979a686475e84c28c6dfc487739383aa55d" date="1603156270" />
 		<rom name="Honkakuha Yonin Uchi - Mahjong Club (Japan).chd" size="946037" crc="aff7b9d8" md5="d8d95745993b7769c3e70082f755812c" sha1="7c969a986631034e0f5f89236a9c90f7421e0194" date="1603156281" />
 		<rom name="Honoo no 15 Shumoku - Atlanta Olympics (Japan).chd" size="277082810" crc="9156f72a" md5="fc69f8efa2f6a3e6538d70d3d2721947" sha1="03a7cf5a331b3396b0ab599d690f24b4917ee50e" date="1603156311" />
 		<rom name="Honoo no Ryourinin - Cooking Fighter Hao (Japan).chd" size="249339088" crc="44c4df19" md5="443332b49dc3cdab3f504f65ee1b47e4" sha1="7e60222ea09f39bef5884d2f12fc9fb6cc0360e9" date="1603156334" />
 		<rom name="Horned Owl (Japan).chd" size="236962447" crc="2434e2c3" md5="64e989ff138444311206c35ffcad9c5b" sha1="1a2f9d2b24fc112a7e0ccc929b2500a20347e75f" date="1603156358" />
+		<rom name="Hoshi de Hakken!! Tamagotchi (Japan, Asia).chd" size="108386312" crc="32e08232" md5="651575745eae05c5b8754126d705d3e4" sha1="569441c75ca4c0726ccfcc13c9c11443c48fff44" date="1650764673" />
 		<rom name="Hoshi no Mahoroba (Japan).chd" size="361095012" crc="06804c13" md5="71326083813481e06e652eab7c5ddd4b" sha1="f23691b2f7dece4250981dc2168e50d5d40ce91f" date="1603156403" />
 		<rom name="Hoshi no Oka Gakuen Monogatari - Gakuensai (Japan).chd" size="429236155" crc="6e5cd04f" md5="706fedea8aac9c7578eb5aa2ef54c6b9" sha1="05bc9bdb98a7bae7821ba7992fba07a0a29f57fa" date="1603190923" />
 		<rom name="Hoshigami - Shizumiyuku Aoki Daichi (Japan).chd" size="154777541" crc="b6204b54" md5="ae5fbe5ca276e2069db1488f11597d81" sha1="b53580684e1878b18ac1b1d9874357274f0c29f4" date="1603156420" />
+		<rom name="Houma Hunter Lime - Special Collection Vol. 1 (Japan).chd" size="214993123" crc="af3dd1fd" md5="3e814063e8e61343dd2a3c3f6a5369af" sha1="312ea2a2972070bd2ea64caf5f7262bc0dc92111" date="1650814546" />
+		<rom name="Houma Hunter Lime - Special Collection Vol. 2 (Japan).chd" size="324453423" crc="fee20b69" md5="e2b1b774ca89630531a227fdb93b4074" sha1="f4f4521c4f6c3aab51b6e8dc4d0e2f3ad9d2ee63" date="1650814696" />
 		<rom name="Houshin Engi (Japan).chd" size="175123538" crc="13369747" md5="4e4aad44dd0b83fadf99a3695211ae16" sha1="02e9d5984202bc5bba4d5eacb085d5b410e56af8" date="1603191123" />
 		<rom name="Houshin Engi - Aizouban (Japan).chd" size="193008980" crc="a15f5d19" md5="c83ee70ad73a15ebb9dbaae10ab42065" sha1="c7dcecca31ae22797ee39a003a4f52a3f4969cac" date="1603191173" />
 		<rom name="Housoukyoku, The - SatelliTV (Japan).chd" size="31565275" crc="43dd0172" md5="57adfdc003f26b819b77fd7eeead38ac" sha1="9bc5bf51ce016e1fc0366aabf1be0c095255cb69" date="1603191201" />
@@ -6472,6 +6476,7 @@
 		<rom name="Universal Nuts (Japan).chd" size="190692997" crc="2c21a3ca" md5="c98b3e7fea04d743f4ac291c6cc2d5de" sha1="371e5520aa92557d10774c581b67ecb0085b7fae" date="1606485928" />
 		<rom name="Universal Virtua Pachi-Slot - Hisshou Kouryakuhou (Japan).chd" size="293285081" crc="348b7e27" md5="6b0774411303c8651c2d52c2ace3b49d" sha1="fc3b277a7a966e9552e85314cdc36bf8591d9708" date="1606486016" />
 		<rom name="Universal-ki Kanzen Kaiseki - Pachi-Slot Simulator (Japan).chd" size="12794445" crc="2d6884df" md5="46c943ebe123173927f09031a66e5518" sha1="c89c289a1d177825ce0d9858e77818ed9e7cfeba" date="1606486030" />
+		<rom name="Uno (Japan).chd" size="77209891" crc="894d6800" md5="3edcfa966d923980f9a7cd988e4bf333" sha1="ff8a61afac6c3ae81e617a7effbfdc7ae94b0443" date="1650806746" />
 		<rom name="Unsolved, The - Hyper Science Adventure (Japan) (Disc 1).chd" size="305564353" crc="60959bc2" md5="e3dd85151c3e1dd8825958242847a6a8" sha1="b85a1cd5b83c03c3a9119dde5f316907abe21096" date="1606486125" />
 		<rom name="Unsolved, The - Hyper Science Adventure (Japan) (Disc 2).chd" size="365959329" crc="2aa28b2f" md5="a62299c165a5e1f1fe56475c44b8f6e7" sha1="821214f6148abbd9b753534622c4720b84bee845" date="1606486230" />
 		<rom name="Unsolved, The - Hyper Science Adventure (Japan) (Disc 3).chd" size="405995847" crc="c14bf235" md5="c8b8202c03b245fe21a2a682593d5c0f" sha1="687b8d65919abb3e748b8d2c327a76141aeeef10" date="1606486359" />
@@ -6687,6 +6692,7 @@
 		<rom name="Yamasa Digi Selection (Japan).chd" size="114635784" crc="8f58bc61" md5="551b998bd141d1c42d780acabf758975" sha1="b3dbe0b8b55407a93914527f83b413993c9acf77" date="1602005463" />
 		<rom name="Yamasa Digi World - Tetra Master (Japan).chd" size="128947770" crc="2698bc4c" md5="e0de4a5ec252a1d363385d76c91c34e3" sha1="fcc1ce2d9fe6bba1d4267c614a18b726f81960c5" date="1602005511" />
 		<rom name="Yamifuku Natsu - Teito Monogatari Futatabi (Japan).chd" size="278564319" crc="359b8eb1" md5="293fce1315ecdce294ff463e1d21cd4d" sha1="db469f8dbd94246fab1c64495a043266f364033b" date="1602005573" />
+		<rom name="Yaoi Jun'ichi Gokuhi Project - UFO o Oe!! (Japan).chd" size="442297249" crc="91be5859" md5="bc988c163a87294ebd7ed450f7a554ba" sha1="c8cefa4c903b7fbe6b0c09cca6109ff5d7a8460a" date="1650830579" />
 		<rom name="Yarudora (Japan) (Demo).chd" size="328394528" crc="8870658e" md5="ea3c2b05cbbf578da4202ee0d0d841e7" sha1="ff00be451444ae2a3fc9b61bcadb9740564ae0ce" date="1634306261" />
 		<rom name="Yarudora - Yukiwari no Hana &amp; Sampaguita (Japan) (Demo).chd" size="257868210" crc="6a425771" md5="157984baac8cdd43be7392d164d38599" sha1="0f64b1785524b2d8fd32ffbc5363b365e1bf00a6" date="1650218859" />
 		<rom name="Yarudora Series Vol. 1 - Double Cast (Japan) (Demo 1).chd" size="79934484" crc="fc9f5931" md5="9cfc1bd52ae2bb4e2aa1ee476b96f61a" sha1="ece237cd650223ef6342cb7232006c625180559b" date="1634306378" />
@@ -6730,6 +6736,7 @@
 		<rom name="Yuukyuu no Eden - The Eternal Eden (Japan) (Rev 1).chd" size="279950655" crc="ada64cb8" md5="794b28a33e6eda7c5f2d70dcabadbb8f" sha1="7c273ab40f625f3d9b22d4dfc418ff3ce92aaad6" date="1602429260" />
 		<rom name="Yuukyuu no Eden - The Eternal Eden (Japan).chd" size="279950679" crc="64bbb141" md5="abed98a26ee37c9369d554a5e1cd78e8" sha1="3c0c608bf289c4e9af23fe96d35c9f78d745818d" date="1602429287" />
 		<rom name="Yuusha-ou GaoGaiGar - Blockaded Numbers (Japan).chd" size="495554260" crc="77b51f5d" md5="73a7731410b1e211337c5f9fbe57c384" sha1="ecab9cdb6cff9d10db0a306f5b5231c97274f826" date="1602429336" />
+		<rom name="Yuuwaku Office Ren'aika (Japan).chd" size="387647097" crc="1265394a" md5="dc05a56ece69b75d148dbc0a9fcaf638" sha1="3b99d3a396a4d0ac1da9784c9be7b7efbc1a26fa" date="1650822596" />
 		<rom name="Yuuyami Doori Tankentai (Japan) (Demo).chd" size="175579633" crc="136cfbc4" md5="faf1163ce2ecc477601e398937abd596" sha1="d2bb238aa548b32da6180110057c07073d913369" date="1634306851" />
 		<rom name="Yuuyami Doori Tankentai (Japan).chd" size="232944744" crc="6cd18c9d" md5="d5fe2b3cd15aa21bb91100c1044c076b" sha1="f6997773f32956bc2491b8b3c1f3602748ca139c" date="1602429430" />
 		<rom name="Zanac x Zanac (Japan) (Demo).chd" size="92020752" crc="376b47aa" md5="a81fe6635bb741ccddbfc232d2950903" sha1="dc5a16cf52207e494ec76408a68475a62b9af42a" date="1634306918" />
