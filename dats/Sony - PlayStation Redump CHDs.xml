@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-26</version>
-		<date>2022-04-26</date>
+		<version>2022-04-27</version>
+		<date>2022-04-27</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -3859,7 +3859,7 @@
 		<rom name="J.League Jikkyou Winning Eleven 2001 (Japan).chd" size="217128538" crc="4851d1db" md5="a442a63800070b37be1d4284b2865df5" sha1="e2d8c667a2879aaeba267954f385f147e3936981" date="1606749208" />
 		<rom name="J.League Jikkyou Winning Eleven '97 (Japan).chd" size="138273100" crc="8efefefb" md5="7c228fd52a09a2629e127bf4bc28e841" sha1="e8333dd2270521dbe5a0d97a521e8c4bbbb76d8e" date="1606748843" />
 		<rom name="J.League Jikkyou Winning Eleven '98-'99 (Japan).chd" size="200308894" crc="081ab48c" md5="0cd6c54876deb296e48e103a32040bdd" sha1="aeca561839e2ac7e8fd3f33bb896dbf5e91ab927" date="1606748915" />
-		<rom name="J.League Jikkyou Winning Eleven (Japan).chd" size="110958623" crc="12d3ed6d" md5="f40efab1fdf0be97654c57384627027a" sha1="bb06a0d03eccfef12abef66e14d5e38f43b7ed55" date="1606748961" />
+		<rom name="J.League Jikkyou Winning Eleven (Japan).chd" size="110958623" crc="12d3ed6d" md5="f40efab1fdf0be97654c57384627027a" sha1="bb06a0d03eccfef12abef66e14d5e38f43b7ed55" date="1650935988" />
 		<rom name="J.League Soccer - Jikkyou Survival League (Japan).chd" size="366974330" crc="c24cbe4f" md5="9971ed77f3f31daa466f2707bdcfb6fb" sha1="e5f2193d0565d71ab51727c40c2e2609cdaaefc5" date="1606749343" />
 		<rom name="J.League Soccer - Prime Goal EX (Japan) (Lawson Station).chd" size="110760963" crc="1707e54e" md5="3d9a5f6caded418cd4ffca260f0f415b" sha1="2d13d7350900744d11fa5d5409d65307672a4a28" date="1606749388" />
 		<rom name="J.League Soccer - Prime Goal EX (Japan).chd" size="110681564" crc="b172374c" md5="e0995f7dab8aad4867545cabbe461ef6" sha1="9f370d60911cb344ba5a597f37125749655a2179" date="1606749428" />
@@ -4367,6 +4367,7 @@
 		<rom name="Mahjong Toriatama Kikou (Japan).chd" size="201294908" crc="447c1dc9" md5="d9c3334cfc4724153c981275da6964b6" sha1="fcc28d1ed479eee025c0eda7a092cb36a1fb7d2b" date="1603821033" />
 		<rom name="Mahjong Uranai Fortuna - Tsuki no Megami-tachi (Japan).chd" size="294477890" crc="65afac3d" md5="3afa620de584ec4e41b3170152906ba5" sha1="09e2c0cb0b5e57594af4a0a57e7e3f17e4aa72e3" date="1603821110" />
 		<rom name="Mahjong Yarou ze! (Japan).chd" size="45627976" crc="f8f1076c" md5="3eea4d7fd5df6ba9bd7fffb82d745d31" sha1="9b2bc1efd2b11fbd23111c8f882da9520c863c41" date="1603821130" />
+		<rom name="Mahjong Youchien Tamago-gumi 2 - Taikai e Ikou! (Japan).chd" size="185671299" crc="86002f9e" md5="52367f01f49a70c63ca1b36a2f3e0392" sha1="24a2eb5f7f2e1b1b1d31cd01a2fc1012ca41a1a8" date="1650979380" />
 		<rom name="Mahou Shoujo Fancy CoCo (Japan).chd" size="203105804" crc="28d752b4" md5="505806ef58d0058e2a0273a5b0e5b707" sha1="fc1f4c1afdd23798d2b739eb68838c835e57b2f9" date="1603821222" />
 		<rom name="Mahou Shoujo Pretty Samy - Part 1 - In the Earth (Japan) (Disc 1) (Episode 23).chd" size="154485413" crc="d7076ac1" md5="1eaefdc6ed2750322b64c06cdd276378" sha1="5378046f98f14b4236dc54f46e9bd9da05dff840" date="1603821270" />
 		<rom name="Mahou Shoujo Pretty Samy - Part 1 - In the Earth (Japan) (Disc 2) (Episode 24).chd" size="151868892" crc="3fd0b8c3" md5="87f7873f6d2e983cb942f739d65d4b1d" sha1="e333b48fd7ffee889b4f58ed887cd7d9d2bd786d" date="1603821319" />
@@ -4409,6 +4410,8 @@
 		<rom name="Marvel Super Heroes vs. Street Fighter - EX Edition (Japan).chd" size="304323918" crc="0674e2f8" md5="833704e8cc414710920eb10df5f3b239" sha1="d909598b4e968b49940c7efb442b1d786585ebd7" date="1603841750" />
 		<rom name="Marvel vs. Capcom - Clash of Super Heroes - EX Edition (Japan) (Demo).chd" size="269117642" crc="1700aff2" md5="dfc53146160998da4b858d5fae296678" sha1="08a7ccfe4e1206f7ce984413536857b9c76c12c9" date="1634261601" />
 		<rom name="Marvel vs. Capcom - Clash of Super Heroes - EX Edition (Japan).chd" size="269118539" crc="72e61371" md5="662ca089b0a0035ce373bcb841c094ab" sha1="b748ac95d10a7c0d8136c853f02937033c8d238f" date="1603841879" />
+		<rom name="MasMon Kids - The Another World of the Master of Monsters (Japan) (Major Wave).chd" size="60214108" crc="ed5b98c0" md5="8bdfccaed876854e292141ca6ba18a32" sha1="14f45ac25a8e884e0e7ae079b70bc509afc72c5b" date="1650979403" />
+		<rom name="MasMon Kids - The Another World of the Master of Monsters (Japan).chd" size="61027479" crc="bccd897e" md5="bbcc47de3555c4a8ef17db2223c66a76" sha1="7baf608d044c7bff9f04c288e297b98052b72b46" date="1651007655" />
 		<rom name="Master of Monsters - Akatsuki no Kenja-tachi (Japan) (Major Wave).chd" size="105465319" crc="ab759395" md5="63e5a6cc33809653f717955478143aa5" sha1="49fa29f963ecdfb157f5650fcaba76b47ff63893" date="1603841909" />
 		<rom name="Master of Monsters - Akatsuki no Kenja-tachi (Japan).chd" size="105128998" crc="a48edba3" md5="6f99587d09457c81a9aca6144d01ae31" sha1="9cb25ca5a8fd08f650e190d3fc2d4d0ce4b8710d" date="1603841943" />
 		<rom name="Masters - Shin Harukanaru Augusta (Japan).chd" size="307120184" crc="224da246" md5="9a425960adf65897c9bb4fc103e74ff4" sha1="c2998e6b0a23954e76975961d4d417f915b8c451" date="1603841995" />
@@ -4521,6 +4524,7 @@
 		<rom name="Minna no Golf 2 (Japan) (Rev 1).chd" size="200677174" crc="a5c3a007" md5="918eb0303f9299b71dcbc2d97788c72a" sha1="99b037f09eb7d18556f9bbfd9a4f12896309bf97" date="1603895085" />
 		<rom name="Minna no Golf 2 (Japan).chd" size="200698690" crc="47a64bb6" md5="7c27adee49a9e882da4ca17264c31572" sha1="dbd2f598e58ec707dbfe344d825b52bb71e9b6e3" date="1603895136" />
 		<rom name="Minna no Golf (Japan) (Demo).chd" size="34250025" crc="afc1dd54" md5="b4dca3fa502bb92d3fd4dc10a2342191" sha1="a2570fd697748f5e073c8dc9a10bf70884e1ca83" date="1634261956" />
+		<rom name="Minna no Golf (Japan, Asia).chd" size="145943462" crc="4de1982a" md5="8dfbaec60beb7b79322b589ba933c3ad" sha1="ee2ec7b0ac31d4e6f60804670a468284db98df8e" date="1651014643" />
 		<rom name="Minna no Kanji Kyoushitsu - Chousen! Kanji Kentei (Japan).chd" size="2523009" crc="ff8b1a69" md5="e1f0b1c3b4298e509f88f4a1c46b4bc9" sha1="0eb0f72d4fb9a8590e9534bc6abb0eca58185fd3" date="1603895140" />
 		<rom name="Minna no Shiiku Kyoushitsu - Kuwagata-hen (Japan).chd" size="10492387" crc="3ececa1c" md5="ad2471ef5051ed4906c9f0b1cceab530" sha1="618215724f581d428fd24b2c8bb60e2ad37a20da" date="1603895149" />
 		<rom name="Minna no Takaramono - Watashi no Licca-chan - Otetsudai o Shiyou (Japan).chd" size="53388917" crc="91f6f119" md5="40b3f40cdb3303e0463b2ebe671b4534" sha1="1626742660ddcb7b992f7c5d57fce7dfe9d843dd" date="1603895168" />
