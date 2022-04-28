@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-27</version>
-		<date>2022-04-27</date>
+		<version>2022-04-28</version>
+		<date>2022-04-28</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -4487,6 +4487,8 @@
 		<rom name="Metal Gear Solid (Japan) (Demo 2).chd" size="190872976" crc="7881a0ea" md5="19728a0f2f72bf258bea3dde4940f171" sha1="ab54751d13102b84df1e49168e8286f0e7862977" date="1634261850" />
 		<rom name="Metal Gear Solid (Japan) (Disc 1) (Ichi).chd" size="413782344" crc="b80c78c5" md5="e4d56a439b3b395e2117a60194820f59" sha1="f9a13d4495e7f3789617adbb26bf8f3ffcf45946" date="1603892948" />
 		<rom name="Metal Gear Solid (Japan) (Disc 2) (Ni).chd" size="378637661" crc="5f74b655" md5="750209eda77eff3aa812605d81b47ccc" sha1="80b85d179b2368078991e18365fddc4c48bae7fd" date="1603893020" />
+		<rom name="Metal Gear Solid (Japan, Asia) (Disc 1) (Ichi) (Premium Package).chd" size="413782332" crc="d069bfa5" md5="ab3bb330fdde37d12720f2a245d20bd5" sha1="f47fbcc9cff72b9e403526a02934e92a647a6c3f" date="1651061172" />
+		<rom name="Metal Gear Solid (Japan, Asia) (Disc 2) (Ni) (Premium Package).chd" size="378637658" crc="b6c8d2b9" md5="8d7f829513cbeb55f2ae87abd2cabc98" sha1="32106bc7c90f512cbc4bed0d8a9065c20e5e4ee0" date="1651061298" />
 		<rom name="Metal Gear Solid - Integral (Japan, Asia) (Disc 3) (VR-Disc).chd" size="299086211" crc="e8e4b28f" md5="50b394dd9e148fd15c8b94f7255930ca" sha1="892a62363d5c769d40c451d0e294c87444953ed5" date="1602711374" />
 		<rom name="Metal Gear Solid - Integral (Japan, Asia) (En,Ja) (Disc 1).chd" size="411286799" crc="5772983b" md5="ff10837c4d2700df1f3581f84827ce7f" sha1="0b98f543fe56489dfe60a576d494d5f52fb54f5b" date="1602712023" />
 		<rom name="Metal Gear Solid - Integral (Japan, Asia) (En,Ja) (Disc 2).chd" size="378838443" crc="0d1ea8ca" md5="a08cc286d545a1d1d4d144aefde03cdc" sha1="9ff28e0010e0c2e9f578ce19c1330ae34f155152" date="1602712058" />
@@ -4725,6 +4727,7 @@
 		<rom name="NHL Blades of Steel 2000 (Japan).chd" size="200725299" crc="24a65199" md5="10abed3579da3effe788b73056830e29" sha1="5588f4bfb2d7f45cd5168078c16836430b81433d" date="1604013968" />
 		<rom name="NHL Powerplay '96 (Japan).chd" size="130001921" crc="9a04bd7e" md5="762eea33f6cd8b144992daf351dd64a1" sha1="b6e1246c718fcfda4e4ff4940e7c1dc7cf62c855" date="1604013993" />
 		<rom name="NHL PowerRink '97 (Japan).chd" size="168910364" crc="1ea57ebb" md5="a4e5e8f60ac62a89ef7742e5838fb559" sha1="f5ad32faa55299636d49a2867cdb71c3d3571057" date="1604014038" />
+		<rom name="Nibiiro no Koubou - 32-nin no Senshachou (Japan).chd" size="197839199" crc="199162d2" md5="80b8aac8a249a2df9c18fead95208a1d" sha1="90eea07e1dfe4f23ada095e5f232b939e345054c" date="1651072143" />
 		<rom name="Nice Price Series Vol. 01 - Nihon Pro Mahjong Renmei Kounin - Honkaku Pro Mahjong (Japan).chd" size="332783633" crc="b50a0a3d" md5="ac74b3fc3f4cecf5083f17ad01f6d4ce" sha1="18087ef06b8c985d6b49dee3787d4e7ff6ac4871" date="1604014200" />
 		<rom name="Nice Price Series Vol. 02 - Honkaku Shougi Shinan (Japan).chd" size="1474948" crc="92b864b7" md5="4885e7f14d92adcf7f3521a0287c01e6" sha1="befda54343f56ab5bc6d83b0ef55937490b55162" date="1604014215" />
 		<rom name="Nice Price Series Vol. 03 - Hanafuda &amp; Card Game (Japan).chd" size="2727018" crc="17028a41" md5="c2fee1945c132989124e27ce3cc639eb" sha1="a3430352824d0d169d8e22b4890fbcb12e00a423" date="1604014234" />
