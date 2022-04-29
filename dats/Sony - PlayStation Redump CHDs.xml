@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-28</version>
-		<date>2022-04-28</date>
+		<version>2022-04-29</version>
+		<date>2022-04-29</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -4253,6 +4253,10 @@
 		<rom name="Legend of Dragoon, The (Japan) (Demo 1).chd" size="45291396" crc="b6856469" md5="7adaa767bfe354349de62366f929596a" sha1="12fe41adf716a619bac8fec3ac22598dd2ec52ed" date="1634259878" />
 		<rom name="Legend of Dragoon, The (Japan) (Demo 2).chd" size="88714260" crc="d1a53138" md5="d0d60a4731f4a5293d364b0222616fa9" sha1="1b8af93099ac63f7d75d80f21979df107afe97e5" date="1634259905" />
 		<rom name="Legend of Dragoon, The (Japan) (Demo 3).chd" size="88703671" crc="5f90cbfc" md5="a7d2c4355c075037f05d6b68724411ac" sha1="893a1f386df00920bfa0ce38b53bfbe7a8fc454f" date="1634259933" />
+		<rom name="Legend of Dragoon, The (Japan, Asia) (Disc 1).chd" size="247775006" crc="619d4833" md5="60df00d177778b4e4a7b9040104505aa" sha1="73d7cd5151970271d95b210f35112f8c59fa4d0c" date="1651152357" />
+		<rom name="Legend of Dragoon, The (Japan, Asia) (Disc 2).chd" size="279708481" crc="031e32b0" md5="5ef2b6289284e1d11723f2de2d7712fc" sha1="4311bee02a17184185a86455422258f91a352ede" date="1651152438" />
+		<rom name="Legend of Dragoon, The (Japan, Asia) (Disc 3).chd" size="328800770" crc="abb6b9c0" md5="5c5f9d91a21c40f152bbcd09677c9bcf" sha1="1bf76db7dcaed97a674bf19acb4e4659f7653839" date="1651152580" />
+		<rom name="Legend of Dragoon, The (Japan, Asia) (Disc 4).chd" size="369955845" crc="af8c05a5" md5="540aa8b9e5de09b1c85e23fa52711f6f" sha1="9509aef10da187342ff28dc8f2a5b4c453e58f68" date="1651152772" />
 		<rom name="Legend of Heroes I &amp; II, The - Eiyuu Densetsu (Japan).chd" size="110522943" crc="10e97649" md5="4b13e136bf4dd74c974e04ea72b09068" sha1="8d2c8804bcb0612ac1091e6459c89951b5b558ce" date="1603288918" />
 		<rom name="Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuu-tachi no Monogatari (Japan).chd" size="277031344" crc="88eef3d0" md5="15a709de969acceda94b857d2e23053d" sha1="fb962bb0b0f4ec3247e3350e0b683487682084bb" date="1603289009" />
 		<rom name="Legend of Heroes IV, The - Akai Shizuku (Japan).chd" size="305624667" crc="b64ae6aa" md5="36bea6fe40e65f3159b22724e1893543" sha1="2eb5fce196c43b7e0cc09223faac00b6efba9a2b" date="1603289119" />
@@ -4297,6 +4301,7 @@
 		<rom name="Love Game's - Wai Wai Tennis (Japan) (Demo).chd" size="331533671" crc="17945e03" md5="4fbeee294dff04a8efd2ca27210cf3a1" sha1="a976d18acf8b59be1e9f214292eee5a4e2759a01" date="1634260144" />
 		<rom name="Love Game's - Wai Wai Tennis (Japan) (Major Wave).chd" size="329959968" crc="94defd07" md5="28eda3a07c74ed7e873e85072d17cf89" sha1="223a66106c7e4663ab4054a6d04bbdcaf2c82198" date="1603293936" />
 		<rom name="Love Game's - Wai Wai Tennis (Japan) (Service Price-ban).chd" size="351826125" crc="80b0d227" md5="a103584d5820e9fbf9d40fe73b153dde" sha1="44618f5fe171e4893693e4fe9bd9a690b51905d8" date="1603294078" />
+		<rom name="Love Game's - Wai Wai Tennis (Japan).chd" size="331526530" crc="0bc9b375" md5="80227e309e0423a433d4ab3f45c49b52" sha1="238b8c30f2adcbe59f65bbca896b8a1870f7c9dd" date="1651178529" />
 		<rom name="Love Game's - Wai Wai Tennis Plus (Japan).chd" size="283574336" crc="88df8fed" md5="b4435bf7749fa1d476fd8343be658d6a" sha1="ecfc143ff433edf88bb955ea0910360fadff64df" date="1603294273" />
 		<rom name="Love Hina 2 - Kotoba wa Konayuki no You ni (Japan).chd" size="250966538" crc="8a7e5210" md5="6c72d9eb7130c140e679b62fbc942a4d" sha1="b28cb0ec41835692c496732361fdc6ca0bdbbaed" date="1603294451" />
 		<rom name="Love Hina - Ai wa Kotoba no Naka ni (Japan).chd" size="258419839" crc="ab2d0be9" md5="e51d46b250cddf3ee18dde06a78d1ba7" sha1="021048e63c604280dc0adb33153179e5247714ec" date="1603294367" />
@@ -4320,6 +4325,7 @@
 		<rom name="Lunar - Silver Star Story (Japan, Asia) (Disc 2).chd" size="470885047" crc="de87d816" md5="4db2ae07436d30e73fe63a73ead3d651" sha1="410905e98d0d1d5e445ec5b79af449d3f0554a0e" date="1603295439" />
 		<rom name="Lunar Wing - Toki o Koeta Seisen (Japan).chd" size="317591737" crc="c3cd3d03" md5="4357faec6c25ce9f726ae7e7528d737c" sha1="ba179af443f038c6281f9330219c661ce0c25d03" date="1603295856" />
 		<rom name="Lunatic Dawn - Odyssey (Japan).chd" size="201900406" crc="61f8a083" md5="8539709849199846df45738fd9011d24" sha1="6b05215656e37b70fa5c26e8115bf2a9b46a8f5c" date="1603295932" />
+		<rom name="Lunatic Dawn III &amp; Susume! Kaizoku Promotion Disc (Japan).chd" size="145216033" crc="5692f962" md5="fd77552f1dd478b0ee507bb779f2db95" sha1="be8901bc8fce688902ea11e35d91bb878be7dc70" date="1651188284" />
 		<rom name="Lunatic Dawn III (Japan).chd" size="185353998" crc="fe0a91f3" md5="eda1b93cc8bcef23fd396eb385926477" sha1="70e3d95c42367b940493be079b4d0a17fdc5d01b" date="1603295997" />
 		<rom name="Lupin 3sei (Japan).chd" size="208304505" crc="31cb8df6" md5="67064fc195a993f6095600849f9218ea" sha1="aee459129cc0f0854a82fb45fbcc27e079fc10ac" date="1603296051" />
 		<rom name="Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 1).chd" size="238138468" crc="f7be72ac" md5="3ef458b058fc64cb58764531b06f061b" sha1="8c362c983723b0e9553aeb59896fcaee59a8242a" date="1603296121" />
@@ -4765,6 +4771,7 @@
 		<rom name="Ninpuu Sentai Hurricanger (Japan).chd" size="270583416" crc="7ba6e948" md5="e3cf55eb127e4f2586e781ade1586384" sha1="414d4b8d66364fb83ca45e919b4cb08f46542c39" date="1604015762" />
 		<rom name="Ninteiou - Zen Nihon Tsume Shougi Renmei Kaichou Okada Toshi no Tsume Shougi Kyoushitsu (Japan).chd" size="2890333" crc="c3be7dee" md5="a570797f6fa85ab0a80aa6280e0dcee5" sha1="7af5ec6563d48e68a0c453bc302c6dbd118ba2a2" date="1604015770" />
 		<rom name="Nippon Ichi Mahjong - Souryuu (Japan) (Major Wave).chd" size="229663249" crc="b0ad0fec" md5="98aa2aa70711fb772e185ea1f93d4c65" sha1="89cf47e9f4926ca51fdd4acac6f93c4a7f6658c0" date="1604015807" />
+		<rom name="Nise Flopon-kun P! Famitsuu Nottori Version (Japan).chd" size="202433269" crc="7a4baa0c" md5="011763c36ac1d4c1a8c66477b06510db" sha1="99974cc8be779427d8a6e51c32b84b2ec3f0c533" date="1651108689" />
 		<rom name="Nishijin Pachinko Tengoku EX (Japan).chd" size="33398010" crc="0a406455" md5="ed5aba5a7abdc84fd6459fbb8b6a4df6" sha1="557951111cbde121e972a1fd28997000b32fa20e" date="1604015825" />
 		<rom name="Nishijin Pachinko Tengoku Vol. 1 (Japan).chd" size="233516526" crc="5adda346" md5="7c8157c2a8dcf993eaf0c814e236598f" sha1="935722491abce13c1be9091561473553395480a1" date="1604015894" />
 		<rom name="Nishijin Pachinko Tengoku Vol. 2 (Japan).chd" size="144230264" crc="986df2d2" md5="06f0ebc5f96b0380cecce82f5737fb8b" sha1="c9d46c7001aa1d2898754d58bde570343bbb04e5" date="1604015965" />
@@ -4782,6 +4789,7 @@
 		<rom name="Nobunaga no Yabou - Sengoku Gunyuuden (Japan).chd" size="40843201" crc="9c06d846" md5="961f1cd2fe07b0d044607016243da757" sha1="37c885fafc37e7de3f63078e9402bed195e00c28" date="1604021026" />
 		<rom name="Nobunaga no Yabou - Shouseiroku (Japan) (Rev 1).chd" size="439663416" crc="cac368f2" md5="98c5a25a987aeb27602c30d9691e306e" sha1="fdb329b2abb70177f81e20f78af218cddf5f3b8b" date="1604021110" />
 		<rom name="Nobunaga no Yabou - Shouseiroku (Japan).chd" size="439663213" crc="276eb8e6" md5="fc275aad3bb3f8d61218f4df63b865a6" sha1="7bc4912ace96f865f4e95e82b9ddec25fd799489" date="1604021172" />
+		<rom name="Nobunaga no Yabou - Shouseiroku with Power-Up Kit (Japan).chd" size="440463865" crc="58309a3f" md5="8f1f9f03fd61e63896793cd61b1ad4b4" sha1="25c2fb061125aa070713429e9c4ebbb6d6389fe9" date="1651108836" />
 		<rom name="Nobunaga no Yabou - Tenshouki (Japan).chd" size="372402503" crc="ac3f7dd6" md5="ce1294bdaa9e62a628efb9f79f8fb4a0" sha1="900b587b47372defcc957946d87a3e404f8c5943" date="1604021257" />
 		<rom name="Nobunaga no Yabou - Tenshouki with Power-Up Kit (Japan).chd" size="372674771" crc="b59fb21f" md5="cbf9b034c5d780a5ba36597798995e68" sha1="0f822b7b77ce9dcfd1ec0392ca8ee17b406c9172" date="1604021345" />
 		<rom name="Nobunaga no Yabou - Zenkokuban (Japan).chd" size="57148288" crc="c032540b" md5="f26f53f953d153fd2497d78cd12a9ae6" sha1="a23a59f4308f1555bbfe7f4698e3d3033384d0bb" date="1604021367" />
