@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-29</version>
-		<date>2022-04-29</date>
+		<version>2022-04-30</version>
+		<date>2022-04-30</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -4194,6 +4194,10 @@
 		<rom name="Kouyasai - A Sherd of Youthful Memories (Japan).chd" size="526600396" crc="b237d83d" md5="5dcde49c5cb0298d2a21bb7fc1c22460" sha1="6081b79cc8c897ca42433d8cbfbe527f8a701249" date="1603278013" />
 		<rom name="Kowai Shashin - Shinrei Shashin Kitan (Japan).chd" size="24345070" crc="959cb207" md5="4bb84c881df1e67905b056d542316911" sha1="ba2f397d95bd47194e5bfd1ff4cfaca7fee42ed3" date="1603278028" />
 		<rom name="Kowloon's Gate (Japan) (Special Disc).chd" size="229334729" crc="5288ff7a" md5="eebcb53aac9100cdd97e768cf1541050" sha1="a609bbb1e4c7339217f7e6082a335f947b0b7cbe" date="1603278091" />
+		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 1) (Byakko).chd" size="354445034" crc="d8ca04ca" md5="a2a863f53716a174eba62a22e0ed4de4" sha1="1615d47f3680b35d8c4e6c9d93199ffa1aeb6abc" date="1651238530" />
+		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 2) (Genbu).chd" size="354467092" crc="b90ff0ca" md5="71b25200f01de7f2bd87c6563f1b2fb4" sha1="9e09b41e074dc866c177585aa15fe857c3685c17" date="1651238703" />
+		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 3) (Suzaku).chd" size="419601266" crc="e0dc2bcc" md5="208415351f87fd4e3aa93a0c1982a87b" sha1="6b129295c2a96b40e95ebb28dcff822e3394af6d" date="1651238873" />
+		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 4) (Seiryuu).chd" size="414204163" crc="24eaa680" md5="2d281b5f4fa3194fd4592182e2b63d59" sha1="c289e92354be98f6ea332f5e32eaafbd52b2318f" date="1651239108" />
 		<rom name="Kowloon-jou (Japan).chd" size="68642897" crc="ab7796da" md5="a2f7c2b383ec70c15df130d89723c5ac" sha1="6f91b270e70033965f29055497b2a5d604b2de54" date="1603278564" />
 		<rom name="Krazy Ivan (Japan).chd" size="415969419" crc="bb1c9d37" md5="2737ff17af80805987b6c0730bfa64af" sha1="988a40bde183e573df851b1209a7124c1929596c" date="1603278677" />
 		<rom name="KulaQuest (Japan) (Demo).chd" size="38366361" crc="9a23549f" md5="d516e2e284bf8b9d172bc29d783434e7" sha1="6a136a6e0e0db4991398b2c55b513929303825db" date="1634259837" />
@@ -5569,7 +5573,7 @@
 		<rom name="Silent Bomber (Japan) (Demo).chd" size="177265117" crc="27259634" md5="c60ca38e4a3a0d018ae7ca6ef024f3f8" sha1="b4ba63464729547a479e86569f127415c3bc91c4" date="1634300951" />
 		<rom name="Silent Bomber (Japan).chd" size="185893852" crc="22b2f0c3" md5="3ab4c8af9ee76acd7d150f81d2333938" sha1="59b3e2bc127adf82be23b7ea64647765cea1873d" date="1606074335" />
 		<rom name="Silent Hill (Japan) (Demo).chd" size="55216104" crc="5adf817e" md5="4b7d7291552238363efc008ef5374815" sha1="90c25a0feb49a5f8ad52d094a95a90440ec751ab" date="1634300969" />
-		<rom name="Silent Hill (Japan) (Rev 1).chd" size="306989935" crc="c29b3ccd" md5="09bd11f35cb1283c1a230444910d9b8f" sha1="377573701573060d81d07433b7197eac84d82baa" date="1606088689" />
+		<rom name="Silent Hill (Japan) (Rev 1).chd" size="306989939" crc="e820ba48" md5="d2a419274e5ef3c68d203de781a5d717" sha1="fa8f2005befd16be092003596a29b5e861c77938" date="1651259319" />
 		<rom name="Silent Hill (Japan).chd" size="306944803" crc="14acd8a8" md5="313317d7e4334e2a4604bcc8fec55f35" sha1="4056863b94e3fbf052a7428093f27e98cb417b77" date="1606088739" />
 		<rom name="Silent Moebius - Case - Titanic (Japan).chd" size="231151615" crc="cc1711c8" md5="b844f8f894aee27d8d4ca815840c8168" sha1="9c0a3e3acb1b2269f1b44bcc2fe42ef976e2866b" date="1606133870" />
 		<rom name="Silent Moebius - Gen'ei no Datenshi (Japan).chd" size="355002983" crc="b5f05dce" md5="3e982a54fc54887003098a168d305740" sha1="4dabdde95cb585d2bb57c74464bb6819853c7324" date="1606088806" />
