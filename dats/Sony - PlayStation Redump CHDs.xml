@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-04-30</version>
-		<date>2022-04-30</date>
+		<version>2022-05-01</version>
+		<date>2022-05-01</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -3963,6 +3963,7 @@
 		<rom name="Kagayaku Kisetsu e (Japan) (Disc 1) (Shokai Genteiban).chd" size="258531935" crc="940e3491" md5="b92eb406a3f409e84e7e83a3ce024384" sha1="d869048b5ded0db2fcdcc03f49485c8ca99b1136" date="1650213644" />
 		<rom name="Kagayaku Kisetsu e (Japan) (Disc 2) (Special Disc) (Shokai Genteiban).chd" size="400593124" crc="81c7e82e" md5="73ee3b46bfb4f9535c191c3a43276947" sha1="ac6ee97e00bdd386b4a3e612bc19d1958b19f30a" date="1650213746" />
 		<rom name="Kagayaku Kisetsu e (Japan).chd" size="258531933" crc="e3a26e69" md5="640cbc85120c8e9385d3df30235ee63f" sha1="8cbab8604c3abb99ca5a966e27192e3fa3443a6c" date="1634224701" />
+		<rom name="Kagero - Kokumeikan Shinshou (Japan).chd" size="275357468" crc="dadcac0f" md5="6c34c1d5a72d2bde09fde01dee70267a" sha1="076df824833b3170117814f231ca035affdb31a8" date="1651346979" />
 		<rom name="Kagerou - Kokumeikan Shinshou (Japan) (Taikenban).chd" size="201186387" crc="4072d32e" md5="3a5c51cbb94ae7648ec40a0b12913d77" sha1="bf4ad8bf24f05b70b15e4dcf8130467224e193fe" date="1634305519" />
 		<rom name="Kahen Soukou Gunbike - Speed Power Gunbike (Japan).chd" size="215089414" crc="f658a064" md5="e2705fd19d8c9b2d5fde8a171a74e924" sha1="47be5eb42a8b495e81e0f49a4f9446e24f53128a" date="1603214835" />
 		<rom name="Kaibutsu Para-Dice - Monster Paradise (Japan).chd" size="341278939" crc="5fcf9395" md5="22809b4f219f9327e6b83626f6ec235b" sha1="83a7b0da8633be3eb427606247db585a074addb1" date="1603214947" />
@@ -4010,6 +4011,7 @@
 		<rom name="Keiba Saishou no Housoku '96 Vol. 2 - GI-Road (Japan).chd" size="69523235" crc="dd739c1f" md5="ec394e8d681176a3ed6913f77d500891" sha1="89af6b524f214b781d45fce477a9c991def20418" date="1603218237" />
 		<rom name="Keiba Saishou no Housoku '97 Vol. 1 - Nerae! Manbaken! (Japan).chd" size="74294906" crc="6809aec9" md5="a73517069a4680ea5623688630839311" sha1="5c627758431f8823f8dbcfa48960b9ea3748ebfe" date="1603218269" />
 		<rom name="Keiba Saishou no Housoku '97 Vol. II - To Hit (Japan).chd" size="81298579" crc="f50390c2" md5="14f1cf7120b48356265357c6d35edabd" sha1="eaf94ec931fa2a4c56f2ffe7ae6482e37fd1c5bd" date="1603218311" />
+		<rom name="Keiba Saishou no Housoku '99 Shuutou (Japan).chd" size="167012108" crc="5ebfc396" md5="c879c1f5a96ac7888038d33025664a3b" sha1="9c200237574c9b0f574a62756e90dccd6209b4d9" date="1651347027" />
 		<rom name="Keitai Eddy (Japan).chd" size="12824024" crc="3998d265" md5="9213cf38f6575f218be5aff64082cd0a" sha1="7d50d63da83b7566b77d4ee2482e4da3b0396027" date="1603218375" />
 		<rom name="Keitai Henshuu (Japan).chd" size="12214118" crc="0503147e" md5="c99e5d22843b08299518bd9be060faa2" sha1="53994dd37e6a6c94dc1a88892ae0b753a41854b1" date="1603218386" />
 		<rom name="Kekkon - Marriage (Japan).chd" size="402138841" crc="29839907" md5="489cd4bab78a6eeb33a296b77f66be61" sha1="f92d7d614272599153c5e9664f8261ba52c890ba" date="1603218477" />
@@ -5194,7 +5196,8 @@
 		<rom name="Puyo Puyo Sun - Ketteiban (Japan) (Rerelease).chd" size="200062378" crc="b5fe594c" md5="049404dba5531f1fc0294388cb05bea1" sha1="599ec51ad7ff0682f25e502be913bb0eefb28265" date="1604332901" />
 		<rom name="Puyo Puyo Sun - Ketteiban (Japan) (Rev 1).chd" size="191860383" crc="147bbddb" md5="096de6dfbcc84d5337628768704644f1" sha1="a242e9b5025f557aec7b0b8a5a77bc7f074fe081" date="1604332957" />
 		<rom name="Puyo Puyo Sun - Ketteiban (Japan).chd" size="191859915" crc="0c4ef45f" md5="b42bc0422be7b2f28342352182375902" sha1="dbc83a9b6c3ef977f59f092a8f684d2c71a87ddd" date="1604333001" />
-		<rom name="Puyo Puyo Tsuu - Ketteiban (Japan) (Rev 1).chd" size="267992025" crc="30878d55" md5="f85c18b6a05042a11b9d9a958ca35745" sha1="e5804bc02f3eed7a87dc3ade336903bce4df5b40" date="1604333084" />
+		<rom name="Puyo Puyo Tsuu - Ketteiban (Japan) (Rev 1).chd" size="267992025" crc="30878d55" md5="f85c18b6a05042a11b9d9a958ca35745" sha1="e5804bc02f3eed7a87dc3ade336903bce4df5b40" date="1651322558" />
+		<rom name="Puyo Puyo Tsuu - Ketteiban (Japan, Asia).chd" size="268099950" crc="2fc0e643" md5="a521b049707468ea113a58714ca246ce" sha1="75043c0294680bf1aeea376fab7c7355d70247c4" date="1651322708" />
 		<rom name="Puyo Puyoon - Car-kun to Issho (Japan).chd" size="286962716" crc="a883dcaf" md5="2316c1c4e6982514e0aea2b91f0307ad" sha1="9ee463f19129e173177c66a6cc61461200dc68ea" date="1604333210" />
 		<rom name="Puzz Loop (Japan).chd" size="177696961" crc="fdbe28c1" md5="493c1926e1629920197fb7d901608d4d" sha1="5ac717796362c83b5bcbe381c458d9212b612682" date="1604333262" />
 		<rom name="Puzzle Arena Toushinden (Japan).chd" size="176592666" crc="0ee7f782" md5="8f8c2b6c8d1bcbb2c44d620f956182ac" sha1="1df5a4cb6133b4ef4729bab720e94be9e5db6b8c" date="1604333316" />
@@ -5509,7 +5512,8 @@
 		<rom name="Shin Megami Tensei - Devil Children - Kuro no Sho, Aka no Sho (Japan).chd" size="131051961" crc="76afb7d9" md5="a3876cf5f64b8f57d16c51471d12cc41" sha1="cbdecfd01aa265b4a7ff011b6861c2c9f0b88691" date="1606073984" />
 		<rom name="Shin Megami Tensei If... (Japan) (Anniversary Pack).chd" size="158906006" crc="e5bc6a9c" md5="75213da40bc679dd08079a8801224eab" sha1="415dfe6c43c0af2682073398e9f8022ede2084a0" date="1606074029" />
 		<rom name="Shin Megami Tensei If... (Japan).chd" size="158906017" crc="0a1ec4de" md5="2124ec82ecfa878ecbf69284a108195c" sha1="68b86a045b811235cc52926c71c6c4374f8bf202" date="1606074076" />
-		<rom name="Shin Megami Tensei II (Japan).chd" size="129750393" crc="42326518" md5="d536bcadafc0049790f6ef8a0bcece2b" sha1="ef5b5147efacb7a47518ae18ef62a4db22c11ba2" date="1606074105" />
+		<rom name="Shin Megami Tensei II (Japan) (Rev 1).chd" size="129749797" crc="adf8296c" md5="e73a4d7f507103dbfbb6a97c797ea0cd" sha1="07b06c965e7cb7bd20e23cb63bc93a027558b643" date="1651277769" />
+		<rom name="Shin Megami Tensei II (Japan).chd" size="129750393" crc="42326518" md5="d536bcadafc0049790f6ef8a0bcece2b" sha1="ef5b5147efacb7a47518ae18ef62a4db22c11ba2" date="1651322741" />
 		<rom name="Shin Nihon Pro Wrestling - Toukon Retsuden 2 (Japan).chd" size="296067647" crc="0f455cfb" md5="dfa5edb3132245efb3b6ff7bd577aa15" sha1="08c51301a0b67cb770ed9394170b695faae92615" date="1606088212" />
 		<rom name="Shin Nihon Pro Wrestling - Toukon Retsuden 3 (Japan) (Antonio Inoki Intai Kinen Genteiban).chd" size="273072054" crc="9cdd4840" md5="652d0c892653fc88132db07cb016da30" sha1="752c9793b5316f7f9e8d2d10fda01697911baa38" date="1650217905" />
 		<rom name="Shin Nihon Pro Wrestling - Toukon Retsuden 3 (Japan).chd" size="267009008" crc="3fa55127" md5="3f4025aa84c42ea08e20828d1b76517d" sha1="ad1e94ce23fd2b229c59a4c40bd5649e8bcf0095" date="1606088289" />
@@ -5574,7 +5578,8 @@
 		<rom name="Silent Bomber (Japan).chd" size="185893852" crc="22b2f0c3" md5="3ab4c8af9ee76acd7d150f81d2333938" sha1="59b3e2bc127adf82be23b7ea64647765cea1873d" date="1606074335" />
 		<rom name="Silent Hill (Japan) (Demo).chd" size="55216104" crc="5adf817e" md5="4b7d7291552238363efc008ef5374815" sha1="90c25a0feb49a5f8ad52d094a95a90440ec751ab" date="1634300969" />
 		<rom name="Silent Hill (Japan) (Rev 1).chd" size="306989939" crc="e820ba48" md5="d2a419274e5ef3c68d203de781a5d717" sha1="fa8f2005befd16be092003596a29b5e861c77938" date="1651259319" />
-		<rom name="Silent Hill (Japan).chd" size="306944803" crc="14acd8a8" md5="313317d7e4334e2a4604bcc8fec55f35" sha1="4056863b94e3fbf052a7428093f27e98cb417b77" date="1606088739" />
+		<rom name="Silent Hill (Japan) (Rev 2).chd" size="306989935" crc="c29b3ccd" md5="09bd11f35cb1283c1a230444910d9b8f" sha1="377573701573060d81d07433b7197eac84d82baa" date="1651277893" />
+		<rom name="Silent Hill (Japan).chd" size="306944803" crc="14acd8a8" md5="313317d7e4334e2a4604bcc8fec55f35" sha1="4056863b94e3fbf052a7428093f27e98cb417b77" date="1651278198" />
 		<rom name="Silent Moebius - Case - Titanic (Japan).chd" size="231151615" crc="cc1711c8" md5="b844f8f894aee27d8d4ca815840c8168" sha1="9c0a3e3acb1b2269f1b44bcc2fe42ef976e2866b" date="1606133870" />
 		<rom name="Silent Moebius - Gen'ei no Datenshi (Japan).chd" size="355002983" crc="b5f05dce" md5="3e982a54fc54887003098a168d305740" sha1="4dabdde95cb585d2bb57c74464bb6819853c7324" date="1606088806" />
 		<rom name="Silhouette Mirage - Reprogrammed Hope (Japan).chd" size="404468234" crc="fab2346b" md5="44becd7cc52459826e3d9db42c3b6fbb" sha1="7421990d13a63ee1faa1d7539d853420997c4998" date="1606170034" />
