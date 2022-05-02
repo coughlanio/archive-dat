@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-01</version>
-		<date>2022-05-01</date>
+		<version>2022-05-02</version>
+		<date>2022-05-02</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -4033,6 +4033,8 @@
 		<rom name="Kid Mix Section - Character Collection (Japan).chd" size="177948183" crc="a59739ee" md5="898f7940f0225cde38845da2e0aa5353" sha1="d94c8a824a61abaf18eb16ca6da7b9d9efe0a5ee" date="1603219079" />
 		<rom name="Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 1) (Earth Federation Disc) (Rev 1).chd" size="534412248" crc="a092db55" md5="add629ef377aa1ab368f67b0a479bbe4" sha1="5002fa384758fd5678a2116d9ee2cd5813c82000" date="1603219146" />
 		<rom name="Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (Disc 2) (Zeon Disc) (Rev 1).chd" size="537543528" crc="ef730955" md5="1ae44a84d637c4dca2eeab5a1554ef4e" sha1="fb0a418d54dcabe27c35a1ee5e05e65cf462b239" date="1603219445" />
+		<rom name="Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan, Asia) (Disc 1) (Earth Federation Disc).chd" size="534418148" crc="9391ac8f" md5="fc393cbd9ae366062373933fc0408fa7" sha1="918b17e4c03934a499966459b7d733036e5df68f" date="1651410827" />
+		<rom name="Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan, Asia) (Disc 2) (Zeon Disc).chd" size="537541223" crc="ee98ab1d" md5="758a3e0b7865fbf253d2386aceefc9d8" sha1="57f25cc4f0181d168f5afe9d7fa5af520e0fe129" date="1651410955" />
 		<rom name="Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu - Kimitsu Eizou Disc Tokubetsu-hen (Japan).chd" size="436059625" crc="4d148a4c" md5="b9debd5ad3364294cbd6efe4450a88a0" sha1="48fad3a716d257e3e159e202052a04476f75e272" date="1603219635" />
 		<rom name="Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu - Kouryaku Shireisho (Japan).chd" size="348982366" crc="61b612f4" md5="7e964fef3d17a65689d8f39df3953aa8" sha1="d49b37ec2c7c553882e05cfda7d7429476880fd4" date="1603219735" />
 		<rom name="Kids Station - Asobou! Hanasou! Guru Guru Town Hanamaru-kun (Japan) (Controller Set).chd" size="174385490" crc="4cfb78be" md5="54436a564535085b1e8321e38f4df1d5" sha1="fac21654bf0b06bdd1a7894571d192c2d54b734a" date="1603219791" />
@@ -4088,7 +4090,8 @@
 		<rom name="Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan).chd" size="19140041" crc="ba92ab76" md5="439a9bd1c5b43ec0eeca83dfd89d36e3" sha1="6e04cd4861f78cf09aaaa233ee944f8c02fc4f01" date="1603237703" />
 		<rom name="Kids Station - Soreike! Anpanman 2 - Anpanman to Daibouken! (Japan).chd" size="53881291" crc="2d7b2f29" md5="0c58d7c510902f4f69f14cc795b19599" sha1="494e835ad57197edae69fdc10e173912b82f9424" date="1603238455" />
 		<rom name="Kids Station - Soreike! Anpanman 3 - Sugoroku Anpanman (Japan).chd" size="195760644" crc="67d1385e" md5="3dabbbbef0fd9609a5e5f23479e7d948" sha1="91907aba038bff61cfcad13fd576b27c693fb946" date="1603238552" />
-		<rom name="Kids Station - Soreike! Anpanman (Japan).chd" size="206007042" crc="da32149e" md5="cbaf9a519c1c1b0191b26e6d4c5b32a3" sha1="9c12f154c4170f9ca68b4685c6f1884fcb335ea7" date="1603237766" />
+		<rom name="Kids Station - Soreike! Anpanman (Japan) (Controller Set).chd" size="206007036" crc="79305bf7" md5="a1d2719e29cb8590cf9050be9a5a204a" sha1="cc962dff88ccf1e41c98671abea6e47d7902b3f1" date="1651428872" />
+		<rom name="Kids Station - Soreike! Anpanman (Japan).chd" size="206007042" crc="da32149e" md5="cbaf9a519c1c1b0191b26e6d4c5b32a3" sha1="9c12f154c4170f9ca68b4685c6f1884fcb335ea7" date="1651428952" />
 		<rom name="Kids Station - Ugoku Tomika Zukan (Japan).chd" size="269432079" crc="21215764" md5="c60772f2f463f6859c095a40296ed872" sha1="2c6b1d1b5083fc7f982d8d9757f2b15c4eb8499e" date="1603238619" />
 		<rom name="Kids Station - Ultraman Cosmos (Japan).chd" size="201881000" crc="a07e0a3f" md5="9d8051c2c4f63e6b7ecc98c23f639e23" sha1="994e6758822b3c6c9e5b9018b040ff0d9b6d178f" date="1603238672" />
 		<rom name="Kids Station - Unten Daisuki - Doki Doki - Norimono Daibouken (Japan).chd" size="175481335" crc="d7c2f00e" md5="f7db9c8727c8b8eead18f38a8fc2570a" sha1="b58f0a79b46f5af011e7b5dbcf9f4cd4f06645f3" date="1603238741" />
@@ -4170,7 +4173,7 @@
 		<rom name="Konohana - TrueReport (Japan).chd" size="236677500" crc="0f012640" md5="bc14f34ea72ddebd004a419a7b186923" sha1="690ecbb67ddf699f4f4900a056f56f8ae92922d4" date="1603243975" />
 		<rom name="KoroKoro Post nin (Japan).chd" size="24219868" crc="62c3c407" md5="cfe1985d99e55952917f765240f0d7bf" sha1="7895f56135c1bd80c5fc002f3b243f09072c4f23" date="1603243996" />
 		<rom name="Kosodate Quiz Motto My Angel (Japan).chd" size="166218741" crc="fae33090" md5="5ca5f510f15960cb0dfd7f142ef04560" sha1="3d0481d8348e1afcc6b4d5bdefa968ec3a4ac352" date="1603244034" />
-		<rom name="Kosodate Quiz My Angel (Japan).chd" size="156852762" crc="42fc572e" md5="dfa5f0b9b15f0177bec3ce3d8bc44c13" sha1="0f17fc45f2404c384de3d58a78e650c1aee42d8a" date="1603244068" />
+		<rom name="Kosodate Quiz My Angel (Japan).chd" size="156852762" crc="42fc572e" md5="dfa5f0b9b15f0177bec3ce3d8bc44c13" sha1="0f17fc45f2404c384de3d58a78e650c1aee42d8a" date="1651445250" />
 		<rom name="Koten Tsumego-shuu - Shijin no Maki (Japan).chd" size="10349065" crc="891b125e" md5="de3b0476e3f338056bee3e3cceb2d05a" sha1="76a9746e5dac1815a3dd5e2b206a289ecc106bf9" date="1634225118" />
 		<rom name="Kotobuki Grand Prix - Mezase! Genchari King (Japan).chd" size="70143130" crc="78422327" md5="46853341acac34d1b91010b9ac4206bf" sha1="f4a5515c6622f77d9564696ea7fe509ac83e34d9" date="1603276682" />
 		<rom name="Koudelka (Japan) (Disc 1).chd" size="223704587" crc="384fed77" md5="b059c3a6f777bf90104e8c6ecf99b097" sha1="3c95d2f761eb80a70bdf84208eed8ed2f32649f7" date="1603276731" />
@@ -4910,6 +4913,7 @@
 		<rom name="Oyako Entertainment Series - TV Kamishibai Vol. 1 (Japan).chd" size="473140113" crc="66a21cfe" md5="a8136e33ed1566a19cf9dc9d93a630aa" sha1="15e504d10e338790f453af9dc9f539bc8e8500f5" date="1604060490" />
 		<rom name="Oz no Mahoutsukai - Another World - Rung Rung (Japan).chd" size="298546795" crc="5e9dbb21" md5="5f8884bdcccf8570d3e7448eba14f0b0" sha1="0e408a20c5e634bfd92ed2f267648458c6152dc9" date="1604060595" />
 		<rom name="Pac-Man World - 20th Anniversary (Japan) (Demo).chd" size="96845814" crc="d0070235" md5="fa52223cabadb70f44ee672521d1029e" sha1="08956a5d4daca6fb13d72a0dc7eeae5abefa0af0" date="1634297752" />
+		<rom name="Pac-Man World - 20th Anniversary (Japan).chd" size="364103970" crc="4ca5683a" md5="ed25d630780ee1f6c8c3e207f9808d74" sha1="783d2f2b148673d3e6fc4a55ca5a91d66587e2a9" date="1651445374" />
 		<rom name="Paca Paca Passion 2 (Japan).chd" size="119109379" crc="a14c7b5e" md5="3f91e45207cf6ed9a26ba524ef63b1d1" sha1="73dea2c74fd57162e6851a3f1f9d46aa0d050510" date="1604238509" />
 		<rom name="Paca Paca Passion (Japan).chd" size="174381456" crc="026813c9" md5="34e0c20336881cb8fcb4b6453f6047d7" sha1="db035b618f74a73393dcd6822a2b802a42c127c4" date="1604238453" />
 		<rom name="Paca Paca Passion Special (Japan).chd" size="133884462" crc="cdb5c8b4" md5="86a5ec3c936ba7b8425ef355780f5cb3" sha1="98b3db159cacf65f12a8610286715974e7e290a8" date="1604238574" />
