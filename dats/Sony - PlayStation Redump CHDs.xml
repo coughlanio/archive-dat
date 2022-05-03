@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-02</version>
-		<date>2022-05-02</date>
+		<version>2022-05-03</version>
+		<date>2022-05-03</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -4980,7 +4980,8 @@
 		<rom name="Pandora Max Series Vol. 5 - Gochachiru (Japan).chd" size="191941709" crc="93fd7615" md5="21e7798eae66926981fe84cb4c4e5ca8" sha1="5a1040da4565f8a6793f8e732b4610114c750b35" date="1604241082" />
 		<rom name="Pandora Max Series Vol. 6 - Oni Zero - Fukkatsu (Japan).chd" size="272127687" crc="a11567e4" md5="f1eca673b553292f8021213e38d57733" sha1="e61d651ad0bbdf08aca6c90f147159e3fcac3aba" date="1604241194" />
 		<rom name="Pandora Project - The Logic Master (Japan).chd" size="168204516" crc="048e261a" md5="d022e8d35ed06b7c48d875b60baba3a7" sha1="5d2fa2771b913c39c5ba8a6c1dc34ffc563ea213" date="1604241244" />
-		<rom name="Panekit - Infinitive Crafting Toy Case (Japan).chd" size="67698131" crc="d49f00ef" md5="d71f0d77d52783a80e3521ef1c082b1f" sha1="69c01ef1af4706c1c1fc2348fde85b1772d758d3" date="1604241265" />
+		<rom name="Panekit - Infinitive Crafting Toy Case (Japan) (Rev 1).chd" size="67699163" crc="fe6f461a" md5="203439f5cfc31b4885263e277a388fb3" sha1="ea37b006d22535cbc33ce2f10600d0a3567c5060" date="1651498298" />
+		<rom name="Panekit - Infinitive Crafting Toy Case (Japan).chd" size="67698131" crc="d49f00ef" md5="d71f0d77d52783a80e3521ef1c082b1f" sha1="69c01ef1af4706c1c1fc2348fde85b1772d758d3" date="1651498328" />
 		<rom name="Panel Quiz Attack 25 (Japan).chd" size="309950767" crc="32d64d4d" md5="7dc8a32068dd40f61b78fdf6244e509f" sha1="2543aea81736ac0348e29ccd03e3dfd20507e61a" date="1604241329" />
 		<rom name="Panzer Bandit (Japan) (Demo).chd" size="121855897" crc="5a1b0b72" md5="ccb6874f069c27b90c2e660f9a7539b9" sha1="d511bce321a4f4a3d6c44d1dfd94fc97007eea00" date="1634297802" />
 		<rom name="Panzer Bandit (Japan).chd" size="121669866" crc="d03fad26" md5="c395d45d38c2a33de125571bd63c7e68" sha1="3e5cd5b6adaeb76b9f4f0b87e74ebefdf045b2b5" date="1604241374" />
@@ -5111,6 +5112,7 @@
 		<rom name="Pocket MuuMuu (Japan).chd" size="71719338" crc="81fae413" md5="c6ca6bd6b00bcbd8c246ba9f511640ce" sha1="a47db6396a6e366bf9fc743dff08b8b5a3933ce4" date="1604282664" />
 		<rom name="Pocket Tuner (Japan).chd" size="23605492" crc="17d442b2" md5="92c0255682924f4d5ce5c4635424916a" sha1="4d72519fb6a069bdf08d48571709e7cb3a97a493" date="1604282680" />
 		<rom name="Pocket Zanmai - 3 Title Iri Taikenban (PAQA, PokeTan, Pocket Jiman) (Japan).chd" size="35219524" crc="67f9fd47" md5="46ef24d70b95c665c29f71f2d43a60ea" sha1="eb8bcfcdc5c2d7bbb8cecefecd49b1748e760afa" date="1604282704" />
+		<rom name="Poitter's Point 2 - Sodom no Inbou (Japan, Asia).chd" size="208823737" crc="dee908fe" md5="3901e888dc9b0d56435dab99a2b27650" sha1="5b6a28fa8bb0ae6662d3d4025fca453de8f23fd3" date="1651498399" />
 		<rom name="Poitters' Point (Japan).chd" size="149758923" crc="e2c816d1" md5="88ac14f99dd7189363531de4a02de82d" sha1="f3e856227bf96772dbaa8e6e2300e72e984b07a1" date="1604282805" />
 		<rom name="Pokeler (Japan).chd" size="1999414" crc="9bfc2b62" md5="2807b6b8238a3dc5cfb17840b8d9a1ec" sha1="0ccb8b977b821b035de2fc03bdbc6c0f83591650" date="1604282827" />
 		<rom name="Pokeler DX - Black (Japan).chd" size="1818522" crc="eddc1923" md5="55ac8c4b0ec966bef610776bd7f2c152" sha1="4042b93aa57abe1aef5f8fdb31d339f866f48b5d" date="1604282849" />
@@ -5167,6 +5169,7 @@
 		<rom name="Private Collection - Tokimeki Memorial (Japan).chd" size="331721446" crc="b3c52839" md5="e55bc15d1b42a5d5f1308caafbfdb11a" sha1="561cd5a3811d8876fd5c11bd7fb72d26451becee" date="1604331079" />
 		<rom name="Pro Action Replay CDX2 Demo (Version 2) (Japan) (Unl).chd" size="1051668" crc="540b4c28" md5="0f25eb22dff534fa747a6ec8e04e47f2" sha1="3d3a24d73815792dbdaa663c1982eb1c5d6bb3e6" date="1650217535" />
 		<rom name="Pro Action Replay CDX2 Sampler (Japan) (Unl).chd" size="814338" crc="68dfd51c" md5="91a3eea26f084bbd5b230e6b89418e74" sha1="c78376f9e512cf33bd0038dd9d186c924a608bb6" date="1650217538" />
+		<rom name="Pro Logic Mahjong Haishin (Japan).chd" size="332232711" crc="1077ee56" md5="0f525d66d90026994a7aafc3e68efd15" sha1="473f5237c2513616b5d2417321226292e3eabdbd" date="1651500876" />
 		<rom name="Pro Mahjong Kiwame - Tengensen-hen (Japan).chd" size="17815082" crc="11d232dd" md5="2f4641531bb8ebdd95a4647f099337e3" sha1="76bb193dc1288611baf01b55c00a2e7334e484cd" date="1604331195" />
 		<rom name="Pro Mahjong Kiwame Plus (Japan).chd" size="26218982" crc="983b9c48" md5="d7e0905d06b208907a37d0e4fa336419" sha1="16f3460c3e191c57c9a8d564d464add737d45c01" date="1604331210" />
 		<rom name="Pro Mahjong Kiwame Plus II (Japan).chd" size="22771307" crc="18995a98" md5="557b1ec4872796b9995b27c19073d7bd" sha1="cbe201e1e7fe35ed7bc191625391d27b2874a717" date="1604331218" />
@@ -5289,6 +5292,7 @@
 		<rom name="Return to Zork (Japan) (Disc 2).chd" size="451337977" crc="6e31aaef" md5="63365c5ba9d0230e21b942723224f9be" sha1="5bedb6d2cb0c94619d812f3a5f76b1c60d5ec5e0" date="1604427049" />
 		<rom name="Reverthion (Japan).chd" size="96801550" crc="c17e32cc" md5="1703c3e9c5932445739b7735e27b4ed5" sha1="fed3791e758a42e3ce5ed79645f56659fe5cd7f4" date="1604427088" />
 		<rom name="Revolution X - Music Is the Weapon (Japan).chd" size="414549305" crc="403c46a1" md5="fb901f59944d42b474c68b4f17ef9af2" sha1="439c6ddd927c6d31e067bd776d52fda598481166" date="1604427187" />
+		<rom name="Rhythm 'n' Face (Japan).chd" size="505753264" crc="8d1626ab" md5="6ac7b6cce4e03e62970693c2823c1024" sha1="21d625d027aed1c0df3e151afaa0aa9d24a902fc" date="1651507835" />
 		<rom name="Ridegear Guybrave (Japan) (Demo).chd" size="262258842" crc="2946a9f5" md5="6ec8cd07a3900c8a669dcc7d79963a26" sha1="d3a5dcf75bd9cd781ebe819da0a5d5baad2de611" date="1634299980" />
 		<rom name="Ridegear Guybrave (Japan).chd" size="293494298" crc="9eefb6c0" md5="7ab1a3685eb540948aca79e2df23c612" sha1="6fb82fa272f1934edd75fde46b98585cd1facab3" date="1604427448" />
 		<rom name="Ridegear Guybrave II (Japan) (Demo).chd" size="73883544" crc="685c60ea" md5="7503e079ea29ac62f20208156ceea9b2" sha1="d1c82a3e1f07fa2d1c3b7fdb4cb6a9b5f8222c46" date="1634300004" />
