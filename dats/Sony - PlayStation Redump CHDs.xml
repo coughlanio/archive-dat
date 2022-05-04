@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-03</version>
-		<date>2022-05-03</date>
+		<version>2022-05-04</version>
+		<date>2022-05-04</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -5335,6 +5335,7 @@
 		<rom name="Robot x Robot (Japan).chd" size="114748465" crc="ddb9f047" md5="8c5e8b42dc2210789eb4300fd2282f49" sha1="ab64c85be0e23b0feb1b76cc4b328fef6b575aa7" date="1604441751" />
 		<rom name="Robotron X (Japan).chd" size="421641210" crc="3a0df908" md5="65dff5bfff38faf48c1c6f39c98a856d" sha1="27f4c27bf036f65045ab00528021d309c31f5232" date="1604441853" />
 		<rom name="Robots - Video Alchemy (Japan).chd" size="407724265" crc="d786c61e" md5="283dd388f8dc229531c2633ef2004657" sha1="149c54257a398a11e5ff3c71771574985d850698" date="1604441961" />
+		<rom name="Rock-Climbing - Mitouhou e no Chousen - Alps-hen (Japan).chd" size="241268485" crc="73ea80e2" md5="e1d90be151fd7da1fed1ccbf868aa1a0" sha1="5c196d0c2460aa0d2f230907090e7ca2d10c74c3" date="1651540678" />
 		<rom name="Rockman 2 - Dr. Wily no Nazo (Japan).chd" size="223365429" crc="f797346c" md5="86222d74594af7f5ba09a8f13226d142" sha1="66cc0b1387f9f6d773e964f2e937e6d07dcbc770" date="1604442343" />
 		<rom name="Rockman 3 - Dr. Wily no Saigo! (Japan).chd" size="228570648" crc="0fae7709" md5="2cbc387f6f71d00619fd87f49964c781" sha1="737227fec165928264e56efd53835dca511f67be" date="1604442398" />
 		<rom name="Rockman 4 - Aratanaru Yabou!! (Japan).chd" size="386075958" crc="d45c2bb2" md5="3de49023b8bdec5dc14ee0ca435fad28" sha1="c7f2d859c2924300e8db886d977f009a0bd15e4b" date="1604442482" />
@@ -5356,11 +5357,14 @@
 		<rom name="Rockman X5 (Japan).chd" size="353070872" crc="ee544ed7" md5="773f0b3c7ce624cca023f2f994a922d2" sha1="3b300f166603dce7d42095f408a6b83447a79d9f" date="1604443586" />
 		<rom name="Rockman X6 (Japan).chd" size="368634571" crc="8ae33908" md5="1e65ab9a19e0cc7ba36724ff3c272999" sha1="38804632044726edc72dfcd1f0b9305185994e5a" date="1604443664" />
 		<rom name="Romance wa Tsurugi no Kagayaki II - Gin no Niji o Sagashite (Japan) (Disc 1) (Shokai Genteiban).chd" size="473376064" crc="f86a10fb" md5="f7b52e40efceaf4a06a6b94a7f185582" sha1="a7932a5326a488bd25203cde7a44702f17c99088" date="1650214590" />
+		<rom name="Romance wa Tsurugi no Kagayaki II - Gin no Niji o Sagashite (Japan) (Disc 1).chd" size="473376065" crc="fa215772" md5="409ec3c833194ca6c9fcd512ecaa1299" sha1="4a46487def8d2e095a7ed6f13bfdb617c6449851" date="1651540809" />
 		<rom name="Romance wa Tsurugi no Kagayaki II - Gin no Niji o Sagashite (Japan) (Disc 2) (Shokai Genteiban).chd" size="476675887" crc="b0261295" md5="f409e5d59c8ceb9f966f7f3fc1e31531" sha1="ca77f377f78ebb80aba71323fe0745b973f71fa4" date="1650214727" />
+		<rom name="Romance wa Tsurugi no Kagayaki II - Gin no Niji o Sagashite (Japan) (Disc 2).chd" size="476675887" crc="8573f2e3" md5="4e48eb6330fdc030828154f1a59da98e" sha1="cfa836bf165e91e9a155580d2ba4325fd890d619" date="1651540960" />
 		<rom name="Rong Rong, The (Japan).chd" size="286379111" crc="9395b65f" md5="763df486dec238f723de55854ae1312e" sha1="2dddd094407362cad6d336b22bc8038e8b7a29ce" date="1604444999" />
 		<rom name="Roommate - Inoue Ryoko (Japan).chd" size="244407255" crc="adf57d2b" md5="e7ef986db705cfa01b4eb049917a6cf7" sha1="51aaa8159a10f75ff33555f7892cdeda91230cfb" date="1604446949" />
 		<rom name="RoX - 6 = Six (Japan).chd" size="27687296" crc="0c5da4a2" md5="eb322846be2b65d42330408aeca42093" sha1="508b5d5ca075a4556f8002c2e928fe333c90f779" date="1604446973" />
 		<rom name="RPG Tkool 3 (Japan).chd" size="42530253" crc="319c4c14" md5="685d134d2274ee5dd1b6b8ab076c8f46" sha1="ae1b6121d421e94a555b2d2491a07935934ae786" date="1604446993" />
+		<rom name="RPG Tkool 4 (Japan).chd" size="71769930" crc="579bf29c" md5="ef8138f8989ee7d558838dcf79620417" sha1="314c575757b8c50d6183842c5162431454c3c034" date="1651574887" />
 		<rom name="Runabout 2 (Japan) (Demo).chd" size="164604945" crc="a5841836" md5="bd5bf01fea14c6a0c5ad2fe8c8968c09" sha1="7799a1b55ac0a287d67fdefbc79c4623a8b6f031" date="1634300423" />
 		<rom name="Runabout 2 (Japan) (Fukyuuban 1500).chd" size="164486226" crc="b5f00f48" md5="fbc08a162e654edf8eb9cd33647a8660" sha1="1ae56ec84e5c4118cf0ee417a98a693e2d89a535" date="1604449080" />
 		<rom name="Runabout 2 (Japan).chd" size="168429238" crc="6e0caa9a" md5="e7824bd3e9c9b25ab53c5b5d517a3111" sha1="30839a0f8ba3c5f7ccf627f4db704861be807bcd" date="1604449154" />
@@ -5409,9 +5413,11 @@
 		<rom name="Sangokushi III (Japan).chd" size="51524596" crc="d8c8190b" md5="1b285a56ce37e5a97728209239f9797b" sha1="b6485874d52094ec530259681f1fb2fa267cfa7a" date="1605991649" />
 		<rom name="Sangokushi IV (Japan) (Rev 1).chd" size="424414907" crc="98311521" md5="ba97408714c5e424d275086c073cb11e" sha1="87658091e073b91173d60b41b4d8add289f15714" date="1605991692" />
 		<rom name="Sangokushi IV (Japan).chd" size="424415492" crc="ece78165" md5="5959e5c2b30e8ae476ac6984f52f87ac" sha1="cb9bbbb0e8bc034e0ee78c2975b3fcf753faca38" date="1605991733" />
+		<rom name="Sangokushi IV with Power-Up Kit (Japan) (Rev 1).chd" size="433919009" crc="f735edbd" md5="a23b7fa548ab49eaf0e0e267db96b634" sha1="95a87e2e30cd4cea3ee15a9e812e3507e2c47917" date="1651575008" />
 		<rom name="Sangokushi Koumeiden (Japan).chd" size="499069890" crc="13c55714" md5="6f5d16a70db567e8307afbe1f104876c" sha1="04e879154420afda29ae7c66511ad0b30a201b64" date="1606004175" />
 		<rom name="Sangokushi Returns (Japan).chd" size="169257952" crc="6d235870" md5="97b756fc3b931a74d36f027c473635aa" sha1="aabc0da81ffe1aab50c8b6d2d10bbf0932e16e94" date="1605991756" />
 		<rom name="Sangokushi V (Japan).chd" size="458153663" crc="b3371293" md5="cc7de05bb44589db294f243e58058b8b" sha1="4938619c21cf5e82ed800240ccb62145ec952368" date="1605991798" />
+		<rom name="Sangokushi V with Power-Up Kit (Japan).chd" size="458146099" crc="f0f879e9" md5="fc829f26d8b58d5e3f4f29459548c7fc" sha1="69b4c74a1c4454958100255ec53ab4a5cc212710" date="1651583993" />
 		<rom name="Sangokushi VI (Japan, Asia).chd" size="99748872" crc="388ef9f5" md5="f589ab7cefcb5c2b1c730ceae8f9e065" sha1="51290676f96f9fbd5863849c9a06d9261d91a04c" date="1605991818" />
 		<rom name="Sangokushi VI with Power-Up Kit (Japan).chd" size="78973815" crc="1e73d0ac" md5="2fb3895199f69f7bc7807d7d21996a22" sha1="e768765dacdd5bf4812bddc9729c3c562a846028" date="1605991831" />
 		<rom name="Sangokushi VII (Japan).chd" size="82354320" crc="5ad72e6a" md5="2ba7db460d4fb1f731453b8ea0a24851" sha1="9f70e4a2b5bd7b6bea84cca62227eeb29bfaf1ea" date="1605991842" />
@@ -5550,6 +5556,7 @@
 		<rom name="Shinri Game 8, The (Japan).chd" size="15317514" crc="84cedd87" md5="503d96847d6a6b5e600427ee45d55903" sha1="320d117fad7a8ae1ced02ecd8636115d09adc28b" date="1606052529" />
 		<rom name="Shinri Game 9, The (Japan).chd" size="15660091" crc="80c88a48" md5="fd42781bb56fb852b622a14d9d18d3c9" sha1="62a1984f8b4b3d138af11fd927758de9f638a00f" date="1606052537" />
 		<rom name="Shinri Game 10, The (Japan).chd" size="187086012" crc="f44ea766" md5="236675e2ee98df862f858698188b8467" sha1="dfe55f538efc754aca7aa0f97eee810de20ac8ed" date="1606074170" />
+		<rom name="Shinri Game IV, The - Itsu mo Kokoro ni Hoshizora o (Japan).chd" size="100543305" crc="587fe893" md5="4a667823a82f4137cdd6bf3904fe2ce6" sha1="616cc90990cf3cabca8819b05c599dfe9ba3e7e2" date="1651613636" />
 		<rom name="Shinri Game, The (Japan).chd" size="60610818" crc="3e7d67b9" md5="7a6952a73b67677bad52ecade3f586ee" sha1="e4e83aa9d202426ae448ff37ee520650aa7a1d43" date="1606069024" />
 		<rom name="Shinseiden Megaseed - Fukkatsu-hen (Japan).chd" size="174952969" crc="3b57602e" md5="42e461fb6a00f57a90537e57b71a133a" sha1="e541256f601f853d4a86b44cc45f227debbb9825" date="1606074197" />
 		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan).chd" size="308080452" crc="6757431f" md5="e6d9c0c05b6236999a1dfa24fe682186" sha1="7aec7e6f528292e6029355771994749e6e03942f" date="1606088491" />
