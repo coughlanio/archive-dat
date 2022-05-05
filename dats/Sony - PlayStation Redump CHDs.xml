@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-04</version>
-		<date>2022-05-04</date>
+		<version>2022-05-05</version>
+		<date>2022-05-05</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -2255,7 +2255,6 @@
 		<rom name="Arc the Lad II (Japan) (Rev 1).chd" size="320441188" crc="b7ee87d7" md5="f1444557a8dbee6770fe5c38460643b3" sha1="5b1673c43e5215acc321e1de72b5962a2627b3d7" date="1602199002" />
 		<rom name="Arc the Lad II (Japan).chd" size="320531324" crc="08a8a0c5" md5="b3009d21730e55bd89024e47b3a6849f" sha1="e4825b13b29dd1ec1d8aa56523284813b83eac7d" date="1602199034" />
 		<rom name="Arc the Lad II - Characters &amp; World CG Movie Collection (Japan).chd" size="92221765" crc="4695b350" md5="e6e31e71a5466b87ef0d77331edea77c" sha1="94cf702dc031cab63d2d7d97be7b88b63affc0bb" date="1650371462" />
-		<rom name="Arc the Lad III (Japan) (Demo 2).chd" size="30043875" crc="61bf6d0c" md5="9e63439fec4a52e9986d10749ad865d4" sha1="83f20437dd2841b4a40289407ecc9fbfbc7d2b0d" date="1634247027" />
 		<rom name="Arc the Lad III (Japan) (Disc 1) (Rev 1).chd" size="265066666" crc="6745dfd2" md5="317737426c235b739d9ce7722820a633" sha1="72cde2afe9154f7e7f823876de91192fd1e522d7" date="1602199086" />
 		<rom name="Arc the Lad III (Japan) (Disc 1).chd" size="265094449" crc="893f3758" md5="449d9ed6ad8808c021ba3411b5a89483" sha1="62908fa902159dea82a001c382f49c5aff6cfad3" date="1602199179" />
 		<rom name="Arc the Lad III (Japan) (Disc 2) (Rev 1).chd" size="329687045" crc="8b81ab7f" md5="b3bb3d9e286f08330448ac18f761668e" sha1="b0a6c56d80c886ee6b0ab554903b975b404fb758" date="1602199208" />
@@ -2672,7 +2671,6 @@
 		<rom name="Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 2).chd" size="434125486" crc="bc9fc24d" md5="cb10d054ca7777074a5a1d5eca2b8525" sha1="8abb907ab82f70ffeb8f2fb3f14302de917ec51f" date="1602458945" />
 		<rom name="Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 3).chd" size="451215937" crc="4f912db3" md5="004643d89c4c894e6eace5c63eef2833" sha1="b8f92c937d56866f85457aa40ee92a46a6f4ea3f" date="1602459995" />
 		<rom name="Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 4).chd" size="435333047" crc="d08676dd" md5="1f9f2ae354a6a8d7ac5ad640cfdf1bfe" sha1="960b78fc4136b84214c476e9aaf2e6d26f9590c2" date="1602460125" />
-		<rom name="Circadia (Japan) (Demo).chd" size="152819660" crc="dacaea95" md5="03c3d459c46ce87ec86c3e65b0481e96" sha1="e2677816a3b2d48bacab74857ba7fc1e7e6dcc9c" date="1634253557" />
 		<rom name="Circadia (Japan) (Disc 1).chd" size="369701748" crc="294ceb1a" md5="997e956c53663e5f6b1c0d57d1107938" sha1="74da996f29afbd47602d3c94c1c69b089a91b204" date="1602460313" />
 		<rom name="Circadia (Japan) (Disc 2).chd" size="327935214" crc="40dba06d" md5="a8c54bfdb104ec010e13159a9483aa7a" sha1="264f3d5e6df8f6d49e07c1cdd590cf5adb890158" date="1602460429" />
 		<rom name="Circuit Beat (Japan).chd" size="45192090" crc="77a51d41" md5="6158bfde0e0e1ec49af8a0f646544ba9" sha1="a0c3e9fe8b17cbd0d108f3c24dfba56564af4c2e" date="1602460663" />
@@ -2741,7 +2739,6 @@
 		<rom name="Cowboy Bebop (Japan).chd" size="193257681" crc="e4f0907c" md5="50e21bf630faad44f290e06194b5d464" sha1="e0fbcd133888b1209ca653e8311525ff4fcc8993" date="1602426739" />
 		<rom name="Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (Demo).chd" size="153437397" crc="15e38608" md5="66c84b883b9f1f459a82a359442ebe9c" sha1="e7fd795687ed48a6debb218572d026ec665c6cb2" date="1634253981" />
 		<rom name="Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan).chd" size="153613020" crc="aa80bbb8" md5="d51d429f575752daee81d445129018dd" sha1="2b1fa268bb74c21b351361c4bbe0510d79d487c4" date="1602426843" />
-		<rom name="Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan) (Tentou You Taikenban).chd" size="37318142" crc="4cbec1c4" md5="5ce16d351cec3853a2a04f88f2313fa2" sha1="3bf9ec3477a176589184d06d91160c5d4bcb960c" date="1650163333" />
 		<rom name="Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan).chd" size="281878621" crc="0fe3645a" md5="044af1e32238c2412ce7323924d04c45" sha1="648e795f8f3a074c17d4e213ada0e765cb5dd242" date="1602426899" />
 		<rom name="Crash Bandicoot (Japan) (Otameshi Disc).chd" size="45397004" crc="b06c5f65" md5="0bfa0ca9b2e4796057215cf42560f812" sha1="2cc61bf775242e8707693554a0033d4d6b43bf57" date="1602426747" />
 		<rom name="Crash Bandicoot (Japan, Asia).chd" size="466886767" crc="cc4cfb2e" md5="810687f708aa1254a09fe6d6a9ee9b30" sha1="3905f8ed9a272b8ea4ceceb9271c99521b68b2eb" date="1602426793" />
@@ -2768,7 +2765,6 @@
 		<rom name="Cross Tantei Monogatari 1 - Zenpen (Japan).chd" size="339530199" crc="447c8d65" md5="06d33a6eb1e432971a19ddb4af12a4fb" sha1="3848f41c07b3c1346b5bbeb826030263d84db77a" date="1602428206" />
 		<rom name="Cross Tantei Monogatari (Japan) (Disc 1).chd" size="258154160" crc="592cdf4d" md5="3c2a85cc685f992bf39512d599062764" sha1="ff9a437e34c239a8522da1757cd2b37d68710ae6" date="1602428058" />
 		<rom name="Cross Tantei Monogatari (Japan) (Disc 2).chd" size="350115495" crc="5976d884" md5="05bd8eeef8a9b8cb426f47b587f917e5" sha1="9576090e456db2afdcfa81ec416b85b29ac3c742" date="1602428098" />
-		<rom name="Cross Tantei Monogatari (Japan) (Taikenban).chd" size="256197831" crc="db3e3e0b" md5="8524a0566a2b3913d46bf725d09d3698" sha1="36355b6e457dbafecbd90bd0a40e7c3c35c2d47c" date="1634305315" />
 		<rom name="Crow, The - City of Angels (Japan).chd" size="158084248" crc="3ed259dc" md5="204796c0986c99525b8ac31cf693724d" sha1="80fc99650d1fb5602dd11e12100adf195c822792" date="1602428221" />
 		<rom name="Crown Knights, The - Jaja-uma! Quartet - Mega Dream Destruction+ (Japan).chd" size="226131235" crc="92f592ca" md5="68656420cf678584b8cde297a6c354f1" sha1="35053c4f499e9688287241b37ab76d198063a36f" date="1650510222" />
 		<rom name="CRW - Counter Revolution War (Japan).chd" size="198740025" crc="b361374c" md5="ef69e3d00714af185d7772c5fa8c6e2b" sha1="fabaf1eccdc49dd4d4bf974db8e6873ca553c3ad" date="1602428266" />
@@ -2815,7 +2811,6 @@
 		<rom name="Daisenryaku - Player's Spirit (Japan) (Rev 1).chd" size="25028807" crc="2cf1a570" md5="3ebc846b42683a93a5decd250153588a" sha1="334765eb33ffe64baffdc6b477fbcd765b08a586" date="1602516298" />
 		<rom name="Daisenryaku - Player's Spirit (Japan).chd" size="67941735" crc="6eff10ee" md5="fa6e732b554616b0935250cde1529f1b" sha1="bf6ee261891312914718a4f42e25556c38fc54dc" date="1602516308" />
 		<rom name="Dakar '97 (Japan).chd" size="342717814" crc="22075e40" md5="03d91b375904a6460f25fb5656c56111" sha1="0dcce9603b023dfd85517bacb1ee67160d81d3b1" date="1602516350" />
-		<rom name="DamDam Stompland (Japan) (Taikenban).chd" size="300188399" crc="b6f70b5c" md5="fe0051efeea604feea7633bfcaab250e" sha1="11b26a99dad6bf4d2a79e99eb40aee0246a7ffec" date="1634305390" />
 		<rom name="DamDam Stompland (Japan).chd" size="301874228" crc="5dea3148" md5="855c9253d75e27aee0d1686166974ee9" sha1="a60d0737a824a3c67012907a6feac26ad2ee261a" date="1602516421" />
 		<rom name="Dance Dance Revolution 2nd Remix (Japan).chd" size="436265866" crc="5e8cf8f5" md5="d04b8b3f96c2e9fb7b03668e784e1c9e" sha1="151564fdbfc4e3c62ecc8e551ecadab4541fb372" date="1602516598" />
 		<rom name="Dance Dance Revolution 2nd Remix - Append Club Version Vol. 1 (Japan, Asia).chd" size="333567996" crc="197af4e0" md5="605f792e8f50b78f049b938ec8a80f66" sha1="96a69b786a5cd4f84959731a0e2c219a39334edd" date="1602516644" />
@@ -2856,7 +2851,6 @@
 		<rom name="DeathMask (Japan) (Disc 3).chd" size="425371335" crc="27189c1e" md5="1cb63929141731a5e421e41662be7a52" sha1="e8b6d51a83e44c08763e94c24db7930e3ca761ff" date="1602517979" />
 		<rom name="Debut 21 (Japan).chd" size="188540582" crc="be2aac10" md5="47abec79f2b038b2fa43f74f7a448dbb" sha1="717df053afaa70af29fb5edfdc40be35afe19708" date="1602517998" />
 		<rom name="Deco Pre 2 '99 (Japan).chd" size="329237619" crc="bfddc271" md5="93e7181e18f7f14f1758a51d41f8879f" sha1="82c3e25ab0720fea71681f9877bc8aa058a52b52" date="1615770529" />
-		<rom name="Deco Pre 2 '99 Taikenban (Japan).chd" size="329237619" crc="bfddc271" md5="93e7181e18f7f14f1758a51d41f8879f" sha1="82c3e25ab0720fea71681f9877bc8aa058a52b52" date="1650241695" />
 		<rom name="Deco Pre 97-98 - Data East Taikenban Special (Japan).chd" size="224845205" crc="7f9e7f78" md5="a10a9caeaa15cae34cc75fef35b7b73b" sha1="9755ebb11842fffd69e09664f470109a65a67858" date="1602518059" />
 		<rom name="Deep Freeze (Japan).chd" size="290160567" crc="50bce9cc" md5="ae8ec39a268044253c381240f7f4047d" sha1="6be1ae14e71defb8f64064750397c143ae6a1547" date="1602518104" />
 		<rom name="Deep Sea Adventure - Kaitei-kyuu Pantarassa no Nazo (Japan) (Disc 1).chd" size="457540826" crc="efb57ebe" md5="8522a85d40164ec60b01d454c77bf575" sha1="82a014e9ffc6e564e82d7817a345764c8597b822" date="1602518157" />
@@ -2896,7 +2890,6 @@
 		<rom name="Dengeki PlayStation D6 (Japan).chd" size="368706569" crc="e9320ba5" md5="0852937a1744e4d940b8b05299b7fc51" sha1="0a89617a171f8f3d4052b21f40f829903807e6b9" date="1650202069" />
 		<rom name="Dengeki PlayStation D7 (Japan).chd" size="320279942" crc="ef65e863" md5="881d8663debd7acef75d79eaf6692bae" sha1="a608f5f8280f4b4898dcfa44b9f62c64d1f2e745" date="1650202147" />
 		<rom name="Dengeki PlayStation D8 (Japan).chd" size="274210738" crc="3fee016f" md5="c9bcb065e4bb123fa3b693222f0789be" sha1="1af0d142636384886eae6e139902498a9235594f" date="1650202221" />
-		<rom name="Dengeki PlayStation D8 - Yarudora Series Vol. 1 - Double Cast (Japan) (Demo).chd" size="91235397" crc="641e9164" md5="9ccabd6388be4dba44aea9a361497a48" sha1="ef69d727fe7119ad78b3d324fe15cb488d950414" date="1634254433" />
 		<rom name="Dengeki PlayStation D9 (Japan).chd" size="345410115" crc="443c9756" md5="225eba589e67964e4a90358313389adb" sha1="d890b42276c3aaccaa6c52c6598cb6d341858d54" date="1650202295" />
 		<rom name="Dengeki PlayStation D10 (Japan).chd" size="361805009" crc="9f130d57" md5="ae422752617f02db15eb512cbb40fd87" sha1="09eccc772cc84a4902ab247b7e2cf7fd34f866d3" date="1650200469" />
 		<rom name="Dengeki PlayStation D11 (Japan).chd" size="371648981" crc="4a6b5b0f" md5="12361378b58aba6195a8acf80f1576da" sha1="d04a51a023384bfb1468c5a33f23fc91f81829db" date="1650200559" />
@@ -3045,7 +3038,6 @@
 		<rom name="Doko Demo Hamster 4 - Doki Doki Sugoroku Daibouken! (Japan).chd" size="222211773" crc="1bacd000" md5="34c1a563e8aece8b3a6753f9b8de9302" sha1="a5e4e5ad3f6c5756d1a56dfafa234bfdd4f672fe" date="1602677817" />
 		<rom name="Doko Demo Hamster - Bi! Click Tankentai (Japan).chd" size="46665312" crc="bd5897dc" md5="5e6038c8ea8037972dded2e64343a4be" sha1="36df9e565696830fdb4a999d3994d2f1905f5daf" date="1650459381" />
 		<rom name="Doko Demo Issho (Japan) (Calpis Water Version).chd" size="231878249" crc="3eab7363" md5="e3b173762a1772322ee1ecf3775fdca2" sha1="7d837dfa41c69390aadb50043179db9f194ffccc" date="1602677843" />
-		<rom name="Doko Demo Issho (Japan) (Demo).chd" size="69358953" crc="649b3bed" md5="36671af3df166310d9c509cc0ddd622f" sha1="88bd341f6c007002adb4b2f2b92fb737096d32d3" date="1634255195" />
 		<rom name="Doko Demo Issho (Japan) (Rev 1).chd" size="239552132" crc="cae8b1d2" md5="a5d1e403729972e39582b959fba2bc69" sha1="c06201e877d353f64292b5f1332587a7b8dcadc4" date="1602677956" />
 		<rom name="Doko Demo Issho (Japan).chd" size="239541956" crc="2cc22ada" md5="8b39a891a2cfe5ceb64a9954e2c74470" sha1="7c952362c52aeea0ec2b1b356c2e732511c6d6a0" date="1602678031" />
 		<rom name="Doko made mo Aoku... (Japan).chd" size="358635577" crc="2bd92d30" md5="8a7f24059c08ad3c623def1d1fe92734" sha1="bcfe6db6ad3c4ed40fc0399d8c3682d7debe8ee0" date="1602678081" />
@@ -3114,7 +3106,6 @@
 		<rom name="DX Okuman Chouja Game - The Money Battle (Japan).chd" size="59513113" crc="61d70cc3" md5="fe31200c74835fccde4194a6a475eb64" sha1="196c4948093effd6ff88ab48def21828f6673123" date="1602709292" />
 		<rom name="DX Okuman Chouja Game II - The Money Battle (Japan).chd" size="115774422" crc="5507a2d9" md5="536ab7c2e254bb5fe2d634a25f6070a5" sha1="b517029a223560c675bc667938e913a0626be7d8" date="1602709485" />
 		<rom name="DX Shachou Game (Japan).chd" size="19075760" crc="ba4011f9" md5="c785018f49894301a4bdfb50bdc5dc02" sha1="8329a2d77f5721127376d9caf725bda596ba7d5f" date="1602709490" />
-		<rom name="Dynamite Boxing (Japan) (Taikenban).chd" size="41490504" crc="981eb11d" md5="e363d45bbca375f64880c323f61edd9d" sha1="881a5ad6f4e2a959820b6a76eb15d949a7095c04" date="1634305407" />
 		<rom name="Dynamite Boxing (Japan).chd" size="237990652" crc="33fe6746" md5="c0017f3f7b27f4e091eeb3056aeda7db" sha1="1812c34bdb2c44a98a57e8a95e4917f73880b713" date="1602709640" />
 		<rom name="Dynamite Soccer 98 (Japan) (Demo).chd" size="22214134" crc="df1d1c7d" md5="813f3dfb778581c51db70dc7457a084c" sha1="d56b27e0eb92eb434411e66469a5efe60fd23f5a" date="1634255361" />
 		<rom name="Dynamite Soccer 98 (Japan).chd" size="145342740" crc="ec7db23d" md5="5d6306c04385523201cf1a8388f440b9" sha1="b188d7b0935685e0b18944b9d8bec224b122e9be" date="1602711342" />
@@ -3155,7 +3146,6 @@
 		<rom name="Eko Eko Azarak - Wizard of Darkness (Japan).chd" size="244259113" crc="3d16c92d" md5="1e9666c5e2c0a567145cb95438f7a6ac" sha1="f45d3386d7b22b797cc200fa922928ec42e93aeb" date="1603024490" />
 		<rom name="Elan (Japan).chd" size="334002853" crc="4436e01f" md5="bbde000daa843dd10047705be18df103" sha1="de634ae3a6a9588bf7934b75e1437a6756771fff" date="1603024524" />
 		<rom name="Elan Plus (Japan).chd" size="339005583" crc="5b4292b7" md5="4d6bb8deb1e8c9a751f2709e8ef0b297" sha1="73cbbb01f0f2414b47127cd269e41714dbe8527a" date="1603024566" />
-		<rom name="Elder Gate (Japan) (Taikenban).chd" size="62445419" crc="e31ad831" md5="3131766dd54bdf907436890120974aaa" sha1="02e04517005cb54c47093f56ec78572453af5484" date="1634305429" />
 		<rom name="Elder Gate (Japan).chd" size="71586285" crc="b72c5a11" md5="aa56484e5f08043c61a0ebc796f50325" sha1="f225999fa10152aa506a7135ede41433b930c2b6" date="1603024590" />
 		<rom name="Elf o Karu Monotachi - Hanafuda-hen (Japan).chd" size="43940036" crc="943b4033" md5="a0739438931e6cd688e8fe54a4d3aafe" sha1="12ae02bdbfeb31afcb88332e7e0303fcb973be8e" date="1603024600" />
 		<rom name="Elf o Karu Monotachi - Kanzenban (Japan) (Disc 1).chd" size="459461290" crc="c7ae3bc4" md5="626601cd19f9757b14cdf1c70da6551d" sha1="3c4603f339a8a7a3b6ea141cdafc8fc95a2485e0" date="1603024645" />
@@ -3259,9 +3249,6 @@
 		<rom name="Famitsuu Wave 11gatsu-gou Vol. 16 (Japan).chd" size="320726543" crc="83236e5d" md5="0ec6afc000a68b2b1ba0c01506d23336" sha1="3617f3e1eea3126d53d4d5b3f5c3065659be4ed9" date="1650165946" />
 		<rom name="Famitsuu Wave 12gatsu-gou Vol. 5 (Japan).chd" size="300969092" crc="138a695a" md5="c061696b64957fe14840b8a27221d60f" sha1="308fc6b7ae87440d36019b41f423d4ed631e2a6a" date="1650166212" />
 		<rom name="Famitsuu Wave 12gatsu-gou Vol. 17 (Japan).chd" size="286771374" crc="88a7dec1" md5="c7ff380d8dbab7535a0c553052538baf" sha1="52a66148889a759c5dd431cbe8cf834b61f7b471" date="1650166126" />
-		<rom name="Famitsuu Wave Soukangou Vol. 1 (Japan).chd" size="334859681" crc="90a30373" md5="2eeef6baaa215f5ee4292bf11feafc44" sha1="076b303da43baeef9b5a58aedff3e259c84d6a5f" date="1650167452" />
-		<rom name="Famitsuu Wave Soukangou Vol. 2 (Japan).chd" size="400153770" crc="48ea5180" md5="55af77a25bbee45023399414bd02f572" sha1="1a579684acb7e04272269b19359eabe4efd46824" date="1650167565" />
-		<rom name="Famitsuu Wave Soukangou Vol. 3 (Japan).chd" size="311764332" crc="e2d73aae" md5="ad7b70405bc8437ca2fd9aeced9ebfdb" sha1="b23e4ae5b9d6aff769fecd5408d8bdb03d088e0a" date="1650167642" />
 		<rom name="Fantastic Fortune (Japan).chd" size="323214508" crc="f74ffdcc" md5="f710469b970738ec1ac389ee3259ac56" sha1="1c29d78f311bb327ce3ba61134763b32d87b326a" date="1603037672" />
 		<rom name="Fantastic Four (Japan).chd" size="266077980" crc="188416d3" md5="0bf660b3a44b11e866e60436018cc5bb" sha1="dc2abe6af42c1421100410065c19fe976cae3eb7" date="1603037740" />
 		<rom name="Fantastic Night Dreams - Cotton Original (Japan).chd" size="2016374" crc="a35b17df" md5="d473ac1c8d71404e2990ed9393594adc" sha1="42593a64bef4881a6ac21c0be35c6d460722bbd5" date="1603036406" />
@@ -3415,8 +3402,6 @@
 		<rom name="Galerians (Japan) (Disc 1).chd" size="414186563" crc="8a7ba7ea" md5="6ff8670f2fa982a60c4eb16558e74dfb" sha1="f42837ada657adb8150d265881f742a1c8aeb7e2" date="1603110718" />
 		<rom name="Galerians (Japan) (Disc 2).chd" size="404871603" crc="0c6561d4" md5="10c1b3b2337053054a7ec3842ed4304e" sha1="7602549a01cb9ea0ab6d42217a5f901ad28ed191" date="1603110831" />
 		<rom name="Galerians (Japan) (Disc 3).chd" size="412616508" crc="1dbd9ba2" md5="88cd21daa878378598d997cda7695afd" sha1="b48991414c46945388b8719e130fedb1754ada6c" date="1603110915" />
-		<rom name="Galerians (Japan) (En,Ja) (Disc 1) (Proto).chd" size="414160234" crc="21a20f15" md5="9e819106c0a9c5072fba9d9137a0037b" sha1="7f26601b6dd0dc1a6dc65aa5d831bb3818867114" date="1650213368" />
-		<rom name="Galerians (Japan) (En,Ja) (Disc 2) (Proto).chd" size="404460463" crc="3d81316a" md5="89851658285c395f5692abef705bfe64" sha1="d7addda92aed74487c2a95bc588f35a9cd01df2d" date="1650213469" />
 		<rom name="Gallop Racer 2 (Japan).chd" size="411187850" crc="72e20f4a" md5="fb913eec12b79891e035b5b753da9ea8" sha1="40c80585a6cdaecd37ff769469d94ef574e440dd" date="1603112110" />
 		<rom name="Gallop Racer 3 (Japan).chd" size="223342921" crc="7aecc2f2" md5="845290c16efbcf62b5e45e96c6be5c13" sha1="863f6b99207205a34b287e8fe0b1e87bebc65589" date="1603112216" />
 		<rom name="Gallop Racer 2000 (Japan).chd" size="194450964" crc="b477e0c7" md5="094e89f399837d3ae38117513d39107d" sha1="071c312a3438faf23b6dc4be1985ae3482dd5aee" date="1603112169" />
@@ -3568,7 +3553,6 @@
 		<rom name="GunBullet (Japan).chd" size="173171656" crc="7f5fdac1" md5="7cfa4cdd5c3386ec476f5a962a931286" sha1="c963308be6634df008f357c9723ed796d688da0b" date="1603142474" />
 		<rom name="Gundam 0079 - The War for Earth (Japan) (Disc 1).chd" size="238958107" crc="5839609c" md5="de9d4375203eac6ca6ae440eb62f9014" sha1="9aa7baebf4c8e1cce4f4b0ef8ec3f0b45b7cd54e" date="1603142568" />
 		<rom name="Gundam 0079 - The War for Earth (Japan) (Disc 2).chd" size="211184765" crc="6992af6c" md5="f2b0708d91df0ad95c9a555f17a860c4" sha1="64e0cb860b23c28c4ccf195aa08a83b40a0094d1" date="1603142592" />
-		<rom name="Gundam - The Battle Master (Japan) (Taikenban).chd" size="39589367" crc="0c4c636e" md5="602ce1af132d96ee7c2bdb788be68ee1" sha1="3b92977c8ea9f7c1cb4a163a2358382b7c3af60b" date="1634305444" />
 		<rom name="Gundam Battle Assault (Japan).chd" size="266343917" crc="d9716c33" md5="dd4eb23fc06e2c54e2577f436b9fc143" sha1="6a337b92bd5e49af376e8b650832fd181b715146" date="1603142617" />
 		<rom name="Gundam the Battle Master 2 (Japan).chd" size="266996432" crc="e1907472" md5="158ad1590b4c149e8024f17a6fb704fc" sha1="404d35176b3a71a13531d7ed5647e1b193934da0" date="1650311449" />
 		<rom name="Gundam the Battle Master (Japan).chd" size="228228893" crc="7401caea" md5="aac844d565a3555b06fcf4f2d98cbdda" sha1="1c44898bd60abd1258168a945a10a9b346ef1279" date="1650311365" />
@@ -3618,7 +3602,6 @@
 		<rom name="Harry Potter to Himitsu no Heya (Japan).chd" size="329498853" crc="1757d3c2" md5="212a867b9a7f142bf55aa945908180a1" sha1="3d28434e47f93355d9c372d6552f93e786c50f82" date="1603147108" />
 		<rom name="Harry Potter to Kenja no Ishi (Japan) (Coca-Cola Kenshouhin).chd" size="262157632" crc="abe12c22" md5="c0b97940af6423be0465042ad1b48769" sha1="9549639ecf3dc703c3e5c528e04b606e39c1ed36" date="1603147130" />
 		<rom name="Harry Potter to Kenja no Ishi (Japan).chd" size="262157821" crc="561d13e7" md5="c85b347d8e0d0f6a1dca5cb6f0b0a65b" sha1="707a473636f37a7e723f0b9100833102b670486b" date="1603147155" />
-		<rom name="Haru no BuruBuru (Japan) (Taikenban).chd" size="106343470" crc="fe20367c" md5="a134198b23238f8345235f906dd0a212" sha1="cc17028bfff36a294359e2cd83d6862869966e75" date="1634305465" />
 		<rom name="Harukanaru Toki no Naka de (Japan) (Premium Box).chd" size="291481168" crc="bfee76f0" md5="f21b7758d37c4bc439b1a80584506764" sha1="f778297dbd2e138630606260ddb0911ff2dc50f0" date="1603147198" />
 		<rom name="Harukanaru Toki no Naka de (Japan).chd" size="291481167" crc="a1294c00" md5="43f0d76a86e18f44aae3bd920022368a" sha1="38b74e33e6dbf1c54f98cc6bcf179ef4d6e14f92" date="1603147238" />
 		<rom name="Harukanaru Toki no Naka de - Banjou Yuugi (Japan) (Premium Box).chd" size="255562928" crc="19e07225" md5="ec9676f6c0986771be54334a6883f52a" sha1="49938a1c670e9b12c55de6935302ee92e55868ed" date="1603147265" />
@@ -3959,12 +3942,10 @@
 		<rom name="Kaeru no Ehon - Nakushita Kioku o Motomete (Japan).chd" size="86931724" crc="4fbc05d0" md5="83abfc34f174fa27e11a30bd422cb06e" sha1="43b44669ac29199ab8461becc63507694e412b7f" date="1603214607" />
 		<rom name="Kaette Kita Cyborg Kuro-chan (Japan).chd" size="21693403" crc="57bdb8f1" md5="f9f465d3d81d15720e88a7109690b099" sha1="75c70aa9e730111e888929dbebc4d4e46527a532" date="1603214620" />
 		<rom name="Kaette Kita Pachio-kun - Dream Collection (Japan).chd" size="27672935" crc="76ce1b6e" md5="464ca3d98f79fb8afcecddccdb181939" sha1="7ba9ffe0a727c06e3d9ba40fc1236c7bc18de2d6" date="1603214632" />
-		<rom name="Kagayaku Kisetsu e (Japan) (Disc 1) (Genteiban).chd" size="258531935" crc="940e3491" md5="b92eb406a3f409e84e7e83a3ce024384" sha1="d869048b5ded0db2fcdcc03f49485c8ca99b1136" date="1650213558" />
 		<rom name="Kagayaku Kisetsu e (Japan) (Disc 1) (Shokai Genteiban).chd" size="258531935" crc="940e3491" md5="b92eb406a3f409e84e7e83a3ce024384" sha1="d869048b5ded0db2fcdcc03f49485c8ca99b1136" date="1650213644" />
 		<rom name="Kagayaku Kisetsu e (Japan) (Disc 2) (Special Disc) (Shokai Genteiban).chd" size="400593124" crc="81c7e82e" md5="73ee3b46bfb4f9535c191c3a43276947" sha1="ac6ee97e00bdd386b4a3e612bc19d1958b19f30a" date="1650213746" />
 		<rom name="Kagayaku Kisetsu e (Japan).chd" size="258531933" crc="e3a26e69" md5="640cbc85120c8e9385d3df30235ee63f" sha1="8cbab8604c3abb99ca5a966e27192e3fa3443a6c" date="1634224701" />
 		<rom name="Kagero - Kokumeikan Shinshou (Japan).chd" size="275357468" crc="dadcac0f" md5="6c34c1d5a72d2bde09fde01dee70267a" sha1="076df824833b3170117814f231ca035affdb31a8" date="1651346979" />
-		<rom name="Kagerou - Kokumeikan Shinshou (Japan) (Taikenban).chd" size="201186387" crc="4072d32e" md5="3a5c51cbb94ae7648ec40a0b12913d77" sha1="bf4ad8bf24f05b70b15e4dcf8130467224e193fe" date="1634305519" />
 		<rom name="Kahen Soukou Gunbike - Speed Power Gunbike (Japan).chd" size="215089414" crc="f658a064" md5="e2705fd19d8c9b2d5fde8a171a74e924" sha1="47be5eb42a8b495e81e0f49a4f9446e24f53128a" date="1603214835" />
 		<rom name="Kaibutsu Para-Dice - Monster Paradise (Japan).chd" size="341278939" crc="5fcf9395" md5="22809b4f219f9327e6b83626f6ec235b" sha1="83a7b0da8633be3eb427606247db585a074addb1" date="1603214947" />
 		<rom name="Kaijuu Senki (Japan).chd" size="174850115" crc="e59536e0" md5="a1e1c2d0a595b8dd091cf4a93308ddd5" sha1="74524f202de8c81ab35a35bafbdc8d791dec0b25" date="1603214982" />
@@ -4180,8 +4161,6 @@
 		<rom name="Koudelka (Japan) (Disc 2).chd" size="229801524" crc="888ceb24" md5="c5b6073ab40d4c4f0a0a65cc93e2b08e" sha1="1ccb53f5faf6bd6de869a0f59e63845d0fdd2370" date="1603276812" />
 		<rom name="Koudelka (Japan) (Disc 3).chd" size="273664340" crc="32a55d00" md5="d1d4ed2e0106bf137e56145d81a6a455" sha1="cf942c049397e8b49ce2c7a23918269d71d32746" date="1603276921" />
 		<rom name="Koudelka (Japan) (Disc 4).chd" size="290471025" crc="9dea378b" md5="acf424df261aff13bc730ada5a90aa95" sha1="bfd88b30bb413979cb2f33da4ea578ebfb5288c7" date="1603276981" />
-		<rom name="Koudelka (Japan) (Promotion-ban).chd" size="73892086" crc="c9f68ef8" md5="5a320cef0cdd330e2ba18586153adec9" sha1="7bfcb62c3d52fc87e86ea5c63c789d6949d8966e" date="1650665707" />
-		<rom name="Koudelka (Japan) (Taikenban).chd" size="221723970" crc="5a9feca9" md5="6cc1e216678e13bf3f4c42947f7d9e94" sha1="50d83addbfd788374d3363be7a85ccb0f7b414f3" date="1634305592" />
 		<rom name="Kougien CD-ROM 2000-nen Natsu-ban (Japan).chd" size="169909285" crc="107ad2a6" md5="9edd5056838958072037d6f35219b2f6" sha1="179b2316ab56adbe830da0f1de8318cfe7481a51" date="1606752463" />
 		<rom name="Koukai Sarenakatta Shuki (Japan).chd" size="187353761" crc="62e45e34" md5="2b0376c2e088deeb48af4d5eddac012c" sha1="4d772a655b09054f9604196dd27e54aafdc26d70" date="1603277108" />
 		<rom name="Koukaku Kidoutai - Ghost in the Shell (Japan) (Demo 1).chd" size="35646225" crc="4805eabb" md5="1881450dd28206376eb3c5146fe3d912" sha1="191ae2f5e8bf95746d6aa813102ae2c688163627" date="1634259772" />
@@ -4257,7 +4236,6 @@
 		<rom name="Le Concert - pp - Pianissimo (Japan).chd" size="304333846" crc="0feba84f" md5="fd56475cdc61ff672634d1fbb65c8bb1" sha1="961a8f339aab76f5b62cb73fe83b33299283cfc1" date="1603288355" />
 		<rom name="Leading Jockey '99 (Japan).chd" size="1789174" crc="a0195183" md5="a4b48e396caf6c191dbf230885eabd54" sha1="f7584294eaa96aec9a3a36c92a5e9d37d41c8fdb" date="1603288367" />
 		<rom name="Leading Jockey Highbred (Japan).chd" size="1804660" crc="647dea97" md5="abd8e77902e6de0ef268967f626cd1d9" sha1="6293f17ff844f6e33f5efb451622276b155b40f3" date="1603288381" />
-		<rom name="Legaia Densetsu (Japan) (Demo).chd" size="117608474" crc="61d7d556" md5="f1bd5d1abc23dfb4ebf6d949396d4ed7" sha1="580d0f276b065858b4e938aa5b04410ab4d52c4e" date="1634259863" />
 		<rom name="Legaia Densetsu (Japan).chd" size="259850443" crc="3ef0cd39" md5="69ab4610b83e3782810822524b2e1600" sha1="d78575c7a640b36018fb5ed25419534820038c69" date="1603288466" />
 		<rom name="Legend of Dragoon, The (Japan) (Demo 1).chd" size="45291396" crc="b6856469" md5="7adaa767bfe354349de62366f929596a" sha1="12fe41adf716a619bac8fec3ac22598dd2ec52ed" date="1634259878" />
 		<rom name="Legend of Dragoon, The (Japan) (Demo 2).chd" size="88714260" crc="d1a53138" md5="d0d60a4731f4a5293d364b0222616fa9" sha1="1b8af93099ac63f7d75d80f21979df107afe97e5" date="1634259905" />
@@ -4316,7 +4294,6 @@
 		<rom name="Love Hina - Ai wa Kotoba no Naka ni (Japan).chd" size="258419839" crc="ab2d0be9" md5="e51d46b250cddf3ee18dde06a78d1ba7" sha1="021048e63c604280dc0adb33153179e5247714ec" date="1603294367" />
 		<rom name="Love Para - Lovely Tokyo Para-Para Musume (Japan).chd" size="85440431" crc="b2b2da86" md5="b417c465b00a13fd531497621026186e" sha1="e087a9dfa11b7b6f8b63a079df39df95d59b3de1" date="1603294477" />
 		<rom name="Love Therapy (Japan).chd" size="317222857" crc="3abe5d27" md5="198576cda81f987619d05d21283abd3f" sha1="27c16ada99b86d8886630287c9db34b63446fff7" date="1603294574" />
-		<rom name="Love^2 Torokko (Japan) (Taikenban).chd" size="222517441" crc="aa9f1344" md5="f8d1f4a7aaa4c973a4f302135a1eb877" sha1="16463cc21369db9939dc16a11b6d93ecdb6df3c2" date="1634305641" />
 		<rom name="Love^2 Torokko (Japan).chd" size="463365555" crc="f3396d8d" md5="0eb97b9bcf9e00e3a093a6007d9d545d" sha1="f5008dbbfee0f006d9d54029732a496a1487b9e4" date="1603294746" />
 		<rom name="LSD - Dream Emulator (Japan).chd" size="414825719" crc="54a594e6" md5="ba6784fe28c8ae987b954c10daea8812" sha1="dcf668abbd2fccfa441c24a4c5cc9031babc9b64" date="1603294836" />
 		<rom name="Lucifer Ring (Japan).chd" size="59126715" crc="d355a789" md5="190d4053daee554e6504986b3da1ccb1" sha1="41e70666b72383f93cd695a662538716082e3112" date="1603294857" />
@@ -4329,7 +4306,6 @@
 		<rom name="Lunar 2 - Eternal Blue (Japan) (Disc 2).chd" size="377249951" crc="4aa6fde4" md5="51d79ed90cd1c088d86531d13ef3a12f" sha1="9d1a5277ced45b4b5e99816ad3988dd560431a00" date="1603295660" />
 		<rom name="Lunar 2 - Eternal Blue (Japan) (Disc 3).chd" size="439717827" crc="851ae3f4" md5="112a6c31e0292d86633fffcba30b4cda" sha1="16c35a0ed8afc734c649ebf6211918da00f12908" date="1603295785" />
 		<rom name="Lunar - Silver Star Story (Japan) (Demo).chd" size="139816830" crc="34ee8387" md5="7040d33834084e153c0cd496e856fd49" sha1="ada00962f661344c7f5b70219510fe8b9566d58d" date="1634260176" />
-		<rom name="Lunar - Silver Star Story (Japan) (Tentou Taikenban Disc).chd" size="139816830" crc="34ee8387" md5="7040d33834084e153c0cd496e856fd49" sha1="ada00962f661344c7f5b70219510fe8b9566d58d" date="1650665755" />
 		<rom name="Lunar - Silver Star Story (Japan, Asia) (Disc 1).chd" size="382122126" crc="80ccc368" md5="2ba7cd004edf69afcbdc148f33b4669c" sha1="5e62fb13e14ddc56a956a9b9b0c1758808235290" date="1603295324" />
 		<rom name="Lunar - Silver Star Story (Japan, Asia) (Disc 2).chd" size="470885047" crc="de87d816" md5="4db2ae07436d30e73fe63a73ead3d651" sha1="410905e98d0d1d5e445ec5b79af449d3f0554a0e" date="1603295439" />
 		<rom name="Lunar Wing - Toki o Koeta Seisen (Japan).chd" size="317591737" crc="c3cd3d03" md5="4357faec6c25ce9f726ae7e7528d737c" sha1="ba179af443f038c6281f9330219c661ce0c25d03" date="1603295856" />
@@ -4413,7 +4389,6 @@
 		<rom name="Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess (Japan) (Demo).chd" size="31969580" crc="7bc8cb23" md5="3dad1b2aa7f7f9c7b5313dbed3465cd7" sha1="95bf3eac1a9ea22857225210198607b5379cbc0b" date="1634261405" />
 		<rom name="Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess (Japan) (Omake Disc).chd" size="118521339" crc="10c548c5" md5="6c52e6ef05ac11a8811b636048edc05c" sha1="0692a5bcbf25344957c86dfd649be010bff5bd1b" date="1603840742" />
 		<rom name="Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess (Japan) (PSone Books).chd" size="122692367" crc="9c9c3c32" md5="bbfb7f8401bda09337fe2db4ebc197d5" sha1="c81cf2f66d6198346b7fc6b71fef80b82bf72b95" date="1603840766" />
-		<rom name="Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess (Japan) (Taikenban).chd" size="31969580" crc="7bc8cb23" md5="3dad1b2aa7f7f9c7b5313dbed3465cd7" sha1="95bf3eac1a9ea22857225210198607b5379cbc0b" date="1634305652" />
 		<rom name="Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess (Japan).chd" size="123630699" crc="9e5e9ea5" md5="7a4a243555f225e222c24a31044dad10" sha1="5192e4868baed53847f0cf90c79ab1c82d1c7179" date="1603840799" />
 		<rom name="Martialbeat 2 (Japan) (Disc 1) (Disc-B) (Controller Doukon Set).chd" size="449492692" crc="083cb442" md5="422f89f9558b8b4a8fc6a41f27d4c063" sha1="e27df36e0c314477ba297aa08bf569067f12ea5c" date="1603840991" />
 		<rom name="Martialbeat 2 (Japan) (Disc 1) (Disc-B).chd" size="449492687" crc="10a343f7" md5="01f13839603ba711f99389fde0b8c3ca" sha1="dadc3c20f41a05f139ac4897799dc2c79190f9a7" date="1603841051" />
@@ -4662,7 +4637,6 @@
 		<rom name="Myst (Japan) (Rev 1).chd" size="344306114" crc="166746e2" md5="8b77ed5ff010fdf7b3ccec846d22b833" sha1="bf2d98ec0cad20506a73057496d70012ff9c143a" date="1603915233" />
 		<rom name="Myst (Japan) (Rev 2).chd" size="345320556" crc="cc156989" md5="aa20ee5d51cbda1827f8a4f6fa27bfba" sha1="5c81077e64582975afddff42a57d902cda7b9f40" date="1603915313" />
 		<rom name="Myst (Japan).chd" size="344312092" crc="2b914d01" md5="f3f017a7fd6de1b3d0db7ad5c623d0ac" sha1="fe33d8f5bec65e7944b35ad584077091b6728a28" date="1603915390" />
-		<rom name="Mystic Ark - Maboroshi Gekijou (Japan) (Taikenban).chd" size="19114348" crc="3c583c80" md5="21b13caf00314f3242633b790f07559f" sha1="5f2834e790a8bc1cd0e9b6a54b8ca2c4999652c7" date="1634305803" />
 		<rom name="Mystic Ark - Maboroshi Gekijou (Japan).chd" size="28932405" crc="3aaf475e" md5="ac9fbc2df10486024fc9454dcd14146b" sha1="a599dcadeefc250ed4da1051d64b61918e841d21" date="1603915424" />
 		<rom name="Mystic Dragoons, The (Japan).chd" size="80279301" crc="1a7475f0" md5="9acf1b73c1ba99954edf3c8c56f97acc" sha1="464b756b2b27f72f13f0ce9f5fe45ef899ab972c" date="1603915449" />
 		<rom name="Mystic Mind - Yureru Omoi (Japan) (Disc 1).chd" size="455683955" crc="36959af5" md5="801bf03ee956d8a81380e76833fc21b9" sha1="27570fce0e5393e081f2d8122de5b863f3ed2e8c" date="1603915519" />
@@ -4897,7 +4871,6 @@
 		<rom name="Over Drivin' DX (Japan).chd" size="381286007" crc="a86d6c07" md5="78e21e7895722733119d1997f57d2e79" sha1="1ce3129f1e36dec3cae9f2aaf719bceb269c78d3" date="1604058791" />
 		<rom name="Over Drivin' DX - Rally Edition (Japan).chd" size="381950747" crc="8d80825c" md5="a06c0fcfdf8ed0d9855aa7ea5164f187" sha1="42505e0e1f02ea9c549ba76632b7efe228f15628" date="1604058886" />
 		<rom name="Over Drivin' II (Japan).chd" size="305321135" crc="58199f24" md5="2d33193aa4fe3194aa0274e0922bc26c" sha1="2ca9897b59bc12057de30b0f4960636d1fba86ab" date="1604058944" />
-		<rom name="Over Drivin' III - Hot Pursuit (Japan) (Taikenban).chd" size="351573214" crc="07537028" md5="74938528e7a1d8127582a65900b6274a" sha1="80b247e80b921f6620ce154d3f4bbe26e094d035" date="1634305888" />
 		<rom name="Over Drivin' III - Hot Pursuit (Japan).chd" size="351485222" crc="0abdd513" md5="cdd1fde5f71df7f7133474a94960b041" sha1="6c8d2bcfd2c9a9e2c659efe8e7b703efd81a6535" date="1604059122" />
 		<rom name="Over Drivin' IV (Japan) (Demo).chd" size="382061547" crc="3940fab5" md5="75c49444bb48bbde2fda74b557bf2f4c" sha1="e51bb5c1265a95e32ff6339c573649b66998e429" date="1634262922" />
 		<rom name="Over Drivin' IV (Japan).chd" size="504875758" crc="5095dabd" md5="4866f6a9b20bcebc5d4363fe1a295cf6" sha1="1038b59664498282cfddaf0198c98bda61dbded8" date="1604059323" />
@@ -5023,7 +4996,6 @@
 		<rom name="Paro Wars (Japan).chd" size="268147578" crc="3419df35" md5="8eb8afb9bdcf1184ecaaa905dc6f2e4c" sha1="8de4070982bf6149ad7f955090491639657cbced" date="1604276804" />
 		<rom name="Pastel Muses (Japan) (Demo).chd" size="16953119" crc="a9348dd8" md5="47bf9ecdf9be9a9f63741f2c43252039" sha1="01015ace5608f911e6955447738f8dfd5686b251" date="1634297872" />
 		<rom name="Pastel Muses (Japan).chd" size="73281742" crc="ed596eb9" md5="51921045986959f00c61e03ca95f6d06" sha1="7eb8f045eae1360a10f48a416106003cc39260e3" date="1604276849" />
-		<rom name="Patlabor - The Game - Taikenban Ver. 1.0 (Japan) (Demo).chd" size="90883652" crc="6ba354c0" md5="e82cabdf7cba818879fc174a9be8269f" sha1="230cddf659bb44088cddd22699ec45f319bed2cc" date="1634297921" />
 		<rom name="PD Ultraman Invader (Japan).chd" size="243947052" crc="15bb89fd" md5="09086680d2250c9dd66413f61889ebe2" sha1="1d1e63051a7fcb782f68752718565182fbb4d500" date="1604276938" />
 		<rom name="Pebble Beach no Hatou Plus (Japan).chd" size="246376366" crc="6a83783f" md5="4e2dbb572f18270ada936568508b1b53" sha1="ea98a6000368daa40db120daee2eb4b3cdef63de" date="1604277012" />
 		<rom name="Pepsiman (Japan).chd" size="114964502" crc="93d53bd3" md5="abe4e2add75530a17fe70f1eb2c99d08" sha1="615525ba0acbfe9cb7b4a8f1cb6c5616f6bf3e58" date="1604277041" />
@@ -5052,7 +5024,6 @@
 		<rom name="Pikiinya! Excellent (Japan).chd" size="69314038" crc="4d3f8544" md5="fa2ee0720c481088fbd8e5dab66c7e30" sha1="e452aed132a30c8fcc5c368d83cd24ac417af775" date="1604279228" />
 		<rom name="Pikupiku Sentaro - Puzzle de Gohan! (Japan).chd" size="409555824" crc="86976caa" md5="5af23315a8e433678f7da5e69aa21f14" sha1="aff9aec023dc891dc2b936842cb57ab5d0a837b3" date="1604279324" />
 		<rom name="Pilot ni Narou! (Japan) (Demo).chd" size="63166551" crc="b74ee7f4" md5="fde867e9424f549af851c6da0fef2aaa" sha1="b414b261d4e8b37012d4bff3053c0b0b9f85ff37" date="1634298042" />
-		<rom name="Pilot ni Narou! (Japan) (Taikenban).chd" size="63166551" crc="b74ee7f4" md5="fde867e9424f549af851c6da0fef2aaa" sha1="b414b261d4e8b37012d4bff3053c0b0b9f85ff37" date="1634305913" />
 		<rom name="Pilot ni Narou! (Japan).chd" size="63159781" crc="782729d0" md5="e88f79e064394a0b4e8d41891cc6999c" sha1="9cbc21cbfedce4a33a1abe99dd30656751b4e551" date="1604279363" />
 		<rom name="Pinball Fantasies Deluxe (Japan).chd" size="52649804" crc="e26ebb18" md5="5126411b29236b766d1b512d7e057b31" sha1="a43941915ec9f005b1088f72066c64def471b236" date="1604279399" />
 		<rom name="Pinobee no Daibouken (Japan).chd" size="197429650" crc="f34a7848" md5="c22320038f54e5e72e0f775ca1d44a12" sha1="84fa1dcc02b5a25b5df75afd46f6dc170f535854" date="1604279435" />
@@ -5075,6 +5046,7 @@
 		<rom name="Play de Oboeru Series 6 - Play de Oboeru Kanji Kentei Deruderu 1100 (Japan) (Shotenban).chd" size="63902686" crc="ccee7ae7" md5="5a31c35325a7977956b009c88bb2dc7f" sha1="1f3905bec010706d90c2f9bb2f27d1ca5c79a310" date="1604280734" />
 		<rom name="Play de Oboeru Series 6 - Play de Oboeru Kanji Kentei Deruderu 1100 (Japan).chd" size="63794999" crc="f2eec124" md5="0e674c21b38e797996bfd6363b3d7502" sha1="927dee4d8495abd16c2dd781e22473ade4b483ec" date="1604280777" />
 		<rom name="Play de Oboeru Series 7 - Play de Oboeru TOEIC Test - Goku Deruderu 1700 (Japan).chd" size="73342415" crc="b3bf2928" md5="a79057780c900fa02eb2408d217d5c30" sha1="198c0323e9740aba99a48736d6e14c31d4bff48d" date="1604280812" />
+		<rom name="Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan) (Rerelease).chd" size="42790676" crc="3f6839c2" md5="ca639632af0647d29110b9e10a8e14ac" sha1="efd3c6cf41374501a4e4c6f8524d53beb5f04ae8" date="1651702294" />
 		<rom name="Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan) (Shotenban).chd" size="42829596" crc="9eaf2443" md5="439590da4c435102cb8a9a1982d5cca9" sha1="c16c47f2e26df1ad031e3f102af0f0423103d0cb" date="1604280663" />
 		<rom name="Play de Oboeru Series - Sekaishi Keyword Deruderu 1800 (Japan).chd" size="42915851" crc="c49b6a18" md5="3d3a26fa7204ba7d96615115e5ffe666" sha1="9471ee90e2a65f4320d46e6322ba7381660eca52" date="1604280682" />
 		<rom name="Play! '98 Fuyu Taikenban (Japan) (Green Disc).chd" size="310901052" crc="8dad16be" md5="831bf46b549635ca855f645f80fffa4b" sha1="82b4d0a179635d36684c49f7023ceaaca3c15939" date="1604280886" />
@@ -5167,8 +5139,6 @@
 		<rom name="Prisoner of Ice - Jashin Kourin (Japan).chd" size="358487995" crc="b6fcc928" md5="a6d61d0519e67215c978b6ac0d1cf6e1" sha1="5a6429cea379459a9ef92594650d53df4d5dab56" date="1604330931" />
 		<rom name="Private Collection - Policenauts (Japan).chd" size="293127108" crc="22501c67" md5="8f6e92eef20ecbcab9dc97c95ffb4665" sha1="ecadd0c80193f0bfcea2d6d5fb82dfb10c101f28" date="1604330996" />
 		<rom name="Private Collection - Tokimeki Memorial (Japan).chd" size="331721446" crc="b3c52839" md5="e55bc15d1b42a5d5f1308caafbfdb11a" sha1="561cd5a3811d8876fd5c11bd7fb72d26451becee" date="1604331079" />
-		<rom name="Pro Action Replay CDX2 Demo (Version 2) (Japan) (Unl).chd" size="1051668" crc="540b4c28" md5="0f25eb22dff534fa747a6ec8e04e47f2" sha1="3d3a24d73815792dbdaa663c1982eb1c5d6bb3e6" date="1650217535" />
-		<rom name="Pro Action Replay CDX2 Sampler (Japan) (Unl).chd" size="814338" crc="68dfd51c" md5="91a3eea26f084bbd5b230e6b89418e74" sha1="c78376f9e512cf33bd0038dd9d186c924a608bb6" date="1650217538" />
 		<rom name="Pro Logic Mahjong Haishin (Japan).chd" size="332232711" crc="1077ee56" md5="0f525d66d90026994a7aafc3e68efd15" sha1="473f5237c2513616b5d2417321226292e3eabdbd" date="1651500876" />
 		<rom name="Pro Mahjong Kiwame - Tengensen-hen (Japan).chd" size="17815082" crc="11d232dd" md5="2f4641531bb8ebdd95a4647f099337e3" sha1="76bb193dc1288611baf01b55c00a2e7334e484cd" date="1604331195" />
 		<rom name="Pro Mahjong Kiwame Plus (Japan).chd" size="26218982" crc="983b9c48" md5="d7e0905d06b208907a37d0e4fa336419" sha1="16f3460c3e191c57c9a8d564d464add737d45c01" date="1604331210" />
@@ -5248,7 +5218,6 @@
 		<rom name="Raiden Project (Japan).chd" size="16396813" crc="a9796dae" md5="3dcfc597f5595b1f735ae570b0ac658a" sha1="da8063f4c8215664750a539dfc16304946c6da6c" date="1604422587" />
 		<rom name="Rakugaki Showtime (Japan).chd" size="342329872" crc="4aecc67b" md5="a8223cc7b67648c6d1f5a8cf56851732" sha1="97f8b197bea0f81d845051645564e425a8addabd" date="1604422674" />
 		<rom name="Rally Cross (Japan).chd" size="350223422" crc="c9c564ae" md5="52d1dc15fad49e097516b9347588b54f" sha1="ef3581c022cf12b1d46bd9e7f64ea5ce1b348e4a" date="1604422761" />
-		<rom name="Rally de Africa (Japan) (Taikenban).chd" size="111956174" crc="748c861b" md5="9651dbd40f7b012eda747ee3751bdf13" sha1="74593fd0ebf597a9bb258affca11c1fdd55d324b" date="1634305952" />
 		<rom name="Rally de Africa (Japan).chd" size="113250370" crc="816a621d" md5="fbf62f4f86626cd0b409270718a772e5" sha1="b485d0f4863fe104ecc69c313e84bd45f9d17a34" date="1604422877" />
 		<rom name="Rally de Europe (Japan).chd" size="142984686" crc="3247e5a2" md5="58b072663cb43f5b5e3b2601086b6ae1" sha1="7910bc8dff1aa6442e14532db283356ef53f3668" date="1604422920" />
 		<rom name="Rami-chan no Ooedo Sugoroku - Keiou Yuugekitai Gaiden (Japan).chd" size="156299613" crc="9d860ea0" md5="8ee34cf2e69e644226c4ba2e9bfc56c9" sha1="357cbef905f860d16b5ef100aff34cca7fecf00e" date="1604422965" />
@@ -5280,7 +5249,6 @@
 		<rom name="Reikoku - Ikeda Kizoku Shinrei Kenkyuujo (Japan).chd" size="394246832" crc="51fdd7ad" md5="733195c5d9a71bfa3bd3f6f3d9c32a4a" sha1="429ef2eeb798599ba747f50d23e019af5a0ef5ff" date="1604426310" />
 		<rom name="Remote Control Dandy (Japan) (Demo 1).chd" size="53319120" crc="1b814780" md5="733d94b7c1eb60e205072d4a5cf4cfb7" sha1="1277bcedc78d2b249d87752f824cf595f1845c02" date="1634299780" />
 		<rom name="Remote Control Dandy (Japan) (Demo 2).chd" size="260149105" crc="88dc42f1" md5="0aa86e8efe82dc84099e32c29927254e" sha1="641ecd8811c35068c06804d57d79ee264e132ffd" date="1634299842" />
-		<rom name="Remote Control Dandy (Japan) (Demo).chd" size="260149105" crc="88dc42f1" md5="0aa86e8efe82dc84099e32c29927254e" sha1="641ecd8811c35068c06804d57d79ee264e132ffd" date="1634299905" />
 		<rom name="Remote Control Dandy (Japan).chd" size="295008090" crc="e94a1dbf" md5="5522f58a5f5b2c3f3084a16adeb35d80" sha1="1cd405457bd95955d25e709eb001f3ab02d8cc80" date="1604426455" />
 		<rom name="Ren'ai Kouza - Real Age (Japan).chd" size="115707976" crc="3a38422f" md5="cac85076c85d38f4cfaec695d43f6ba8" sha1="1b00dda794364d337e811654f7b7ef4abbf85fa7" date="1604426512" />
 		<rom name="Ren'ai Kouza - Real Age - The Art of Eguchi Hisashi (Japan).chd" size="2278945" crc="faa55ec2" md5="0158b630b9ffa62b013120636c460c02" sha1="d5381f87693230c98406ef35ccf2e583ab3391c4" date="1604426604" />
@@ -5330,7 +5298,6 @@
 		<rom name="Robbit mon Dieu (Japan).chd" size="359256936" crc="c09a1b23" md5="55a16e1dc7a377159efbf34d89ef671d" sha1="89adda1634a6824760c01f8f887a46cbadcb29b6" date="1604441487" />
 		<rom name="Robin Lloyd no Bouken (Japan).chd" size="99882942" crc="30dd407b" md5="7db910dd47acd8df3295e9bf62226b02" sha1="b476d484677a0433452f6327cfa671f22b9fbc2a" date="1604441543" />
 		<rom name="Robo Pit (Japan).chd" size="217155353" crc="46c0d72c" md5="a1977598caa8fe952ec08cf55152c549" sha1="e001477d309a0bba34cbf62b7c37c08fece44e05" date="1604441606" />
-		<rom name="Robo-Pit 2 (Japan) (Demo).chd" size="121920704" crc="68ea80a4" md5="37c0f32a600dee6d2a1684f0dfa0c51f" sha1="94f5b6b298a0c4f208d237ba045afb1894b901e3" date="1634300200" />
 		<rom name="Robo-Pit 2 (Japan, Asia).chd" size="299450470" crc="15753f4d" md5="a73b2f4e85f1d34c51481ed3848d16f3" sha1="c5607616ae0352355b2814b574ef27617e4e164d" date="1604441719" />
 		<rom name="Robot x Robot (Japan).chd" size="114748465" crc="ddb9f047" md5="8c5e8b42dc2210789eb4300fd2282f49" sha1="ab64c85be0e23b0feb1b76cc4b328fef6b575aa7" date="1604441751" />
 		<rom name="Robotron X (Japan).chd" size="421641210" crc="3a0df908" md5="65dff5bfff38faf48c1c6f39c98a856d" sha1="27f4c27bf036f65045ab00528021d309c31f5232" date="1604441853" />
@@ -5603,6 +5570,7 @@
 		<rom name="Silver Jiken - The Silver (Japan).chd" size="424082691" crc="3589824b" md5="df456634e98a049d3246e0638cebb142" sha1="75c32216e79014cc914e92b518f0b2c0dfbecffd" date="1606170542" />
 		<rom name="Sim Town (Japan).chd" size="27247047" crc="a02fbf76" md5="77cb8cfde0013f0a856b2c3b7ac7cb4a" sha1="ecb369bc284d5824295540a1319b664bca20fda5" date="1606052581" />
 		<rom name="SimCity 2000 (Japan).chd" size="29783365" crc="c665b795" md5="75a3054c09b48988c6f7200c029be7fd" sha1="f4db87495325522c1e214e5091d0f10c1bae87e7" date="1606052597" />
+		<rom name="Simple 1500 Jitsuyou Series Vol. 01 - Norikae Annai - 2000-nenban (Japan).chd" size="14552075" crc="9d38214c" md5="76b0058c11d924b28b3b2409886a03d5" sha1="9c7cd12d7404221db4673c5e6abab2eba526de8d" date="1651671446" />
 		<rom name="Simple 1500 Jitsuyou Series Vol. 02 - Katei no Fuusui (Japan).chd" size="49287844" crc="e8a4eebd" md5="b92026b38b348c06bd631201cea0388e" sha1="a15d4c12c07304931f1b4f0b7e5426a8ad8bd832" date="1606043735" />
 		<rom name="Simple 1500 Jitsuyou Series Vol. 03 - Seimei Handan (Japan).chd" size="49064807" crc="d69fd6ef" md5="9d8a240509c54760aa471ab2c7fd4ce6" sha1="6bcb0dd8fc6f87121a09d550620c3b75934c4aae" date="1606043747" />
 		<rom name="Simple 1500 Jitsuyou Series Vol. 04 - Ryouri - Teiban Ryouri Recipe Shuu (Japan).chd" size="489440440" crc="c89861db" md5="1d90e037c3cd4732fbaada9a0d85cf18" sha1="0c4c125b161d3f199c3a619313a9f5ac0f7e387d" date="1606156008" />
@@ -5646,6 +5614,8 @@
 		<rom name="Simple 1500 Series Vol. 9 - The Chess (Japan).chd" size="76166970" crc="d8dd6a51" md5="c02b7dd9e199ab8dbdf689c6c6557d5d" sha1="843b7b2c62410588e529b6022178ddb683b1766c" date="1606045138" />
 		<rom name="Simple 1500 Series Vol. 10 - The Billiard (Japan) (Culture Publishers).chd" size="59260600" crc="954224cf" md5="1a1d499b6049d4c4fe9ed67ac17b7237" sha1="883d6ab033a937d2d02040e432bbc56f6ecfafe2" date="1606043977" />
 		<rom name="Simple 1500 Series Vol. 10 - The Billiard (Japan).chd" size="57868847" crc="2983601b" md5="4add2d0290d085dd32b082e150a95fb8" sha1="e186aefad4c3253f1d4c5bac3c7210a5f56bb70d" date="1606043993" />
+		<rom name="Simple 1500 Series Vol. 11 - The Pinball 3D (Japan) (Culture Publishers).chd" size="47108291" crc="522b2464" md5="4e8fe7e92107e72b183fe2c6d413adfa" sha1="da692b61490e44083a87226a4df2e2576592ebe5" date="1651671651" />
+		<rom name="Simple 1500 Series Vol. 11 - The Pinball 3D (Japan).chd" size="45710116" crc="0f6e7374" md5="08691ed1a427ad679d37332477465e41" sha1="1bdf1f6d44490d4f0609c51b081e4322605a27c0" date="1651680227" />
 		<rom name="Simple 1500 Series Vol. 12 - The Quiz (Japan) (Culture Publishers).chd" size="96698104" crc="8eb9ce28" md5="26d8d04d550afd7a7fbb8da7a0d5f565" sha1="bff09d22d5962b08b088a79a572547da3b817e45" date="1606074518" />
 		<rom name="Simple 1500 Series Vol. 12 - The Quiz (Japan).chd" size="96696804" crc="02a8f563" md5="fec9b4a63e9ad03001275bc282bdf66a" sha1="4246cea4c919d2f1d119f369bea4490cebe66b26" date="1606074541" />
 		<rom name="Simple 1500 Series Vol. 13 - The Race (Japan) (Culture Publishers).chd" size="70101132" crc="a24e75fc" md5="a9756919aa2d4a45ad37681101cddcae" sha1="efddb5019727acada6133fa2a5cc92cc27a2ddac" date="1606044039" />
@@ -5750,8 +5720,10 @@
 		<rom name="Simple Character 2000 Series Vol. 02 - Afro-ken - The Puzzle (Japan).chd" size="107149378" crc="2120af85" md5="2efe8b41dd17a36ddb5aecd826b08e27" sha1="af6b1f406473fc1ce77e5f2a59477e6385a65418" date="1606069260" />
 		<rom name="Simple Character 2000 Series Vol. 03 - Kamen Rider - The Bike Race (Japan).chd" size="89487527" crc="91e2b920" md5="60b56bd47ffcc141640a96c906e57010" sha1="64e047f71054260299e0c9b86b14ebf19e12b0de" date="1606069281" />
 		<rom name="Simple Character 2000 Series Vol. 04 - Jarinko Chie - The Hanafuda (Japan).chd" size="3583434" crc="83eef20d" md5="859a016c1a93be2bd129df6cca0b19b9" sha1="ad739863e29a0c5a8a1e20e5630d2dc5eee6e6c7" date="1606052656" />
+		<rom name="Simple Character 2000 Series Vol. 05 - High School! Kimengumi - The Table Hockey (Japan).chd" size="142841035" crc="ef0121ef" md5="09e4f24c8eab7d08fca2f221ffe198f5" sha1="f7631b3a0a66469a082caad12db0ff688717a1e6" date="1651685449" />
 		<rom name="Simple Character 2000 Series Vol. 06 - Dokonjou Gaeru - The Mahjong (Japan).chd" size="5812012" crc="dead30b2" md5="c32a1ddc7ee87806da49186b8e323d8f" sha1="f44207f6084466c7c91c071be4ff837b64c10e1f" date="1606052665" />
 		<rom name="Simple Character 2000 Series Vol. 07 - Ikkyuu-san - The Quiz (Japan).chd" size="17731538" crc="3a22883a" md5="a2cb09f75589f51792296c3cfc32ef02" sha1="e906d77be48185b8dc8c1e7176c572a9f35b315a" date="1606052675" />
+		<rom name="Simple Character 2000 Series Vol. 08 - Kagaku Ninja-tai Gatchaman - The Shooting (Japan).chd" size="61810316" crc="bc30107c" md5="34062c6f0ff9f4a143f5b4664e6955ff" sha1="10f3f60850ab93d4643850edd5ddd6daecc3effa" date="1651693752" />
 		<rom name="Simple Character 2000 Series Vol. 09 - Tsurikichi Sanpei - The Tsuri (Japan).chd" size="95176872" crc="ad3bc1a8" md5="d3f71d9928de9e1a4d6396e3fdbe1c2c" sha1="ce26b3404e03cb1db05ff1d766bb3d1925ea2c00" date="1606069303" />
 		<rom name="Simple Character 2000 Series Vol. 10 - Sakigake!! Otokojuku - The Dodgeball (Japan).chd" size="36174394" crc="bd46061d" md5="4ff474bf6c75b26a5ef9e3e7da63f4a0" sha1="0220818f891882bd1091923e972494e5ef440dbf" date="1606052703" />
 		<rom name="Simple Character 2000 Series Vol. 11 - Meitantei Conan - The Board Game (Japan).chd" size="9873360" crc="c83862f5" md5="5b05d2c5b99d15013d517695abf5105c" sha1="3437af75ea1e8ac99872f7e6285e510154d83fc5" date="1606052717" />
@@ -5829,7 +5801,6 @@
 		<rom name="Sotsugyou M - Seito Kaichou no Karei naru Inbou (Japan) (Demo).chd" size="248713402" crc="51a845a2" md5="b26197cd1aaa3d4303cc178e24013810" sha1="be416ba768675d207a876167a4531cdfce92f293" date="1634236698" />
 		<rom name="Sotsugyou M - Seito Kaichou no Karei naru Inbou (Japan) (Disc 1).chd" size="272520319" crc="1a1b0f49" md5="31ae43e3c2127378c20885b872d3220f" sha1="9af79833e0f92f3107692218fe5272400b70462e" date="1606089800" />
 		<rom name="Sotsugyou M - Seito Kaichou no Karei naru Inbou (Japan) (Disc 2).chd" size="196336226" crc="0cad8412" md5="82d3ffcb990de86360d33bc52802eae0" sha1="9f47862d2de51bb93727176f421342cff2e80a19" date="1606076482" />
-		<rom name="Sotsugyou M - Seito Kaichou no Karei naru Inbou (Japan) (Taikenban).chd" size="248713402" crc="51a845a2" md5="b26197cd1aaa3d4303cc178e24013810" sha1="be416ba768675d207a876167a4531cdfce92f293" date="1634306014" />
 		<rom name="Sotsugyou R - Graduation Real (Japan).chd" size="452366152" crc="030ac5a9" md5="8247c51b5bae25a20f7022bae3e49d2d" sha1="a805ab60487f9b7bfc002c365316af7c60e5716c" date="1606156832" />
 		<rom name="Sotsugyou Vacation (Japan).chd" size="314628687" crc="e1ddf155" md5="d9b4c7f411655e33a82fd0cd17d2ff67" sha1="6b5b3525934dcb206ddae8987ccee764bfd0fa6b" date="1606089891" />
 		<rom name="Sougaku Toshi Osaka (Japan) (Disc 1) (Method).chd" size="351991701" crc="6cc7132c" md5="40dfff50b7685f7c74afe337c588db5c" sha1="981cf5a2c39ed0cec06f416da3140099c14869ba" date="1606136076" />
@@ -5853,6 +5824,7 @@
 		<rom name="Soukou Kihei Votoms Gaiden - Ao no Kishi Berserga Monogatari (Japan, Asia).chd" size="312136836" crc="b04c50ed" md5="b89530953610004852c22dcf3921aed9" sha1="f392bd990c01a72b13f6b73983e003b4d9f644db" date="1606136278" />
 		<rom name="Soukuu no Tsubasa - Gotha World (Japan) (Disc 1).chd" size="363882797" crc="20d2d457" md5="f0250c0ebae971a89bbcdb23e05a5154" sha1="3442d9e5f56520ceb2baad125c883ebd26c6273f" date="1606136392" />
 		<rom name="Soukuu no Tsubasa - Gotha World (Japan) (Disc 2).chd" size="354735698" crc="cf6ef04f" md5="355201cc5814c20c6cd27193aa6dc7ef" sha1="155ac0883bf23e0c77c65b28d0b5b88728b20c51" date="1606136504" />
+		<rom name="Soukyuu Gurentai - Oubu Shutsugeki (Japan).chd" size="210314507" crc="b9ef483b" md5="f560ad8a65ffddc8b594004a114e455d" sha1="cb30c81c4ca80de69e3c88e939286bda30e85cac" date="1651672367" />
 		<rom name="Soul Edge (Japan) (Gentei Box).chd" size="352156284" crc="f075522e" md5="a0ba5cd4a4c8b1afbcf879628f205786" sha1="df7595196cd1fbc245108b2129a9628566903b15" date="1606136613" />
 		<rom name="Soul Edge (Japan) (Rev 1).chd" size="352105677" crc="db297bf5" md5="cab935f93812c73ac6f04854be995863" sha1="e3e0d2a7f243cea1e94773c05a63ce37c97c8e4e" date="1606136698" />
 		<rom name="Soul Edge (Japan).chd" size="352156286" crc="a8385e2a" md5="bacc5e3e87fa048a3e3e9017c3d6a992" sha1="5bc2d74a0bcb95ad27b64f23c34fead39a8e9c53" date="1606137628" />
@@ -6065,6 +6037,7 @@
 		<rom name="SuperLite 1500 Series - Cyber Daisenryaku - Shutsugeki! Haruka Tai (Japan).chd" size="88550951" crc="d73ee153" md5="9099e7b72ba154aa6425e041cee5a082" sha1="13c6ee9f4c4a3552ab278c1250305e048105a28a" date="1606070187" />
 		<rom name="SuperLite 1500 Series - Deep Freeze (Japan).chd" size="290423104" crc="d5b20888" md5="ecc454837feccf236357ef320f98ec6b" sha1="fa88e083075995d65774b952c9c85f445836c1d9" date="1606094464" />
 		<rom name="SuperLite 1500 Series - Densetsu-juu no Ana - Monster Complete World Ver. 2 (Japan).chd" size="274179296" crc="e168e004" md5="ade7ab8c34e8e40f2e68cf1b7807f39b" sha1="c31311e464d85812d893b566494b0772643fef00" date="1606094502" />
+		<rom name="SuperLite 1500 Series - Dezaemon Kids! (Japan).chd" size="105214241" crc="dc388954" md5="e8169cf06dcb2428040410690b501e99" sha1="0a30d66fb855f2335ffff6f90b99715843fbc797" date="1651672685" />
 		<rom name="SuperLite 1500 Series - Emmyrea (Japan).chd" size="144325550" crc="5aa47818" md5="1e94a8008efee1768d1b5936e2b2698d" sha1="13f7b26978ebe54f3f495735ad0cfb85d393ac5a" date="1606078129" />
 		<rom name="SuperLite 1500 Series - F1 Grand Prix 1996 - Team Un'ei Simulation (Japan).chd" size="128777111" crc="89035ed7" md5="db1cf6351877da3f5106dc6e8601d59c" sha1="0881e0d209ffa76738e7f3f0ae47b789ecc3ee9f" date="1606078151" />
 		<rom name="SuperLite 1500 Series - Fantastic Night Dreams - Cotton Original (Japan).chd" size="2019809" crc="916b0788" md5="1d5311d9efac992b429befa26461e054" sha1="2650297917c704465ff0cb39198c0ebaa4af2061" date="1606053406" />
@@ -6297,7 +6270,6 @@
 		<rom name="Tilk - Aoi Umi kara Kita Shoujo (Japan).chd" size="321172808" crc="e5869b2f" md5="9de205cfd2d52c34b609e6b0cb613522" sha1="b6f0faf8ab338d7e13523d7410a3141086dc3246" date="1606401897" />
 		<rom name="Time Bokan Series - Bokan desu yo (Japan).chd" size="445134325" crc="d4b56ca5" md5="2871e0dfc80be684963a25c7369989c4" sha1="ce43c17377403d3d5134921d300707e9927378c4" date="1606402009" />
 		<rom name="Time Bokan Series - Bokan GoGoGo (Japan).chd" size="454574395" crc="bccb4536" md5="a8bd44aeaec68279a8de8c5a7184afa0" sha1="3f4238237d322b295bb5f59ad770fc9729c61f1d" date="1606402131" />
-		<rom name="Time Bokan Series - Bokan to Ippatsu! Doronboo (Japan) (Taikenban).chd" size="340372766" crc="866e16f6" md5="a985a40ca3a9d738d89aac21c3fc781d" sha1="6679b3d69a664f35120a172ecb17d269dbfc854f" date="1634306081" />
 		<rom name="Time Bokan Series - Bokan to Ippatsu! Doronbow (Japan).chd" size="340596063" crc="8d771bee" md5="660b7b19c899345c7a19ff33940a7a97" sha1="771619e1225cb7318551cdb467c3b80ed767b3ba" date="1650891347" />
 		<rom name="Time Commando (Japan).chd" size="381421422" crc="00dfc373" md5="f93011c9393783f11d4f9e46c21a04a6" sha1="6bdde48255460c4a4f027784ff7678af62bd5863" date="1606402403" />
 		<rom name="Time Crisis (Japan) (Time Crisis + GunCon).chd" size="394690684" crc="c3d2e607" md5="1d2af1a394c888e3fec302ea9bedf1e7" sha1="cd98d953cb039ab276ad70fd694cf6474880ece6" date="1606402514" />
@@ -6598,7 +6570,6 @@
 		<rom name="Waku Puyo Dungeon - Ketteiban (Japan).chd" size="231454611" crc="f1c13aa1" md5="d7a6b18970abe546a786a90937aebf65" sha1="6e11a5154f47692e82c10c8563e9a2f1125d0de4" date="1606529545" />
 		<rom name="Waku Waku Bowling (Japan).chd" size="157221982" crc="7033e529" md5="6f219aafe161cf97a3ba585d1a3afc95" sha1="dfa7b4772e40052a548250564b555ecb08fc4358" date="1606529574" />
 		<rom name="Waku Waku Derby (Japan).chd" size="24265531" crc="b7924d77" md5="74c4ad37a830acf589e8e7201e8be30a" sha1="8aab245a826e7fa6edced020eb4f2b4b43b85557" date="1606529601" />
-		<rom name="Waku Waku Volley (Japan) (Taikenban).chd" size="41353448" crc="0257d6d5" md5="6cc5fd672646f3ce134b1cc409fe5782" sha1="af7d13aa26bc888a8f8f89f8992cddc54633864c" date="1634306094" />
 		<rom name="Waku Waku Volley (Japan).chd" size="41336238" crc="8b25a3d3" md5="e8ee2fa1b8515a4601081f82299bf540" sha1="cc836a21f38b51127583f12b72e6d93616304758" date="1606529635" />
 		<rom name="Wakusei Koukitai - Little Cats (Japan).chd" size="268559557" crc="15ab6040" md5="631011d8caa5b020ab05621af0620bbb" sha1="993905bc01989024b3bddbb54c02e54572ccc191" date="1606529669" />
 		<rom name="Wander Vehicles - Doggy Bone Daisakusen (Japan).chd" size="442572172" crc="413c5012" md5="72ffb505ff5ad4f9337f9638a401c0a6" sha1="f97e1339726f1300f106ceb78db9562c81feac71" date="1606529719" />
@@ -6675,7 +6646,6 @@
 		<rom name="World Soccer Jikkyou Winning Eleven 3 - Final Ver. (Japan).chd" size="172095245" crc="9fb1fb27" md5="af96bf57faa08a1a45eca60b5a4b4390" sha1="08dcd5559d1539ba2c863906263d7ff0d8a91799" date="1606572333" />
 		<rom name="World Soccer Jikkyou Winning Eleven 3 - World Cup France '98 (Japan) (Demo).chd" size="48282745" crc="658690b5" md5="cda74346669ff42adc649e5af4b01f9e" sha1="997847fb71b9ca068a27a1d8be0799d4f4652b2b" date="1634236728" />
 		<rom name="World Soccer Jikkyou Winning Eleven 3 - World Cup France '98 (Japan) (Rev 1).chd" size="279087220" crc="d80210f1" md5="580aa018dbaaa296bd50f95538637d19" sha1="826f023d97854c35ee75c665bfef05d2fa37f2ad" date="1606572420" />
-		<rom name="World Soccer Jikkyou Winning Eleven 3 - World Cup France '98 (Japan) (Taikenban).chd" size="48282745" crc="658690b5" md5="cda74346669ff42adc649e5af4b01f9e" sha1="997847fb71b9ca068a27a1d8be0799d4f4652b2b" date="1634306107" />
 		<rom name="World Soccer Jikkyou Winning Eleven 3 - World Cup France '98 (Japan).chd" size="279087516" crc="62a5df71" md5="9fce500380f714865dbf71d3a2c29051" sha1="8347ef8c8793463c29ef790b5c988b13ab96bb8f" date="1606572508" />
 		<rom name="World Soccer Jikkyou Winning Eleven 4 (Japan) (Rev 1).chd" size="257003821" crc="7f1b76f3" md5="62fc9de34fbb9746d7da0e3c51d7b3ff" sha1="33e0d6d6bf1c0e9cce62c60b6002e507e1919627" date="1606572589" />
 		<rom name="World Soccer Jikkyou Winning Eleven 4 (Japan).chd" size="257004062" crc="992b84af" md5="dd4b615b831a911ef3e0ff2789a11abd" sha1="88d802818d92bda26f94e7d43868fff30268aed4" date="1606572694" />
@@ -6701,7 +6671,6 @@
 		<rom name="X Games Pro Boarder (Japan).chd" size="468935546" crc="2dfe9e8f" md5="10c8ee2c0f59a78e7230331bc525d205" sha1="fa262fbeb2cc7d684243a570b2f4aeab91a38c9b" date="1602942640" />
 		<rom name="X-COM - Michinaru Shinryakusha (Japan).chd" size="298400365" crc="d32435fb" md5="d41fee0901db923e99b61bd0e827cd6d" sha1="fd447d70701771682b5476685dcc5330add6b9be" date="1602428964" />
 		<rom name="X-Men - Mutant Academy 2 (Japan).chd" size="434833478" crc="6a69b285" md5="966e3e0846874cb98f7f194efad2ffde" sha1="8b82101443e54b682983154f51aa10e26930012c" date="1602761169" />
-		<rom name="X-Men - Mutant Academy &amp; Spider-Man (Japan) (Taikenban).chd" size="146320654" crc="da368a57" md5="ef581e128f17a86c5369813c65770f38" sha1="d781748c88840641db1ca4c3c13936396ac5eeec" date="1634306159" />
 		<rom name="X-Men - Mutant Academy (Japan).chd" size="364169423" crc="54955af5" md5="af4b0b818b8299e9c5a9282e89cc0e8b" sha1="35c8efa117f0fd526ab1fd00bf848a03509edfd7" date="1602761133" />
 		<rom name="X-Men vs. Street Fighter - EX Edition (Japan).chd" size="222748201" crc="67cfc105" md5="90643268ef6d4e1fd89bb3dc8d08313e" sha1="ff99e4dfddadcf8407c4b75ecaee354401dccc47" date="1602761189" />
 		<rom name="X.Racing (Japan).chd" size="338577783" crc="11d82e0b" md5="d2f07d967d66f5dabc916f8cb7b7dbaa" sha1="bbbb29215da6386735ef1fb1c21fec1eabe258b0" date="1602761220" />
