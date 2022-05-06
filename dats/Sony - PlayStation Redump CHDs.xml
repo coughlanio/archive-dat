@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-05</version>
-		<date>2022-05-05</date>
+		<version>2022-05-06</version>
+		<date>2022-05-06</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -2255,6 +2255,8 @@
 		<rom name="Arc the Lad II (Japan) (Rev 1).chd" size="320441188" crc="b7ee87d7" md5="f1444557a8dbee6770fe5c38460643b3" sha1="5b1673c43e5215acc321e1de72b5962a2627b3d7" date="1602199002" />
 		<rom name="Arc the Lad II (Japan).chd" size="320531324" crc="08a8a0c5" md5="b3009d21730e55bd89024e47b3a6849f" sha1="e4825b13b29dd1ec1d8aa56523284813b83eac7d" date="1602199034" />
 		<rom name="Arc the Lad II - Characters &amp; World CG Movie Collection (Japan).chd" size="92221765" crc="4695b350" md5="e6e31e71a5466b87ef0d77331edea77c" sha1="94cf702dc031cab63d2d7d97be7b88b63affc0bb" date="1650371462" />
+		<rom name="Arc the Lad III (Japan) (Demo 1).chd" size="139098241" crc="b7ec2091" md5="5a8648f64a87c3f73d075f332ae5a5ed" sha1="8b7073070b696cca4b19ca92360cc55b10f226a0" date="1651785391" />
+		<rom name="Arc the Lad III (Japan) (Demo 3).chd" size="30043875" crc="61bf6d0c" md5="9e63439fec4a52e9986d10749ad865d4" sha1="83f20437dd2841b4a40289407ecc9fbfbc7d2b0d" date="1651785400" />
 		<rom name="Arc the Lad III (Japan) (Disc 1) (Rev 1).chd" size="265066666" crc="6745dfd2" md5="317737426c235b739d9ce7722820a633" sha1="72cde2afe9154f7e7f823876de91192fd1e522d7" date="1602199086" />
 		<rom name="Arc the Lad III (Japan) (Disc 1).chd" size="265094449" crc="893f3758" md5="449d9ed6ad8808c021ba3411b5a89483" sha1="62908fa902159dea82a001c382f49c5aff6cfad3" date="1602199179" />
 		<rom name="Arc the Lad III (Japan) (Disc 2) (Rev 1).chd" size="329687045" crc="8b81ab7f" md5="b3bb3d9e286f08330448ac18f761668e" sha1="b0a6c56d80c886ee6b0ab554903b975b404fb758" date="1602199208" />
@@ -2477,6 +2479,7 @@
 		<rom name="Blood Factory (Japan).chd" size="373015263" crc="b8ff0f04" md5="79e167d5ad5c5186bb40ac67ddbe4dba" sha1="d00e4b810ffff1d2505167f283c25f49f223ad09" date="1602285552" />
 		<rom name="Bloody Roar 2 - Bringer of the New Age (Japan) (Demo).chd" size="231729932" crc="c47bf9af" md5="25c747e1f558c05cb9ecc12937bf8088" sha1="098db7e15d27f5d5f0133e955559a9398ad7c69e" date="1634247816" />
 		<rom name="Bloody Roar 2 - Bringer of the New Age (Japan, Asia).chd" size="324352700" crc="4ce7c4ab" md5="382648a7bea6eda7bce5f4445be1b6f4" sha1="1380983d51270ba6b390b7a39253e4ed25f046d7" date="1602285742" />
+		<rom name="Bloody Roar - Hyper Beast Duel (Japan) (Demo).chd" size="199895563" crc="f5aa2472" md5="90ec3c3fc5b4ab1dc36fde485b2df0aa" sha1="124ebf96ce651dbf2b016adcfe5ea74b6e466a25" date="1651785477" />
 		<rom name="Bloody Roar - Hyper Beast Duel (Japan, Asia) (En,Ja).chd" size="353416313" crc="7fe2fb07" md5="e60bbb7c1cded949ee7491ace9aa5e29" sha1="2655b9730abcbfbf8683247e194cb82b7edc9c91" date="1634222386" />
 		<rom name="Blue Breaker - Egao no Yakusoku (Japan) (Major Wave).chd" size="456976825" crc="24cda2ee" md5="c48ad03bc4e575e73f1b5ec6d82a15be" sha1="709aa10800919232984d5cbdb7901f2821db7532" date="1602285800" />
 		<rom name="Blue Breaker - Egao no Yakusoku (Japan).chd" size="456187402" crc="8a135c63" md5="0918d998dedcc2bfe80735d584b85424" sha1="ffbcb8554f56fef9fcc5eca302c4d50315519f56" date="1602285875" />
@@ -2626,6 +2629,7 @@
 		<rom name="Chocobo Stallion (Japan).chd" size="127446544" crc="f878e262" md5="ddf00fcb5fc2dd140f0d68fec77654db" sha1="0e3065763e4c106e2b4fd9ee478be25dc562a60a" date="1602444788" />
 		<rom name="Chocolate Kiss (Japan).chd" size="257842889" crc="1cc50c75" md5="5fb9303a1ac2ae80c92cf78d4e7ac7e1" sha1="e4b523514d3931de4de0a0be91615810f2a1db27" date="1602444860" />
 		<rom name="Choro Q 2 (Japan).chd" size="315666967" crc="58af201d" md5="d9dae7ecb2d921436d5fdae7e263c00e" sha1="8f993ba47a02e062e5aa9eaa3eb58fb18191158d" date="1602444968" />
+		<rom name="Choro Q 3 (Japan) (Demo).chd" size="398584341" crc="bdecc202" md5="ad0196af70fde3bf4aaddeb94d3c9906" sha1="2cc79b9405461d888a7812d222be4d4626be181c" date="1651785602" />
 		<rom name="Choro Q 3 (Japan).chd" size="398694874" crc="a450625f" md5="99320cc7c5c3020442b4436dc2194ef3" sha1="f1ec2b3dc8517d249e4f402cd088871803301a74" date="1602445047" />
 		<rom name="Choro Q (Japan).chd" size="396064578" crc="fab0932e" md5="66c8ac578a66ebec10f9639218145d7d" sha1="d29cdc66ddf7e5a383b9b8477b320d20d891089b" date="1602444912" />
 		<rom name="Choro Q Jet - Rainbow Wings (Japan).chd" size="358405884" crc="ba5d1f44" md5="34a79d28ab3438c1ad464851f82f309d" sha1="35ab3fd5b5cf9fa66a98113e611020d9db6bd7cc" date="1602454633" />
@@ -5048,7 +5052,7 @@
 		<rom name="Play de Oboeru Series 7 - Play de Oboeru TOEIC Test - Goku Deruderu 1700 (Japan).chd" size="73342415" crc="b3bf2928" md5="a79057780c900fa02eb2408d217d5c30" sha1="198c0323e9740aba99a48736d6e14c31d4bff48d" date="1604280812" />
 		<rom name="Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan) (Rerelease).chd" size="42790676" crc="3f6839c2" md5="ca639632af0647d29110b9e10a8e14ac" sha1="efd3c6cf41374501a4e4c6f8524d53beb5f04ae8" date="1651702294" />
 		<rom name="Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan) (Shotenban).chd" size="42829596" crc="9eaf2443" md5="439590da4c435102cb8a9a1982d5cca9" sha1="c16c47f2e26df1ad031e3f102af0f0423103d0cb" date="1604280663" />
-		<rom name="Play de Oboeru Series - Sekaishi Keyword Deruderu 1800 (Japan).chd" size="42915851" crc="c49b6a18" md5="3d3a26fa7204ba7d96615115e5ffe666" sha1="9471ee90e2a65f4320d46e6322ba7381660eca52" date="1604280682" />
+		<rom name="Play de Oboeru Series - Sekaishi Keyword Deruderu 1800 (Japan).chd" size="42915851" crc="c49b6a18" md5="3d3a26fa7204ba7d96615115e5ffe666" sha1="9471ee90e2a65f4320d46e6322ba7381660eca52" date="1651716606" />
 		<rom name="Play! '98 Fuyu Taikenban (Japan) (Green Disc).chd" size="310901052" crc="8dad16be" md5="831bf46b549635ca855f645f80fffa4b" sha1="82b4d0a179635d36684c49f7023ceaaca3c15939" date="1604280886" />
 		<rom name="Play! '98 Fuyu Taikenban (Japan) (Red Disc).chd" size="319820078" crc="6107018a" md5="d15da1f2d8d33b8c6d5437c35d8b4f3a" sha1="8f9c89bed810f20cfc0fddb586f60222f95d8e9c" date="1604280962" />
 		<rom name="PlayStadium 2 (Japan).chd" size="65935047" crc="1ca36d6c" md5="eeb0922fcaeb3bb03d44cf0d13f16e40" sha1="7eb64c232ac9f0c2d00c68e9f9e7fa68a1b74661" date="1604281017" />
@@ -5729,6 +5733,7 @@
 		<rom name="Simple Character 2000 Series Vol. 11 - Meitantei Conan - The Board Game (Japan).chd" size="9873360" crc="c83862f5" md5="5b05d2c5b99d15013d517695abf5105c" sha1="3437af75ea1e8ac99872f7e6285e510154d83fc5" date="1606052717" />
 		<rom name="Simple Character 2000 Series Vol. 12 - Kidou Butouden G Gundam - The Battle (Japan).chd" size="91445190" crc="e577ebce" md5="274b7df551451be799823b3df2f2b34e" sha1="2cb33b4e1f6558791ba766252f14dbd2693e8a2b" date="1606069326" />
 		<rom name="Simple Character 2000 Series Vol. 13 - Shin Kidou Senki Gundam W - The Battle (Japan).chd" size="91521585" crc="79d66ba8" md5="f198b32c70b0e449add5667d710c2e40" sha1="dd81daf90dfc2246fe6bfb99751114cd7ec4d946" date="1606069348" />
+		<rom name="Simple Character 2000 Series Vol. 14 - Nante Tantei Idol - The Jigsaw Puzzle (Japan).chd" size="167894463" crc="bd7e7070" md5="c0bc0aeff13f00a09470fd9b06053cc4" sha1="8d897cc04a79700f7cce97c0e5e8591ea30dee95" date="1651716657" />
 		<rom name="Simple Character 2000 Series Vol. 15 - Cyborg 009 - The Block Kuzushi (Japan).chd" size="28358462" crc="cf53811c" md5="a2149a303a3ad4656f3bf6e8398e9454" sha1="de2cda0c69aea9ee032d7911c5f3d26b71709eeb" date="1606052726" />
 		<rom name="Simple Character 2000 Series Vol. 16 - Gamba no Bouken - The Puzzle Action (Japan).chd" size="54801038" crc="ea29aa26" md5="70fad4b9bc3eb1898f05500f85f1b9aa" sha1="861c42567b2e250b24993177c3d55706dbdef8d1" date="1606052745" />
 		<rom name="Simple Character 2000 Series Vol. 17 - Sentou Mecha Xabungle - The Race in Action (Japan).chd" size="67204633" crc="2c1a9745" md5="8fdfc3e28ce3306c7d56caabd1ea2ddf" sha1="7caa8b4668d03162014337da8925c2c0616190b4" date="1606069367" />
