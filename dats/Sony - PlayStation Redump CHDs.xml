@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-06</version>
-		<date>2022-05-06</date>
+		<version>2022-05-07</version>
+		<date>2022-05-07</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -3406,6 +3406,8 @@
 		<rom name="Galerians (Japan) (Disc 1).chd" size="414186563" crc="8a7ba7ea" md5="6ff8670f2fa982a60c4eb16558e74dfb" sha1="f42837ada657adb8150d265881f742a1c8aeb7e2" date="1603110718" />
 		<rom name="Galerians (Japan) (Disc 2).chd" size="404871603" crc="0c6561d4" md5="10c1b3b2337053054a7ec3842ed4304e" sha1="7602549a01cb9ea0ab6d42217a5f901ad28ed191" date="1603110831" />
 		<rom name="Galerians (Japan) (Disc 3).chd" size="412616508" crc="1dbd9ba2" md5="88cd21daa878378598d997cda7695afd" sha1="b48991414c46945388b8719e130fedb1754ada6c" date="1603110915" />
+		<rom name="Galerians (Japan) (En,Ja) (Disc 1) (Beta).chd" size="414160234" crc="21a20f15" md5="9e819106c0a9c5072fba9d9137a0037b" sha1="7f26601b6dd0dc1a6dc65aa5d831bb3818867114" date="1651846121" />
+		<rom name="Galerians (Japan) (En,Ja) (Disc 2) (Beta).chd" size="404460463" crc="3d81316a" md5="89851658285c395f5692abef705bfe64" sha1="d7addda92aed74487c2a95bc588f35a9cd01df2d" date="1651846239" />
 		<rom name="Gallop Racer 2 (Japan).chd" size="411187850" crc="72e20f4a" md5="fb913eec12b79891e035b5b753da9ea8" sha1="40c80585a6cdaecd37ff769469d94ef574e440dd" date="1603112110" />
 		<rom name="Gallop Racer 3 (Japan).chd" size="223342921" crc="7aecc2f2" md5="845290c16efbcf62b5e45e96c6be5c13" sha1="863f6b99207205a34b287e8fe0b1e87bebc65589" date="1603112216" />
 		<rom name="Gallop Racer 2000 (Japan).chd" size="194450964" crc="b477e0c7" md5="094e89f399837d3ae38117513d39107d" sha1="071c312a3438faf23b6dc4be1985ae3482dd5aee" date="1603112169" />
@@ -3606,6 +3608,7 @@
 		<rom name="Harry Potter to Himitsu no Heya (Japan).chd" size="329498853" crc="1757d3c2" md5="212a867b9a7f142bf55aa945908180a1" sha1="3d28434e47f93355d9c372d6552f93e786c50f82" date="1603147108" />
 		<rom name="Harry Potter to Kenja no Ishi (Japan) (Coca-Cola Kenshouhin).chd" size="262157632" crc="abe12c22" md5="c0b97940af6423be0465042ad1b48769" sha1="9549639ecf3dc703c3e5c528e04b606e39c1ed36" date="1603147130" />
 		<rom name="Harry Potter to Kenja no Ishi (Japan).chd" size="262157821" crc="561d13e7" md5="c85b347d8e0d0f6a1dca5cb6f0b0a65b" sha1="707a473636f37a7e723f0b9100833102b670486b" date="1603147155" />
+		<rom name="Haru no Buru Buru Taikenban (Japan).chd" size="106343470" crc="fe20367c" md5="a134198b23238f8345235f906dd0a212" sha1="cc17028bfff36a294359e2cd83d6862869966e75" date="1651846269" />
 		<rom name="Harukanaru Toki no Naka de (Japan) (Premium Box).chd" size="291481168" crc="bfee76f0" md5="f21b7758d37c4bc439b1a80584506764" sha1="f778297dbd2e138630606260ddb0911ff2dc50f0" date="1603147198" />
 		<rom name="Harukanaru Toki no Naka de (Japan).chd" size="291481167" crc="a1294c00" md5="43f0d76a86e18f44aae3bd920022368a" sha1="38b74e33e6dbf1c54f98cc6bcf179ef4d6e14f92" date="1603147238" />
 		<rom name="Harukanaru Toki no Naka de - Banjou Yuugi (Japan) (Premium Box).chd" size="255562928" crc="19e07225" md5="ec9676f6c0986771be54334a6883f52a" sha1="49938a1c670e9b12c55de6935302ee92e55868ed" date="1603147265" />
