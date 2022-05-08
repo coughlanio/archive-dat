@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-07</version>
-		<date>2022-05-07</date>
+		<version>2022-05-08</version>
+		<date>2022-05-08</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -2654,6 +2654,7 @@
 		<rom name="Chrono Cross (Japan, Asia) (Disc 1).chd" size="405329870" crc="d5fe8cb0" md5="ae44aff20768dbebfa90528ef303e066" sha1="3df76d9beb054dfbbfdb698fdadf6af90329b043" date="1602456468" />
 		<rom name="Chrono Cross (Japan, Asia) (Disc 2).chd" size="391622383" crc="e3962a53" md5="4094f00550ae8864e6a7a0a15199b336" sha1="ef0ab17a08ac69dd545e102fb3f9c531e3f2721f" date="1602456531" />
 		<rom name="Chrono Trigger (Japan).chd" size="287005620" crc="9ac27171" md5="2785f22b9cea109399e577f7a8aae51c" sha1="86477f65fa547c7a18c8cd9d2452f8c05f187c2f" date="1602456831" />
+		<rom name="Cinema Eikaiwa Series - Tengoku ni Ikenai Papa (Japan) (Demo).chd" size="371259867" crc="4fe06a02" md5="1d0eb19b9b8568c34e5e1bc732c89cf2" sha1="31eb68484b2dabda8839d3aba55d17c4110b67bd" date="1651888445" />
 		<rom name="Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Japan) (Disc 1) (Joukan).chd" size="370278547" crc="04a9e720" md5="eab1d42ad8797cd1588d09084240131e" sha1="02763de44ff4a522479cf95eea36efca4005e79b" date="1602456886" />
 		<rom name="Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Japan) (Disc 2) (Chuukan).chd" size="392240821" crc="74487f81" md5="906bc9efdc2d16d8ed6eb938adedc142" sha1="3d3c68614c3223a6a098e41cc2a50f9bb98ef300" date="1602457012" />
 		<rom name="Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Japan) (Disc 3) (Gekan).chd" size="329670796" crc="ceed377d" md5="2fa667e25a215854cbc6854350329734" sha1="f19d0bae4a32e69a8f8c7d6b1edbe855d13e7b53" date="1602457040" />
@@ -2675,6 +2676,8 @@
 		<rom name="Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 2).chd" size="434125486" crc="bc9fc24d" md5="cb10d054ca7777074a5a1d5eca2b8525" sha1="8abb907ab82f70ffeb8f2fb3f14302de917ec51f" date="1602458945" />
 		<rom name="Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 3).chd" size="451215937" crc="4f912db3" md5="004643d89c4c894e6eace5c63eef2833" sha1="b8f92c937d56866f85457aa40ee92a46a6f4ea3f" date="1602459995" />
 		<rom name="Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 4).chd" size="435333047" crc="d08676dd" md5="1f9f2ae354a6a8d7ac5ad640cfdf1bfe" sha1="960b78fc4136b84214c476e9aaf2e6d26f9590c2" date="1602460125" />
+		<rom name="Circadia (Japan) (Demo 1).chd" size="152819660" crc="dacaea95" md5="03c3d459c46ce87ec86c3e65b0481e96" sha1="e2677816a3b2d48bacab74857ba7fc1e7e6dcc9c" date="1651960842" />
+		<rom name="Circadia (Japan) (Demo 2).chd" size="207119568" crc="1927feed" md5="48388c2ed95cf8303b5866c9dcb36ca9" sha1="2b484467121f9fdd8be98e33a1ae2f822d950d98" date="1651960993" />
 		<rom name="Circadia (Japan) (Disc 1).chd" size="369701748" crc="294ceb1a" md5="997e956c53663e5f6b1c0d57d1107938" sha1="74da996f29afbd47602d3c94c1c69b089a91b204" date="1602460313" />
 		<rom name="Circadia (Japan) (Disc 2).chd" size="327935214" crc="40dba06d" md5="a8c54bfdb104ec010e13159a9483aa7a" sha1="264f3d5e6df8f6d49e07c1cdd590cf5adb890158" date="1602460429" />
 		<rom name="Circuit Beat (Japan).chd" size="45192090" crc="77a51d41" md5="6158bfde0e0e1ec49af8a0f646544ba9" sha1="a0c3e9fe8b17cbd0d108f3c24dfba56564af4c2e" date="1602460663" />
@@ -2730,6 +2733,7 @@
 		<rom name="Conveni, The - Ano Machi o Dokusen seyo (Japan).chd" size="8544167" crc="bbccb0e8" md5="916bf902fdf5bc04cbd42e71ce9d4c8c" sha1="b5e2657c2f0e1a7f7b0294ab3884eb599f8eb87a" date="1602426057" />
 		<rom name="Cool Boarders 2 - Killing Session (Japan) (Demo).chd" size="208460332" crc="13fea9f9" md5="e27a8c68494ccc19df91f2d9cb715dee" sha1="1d1f4503743f61e0baa86f2e055b68aacdcb19ba" date="1634253904" />
 		<rom name="Cool Boarders 2 - Killing Session (Japan, Asia).chd" size="491499188" crc="7e03da0c" md5="ea9f953bc1d160c8481e4c82fc884299" sha1="4b818ff558ec8631918dd38d67edf9654d642128" date="1602426180" />
+		<rom name="Cool Boarders 3 (Japan) (Demo).chd" size="134466202" crc="28f29b69" md5="b446a5071f1ca87a6fe76173deb447bd" sha1="83694eb50706cf8b71637a7dbd06153e882eb7ea" date="1651961071" />
 		<rom name="Cool Boarders 3 (Japan).chd" size="134492223" crc="c63feb0c" md5="f5421a234eca870ab4bc06bcbc9ddb6a" sha1="029910d95949d9acf2fbdd6fa733f13b6332d009" date="1602426205" />
 		<rom name="Cool Boarders 4 (Japan) (Demo).chd" size="105374708" crc="4acb782a" md5="1fdec74c1aec72bb04395a27c97f067c" sha1="faab7236ebb969866357601028331ac52d914846" date="1634253942" />
 		<rom name="Cool Boarders 4 (Japan).chd" size="108899394" crc="31e3f50a" md5="6673c6e478e064b24dc44cbbaf88dfd5" sha1="3ffe47fd047350c1c048a9f30031fd23828164fc" date="1602426241" />
@@ -2743,6 +2747,7 @@
 		<rom name="Cowboy Bebop (Japan).chd" size="193257681" crc="e4f0907c" md5="50e21bf630faad44f290e06194b5d464" sha1="e0fbcd133888b1209ca653e8311525ff4fcc8993" date="1602426739" />
 		<rom name="Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan) (Demo).chd" size="153437397" crc="15e38608" md5="66c84b883b9f1f459a82a359442ebe9c" sha1="e7fd795687ed48a6debb218572d026ec665c6cb2" date="1634253981" />
 		<rom name="Crash Bandicoot 2 - Cortex no Gyakushuu! (Japan).chd" size="153613020" crc="aa80bbb8" md5="d51d429f575752daee81d445129018dd" sha1="2b1fa268bb74c21b351361c4bbe0510d79d487c4" date="1602426843" />
+		<rom name="Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan) (Demo).chd" size="37318142" crc="4cbec1c4" md5="5ce16d351cec3853a2a04f88f2313fa2" sha1="3bf9ec3477a176589184d06d91160c5d4bcb960c" date="1651961088" />
 		<rom name="Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan).chd" size="281878621" crc="0fe3645a" md5="044af1e32238c2412ce7323924d04c45" sha1="648e795f8f3a074c17d4e213ada0e765cb5dd242" date="1602426899" />
 		<rom name="Crash Bandicoot (Japan) (Otameshi Disc).chd" size="45397004" crc="b06c5f65" md5="0bfa0ca9b2e4796057215cf42560f812" sha1="2cc61bf775242e8707693554a0033d4d6b43bf57" date="1602426747" />
 		<rom name="Crash Bandicoot (Japan, Asia).chd" size="466886767" crc="cc4cfb2e" md5="810687f708aa1254a09fe6d6a9ee9b30" sha1="3905f8ed9a272b8ea4ceceb9271c99521b68b2eb" date="1602426793" />
@@ -2815,6 +2820,7 @@
 		<rom name="Daisenryaku - Player's Spirit (Japan) (Rev 1).chd" size="25028807" crc="2cf1a570" md5="3ebc846b42683a93a5decd250153588a" sha1="334765eb33ffe64baffdc6b477fbcd765b08a586" date="1602516298" />
 		<rom name="Daisenryaku - Player's Spirit (Japan).chd" size="67941735" crc="6eff10ee" md5="fa6e732b554616b0935250cde1529f1b" sha1="bf6ee261891312914718a4f42e25556c38fc54dc" date="1602516308" />
 		<rom name="Dakar '97 (Japan).chd" size="342717814" crc="22075e40" md5="03d91b375904a6460f25fb5656c56111" sha1="0dcce9603b023dfd85517bacb1ee67160d81d3b1" date="1602516350" />
+		<rom name="DamDam Stompland (Japan) (Demo).chd" size="300188399" crc="b6f70b5c" md5="fe0051efeea604feea7633bfcaab250e" sha1="11b26a99dad6bf4d2a79e99eb40aee0246a7ffec" date="1651888595" />
 		<rom name="DamDam Stompland (Japan).chd" size="301874228" crc="5dea3148" md5="855c9253d75e27aee0d1686166974ee9" sha1="a60d0737a824a3c67012907a6feac26ad2ee261a" date="1602516421" />
 		<rom name="Dance Dance Revolution 2nd Remix (Japan).chd" size="436265866" crc="5e8cf8f5" md5="d04b8b3f96c2e9fb7b03668e784e1c9e" sha1="151564fdbfc4e3c62ecc8e551ecadab4541fb372" date="1602516598" />
 		<rom name="Dance Dance Revolution 2nd Remix - Append Club Version Vol. 1 (Japan, Asia).chd" size="333567996" crc="197af4e0" md5="605f792e8f50b78f049b938ec8a80f66" sha1="96a69b786a5cd4f84959731a0e2c219a39334edd" date="1602516644" />
@@ -2838,6 +2844,7 @@
 		<rom name="Dancing Stage featuring True Kiss Destination (Japan).chd" size="135293924" crc="51095e6f" md5="43abf35ed4eda70302fb150e9d987b6a" sha1="a83eb87fdb99716c0a11ad4b4dde95f40c046c18" date="1602517338" />
 		<rom name="Dangan (Japan).chd" size="205901930" crc="7189d2d2" md5="da8e28adb71e86f36c78d456efd81f9d" sha1="431a1f8fbce8e0f7bd51de2e2ab1c6725268f676" date="1602517361" />
 		<rom name="Dare Devil Derby 3D (Japan).chd" size="292051578" crc="003d835d" md5="c8d4e2a1b1220a9552a670fc236d8e18" sha1="20ff7b90430188d1b24f271422672d0985be8f75" date="1602517435" />
+		<rom name="Darius Gaiden (Japan) (Demo).chd" size="239965518" crc="39564c9f" md5="50fb89e01a8286e9bbac40abd9a95837" sha1="37edad185b1d31c17becbbc7c2235caf1433e9eb" date="1651888708" />
 		<rom name="Darius Gaiden (Japan).chd" size="292647544" crc="56ea2b2f" md5="e8039f1b2949dd0f648b9cd0a7a05c9d" sha1="6b50e871e639226f92f841fc0d06a16b5ae252e0" date="1602517469" />
 		<rom name="Dark Hunter Ge - Youma no Mori (Japan).chd" size="190308602" crc="b079ae09" md5="ac011ed9e178cf633db47f24eeb6cf34" sha1="89d6b8394a9fb6304f961c06a4e7f734fa0c690f" date="1602517495" />
 		<rom name="Dark Hunter Jou - Ijigen Gakuen (Japan).chd" size="219725769" crc="61f6f811" md5="ca0ea6318a9713eb762d1b79d667f253" sha1="da34accd906bf30e8773d0f0ee6a11024223eea7" date="1602517528" />
@@ -2857,6 +2864,7 @@
 		<rom name="Deco Pre 2 '99 (Japan).chd" size="329237619" crc="bfddc271" md5="93e7181e18f7f14f1758a51d41f8879f" sha1="82c3e25ab0720fea71681f9877bc8aa058a52b52" date="1615770529" />
 		<rom name="Deco Pre 97-98 - Data East Taikenban Special (Japan).chd" size="224845205" crc="7f9e7f78" md5="a10a9caeaa15cae34cc75fef35b7b73b" sha1="9755ebb11842fffd69e09664f470109a65a67858" date="1602518059" />
 		<rom name="Deep Freeze (Japan).chd" size="290160567" crc="50bce9cc" md5="ae8ec39a268044253c381240f7f4047d" sha1="6be1ae14e71defb8f64064750397c143ae6a1547" date="1602518104" />
+		<rom name="Deep Sea Adventure - Kaitei-kyuu Pantarassa no Nazo (Japan) (Demo).chd" size="276146867" crc="214a98fc" md5="6c219511fa85713324ead16bbf124f2b" sha1="e46dfb182639bb8effc7aee630b677ceba306927" date="1651926513" />
 		<rom name="Deep Sea Adventure - Kaitei-kyuu Pantarassa no Nazo (Japan) (Disc 1).chd" size="457540826" crc="efb57ebe" md5="8522a85d40164ec60b01d454c77bf575" sha1="82a014e9ffc6e564e82d7817a345764c8597b822" date="1602518157" />
 		<rom name="Deep Sea Adventure - Kaitei-kyuu Pantarassa no Nazo (Japan) (Disc 2).chd" size="479508239" crc="97cf526c" md5="0d38c4f1c5599ef8485495b55148f0a0" sha1="b7b8c4f6a3646e10755dff84f40a2e3502a17529" date="1602518204" />
 		<rom name="Deep, The - Ushinawareta Shinkai (Japan).chd" size="74320911" crc="61704515" md5="9b0ffa92defd2ce07678f6b34dd1ef88" sha1="5dc1a5dd9f46645933f31b57734d94682763be47" date="1602518214" />
@@ -2865,6 +2873,7 @@
 		<rom name="Deka Yonku - Tough the Truck (Japan).chd" size="247763202" crc="76c669dd" md5="a03002248436aeb355a8430c125f996b" sha1="2b5b664d880d1080276db04965cc28cac6270faa" date="1602518348" />
 		<rom name="Dekiru! Game Center (Japan).chd" size="84923950" crc="80089494" md5="371f17831ebaa4a038d094d5507adc93" sha1="106abc84e2f790199d1b161a131d4be3d88b9f98" date="1602518361" />
 		<rom name="DemoDemo PlayStation Soukan-gou Vol. 1 (Japan).chd" size="262044913" crc="55ab1c86" md5="5c2721b73354baa64b90e9622132c9e2" sha1="7e0b47f2936414108926a7c48e46883f05decb1e" date="1650163519" />
+		<rom name="DemoDemo PlayStation Special (Japan).chd" size="389090662" crc="1eb9c1c8" md5="bbe7491f881552043674c67fd0c4b984" sha1="ef4fd2c67c6c1cf309c5c20905f02c1f1fd48afe" date="1651927401" />
 		<rom name="DemoDemo PlayStation Vol. 2 (Japan).chd" size="225740763" crc="e8770e5e" md5="d488f118b5ad89707cb0bd482d54d9c8" sha1="b3eb2a3bafeaa7b54e63cea5cd8bd13f91fa2e03" date="1650164269" />
 		<rom name="DemoDemo PlayStation Vol. 3 (Japan).chd" size="260886402" crc="00a9cf6e" md5="0f0074d5057ad8fe99d222273c7131cb" sha1="78ef955b11dd83ed626a9bfe00786291cb667320" date="1650164537" />
 		<rom name="DemoDemo PlayStation Vol. 4 (Japan).chd" size="234689935" crc="bb9a8ac4" md5="47db8bc1116c27f26998c980c2d03f5c" sha1="dda096c415ff4a1e605ae9433340015b15cb1612" date="1650164609" />
