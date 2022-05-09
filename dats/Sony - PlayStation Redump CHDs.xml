@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-08</version>
-		<date>2022-05-08</date>
+		<version>2022-05-09</version>
+		<date>2022-05-09</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -2772,6 +2772,7 @@
 		<rom name="Cross Romance - Koi to Mahjong to Hanafuda to (Japan).chd" size="248635158" crc="5957e688" md5="3c2b9c716cc1525442566d054706d51d" sha1="3ff7d0ffb6c2f4b5eece467e91176b12baac7cb2" date="1602428030" />
 		<rom name="Cross Tantei Monogatari 1 - Kouhen (Japan).chd" size="379702683" crc="7067ce95" md5="29bb8f6ed5d98cd8873bd70abb0c3680" sha1="e4da89550c19a00c6d417629c635d82d56fb751a" date="1602428174" />
 		<rom name="Cross Tantei Monogatari 1 - Zenpen (Japan).chd" size="339530199" crc="447c8d65" md5="06d33a6eb1e432971a19ddb4af12a4fb" sha1="3848f41c07b3c1346b5bbeb826030263d84db77a" date="1602428206" />
+		<rom name="Cross Tantei Monogatari (Japan) (Demo).chd" size="256197831" crc="db3e3e0b" md5="8524a0566a2b3913d46bf725d09d3698" sha1="36355b6e457dbafecbd90bd0a40e7c3c35c2d47c" date="1652048555" />
 		<rom name="Cross Tantei Monogatari (Japan) (Disc 1).chd" size="258154160" crc="592cdf4d" md5="3c2a85cc685f992bf39512d599062764" sha1="ff9a437e34c239a8522da1757cd2b37d68710ae6" date="1602428058" />
 		<rom name="Cross Tantei Monogatari (Japan) (Disc 2).chd" size="350115495" crc="5976d884" md5="05bd8eeef8a9b8cb426f47b587f917e5" sha1="9576090e456db2afdcfa81ec416b85b29ac3c742" date="1602428098" />
 		<rom name="Crow, The - City of Angels (Japan).chd" size="158084248" crc="3ed259dc" md5="204796c0986c99525b8ac31cf693724d" sha1="80fc99650d1fb5602dd11e12100adf195c822792" date="1602428221" />
@@ -2903,6 +2904,7 @@
 		<rom name="Dengeki PlayStation D6 (Japan).chd" size="368706569" crc="e9320ba5" md5="0852937a1744e4d940b8b05299b7fc51" sha1="0a89617a171f8f3d4052b21f40f829903807e6b9" date="1650202069" />
 		<rom name="Dengeki PlayStation D7 (Japan).chd" size="320279942" crc="ef65e863" md5="881d8663debd7acef75d79eaf6692bae" sha1="a608f5f8280f4b4898dcfa44b9f62c64d1f2e745" date="1650202147" />
 		<rom name="Dengeki PlayStation D8 (Japan).chd" size="274210738" crc="3fee016f" md5="c9bcb065e4bb123fa3b693222f0789be" sha1="1af0d142636384886eae6e139902498a9235594f" date="1650202221" />
+		<rom name="Dengeki PlayStation D8 - Yarudora - Double Cast (Japan) (Demo).chd" size="91235397" crc="641e9164" md5="9ccabd6388be4dba44aea9a361497a48" sha1="ef69d727fe7119ad78b3d324fe15cb488d950414" date="1652048603" />
 		<rom name="Dengeki PlayStation D9 (Japan).chd" size="345410115" crc="443c9756" md5="225eba589e67964e4a90358313389adb" sha1="d890b42276c3aaccaa6c52c6598cb6d341858d54" date="1650202295" />
 		<rom name="Dengeki PlayStation D10 (Japan).chd" size="361805009" crc="9f130d57" md5="ae422752617f02db15eb512cbb40fd87" sha1="09eccc772cc84a4902ab247b7e2cf7fd34f866d3" date="1650200469" />
 		<rom name="Dengeki PlayStation D11 (Japan).chd" size="371648981" crc="4a6b5b0f" md5="12361378b58aba6195a8acf80f1576da" sha1="d04a51a023384bfb1468c5a33f23fc91f81829db" date="1650200559" />
@@ -3051,6 +3053,8 @@
 		<rom name="Doko Demo Hamster 4 - Doki Doki Sugoroku Daibouken! (Japan).chd" size="222211773" crc="1bacd000" md5="34c1a563e8aece8b3a6753f9b8de9302" sha1="a5e4e5ad3f6c5756d1a56dfafa234bfdd4f672fe" date="1602677817" />
 		<rom name="Doko Demo Hamster - Bi! Click Tankentai (Japan).chd" size="46665312" crc="bd5897dc" md5="5e6038c8ea8037972dded2e64343a4be" sha1="36df9e565696830fdb4a999d3994d2f1905f5daf" date="1650459381" />
 		<rom name="Doko Demo Issho (Japan) (Calpis Water Version).chd" size="231878249" crc="3eab7363" md5="e3b173762a1772322ee1ecf3775fdca2" sha1="7d837dfa41c69390aadb50043179db9f194ffccc" date="1602677843" />
+		<rom name="Doko Demo Issho (Japan) (Demo 1).chd" size="69358953" crc="649b3bed" md5="36671af3df166310d9c509cc0ddd622f" sha1="88bd341f6c007002adb4b2f2b92fb737096d32d3" date="1652048620" />
+		<rom name="Doko Demo Issho (Japan) (Demo 2).chd" size="69365256" crc="5392545c" md5="59d48e3158a3f0f6eb7c4edd19bb6e89" sha1="bc5048271fac167107be21b42c99ea82f96e68f2" date="1652048669" />
 		<rom name="Doko Demo Issho (Japan) (Rev 1).chd" size="239552132" crc="cae8b1d2" md5="a5d1e403729972e39582b959fba2bc69" sha1="c06201e877d353f64292b5f1332587a7b8dcadc4" date="1602677956" />
 		<rom name="Doko Demo Issho (Japan).chd" size="239541956" crc="2cc22ada" md5="8b39a891a2cfe5ceb64a9954e2c74470" sha1="7c952362c52aeea0ec2b1b356c2e732511c6d6a0" date="1602678031" />
 		<rom name="Doko made mo Aoku... (Japan).chd" size="358635577" crc="2bd92d30" md5="8a7f24059c08ad3c623def1d1fe92734" sha1="bcfe6db6ad3c4ed40fc0399d8c3682d7debe8ee0" date="1602678081" />
@@ -3104,6 +3108,7 @@
 		<rom name="Drift King Shutokou Battle - Tsuchiya Keiichi &amp; Bandou Masaaki (Japan) (Demo).chd" size="471580876" crc="b66607ed" md5="94786a311aac4bfbbedc418bfd1f0192" sha1="4fff676addc504e39485b9189691b2754c79a1b2" date="1650216881" />
 		<rom name="Drift King Shutokou Battle - Tsuchiya Keiichi &amp; Bandou Masaaki (Japan).chd" size="471486103" crc="9e8c240c" md5="53fa8a0a607e31277e41a8b87e9bec82" sha1="384a129ba9889fb1f59adca2020e9c0088be2998" date="1602708411" />
 		<rom name="Driver - Sennyuu! Car Chase Daisakusen (Japan).chd" size="461281532" crc="9b02f468" md5="27844931843178372f825ca994fa30b0" sha1="f2077715f8773ebc2b769e1b23087a56ba1249b8" date="1602708465" />
+		<rom name="Driver - You Are the Wheelman + V-Rally - Championship Edition 2 (Japan) (Demo).chd" size="77735403" crc="840482f0" md5="e678b6253486ddf93452d2a5dea2427b" sha1="dcde5fcdb7d69909e9f6fb58efbd03ac3e6478cb" date="1652048707" />
 		<rom name="Drug Store, The (Japan).chd" size="28342046" crc="723da4d1" md5="d8a0e9a7897f61d3bcb4f29a86726159" sha1="6981e55052dd804ca7621520226805feea70c25e" date="1606747888" />
 		<rom name="Drug Store, The - MatsumotoKiyoshi de Okaimono! (Japan).chd" size="33031241" crc="464b1811" md5="3741b4e90aa5f14b89f27e514ff8743b" sha1="3d88b4b202a39dcbd9de33b11ac6d6f4ea01dd34" date="1602708597" />
 		<rom name="Druid - Yami e no Tsuisekisha (Japan).chd" size="66659104" crc="f5479543" md5="a0ec412d9537cbb8bfd261a98327be62" sha1="0267957273d9e34c5935f285238ab6cac8272203" date="1602708607" />
