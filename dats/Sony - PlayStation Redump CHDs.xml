@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-09</version>
-		<date>2022-05-09</date>
+		<version>2022-05-10</version>
+		<date>2022-05-10</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -3124,6 +3124,7 @@
 		<rom name="DX Okuman Chouja Game - The Money Battle (Japan).chd" size="59513113" crc="61d70cc3" md5="fe31200c74835fccde4194a6a475eb64" sha1="196c4948093effd6ff88ab48def21828f6673123" date="1602709292" />
 		<rom name="DX Okuman Chouja Game II - The Money Battle (Japan).chd" size="115774422" crc="5507a2d9" md5="536ab7c2e254bb5fe2d634a25f6070a5" sha1="b517029a223560c675bc667938e913a0626be7d8" date="1602709485" />
 		<rom name="DX Shachou Game (Japan).chd" size="19075760" crc="ba4011f9" md5="c785018f49894301a4bdfb50bdc5dc02" sha1="8329a2d77f5721127376d9caf725bda596ba7d5f" date="1602709490" />
+		<rom name="Dynamite Boxing (Japan) (Demo).chd" size="41490504" crc="981eb11d" md5="e363d45bbca375f64880c323f61edd9d" sha1="881a5ad6f4e2a959820b6a76eb15d949a7095c04" date="1652060064" />
 		<rom name="Dynamite Boxing (Japan).chd" size="237990652" crc="33fe6746" md5="c0017f3f7b27f4e091eeb3056aeda7db" sha1="1812c34bdb2c44a98a57e8a95e4917f73880b713" date="1602709640" />
 		<rom name="Dynamite Soccer 98 (Japan) (Demo).chd" size="22214134" crc="df1d1c7d" md5="813f3dfb778581c51db70dc7457a084c" sha1="d56b27e0eb92eb434411e66469a5efe60fd23f5a" date="1634255361" />
 		<rom name="Dynamite Soccer 98 (Japan).chd" size="145342740" crc="ec7db23d" md5="5d6306c04385523201cf1a8388f440b9" sha1="b188d7b0935685e0b18944b9d8bec224b122e9be" date="1602711342" />
@@ -3164,6 +3165,7 @@
 		<rom name="Eko Eko Azarak - Wizard of Darkness (Japan).chd" size="244259113" crc="3d16c92d" md5="1e9666c5e2c0a567145cb95438f7a6ac" sha1="f45d3386d7b22b797cc200fa922928ec42e93aeb" date="1603024490" />
 		<rom name="Elan (Japan).chd" size="334002853" crc="4436e01f" md5="bbde000daa843dd10047705be18df103" sha1="de634ae3a6a9588bf7934b75e1437a6756771fff" date="1603024524" />
 		<rom name="Elan Plus (Japan).chd" size="339005583" crc="5b4292b7" md5="4d6bb8deb1e8c9a751f2709e8ef0b297" sha1="73cbbb01f0f2414b47127cd269e41714dbe8527a" date="1603024566" />
+		<rom name="Elder Gate (Japan) (Demo).chd" size="62445419" crc="e31ad831" md5="3131766dd54bdf907436890120974aaa" sha1="02e04517005cb54c47093f56ec78572453af5484" date="1652060096" />
 		<rom name="Elder Gate (Japan).chd" size="71586285" crc="b72c5a11" md5="aa56484e5f08043c61a0ebc796f50325" sha1="f225999fa10152aa506a7135ede41433b930c2b6" date="1603024590" />
 		<rom name="Elf o Karu Monotachi - Hanafuda-hen (Japan).chd" size="43940036" crc="943b4033" md5="a0739438931e6cd688e8fe54a4d3aafe" sha1="12ae02bdbfeb31afcb88332e7e0303fcb973be8e" date="1603024600" />
 		<rom name="Elf o Karu Monotachi - Kanzenban (Japan) (Disc 1).chd" size="459461290" crc="c7ae3bc4" md5="626601cd19f9757b14cdf1c70da6551d" sha1="3c4603f339a8a7a3b6ea141cdafc8fc95a2485e0" date="1603024645" />
@@ -3358,6 +3360,7 @@
 		<rom name="Formula 1 (Japan).chd" size="412734692" crc="4fe25e3f" md5="37f6c3814f4e58c30c7ed61413f1d6fe" sha1="da39585fbe4302819d88ab4d0a8b5658067ee202" date="1603063435" />
 		<rom name="Formula 1 97 (Japan) (En,Ja,Fr,De,Es,It) (Rev 1).chd" size="471590500" crc="7979b727" md5="18e6fc2aae795d6c9c3cf123461fbae6" sha1="0e230d7f02116207a291b5c023af10f077b20f0a" date="1650638236" />
 		<rom name="Formula 1 97 (Japan) (En,Ja,Fr,De,Es,It).chd" size="469152799" crc="7472ec92" md5="cb3f84c102914cf5adc7271ce3e493b0" sha1="69e231a7e5ee7218454549ab2d7780b749b793b2" date="1650638393" />
+		<rom name="Formula Circus (Japan) (Demo).chd" size="102186770" crc="b1998774" md5="7d2b759b643f281aa6375362d67b7ea0" sha1="93cbfdd7677e0a2eda882aee7193fef6de404994" date="1652130243" />
 		<rom name="Formula Circus (Japan).chd" size="102188322" crc="afafaff4" md5="c36043f97ff15c771055b6e8b46c2e81" sha1="d35f77eeed2302fbbb4c412f7b199c2f2cbae49c" date="1603063564" />
 		<rom name="Formula Grand Prix - Team Un'ei Simulation 2 - 1997-nenban (Japan).chd" size="199531568" crc="609d36a3" md5="2d2a134087ba70d32cfa41ce0b6363a2" sha1="59ae71d22108fdce33b6c2063f8f8bd9815afeb6" date="1603063618" />
 		<rom name="Formula Nippon '99 - Racing Driver ni Narou! (Japan).chd" size="285857498" crc="68790fec" md5="d31e41f88532d92dcd5069f53e184c03" sha1="b9f5ef0d2b686fbf3b17943b32fbe9f9c05b621f" date="1603063674" />
@@ -3482,6 +3485,7 @@
 		<rom name="Gensou Suikoden II (Japan) (Demo 2).chd" size="98356935" crc="1ca47fa5" md5="c247f8d8d7b86a00bf2b236aff231929" sha1="2bd19fac63c6639d0c723d30f8538521c7078d5d" date="1634257540" />
 		<rom name="Gensou Suikoden II (Japan) (Rev 1).chd" size="312966774" crc="0c409bfa" md5="4120748c4ace76afc934bbd4018eccc2" sha1="abe4e62bf268a1b15c0352b3e2bfcd55ab9175fa" date="1603115521" />
 		<rom name="Gensou Suikoden II (Japan).chd" size="312916011" crc="0781cf9a" md5="707485b9e00dfd28667c66c1970c3560" sha1="83692900b77e78f36acaa39e34a9ddbee39497c6" date="1603115573" />
+		<rom name="Gensou Suikoden II (Japan, Asia) (Demo) (Premium Package).chd" size="92093913" crc="48cd4645" md5="667052728377df15998ef1ea0e3a31f5" sha1="d293dff7fe4d36ccb52f11ebd516b1f8df383761" date="1652130286" />
 		<rom name="Geom Cube (Japan).chd" size="403920783" crc="b4ba3c26" md5="17dada1cf47e8da83f8da53744836694" sha1="88cc719535f9cebcd4908b2c6d047da976a1ddf5" date="1603115672" />
 		<rom name="Geometry Duel (Japan).chd" size="230336120" crc="7ef11aea" md5="e34840df8d7c6f7b1257d21b4c3a2d95" sha1="294fc3fac22f0bb1d6ac2888a323ecbe54b3489a" date="1603115749" />
 		<rom name="Germs - Nerawareta Machi (Japan).chd" size="98426456" crc="a3fe4bc1" md5="d826a3fa0d605e9bfa2827021dc29e0b" sha1="8483bd5b6f861f6695307c5369530605e2ffbad8" date="1603115781" />
@@ -3522,6 +3526,7 @@
 		<rom name="Goujin Senki (Japan).chd" size="40404882" crc="2c100242" md5="b29263c853a003d50cd15d57c6a8b06b" sha1="cb7b3ec6bf97a2eab7c5f6301a135587f19d58f1" date="1603120467" />
 		<rom name="Gouketsuji Ichizoku 2 - Chotto dake Saikyou Densetsu (Japan) (Demo).chd" size="198811516" crc="c0fb451e" md5="fe9b1c279b4ef3521bf06b42e776c584" sha1="f4c486390597a448772e9d38ffdd22a51f634c29" date="1634257695" />
 		<rom name="Gouketsuji Ichizoku 2 - Chotto dake Saikyou Densetsu (Japan).chd" size="458362593" crc="b0bf8dc5" md5="5eaf2f7bf3a351a5201d05263e06a814" sha1="2bebd09436ddf849aeabe7b87332101370185187" date="1603120628" />
+		<rom name="Gourmet Action Game - Manpuku!! Nabe Kazoku (Japan) (Demo).chd" size="17838465" crc="6efba9de" md5="90b178a33599133215df1ed68746a56b" sha1="3aee9cda569760f5dea0d0d59f2e2c7b6545fa24" date="1652130293" />
 		<rom name="Gourmet Action Game - Manpuku!! Nabe Kazoku (Japan).chd" size="17853083" crc="dac11594" md5="1d2ecb64ef1b94e3ae37dd0bd9cd18aa" sha1="545446a595c89ee0c04f9f187ed79cf08608bf0e" date="1603120646" />
 		<rom name="Gradius Deluxe Pack (Japan).chd" size="259151706" crc="c2f33c82" md5="8878b46489dbf505247e7070cb0fab5e" sha1="5ecb2d7b39dae4c74fc89a4f838af34647746682" date="1603120723" />
 		<rom name="Gradius Gaiden (Japan) (Rev 1).chd" size="315403298" crc="292be336" md5="7978a52736d28eef820c7aa4289594c2" sha1="9edf43200b715e859425794ffa7b2519d5599251" date="1603120793" />
