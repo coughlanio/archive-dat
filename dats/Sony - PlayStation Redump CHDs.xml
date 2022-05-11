@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-10</version>
-		<date>2022-05-10</date>
+		<version>2022-05-11</version>
+		<date>2022-05-11</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -3579,7 +3579,10 @@
 		<rom name="Gundam 0079 - The War for Earth (Japan) (Disc 1).chd" size="238958107" crc="5839609c" md5="de9d4375203eac6ca6ae440eb62f9014" sha1="9aa7baebf4c8e1cce4f4b0ef8ec3f0b45b7cd54e" date="1603142568" />
 		<rom name="Gundam 0079 - The War for Earth (Japan) (Disc 2).chd" size="211184765" crc="6992af6c" md5="f2b0708d91df0ad95c9a555f17a860c4" sha1="64e0cb860b23c28c4ccf195aa08a83b40a0094d1" date="1603142592" />
 		<rom name="Gundam Battle Assault (Japan).chd" size="266343917" crc="d9716c33" md5="dd4eb23fc06e2c54e2577f436b9fc143" sha1="6a337b92bd5e49af376e8b650832fd181b715146" date="1603142617" />
+		<rom name="Gundam the Battle Master 2 (Japan) (Demo).chd" size="124996650" crc="0d4c5c45" md5="4e835f91a40ae4b7f1d0ebf11810ff59" sha1="2f972a2d95f2e711322de577af0f82f47bc5f065" date="1652226071" />
 		<rom name="Gundam the Battle Master 2 (Japan).chd" size="266996432" crc="e1907472" md5="158ad1590b4c149e8024f17a6fb704fc" sha1="404d35176b3a71a13531d7ed5647e1b193934da0" date="1650311449" />
+		<rom name="Gundam the Battle Master (Japan) (Demo 1).chd" size="39589367" crc="0c4c636e" md5="602ce1af132d96ee7c2bdb788be68ee1" sha1="3b92977c8ea9f7c1cb4a163a2358382b7c3af60b" date="1652225981" />
+		<rom name="Gundam the Battle Master (Japan) (Demo 2).chd" size="40767573" crc="3c8f59ff" md5="3861cce950bec88ce743658e004d90c0" sha1="d9b51c0f3c6bf3d78abf187302f736e5c25fe759" date="1652225993" />
 		<rom name="Gundam the Battle Master (Japan).chd" size="228228893" crc="7401caea" md5="aac844d565a3555b06fcf4f2d98cbdda" sha1="1c44898bd60abd1258168a945a10a9b346ef1279" date="1650311365" />
 		<rom name="Gundress (Japan).chd" size="196873539" crc="3e6fa0a3" md5="fe673e343f9eaa80e9a0ce8988335466" sha1="16cf842238ee81bf188f85c5b37dddd50f9ea8e9" date="1603142658" />
 		<rom name="Gundress Data-shuu (Japan).chd" size="40742251" crc="661edd99" md5="11bb733dcad6770fc95969e75f286753" sha1="995d78fc98034e4a831c287b03ca8aa5ca7f5f8d" date="1603142675" />
