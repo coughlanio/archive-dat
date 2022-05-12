@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-11</version>
-		<date>2022-05-11</date>
+		<version>2022-05-12</version>
+		<date>2022-05-12</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -3662,6 +3662,7 @@
 		<rom name="Helix - Fear Effect (Japan) (Disc 4).chd" size="501189849" crc="c8b0c09a" md5="231130a99a42faf16a7f5c366de414fe" sha1="752d841d6ebc677c5348f6ee14284b5c2af10d95" date="1603149227" />
 		<rom name="Hello Charlie!! (Japan).chd" size="449687477" crc="06a4167a" md5="afaced6b572684c48215312526afa7a4" sha1="d83467ee55713f922f6bfb69f451f866918116ec" date="1603149268" />
 		<rom name="Hello Kitty - White Present (Japan).chd" size="443922548" crc="2787127b" md5="8347e7831239fcca9e6c16a55ac98697" sha1="6a0b8f8ac4e37acac1a476352d4b5b01608b9931" date="1603149303" />
+		<rom name="Hello Kitty no Cube de Cute (Japan) (Demo).chd" size="109202365" crc="8432d364" md5="e82774eb3449cc8f48fec510fd42b429" sha1="f1848442e01df6fd700aa5272183c565e6dfcd55" date="1652276279" />
 		<rom name="Hello Kitty no Cube de Cute (Japan).chd" size="109060845" crc="4d02ad6a" md5="ef34088e35744acd24fced3e82ec6fbf" sha1="c7620b0e489dd0912f0b0121278fcd650d3e434a" date="1603149317" />
 		<rom name="Henry Explorers (Japan).chd" size="212541385" crc="5b04c301" md5="25df0122f607b074112acc0a272304d6" sha1="04c01ee4e8e818607b46d776a5dcb73d6231d800" date="1603149343" />
 		<rom name="Herc's Adventures - Hercules no Daibouken (Japan).chd" size="146825373" crc="272af203" md5="8516200703fac3121aa4ffd8d9a087dc" sha1="8235b8b7b99eb574a38cd437ef9c8d64fb1dfdd6" date="1603149368" />
@@ -3669,6 +3670,7 @@
 		<rom name="Herohero-kun to Ralph no Daibouken (Japan).chd" size="38928206" crc="440de03d" md5="ea2c035218959e1bb6a09990f7ea6a75" sha1="bde375e28309319a1b9c9b001e7f2945049f5aaa" date="1603149404" />
 		<rom name="Heroine Dream 2 (Japan).chd" size="447913339" crc="cc8effe2" md5="1c1f07c26f6ba5cebfad47f6e41edd86" sha1="5aae28a889bae4e8afce60971bd714f099c57599" date="1603149461" />
 		<rom name="Heroine Dream (Japan).chd" size="245928156" crc="07ce32ea" md5="5d304594fad5c78d8679bcf6e76664b4" sha1="59289d5d523dc7814338879b26cd1b8462ceab58" date="1603149424" />
+		<rom name="Hexamoon Guardians (Japan) (Demo).chd" size="164240636" crc="fe48ea31" md5="be67b1f1e4dce3d78d1913452eec2f09" sha1="8bd824d07010ce76132b72f05b4055a2ed41a674" date="1652276359" />
 		<rom name="Hexamoon Guardians (Japan) (Disc 1).chd" size="478698145" crc="1df64a9e" md5="80f484285493ff2da460d17cce0f1df4" sha1="5c25cded5112e7d63068f0ad26bd3b3c1754d449" date="1603154812" />
 		<rom name="Hexamoon Guardians (Japan) (Disc 2).chd" size="498643861" crc="38f8935f" md5="a0251105084f63497fb890b6c63d003f" sha1="d4bdd55ace00accdb5998bfde01c2f9c09d94c01" date="1603154871" />
 		<rom name="Hexen - Beyond Heretic (Japan).chd" size="346058850" crc="ce0ceaf6" md5="4c882821d1342da3b7e253cc83cec8d7" sha1="ee7ed5db6934a98dca7eba3b4d3b40aa885500a5" date="1603154902" />
@@ -3722,6 +3724,7 @@
 		<rom name="Hissatsu Pachinko Station Petit - Nanasy tte Nani (Japan).chd" size="1043999" crc="d9570e87" md5="2eee014c7d7588f62f85049524a62e39" sha1="f2192c6365e261adb1cfd831d36d392833f0dde3" date="1650742201" />
 		<rom name="Hissatsu Pachinko Station SP3 (Japan).chd" size="8493957" crc="a64c541c" md5="87d1b6dc2a0774f6e953d2a32261eb03" sha1="3323c4ab437072dc08851ae1fc11176587818b74" date="1603155815" />
 		<rom name="History of Kita Denshi (Japan).chd" size="87758467" crc="2311bf4c" md5="87656a46a2f0e1230a69e83ff95265dd" sha1="d1a6953b70b87e73c628bc60f45ffa755708fd55" date="1603155839" />
+		<rom name="Hit Back (Japan) (Demo).chd" size="218673691" crc="aea15e93" md5="61403d720b48590689272abc8e0e122a" sha1="2a76dd265d9cb1f1591bbaf3986126ce2737769a" date="1652276439" />
 		<rom name="Hit Back (Japan).chd" size="361032814" crc="3fbec5d8" md5="fe941e328d4fda52cc507108b9fbd3bb" sha1="d6dc9d9fe6f894425abce18cddbda70b4012e12d" date="1603155881" />
 		<rom name="Hive Wars, The (Japan) (Disc 1).chd" size="497511546" crc="7ce9f550" md5="1161687b2048aa73e3961d2b00d945ce" sha1="29a83dfde50214d4f1c9fb06711fd9bbdd06f8df" date="1603155929" />
 		<rom name="Hive Wars, The (Japan) (Disc 2).chd" size="458514551" crc="07ede62b" md5="f49fcac8668ef687f6562f9bcb944398" sha1="5baf2656588d1919b80359e0c660686d959ab5d2" date="1603155975" />
@@ -6713,7 +6716,9 @@
 		<rom name="XI [sai] Jumbo (Japan).chd" size="410798010" crc="1262eac9" md5="bc5a7f9d8362ef301589af2ad49a4124" sha1="772de9bd61762062f8019ae3a51b1c54b1186423" date="1602943314" />
 		<rom name="XI [sai] Super Play Collection - XI wa Futatabi Nagerareta - Special CD-ROM (Japan).chd" size="106228166" crc="5fda6db4" md5="bdd80376cbe800f8303fca7acf5df1a6" sha1="6f375993842a2252e5aadbf97b8d72a2f8f49a82" date="1603040449" />
 		<rom name="Yagami Hiroki no Game-Taste - Munasawagi no Yokan (Japan).chd" size="360331605" crc="e06c59f1" md5="aea270bce728f8c1dabc650699fa16a8" sha1="6873844b751a8a97e2e09bcf80a55e1931ec24cb" date="1606664488" />
+		<rom name="Yakiniku Action Game - Yakiniku Bugyou (Japan) (Demo).chd" size="47968777" crc="c53bebe1" md5="d7c159bc892958a802e26ac496bdbbe2" sha1="7a91a34e2066a5d69193b0265ce41e2101824ddf" date="1652305969" />
 		<rom name="Yakiniku Bugyou (Japan).chd" size="47963115" crc="9a9253a6" md5="7dba196bad31db10beb36ab04cc40437" sha1="8afe351066cd14c473b7a8670abd84f3a493f85b" date="1601859456" />
+		<rom name="Yakitori Musume - Sugoude Hanjouki (Japan) (Demo).chd" size="73287624" crc="e5688611" md5="d8bc0ab7513a1e0e643eb7beb67e80e9" sha1="accf0eae5a29eaf96ec0c8f8d66c1bdf33d60c9e" date="1652291963" />
 		<rom name="Yakitori Musume - Sugoude Hanjouki (Japan).chd" size="90318695" crc="42f4fa77" md5="588b831ee977fa532087f9f0c7cc6c8b" sha1="b46a40ec2dc8bee1e916b7655c5f6007cc1352ce" date="1601859471" />
 		<rom name="Yaku - Yuujou Dangi (Japan).chd" size="95117657" crc="5f1e29c0" md5="2f70737cbefec32239ffcc182f2090cd" sha1="10bfe5a3bf58b1bbb0a5c418f830844ffdefd058" date="1601859481" />
 		<rom name="Yaku Tsuu - Noroi no Game (Japan).chd" size="223558308" crc="cb26294a" md5="1f3d2f1cb89b9b9bbb5a6ffe5decd388" sha1="b6d14311e69b7c39394f85662f843c650183da48" date="1601859519" />
@@ -6729,6 +6734,7 @@
 		<rom name="Yamasa Digi Selection 2 (Japan).chd" size="123487091" crc="d5336ec3" md5="bd32cba6bffa7b1078a52784d410b1f8" sha1="0ff87eeb25dcfacf85e498de79a53e8436d18b5e" date="1602005485" />
 		<rom name="Yamasa Digi Selection (Japan) (DX).chd" size="114635850" crc="4b47ebe9" md5="89d6ab42ac8594e212bee4e2f122f55f" sha1="6c4fb087cd758f92e9295d23b3ea2d76fd85efc8" date="1602005429" />
 		<rom name="Yamasa Digi Selection (Japan).chd" size="114635784" crc="8f58bc61" md5="551b998bd141d1c42d780acabf758975" sha1="b3dbe0b8b55407a93914527f83b413993c9acf77" date="1602005463" />
+		<rom name="Yamasa Digi World - Tetra Master (Japan) (Demo).chd" size="116476009" crc="fab04295" md5="e88824044a150b606f6a1f2d595567ed" sha1="32978eab62e643bb372c57aee4222b436b605ece" date="1652292011" />
 		<rom name="Yamasa Digi World - Tetra Master (Japan).chd" size="128947770" crc="2698bc4c" md5="e0de4a5ec252a1d363385d76c91c34e3" sha1="fcc1ce2d9fe6bba1d4267c614a18b726f81960c5" date="1602005511" />
 		<rom name="Yamifuku Natsu - Teito Monogatari Futatabi (Japan).chd" size="278564319" crc="359b8eb1" md5="293fce1315ecdce294ff463e1d21cd4d" sha1="db469f8dbd94246fab1c64495a043266f364033b" date="1602005573" />
 		<rom name="Yaoi Jun'ichi Gokuhi Project - UFO o Oe!! (Japan).chd" size="442297249" crc="91be5859" md5="bc988c163a87294ebd7ed450f7a554ba" sha1="c8cefa4c903b7fbe6b0c09cca6109ff5d7a8460a" date="1650830579" />
