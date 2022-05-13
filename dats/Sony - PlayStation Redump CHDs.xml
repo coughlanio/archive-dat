@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-12</version>
-		<date>2022-05-12</date>
+		<version>2022-05-13</version>
+		<date>2022-05-13</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -6536,6 +6536,7 @@
 		<rom name="Utauta Woo - Seirei-Songs (Japan).chd" size="439464027" crc="031d151b" md5="81f0fbf65228c58226a8b7bee67feb31" sha1="d8a450ea7473b9f84f3b09fdfd63615f0c4b4f56" date="1606486686" />
 		<rom name="Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan).chd" size="38900511" crc="629a6f36" md5="e176350ab50cda9776b62d673c8a987e" sha1="5e48d7a6f291289f5679a3f55a4a67d612fdedb1" date="1634310051" />
 		<rom name="V-Jump Soukan 9-shuunen Kinen Special Disc!! (Japan).chd" size="160090883" crc="86bde178" md5="c621d4eafae9a345affc38974e0a7c5f" sha1="871378e2075eb6c573d200bbaea0afa6fd79c863" date="1606510515" />
+		<rom name="V-Rally - Championship Edition 2 (Japan) (Demo).chd" size="38250060" crc="0d19b791" md5="72f3f875954c324c89152aedba4b1c91" sha1="c5c8c4b89800c6a1d3b920f8990b504c56743a2a" date="1652397261" />
 		<rom name="V-Rally - Championship Edition 2 (Japan).chd" size="354063999" crc="aca55b8c" md5="2ab1fe0c3b1e7676b4f36c04e5397582" sha1="be6f019b418a68497332d88b2081147249538cbf" date="1606510605" />
 		<rom name="V-Rally - Championship Edition (Japan).chd" size="155103919" crc="184884da" md5="aafc382230b18bdb0aa3123653a08801" sha1="837a842541c0221a5f24a9becacaadbac3fa2fb7" date="1606510538" />
 		<rom name="V-Tennis 2 (Japan).chd" size="129739096" crc="fda931b1" md5="ddc70dddc1de97be2bb75ece6f6ec493" sha1="678f8827c158207ac2eb12d52df8f781c4a77a96" date="1606510643" />
@@ -6555,6 +6556,7 @@
 		<rom name="Vampire Hunter D (Japan) (Rev 1).chd" size="239344856" crc="bb2cc5d3" md5="bbd655bd20b3402f0a82b6b7209e5e64" sha1="e0f04ca61c53bfbc38f7379966bffd2a6a0e4969" date="1606511243" />
 		<rom name="Vampire Hunter D (Japan).chd" size="239272892" crc="8995d218" md5="57ee031fad41dd9cac1711474080775a" sha1="779d34441863c1e5cd02d117f6ec40b5d36fde1e" date="1606511273" />
 		<rom name="Vampire Savior - EX Edition (Japan).chd" size="502300277" crc="fb6cb8ad" md5="94b1d35845b9d2db240c16fb5444bbc6" sha1="2944204fa13ae65dc2d884ddf2d8a29a6f4ba1b2" date="1606511346" />
+		<rom name="Vandal Hearts - Ushinawareta Kodai Bunmei (Japan) (Demo).chd" size="240266901" crc="b3f1dcfe" md5="09c239746a7b828b2dd13014bdbac9e4" sha1="950fe0dca7cd9dd60ecc6b7d60ad278c1b993b93" date="1652390122" />
 		<rom name="Vandal Hearts - Ushinawareta Kodai Bunmei (Japan).chd" size="423153755" crc="43274768" md5="ebc92fcf6b3617d41002fbb0d31b674c" sha1="a7de399e9b4e46c84e82b4297d0bcc254d15af97" date="1606511385" />
 		<rom name="Vandal Hearts II - Tenjou no Mon (Japan).chd" size="123830828" crc="6895b900" md5="305274d293b35e1ddc8fa1627f92c168" sha1="29a6dd59b1ea51ed66baca7cbc26133e871b5a1a" date="1606511409" />
 		<rom name="Vehicle Cavalier (Japan).chd" size="89564915" crc="54a4dc1d" md5="a870f959bd67c756df23424bf5685707" sha1="ad035332090d868f46f86997f4fa3f4a230f39a7" date="1606511434" />
@@ -6603,6 +6605,7 @@
 		<rom name="Waku Puyo Dungeon - Ketteiban (Japan).chd" size="231454611" crc="f1c13aa1" md5="d7a6b18970abe546a786a90937aebf65" sha1="6e11a5154f47692e82c10c8563e9a2f1125d0de4" date="1606529545" />
 		<rom name="Waku Waku Bowling (Japan).chd" size="157221982" crc="7033e529" md5="6f219aafe161cf97a3ba585d1a3afc95" sha1="dfa7b4772e40052a548250564b555ecb08fc4358" date="1606529574" />
 		<rom name="Waku Waku Derby (Japan).chd" size="24265531" crc="b7924d77" md5="74c4ad37a830acf589e8e7201e8be30a" sha1="8aab245a826e7fa6edced020eb4f2b4b43b85557" date="1606529601" />
+		<rom name="Waku Waku Volley (Japan) (Demo).chd" size="41353448" crc="0257d6d5" md5="6cc5fd672646f3ce134b1cc409fe5782" sha1="af7d13aa26bc888a8f8f89f8992cddc54633864c" date="1652369623" />
 		<rom name="Waku Waku Volley (Japan).chd" size="41336238" crc="8b25a3d3" md5="e8ee2fa1b8515a4601081f82299bf540" sha1="cc836a21f38b51127583f12b72e6d93616304758" date="1606529635" />
 		<rom name="Wakusei Koukitai - Little Cats (Japan).chd" size="268559557" crc="15ab6040" md5="631011d8caa5b020ab05621af0620bbb" sha1="993905bc01989024b3bddbb54c02e54572ccc191" date="1606529669" />
 		<rom name="Wander Vehicles - Doggy Bone Daisakusen (Japan).chd" size="442572172" crc="413c5012" md5="72ffb505ff5ad4f9337f9638a401c0a6" sha1="f97e1339726f1300f106ceb78db9562c81feac71" date="1606529719" />
@@ -6611,6 +6614,7 @@
 		<rom name="WarCraft II - The Dark Saga (Japan).chd" size="319043589" crc="0240d933" md5="34befd0edb523c6712e45c4c5a9e1cb8" sha1="df14cc8b4caa9fff8b5f3bffcabbf9c61cb061cf" date="1606529823" />
 		<rom name="Warera Mitsurin Tankentai!! (Japan).chd" size="245355877" crc="669b055a" md5="9ae0d6b98e9204d49286bdc4ed00255b" sha1="93af90499c51f203bec7ad37d7bd846914cfce04" date="1606529860" />
 		<rom name="Wares 1092 - Souheiden (Japan).chd" size="329241359" crc="93ffa7e7" md5="fc0389559eef1c53d84f8c6fd477aaa6" sha1="82f421c284f0c187ff4951d1fc35260c7fc00432" date="1606529916" />
+		<rom name="Water Summer (Japan) (Shokai Genteiban).chd" size="294197494" crc="58a37f31" md5="1e1fd21c40eb5ee6324e9c1596ffc240" sha1="094c457a36acc76a77711f8cbc341121de4dfc90" date="1652360793" />
 		<rom name="Water Summer (Japan).chd" size="294197494" crc="58a37f31" md5="1e1fd21c40eb5ee6324e9c1596ffc240" sha1="094c457a36acc76a77711f8cbc341121de4dfc90" date="1606529950" />
 		<rom name="Wedding Peach - Doki Doki Oiro-naoshi (Japan).chd" size="242892423" crc="e2e22cfb" md5="7e6c986966dde8db33c4d108861ce598" sha1="07ae04b55b443b27bc3ab5f4091e50eafe0141b5" date="1606529978" />
 		<rom name="Weekly the PlayStation Limited No. 1 (Japan).chd" size="184136674" crc="3c4fb1bd" md5="8a6ededb67bbf5f9513c5ee383baa954" sha1="e68c1833ed72a5a76ac4eb2183d2a2990a8cc66c" date="1650235769" />
@@ -6682,6 +6686,7 @@
 		<rom name="World Soccer Jikkyou Winning Eleven 3 - World Cup France '98 (Japan).chd" size="279087516" crc="62a5df71" md5="9fce500380f714865dbf71d3a2c29051" sha1="8347ef8c8793463c29ef790b5c988b13ab96bb8f" date="1606572508" />
 		<rom name="World Soccer Jikkyou Winning Eleven 4 (Japan) (Rev 1).chd" size="257003821" crc="7f1b76f3" md5="62fc9de34fbb9746d7da0e3c51d7b3ff" sha1="33e0d6d6bf1c0e9cce62c60b6002e507e1919627" date="1606572589" />
 		<rom name="World Soccer Jikkyou Winning Eleven 4 (Japan).chd" size="257004062" crc="992b84af" md5="dd4b615b831a911ef3e0ff2789a11abd" sha1="88d802818d92bda26f94e7d43868fff30268aed4" date="1606572694" />
+		<rom name="World Soccer Jikkyou Winning Eleven 2000 - U-23 Medal e no Chousen (Japan) (Demo).chd" size="286062632" crc="c2ef420c" md5="8ba047a815ed6d6a3b768891e5e64b99" sha1="7c524686752b5ac9271f8b1cb7ea06a8a988d836" date="1652322232" />
 		<rom name="World Soccer Jikkyou Winning Eleven 2000 - U-23 Medal e no Chousen (Japan).chd" size="286343777" crc="2bdaa91d" md5="a7c0e5a8b322f72041c9d8b292272b9d" sha1="8a12b4db02d971dfbca7094236807a0864fb4c82" date="1606572235" />
 		<rom name="World Soccer Winning Eleven 2002 (Japan).chd" size="279436283" crc="1fdfb5f9" md5="1cf0643af02a13ccad94eccd84103e3a" sha1="b7544e4ab0e758c3240fee35d9911c05082569cf" date="1606572931" />
 		<rom name="World Soccer Winning Eleven '97 (Japan) (Rev 1).chd" size="181800493" crc="981c7eed" md5="0667a928898f32b93fec9a27496b0923" sha1="9e80742ab2fd5051bc0f737929f4fa75e51179d4" date="1606572754" />
@@ -6704,6 +6709,7 @@
 		<rom name="X Games Pro Boarder (Japan).chd" size="468935546" crc="2dfe9e8f" md5="10c8ee2c0f59a78e7230331bc525d205" sha1="fa262fbeb2cc7d684243a570b2f4aeab91a38c9b" date="1602942640" />
 		<rom name="X-COM - Michinaru Shinryakusha (Japan).chd" size="298400365" crc="d32435fb" md5="d41fee0901db923e99b61bd0e827cd6d" sha1="fd447d70701771682b5476685dcc5330add6b9be" date="1602428964" />
 		<rom name="X-Men - Mutant Academy 2 (Japan).chd" size="434833478" crc="6a69b285" md5="966e3e0846874cb98f7f194efad2ffde" sha1="8b82101443e54b682983154f51aa10e26930012c" date="1602761169" />
+		<rom name="X-Men - Mutant Academy &amp; Spider-Man (Japan) (Demo).chd" size="146320654" crc="da368a57" md5="ef581e128f17a86c5369813c65770f38" sha1="d781748c88840641db1ca4c3c13936396ac5eeec" date="1652322306" />
 		<rom name="X-Men - Mutant Academy (Japan).chd" size="364169423" crc="54955af5" md5="af4b0b818b8299e9c5a9282e89cc0e8b" sha1="35c8efa117f0fd526ab1fd00bf848a03509edfd7" date="1602761133" />
 		<rom name="X-Men vs. Street Fighter - EX Edition (Japan).chd" size="222748201" crc="67cfc105" md5="90643268ef6d4e1fd89bb3dc8d08313e" sha1="ff99e4dfddadcf8407c4b75ecaee354401dccc47" date="1602761189" />
 		<rom name="X.Racing (Japan).chd" size="338577783" crc="11d82e0b" md5="d2f07d967d66f5dabc916f8cb7b7dbaa" sha1="bbbb29215da6386735ef1fb1c21fec1eabe258b0" date="1602761220" />
