@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-13</version>
-		<date>2022-05-13</date>
+		<version>2022-05-14</version>
+		<date>2022-05-14</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -6317,6 +6317,7 @@
 		<rom name="Tobaku Mokushiroku Kaiji (Japan).chd" size="414652418" crc="60ae7bcd" md5="661a065fbcf0d58ac32ff575ab803989" sha1="b574c1138ecefefcd193726b96a543073ffd13d9" date="1606403382" />
 		<rom name="Tobal 2 (Japan) (Rev 1).chd" size="425075738" crc="74f28497" md5="156483a11c4d2028265c86b89d3b030d" sha1="5836dc02b905bbaa0e2810f80d846b728b54519c" date="1606403471" />
 		<rom name="Tobal 2 (Japan, Asia).chd" size="424799005" crc="cb925ee5" md5="b3d2595a08b7b28653d5d8b5003cac58" sha1="6969238d710d63b1fba2bf8cb65f445a23e8b06b" date="1606403566" />
+		<rom name="Tobal No. 1 (Japan) (Demo).chd" size="347653090" crc="07858968" md5="001783d96dfc93933628776bea962044" sha1="f5ec3cc61d60a5790ac793bcf8762da4b30a3e75" date="1652457321" />
 		<rom name="Tobal No. 1 (Japan).chd" size="322995373" crc="f624a259" md5="5c9c27c79b001a03161c638070b6408a" sha1="e527077bdec92092f985ba6f5e6c7bfd7db57999" date="1606403646" />
 		<rom name="TOCA Touring Car Championship (Japan).chd" size="244103181" crc="56505ecf" md5="f28bcbb80a63b367a46dfdc594cf4ef9" sha1="3ec66db26655e34f7df0043358318ab751cb9473" date="1606403737" />
 		<rom name="Todd McFarlane's Spawn - The Ultimate (Japan).chd" size="146381689" crc="8122ee18" md5="d63645a230489254e04978a86c5ffe32" sha1="67e281ad5911818e637993c47e70486027dc67f0" date="1606403785" />
@@ -6418,7 +6419,9 @@
 		<rom name="ToPoLo (Japan).chd" size="184401737" crc="80b98d67" md5="8a31b675009f4cb99bf9cee6029a6728" sha1="291a8f70550e7dd9c0cbb9c734e892f8273e3845" date="1606431055" />
 		<rom name="Tora! Tora! Tora! (Japan).chd" size="479319232" crc="5f1cc5e5" md5="4642249f4d5d61714e5efcf4e9bee613" sha1="ac2dfcd9544d06042750b998acca80e6e7aef950" date="1606439048" />
 		<rom name="Toro Channel - Zoukangou nano nya! SCEI Nenmatsu Shinsaku Soft Information Movie Disc (Japan).chd" size="189554068" crc="fbb93efe" md5="7e028f0beb1979e37175e9539a0d3a4b" sha1="32e5e261c2b25739a59b72d6ee826b8cac704321" date="1634309850" />
+		<rom name="Toshiba Emi Egg &amp; Zutto Issho Demo Disc (Japan).chd" size="250639968" crc="cf1a8ed3" md5="c48c23fad132901057f5940b74a458a5" sha1="aff7d957c08986925ae6de86fd5ebf646d4d428a" date="1652451134" />
 		<rom name="Total Eclipse Turbo (Japan).chd" size="137553222" crc="2c5d0b29" md5="4c84ff58487d9c8a4c328efc097e9a0a" sha1="e79922db0e7c669776bc2f8bb976c03ffb8ffc76" date="1606439068" />
+		<rom name="Total NBA '96 (Japan) (Demo).chd" size="48272078" crc="ec5bea84" md5="823f0b931790731667a6deec04cabc45" sha1="851f4c7f72ebca2e7b98c5c18c3d223f1fbc9338" date="1652451152" />
 		<rom name="Total NBA '96 (Japan).chd" size="267046074" crc="fbf3bea9" md5="9d0bab111c1163182b025d0064de2343" sha1="c93e18c04428e11ff49e8d74ad6c275de52a71f2" date="1606439099" />
 		<rom name="Total NBA '97 (Japan).chd" size="196350122" crc="086cc147" md5="6540e897ea56ad69a9f23df951f1638f" sha1="110f3d5300840ec2e51219f5947415ce7f5fb270" date="1606439128" />
 		<rom name="Touge Max 2 (Japan).chd" size="355987422" crc="40c57fb0" md5="a481f3d1620538259e3488dc8a53e2a1" sha1="30b464a78364b93dfe39bd4a933a39b7ea594254" date="1606439208" />
@@ -6534,6 +6537,7 @@
 		<rom name="Uranai, The - Ren'ai Seiza Uranai (Japan).chd" size="34342701" crc="5315d1bc" md5="f4335cc3748763979888397551dda2b5" sha1="37e28433ef1de31f984edc3dae95a6d458ae061e" date="1606486532" />
 		<rom name="Urawaza Mahjong - Korette Tenwatte Yatsukai (Japan).chd" size="194036907" crc="e3c6a8ff" md5="55146d0db342619b411eaaaa22be7ae1" sha1="81045b6b9a7b83f41f6a68a993201c0cf9eac967" date="1606486600" />
 		<rom name="Utauta Woo - Seirei-Songs (Japan).chd" size="439464027" crc="031d151b" md5="81f0fbf65228c58226a8b7bee67feb31" sha1="d8a450ea7473b9f84f3b09fdfd63615f0c4b4f56" date="1606486686" />
+		<rom name="Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan) (Demo).chd" size="6611756" crc="d28fae0f" md5="d8f552c2046b9bc9fd6f46f88542e2c0" sha1="6319ebbc76bea3d6afc8b2d83af966d41fc9693f" date="1652451156" />
 		<rom name="Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan).chd" size="38900511" crc="629a6f36" md5="e176350ab50cda9776b62d673c8a987e" sha1="5e48d7a6f291289f5679a3f55a4a67d612fdedb1" date="1634310051" />
 		<rom name="V-Jump Soukan 9-shuunen Kinen Special Disc!! (Japan).chd" size="160090883" crc="86bde178" md5="c621d4eafae9a345affc38974e0a7c5f" sha1="871378e2075eb6c573d200bbaea0afa6fd79c863" date="1606510515" />
 		<rom name="V-Rally - Championship Edition 2 (Japan) (Demo).chd" size="38250060" crc="0d19b791" md5="72f3f875954c324c89152aedba4b1c91" sha1="c5c8c4b89800c6a1d3b920f8990b504c56743a2a" date="1652397261" />
