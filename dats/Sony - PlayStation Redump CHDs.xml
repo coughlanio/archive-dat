@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-15</version>
-		<date>2022-05-15</date>
+		<version>2022-05-16</version>
+		<date>2022-05-16</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -4360,6 +4360,7 @@
 		<rom name="Macross Digital Mission VF-X (Japan) (Demo).chd" size="347908064" crc="6d5c0305" md5="7f8b999f7113017f670bbc8c982415cb" sha1="30f7587bcc72764cc31623d2ffa6223c9d2f9703" date="1634261310" />
 		<rom name="Macross Digital Mission VF-X (Japan) (Rev 1).chd" size="348027881" crc="a1bf9d26" md5="00c600cf4b592c4edb83dc8190c40482" sha1="c07ef9a37faec4d1111311546b3466c0d1d95717" date="1603819421" />
 		<rom name="Macross Digital Mission VF-X (Japan).chd" size="348303210" crc="cdab0ec0" md5="8d20eb412782cae5a167b8a7528e3a94" sha1="23a22d9282a1a66b22c205515017df5da67fb5b7" date="1603819516" />
+		<rom name="Macross Plus - Game Edition (Japan) (Demo).chd" size="138688850" crc="dffe1456" md5="a7ce00fac77a97cfe52f94c9c8c6e0fb" sha1="3c1bee05ba7b8311279a3561eaf1ac6dcca99bb8" date="1652618346" />
 		<rom name="Macross Plus - Game Edition (Japan).chd" size="384275149" crc="a42d30c6" md5="314f462e675b21119dcc06774febb063" sha1="734babb297f0e6623ad347d163685a091e8be483" date="1603819593" />
 		<rom name="Macross VF-X2 (Japan).chd" size="213742027" crc="1613dfa5" md5="390e588911e2ed53ac67ee696ceb6aaa" sha1="64342454c04e00514faa34886995e06fcf71f293" date="1603819633" />
 		<rom name="Macross VF-X2, Patlabor - The Game (Japan) (Demo).chd" size="87115889" crc="ee0b4142" md5="4b00da125bdc5b61cfb85a2b57150232" sha1="b92adbc9f22ffac774278d49b7fd728aa16f40b2" date="1634261340" />
@@ -4562,9 +4563,11 @@
 		<rom name="Miracle Jumpers (Japan).chd" size="221891306" crc="bdc44658" md5="7d6c077b5ec17ba8869eb06ae52f4bbc" sha1="f0d56ddcc86fa45c9c399e2674c0e0dd61d8ff33" date="1603895359" />
 		<rom name="Miracle World - Fushigi no Kuni no IQ Meiro (Japan).chd" size="242417898" crc="775a9694" md5="234133e73382f3e2b0e9036d83672262" sha1="82c33f1528c08db420fa2381e7246f91a1fe168d" date="1603895394" />
 		<rom name="Mirano no Arbeit Collection (Japan).chd" size="162377812" crc="d06160c9" md5="04d0ae3e10df6e497e4ce905b6d396eb" sha1="35fc5f1de844debd1faf94c1e44c497652ea6086" date="1603895435" />
+		<rom name="MiruMiru PlayStation Vol. 4 (Japan) (Disc 3).chd" size="321564643" crc="59139339" md5="5854dc8c9246bf6ffcc11f56ea26d356" sha1="e7e20964f8e2212dc043fd0b2fbda2e729300556" date="1652618449" />
 		<rom name="MiruMiru PlayStation Vol. 28 (Japan).chd" size="486076550" crc="5e69adff" md5="a4f37651b30bdcf6077a425a7635cf5f" sha1="edc92c58a7d96731939c88ea8cda2df8ecafc904" date="1650233091" />
 		<rom name="MiruMiru PlayStation Vol. 29 (Japan).chd" size="294386112" crc="b8f03397" md5="2190d7fc5c8b23aa4baaff2a308acd8b" sha1="d991db56cc9c55751d20b09158edd58204b698cb" date="1650233186" />
 		<rom name="MiruMiru PlayStation Vol. 31 (Japan).chd" size="344207865" crc="82a26f2c" md5="84bfa2cad70357e285155131b5075ae2" sha1="19e17d009346eff96901fbfd240534baef166673" date="1650233351" />
+		<rom name="MiruMiru PlayStation Vol. 34 (Japan).chd" size="393801644" crc="a9267082" md5="b06f3a77742fe272666670acd2de2343" sha1="ba0cb8cb0ba9e55c260c65b88e0bc0c7b18e6902" date="1652618407" />
 		<rom name="MiruMiru PlayStation Vol. 43 (Japan).chd" size="190337480" crc="bc7ff304" md5="9dd2e04a0490b20ce77c00c42afd01ad" sha1="977fa64c7090742f2cfac460243f53d0580a8d59" date="1650233423" />
 		<rom name="Misa no Mahou Monogatari (Japan) (Disc 1) (Shokai Genteiban).chd" size="312586482" crc="69d8383c" md5="27c18637b17b4775ff61fa425049ce04" sha1="4caac5227c8421b073e20177c2c82e1399ad843b" date="1650214221" />
 		<rom name="Misa no Mahou Monogatari (Japan) (Disc 1).chd" size="312586483" crc="8654604d" md5="950b12cdc551f49496b8323abe3af4f2" sha1="686cdee0b0f85dffae02811332b131fbf32e6ea9" date="1603895658" />
