@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-16</version>
-		<date>2022-05-16</date>
+		<version>2022-05-17</version>
+		<date>2022-05-17</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -4568,6 +4568,7 @@
 		<rom name="MiruMiru PlayStation Vol. 29 (Japan).chd" size="294386112" crc="b8f03397" md5="2190d7fc5c8b23aa4baaff2a308acd8b" sha1="d991db56cc9c55751d20b09158edd58204b698cb" date="1650233186" />
 		<rom name="MiruMiru PlayStation Vol. 31 (Japan).chd" size="344207865" crc="82a26f2c" md5="84bfa2cad70357e285155131b5075ae2" sha1="19e17d009346eff96901fbfd240534baef166673" date="1650233351" />
 		<rom name="MiruMiru PlayStation Vol. 34 (Japan).chd" size="393801644" crc="a9267082" md5="b06f3a77742fe272666670acd2de2343" sha1="ba0cb8cb0ba9e55c260c65b88e0bc0c7b18e6902" date="1652618407" />
+		<rom name="MiruMiru PlayStation Vol. 42 (Japan).chd" size="321611310" crc="aff563be" md5="0ff6952105c2ef6ee8706f32866d18b6" sha1="2476f798ec528fd7c158e4a26f4375ebd181f1de" date="1652708774" />
 		<rom name="MiruMiru PlayStation Vol. 43 (Japan).chd" size="190337480" crc="bc7ff304" md5="9dd2e04a0490b20ce77c00c42afd01ad" sha1="977fa64c7090742f2cfac460243f53d0580a8d59" date="1650233423" />
 		<rom name="Misa no Mahou Monogatari (Japan) (Disc 1) (Shokai Genteiban).chd" size="312586482" crc="69d8383c" md5="27c18637b17b4775ff61fa425049ce04" sha1="4caac5227c8421b073e20177c2c82e1399ad843b" date="1650214221" />
 		<rom name="Misa no Mahou Monogatari (Japan) (Disc 1).chd" size="312586483" crc="8654604d" md5="950b12cdc551f49496b8323abe3af4f2" sha1="686cdee0b0f85dffae02811332b131fbf32e6ea9" date="1603895658" />
@@ -4653,6 +4654,7 @@
 		<rom name="Mouja (Japan) (Honkakuha de 1300).chd" size="120091230" crc="765de2b7" md5="8301a27765b5b2e399c22fe63024f869" sha1="d6193d5c75305d28673d29676101b981254c80cd" date="1603913968" />
 		<rom name="Mouja (Japan).chd" size="119925664" crc="c3692244" md5="57a623134b235fe3cf0b4311d2d3458d" sha1="aec9adb520fde7bfeed2e75b744d0921f205edd0" date="1603913991" />
 		<rom name="Mouri Motonari - Chikai no Sanshi (Japan).chd" size="247494444" crc="d7e64d3f" md5="6dcb60145f9a58f3a8911b55b83bd7e1" sha1="046da2029737d8afdb852c27d5d3a1cae6ec43b9" date="1603914061" />
+		<rom name="Mr. Driller (Japan) (Beta).chd" size="209680413" crc="f78b82fb" md5="f050caf107ce2446c27b3480dbe6c8d7" sha1="ced29ad826d12fffb1f5d016256dd0e6a4713c56" date="1652708857" />
 		<rom name="Mr. Driller (Japan).chd" size="208199960" crc="96d81804" md5="72d37a2d17e686e46ec9c44ea1c09848" sha1="43a3e1878140ca60d99f5f800ee3a721fcca21e1" date="1603914095" />
 		<rom name="Mr. Driller G (Japan).chd" size="409821438" crc="f0337ab4" md5="2fdd46ae8c2746a41649a7e53351dd84" sha1="9b6eebf96c269a223365a08e61f6ed1d3ca50daa" date="1603914203" />
 		<rom name="Mr. Prospector - Horiate-kun (Japan).chd" size="55223481" crc="5d718f15" md5="22828e483f93bafd751258208ed02412" sha1="6ebc9e96ca58e3be5aaf7adc8df8d2092b8195d1" date="1603914228" />
@@ -4676,6 +4678,7 @@
 		<rom name="Myst (Japan) (Rev 1).chd" size="344306114" crc="166746e2" md5="8b77ed5ff010fdf7b3ccec846d22b833" sha1="bf2d98ec0cad20506a73057496d70012ff9c143a" date="1603915233" />
 		<rom name="Myst (Japan) (Rev 2).chd" size="345320556" crc="cc156989" md5="aa20ee5d51cbda1827f8a4f6fa27bfba" sha1="5c81077e64582975afddff42a57d902cda7b9f40" date="1603915313" />
 		<rom name="Myst (Japan).chd" size="344312092" crc="2b914d01" md5="f3f017a7fd6de1b3d0db7ad5c623d0ac" sha1="fe33d8f5bec65e7944b35ad584077091b6728a28" date="1603915390" />
+		<rom name="Mystic Ark - Maboroshi Gekijou (Japan) (Demo).chd" size="19114348" crc="3c583c80" md5="21b13caf00314f3242633b790f07559f" sha1="5f2834e790a8bc1cd0e9b6a54b8ca2c4999652c7" date="1652708865" />
 		<rom name="Mystic Ark - Maboroshi Gekijou (Japan).chd" size="28932405" crc="3aaf475e" md5="ac9fbc2df10486024fc9454dcd14146b" sha1="a599dcadeefc250ed4da1051d64b61918e841d21" date="1603915424" />
 		<rom name="Mystic Dragoons, The (Japan).chd" size="80279301" crc="1a7475f0" md5="9acf1b73c1ba99954edf3c8c56f97acc" sha1="464b756b2b27f72f13f0ce9f5fe45ef899ab972c" date="1603915449" />
 		<rom name="Mystic Mind - Yureru Omoi (Japan) (Disc 1).chd" size="455683955" crc="36959af5" md5="801bf03ee956d8a81380e76833fc21b9" sha1="27570fce0e5393e081f2d8122de5b863f3ed2e8c" date="1603915519" />
@@ -4702,6 +4705,7 @@
 		<rom name="Nanatsu no Hikan (Japan) (Disc 3).chd" size="392195065" crc="58534b97" md5="31e47950d8f57e2ae8b39464326d953f" sha1="39562366125054146e03d6179ad4defd24658d71" date="1604005626" />
 		<rom name="Naniwa Kinyuudou - Aoki Yuji no Seken Munazanyou (Japan).chd" size="262857397" crc="edfbb050" md5="3ed5c3bfdc0872720b36d2bb65401afd" sha1="8983dbcf4c80a023b7b29dd5d000244d04b7111e" date="1604005704" />
 		<rom name="Naniwa no Akindo - Futte Nanbo no Saikoro Jinsei (Japan).chd" size="55089255" crc="2b3bcc87" md5="f971ae6f01b838970580533b15976d49" sha1="173729ba9c1fda51e414eb8a31fb9f107bb45e03" date="1604005734" />
+		<rom name="Naniwa Wangan Battle - Tarzan Yamada &amp; AutoSelect Sawa Kyoudai (Japan) (Demo).chd" size="164537397" crc="5331bea1" md5="50aae49102fd979748cb86f1240d40f8" sha1="480ffb49cd007b3e471b91d675a3a5b4b52fa316" date="1652708923" />
 		<rom name="Naniwa Wangan Battle - Tarzan Yamada &amp; AutoSelect Sawa Kyoudai (Japan).chd" size="164472227" crc="f04bf8bd" md5="6fe5cc11d8faf76638ca79670addbaf7" sha1="388208c5290ce75b4e43ce8a0c3939c2150793a4" date="1604005772" />
 		<rom name="NanoTek Warrior (Japan).chd" size="414809977" crc="568fe224" md5="b4ab49bb46670128e2435d7f5fd25aac" sha1="5bf0df39ff7e6c49fd988b66347d2283a4616779" date="1604005832" />
 		<rom name="Naruto - Shinobi no Sato no Jintori Gassen (Japan).chd" size="85969040" crc="6c9ff4b8" md5="15cea7cd38d01eab2fa7921873b2f158" sha1="63d85868ae7630caa5336c30f759baf64ea85858" date="1604005860" />
@@ -4716,6 +4720,7 @@
 		<rom name="NBA Jam Extreme (Japan).chd" size="55909275" crc="ded7931c" md5="c84efd71d2fef1c751fce400968d2a5e" sha1="57fbe6945dfe5cd55c557d54ba742402f8624983" date="1604006384" />
 		<rom name="NBA Live 96 (Japan).chd" size="328141690" crc="bc756609" md5="8b9518f8fb0a9128f30f105ede05e93f" sha1="ff1de7b71ba1d4f6e838b3ff3a12233cedcd49df" date="1604006527" />
 		<rom name="NBA Live 97 (Japan).chd" size="482023744" crc="070e268d" md5="70ec773f5621050eb386a25e7b927992" sha1="9630be5e971f3cd252351e8f8191f85864b84588" date="1604006604" />
+		<rom name="NBA Live 98 (Japan) (Demo).chd" size="49711535" crc="46d59e3b" md5="1352b39982c7a9ca40a27586e495d525" sha1="aac96c9daebd09cded2640e3295979be9eaed19a" date="1652736102" />
 		<rom name="NBA Live 98 (Japan).chd" size="381819551" crc="9958abfa" md5="8673c478be1d14ca94d8a6d828c5cd47" sha1="78d0dc2f2c9aa898fdc5a9e0d4dcfdfc1a41dce5" date="1604006688" />
 		<rom name="NBA Live 99 (Japan).chd" size="359844806" crc="85d2e327" md5="eb9555eee8da2655da10e809a3d91d68" sha1="e3286af46767dd0c1064c93a6011639e49eeb15e" date="1604006771" />
 		<rom name="NBA Live 2000 (Japan).chd" size="435278526" crc="071fae58" md5="433f00bed6418309e5ac415bb42e3015" sha1="d2623b00babe0d7f08d80e344d59dafdc085ca43" date="1604006467" />
@@ -4750,6 +4755,7 @@
 		<rom name="Next King - Koi no Sennen Oukoku (Japan) (Genteiban).chd" size="331073828" crc="81e9056f" md5="b521748041d3c98c7bb26f83e11b5ade" sha1="6ee10ce7d8b54a33e1ae0373322706d37fb13aab" date="1650217465" />
 		<rom name="Next King - Koi no Sennen Oukoku (Japan).chd" size="331072850" crc="f0787716" md5="88714c245a65aeff5d7b95b4156be88d" sha1="55b8b7990c68b3328aa4fd6a94e46564fa216ce7" date="1604013581" />
 		<rom name="Next Tetris DLX, The (Japan).chd" size="369912123" crc="e5c7e0cf" md5="eeddbf6a2515ca21b832760a7463ff29" sha1="085829e10ffa2a48c36476a2a43101960107010c" date="1604013696" />
+		<rom name="Next Tetris, The (Japan) (Demo).chd" size="64739813" crc="da64f6e2" md5="09260a00ec381ce6aff2ef47bba7363b" sha1="411082c2f85b4a2ac2c131956fa5787fb9d0b50e" date="1652736179" />
 		<rom name="Next Tetris, The (Japan).chd" size="311722961" crc="a4549402" md5="6885345de32fc8fa90a677187fbb4b0a" sha1="eae771a2574a4ac2f5afe98fbb1878992276b0f8" date="1604013777" />
 		<rom name="NHL 97 (Japan).chd" size="430384381" crc="6ceb3aca" md5="f2b111dc87ead88da5c35cfd11863a92" sha1="ac7132567fa1d86d7ee554405b3ac9da4c99a562" date="1604013907" />
 		<rom name="NHL Blades of Steel 2000 (Japan).chd" size="200725299" crc="24a65199" md5="10abed3579da3effe788b73056830e29" sha1="5588f4bfb2d7f45cd5168078c16836430b81433d" date="1604013968" />
