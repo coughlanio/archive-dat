@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-17</version>
-		<date>2022-05-17</date>
+		<version>2022-05-18</version>
+		<date>2022-05-18</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -4889,6 +4889,8 @@
 		<rom name="Ooumi Nobunaga Den - Geten II (Japan).chd" size="8542581" crc="f04efd2e" md5="ed34eaf2347574038fdeb66572580b0e" sha1="18c2d1daa561c475de0cbf491d7c6a95f14cecf4" date="1604057075" />
 		<rom name="Open Golf, The - History of Turnberry (Japan).chd" size="269297983" crc="82db7dc9" md5="967927edebf2a935de25aa06644472ed" sha1="e9777e4af7fcea69172eefbb5f944983b205baad" date="1604057146" />
 		<rom name="Option - Tuning Car Battle 2 (Japan).chd" size="298521326" crc="62fb35c6" md5="1c867243384e31531547f7644d9a4468" sha1="6e340fa5bafa001c2e583ce85595f3ce0236a204" date="1604057365" />
+		<rom name="Option - Tuning Car Battle (Japan) (Demo 1).chd" size="376247763" crc="9199bb80" md5="60f3bd3808f2b903e7c8545ea530e972" sha1="5b9366479bb339920dea04806e5e126c21e4cf26" date="1652793969" />
+		<rom name="Option - Tuning Car Battle (Japan) (Demo 2).chd" size="311973670" crc="dfd64999" md5="036622a6fb2bff1f132f2b7ac5777438" sha1="ebd483052843f833f63120dd35ade1acaa7e123b" date="1652794025" />
 		<rom name="Option - Tuning Car Battle (Japan) (Rev 1).chd" size="311961095" crc="58ead5fc" md5="3e749e691960b0fe0427abb54f1c01ac" sha1="fdfdb14454c29d7c11a79f33830dbda012065527" date="1604057214" />
 		<rom name="Option - Tuning Car Battle (Japan).chd" size="311959666" crc="1702c593" md5="72ea1b154bf0ce617a7c14813e416ce9" sha1="ab02086aba0a7e2ece2954457726af4f992c3901" date="1604057289" />
 		<rom name="Option - Tuning Car Battle Spec R (Japan).chd" size="250947135" crc="a54a0963" md5="e30bf805583860d58bb24c41b5b45c88" sha1="832a9f6aad96884b05288dff7be4cf70888cc991" date="1604057426" />
@@ -4916,6 +4918,7 @@
 		<rom name="Over Drivin' DX (Japan).chd" size="381286007" crc="a86d6c07" md5="78e21e7895722733119d1997f57d2e79" sha1="1ce3129f1e36dec3cae9f2aaf719bceb269c78d3" date="1604058791" />
 		<rom name="Over Drivin' DX - Rally Edition (Japan).chd" size="381950747" crc="8d80825c" md5="a06c0fcfdf8ed0d9855aa7ea5164f187" sha1="42505e0e1f02ea9c549ba76632b7efe228f15628" date="1604058886" />
 		<rom name="Over Drivin' II (Japan).chd" size="305321135" crc="58199f24" md5="2d33193aa4fe3194aa0274e0922bc26c" sha1="2ca9897b59bc12057de30b0f4960636d1fba86ab" date="1604058944" />
+		<rom name="Over Drivin' III - Hot Pursuit (Japan) (Demo).chd" size="351573214" crc="07537028" md5="74938528e7a1d8127582a65900b6274a" sha1="80b247e80b921f6620ce154d3f4bbe26e094d035" date="1652794104" />
 		<rom name="Over Drivin' III - Hot Pursuit (Japan).chd" size="351485222" crc="0abdd513" md5="cdd1fde5f71df7f7133474a94960b041" sha1="6c8d2bcfd2c9a9e2c659efe8e7b703efd81a6535" date="1604059122" />
 		<rom name="Over Drivin' IV (Japan) (Demo).chd" size="382061547" crc="3940fab5" md5="75c49444bb48bbde2fda74b557bf2f4c" sha1="e51bb5c1265a95e32ff6339c573649b66998e429" date="1634262922" />
 		<rom name="Over Drivin' IV (Japan).chd" size="504875758" crc="5095dabd" md5="4866f6a9b20bcebc5d4363fe1a295cf6" sha1="1038b59664498282cfddaf0198c98bda61dbded8" date="1604059323" />
