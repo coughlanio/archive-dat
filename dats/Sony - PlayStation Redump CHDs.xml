@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-18</version>
-		<date>2022-05-18</date>
+		<version>2022-05-19</version>
+		<date>2022-05-19</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -4209,11 +4209,16 @@
 		<rom name="Kouyasai - A Sherd of Youthful Memories (Japan) (Demo).chd" size="2372629" crc="a81387ba" md5="35f4d32f94b879e72daf500b848f6a3e" sha1="3c506ed26d0c1cfc0289cfba6aee85b458a29b18" date="1634259822" />
 		<rom name="Kouyasai - A Sherd of Youthful Memories (Japan).chd" size="526600396" crc="b237d83d" md5="5dcde49c5cb0298d2a21bb7fc1c22460" sha1="6081b79cc8c897ca42433d8cbfbe527f8a701249" date="1603278013" />
 		<rom name="Kowai Shashin - Shinrei Shashin Kitan (Japan).chd" size="24345070" crc="959cb207" md5="4bb84c881df1e67905b056d542316911" sha1="ba2f397d95bd47194e5bfd1ff4cfaca7fee42ed3" date="1603278028" />
+		<rom name="Kowloon's Gate (Japan) (Demo).chd" size="179175040" crc="56e60aa0" md5="7faff565f2b0d61bae0bce3e2fc60c7d" sha1="9cb4d8bd3bfc252faefec8a2d8809f11363b5094" date="1652890219" />
 		<rom name="Kowloon's Gate (Japan) (Special Disc).chd" size="229334729" crc="5288ff7a" md5="eebcb53aac9100cdd97e768cf1541050" sha1="a609bbb1e4c7339217f7e6082a335f947b0b7cbe" date="1603278091" />
 		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 1) (Byakko).chd" size="354445034" crc="d8ca04ca" md5="a2a863f53716a174eba62a22e0ed4de4" sha1="1615d47f3680b35d8c4e6c9d93199ffa1aeb6abc" date="1651238530" />
 		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 2) (Genbu).chd" size="354467092" crc="b90ff0ca" md5="71b25200f01de7f2bd87c6563f1b2fb4" sha1="9e09b41e074dc866c177585aa15fe857c3685c17" date="1651238703" />
 		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 3) (Suzaku).chd" size="419601266" crc="e0dc2bcc" md5="208415351f87fd4e3aa93a0c1982a87b" sha1="6b129295c2a96b40e95ebb28dcff822e3394af6d" date="1651238873" />
 		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 4) (Seiryuu).chd" size="414204163" crc="24eaa680" md5="2d281b5f4fa3194fd4592182e2b63d59" sha1="c289e92354be98f6ea332f5e32eaafbd52b2318f" date="1651239108" />
+		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan, Asia) (Disc 1) (Byakko) (Shokai Genteiban).chd" size="354445034" crc="07aac28a" md5="0b02393157f0f14f82f868c62c1a6056" sha1="61c328c8e81dcf60a616bc54d18237baf09eb859" date="1652843543" />
+		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan, Asia) (Disc 2) (Genbu) (Shokai Genteiban).chd" size="354467092" crc="bdfad7b5" md5="fbfd6852b3ead769bffcf814558238d0" sha1="2f520a9f3b64e151a83f4bfd1fe2aa3ac00856ea" date="1652843617" />
+		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan, Asia) (Disc 3) (Suzaku) (Shokai Genteiban).chd" size="419601265" crc="34731b22" md5="fd1437cc42c63ec45d1de420ffb06f13" sha1="16baf53006b05081a7866fa8b25c31ad122b84e0" date="1652843734" />
+		<rom name="Kowloon's Gate - Kowloon Fuusuiden (Japan, Asia) (Disc 4) (Seiryuu) (Shokai Genteiban).chd" size="414204167" crc="2a08d421" md5="ce3257d91d89834abaf86dac9b12404f" sha1="a404b64d3e30b7f44935e5ab43a2a5b827aaab2c" date="1652883794" />
 		<rom name="Kowloon-jou (Japan).chd" size="68642897" crc="ab7796da" md5="a2f7c2b383ec70c15df130d89723c5ac" sha1="6f91b270e70033965f29055497b2a5d604b2de54" date="1603278564" />
 		<rom name="Krazy Ivan (Japan).chd" size="415969419" crc="bb1c9d37" md5="2737ff17af80805987b6c0730bfa64af" sha1="988a40bde183e573df851b1209a7124c1929596c" date="1603278677" />
 		<rom name="KulaQuest (Japan) (Demo).chd" size="38366361" crc="9a23549f" md5="d516e2e284bf8b9d172bc29d783434e7" sha1="6a136a6e0e0db4991398b2c55b513929303825db" date="1634259837" />
@@ -5059,6 +5064,7 @@
 		<rom name="Persona 2 - Tsumi - Innocent Sin (Japan) (Demo).chd" size="231476965" crc="404666a3" md5="9061ef522fd58f060f81cf21e19903bc" sha1="59efd6dcdfb0d58b0efdb27f9e1c1b8b8f6c1308" date="1634298004" />
 		<rom name="Persona 2 - Tsumi - Innocent Sin (Japan) (Rev 1).chd" size="408619106" crc="a9c3a586" md5="7ef177954f9985c8eb61555538785112" sha1="a28d03aa6ca291aa0f79b0277861b43faddf1b5d" date="1604278372" />
 		<rom name="Persona 2 - Tsumi - Innocent Sin (Japan).chd" size="408840165" crc="9b09737c" md5="6e36cbc45229a23f70751eba21ac505b" sha1="0a6203f840739dddcfba2f1cc7a41b5ab44841d9" date="1604278460" />
+		<rom name="Pet in TV - With My Dear Dog (Japan) (Demo).chd" size="153253839" crc="a0e000b5" md5="f4955e8ac5ffc817e35122c0bd1420a4" sha1="64e39bc9bb640c6cc9672a2e5b5d84559bc04c16" date="1652900105" />
 		<rom name="Pet in TV - With My Dear Dog (Japan).chd" size="153480589" crc="b3bf9590" md5="06a0802fbe3bc0d9890fb015d9b6e436" sha1="6aa332760ea3fecd9f0de7a9b3c57a8a693a8356" date="1604278513" />
 		<rom name="Pet Pet Pet (Japan).chd" size="128711103" crc="5d524995" md5="9d5266c5d10fb6a93da093df4d6dc3cd" sha1="b97beef1379664cae775cdba54722f1c90ef42dc" date="1604278554" />
 		<rom name="PGA Tour 96 (Japan).chd" size="434437332" crc="a3d63501" md5="de1db1bd15195c89d5a869833cd45709" sha1="5ff191daab669da6907e8b59198e392c9d11b6af" date="1604278715" />
@@ -5224,6 +5230,7 @@
 		<rom name="Puyo Puyo Tsuu - Ketteiban (Japan) (Rev 1).chd" size="267992025" crc="30878d55" md5="f85c18b6a05042a11b9d9a958ca35745" sha1="e5804bc02f3eed7a87dc3ade336903bce4df5b40" date="1651322558" />
 		<rom name="Puyo Puyo Tsuu - Ketteiban (Japan, Asia).chd" size="268099950" crc="2fc0e643" md5="a521b049707468ea113a58714ca246ce" sha1="75043c0294680bf1aeea376fab7c7355d70247c4" date="1651322708" />
 		<rom name="Puyo Puyoon - Car-kun to Issho (Japan).chd" size="286962716" crc="a883dcaf" md5="2316c1c4e6982514e0aea2b91f0307ad" sha1="9ee463f19129e173177c66a6cc61461200dc68ea" date="1604333210" />
+		<rom name="Puzz Loop (Japan) (Demo).chd" size="136349264" crc="d5147b03" md5="d630e36ed8370f5b1806aef31860c9fc" sha1="fd3e63a611855138c8c2aeacf586d3c227797be9" date="1652911402" />
 		<rom name="Puzz Loop (Japan).chd" size="177696961" crc="fdbe28c1" md5="493c1926e1629920197fb7d901608d4d" sha1="5ac717796362c83b5bcbe381c458d9212b612682" date="1604333262" />
 		<rom name="Puzzle Arena Toushinden (Japan).chd" size="176592666" crc="0ee7f782" md5="8f8c2b6c8d1bcbb2c44d620f956182ac" sha1="1df5a4cb6133b4ef4729bab720e94be9e5db6b8c" date="1604333316" />
 		<rom name="Puzzle Bobble 2 (Japan).chd" size="194024063" crc="3202538d" md5="67b8b571f7fd215c82449c8dc374c667" sha1="7c2c251980aff44dae18710d9d71e9c108ace099" date="1604333366" />
@@ -5274,6 +5281,7 @@
 		<rom name="Rapid Racer (Japan).chd" size="343876621" crc="5e5123f8" md5="2431f59f3a8fadb5dcc86f3f2cb5ec23" sha1="c013b71de51502ba4432751daa3f96cf81120c7f" date="1604423113" />
 		<rom name="Ray Tracers (Japan).chd" size="408298695" crc="c23dc474" md5="e6692135fdbedf7e432ec9f96ec957b8" sha1="4da48bbffee8f9e90b6c90ec43f0788b944aee6d" date="1604423227" />
 		<rom name="Ray-Ray CD-ROM (Japan).chd" size="256528352" crc="a2d09bae" md5="f1bfc24471592caa8f48c28f82c0d0ff" sha1="619fd8a0c4cfa1bfc2f8abfb0e8c9cac3484ad18" date="1604423284" />
+		<rom name="RayCrisis (Japan) (Demo).chd" size="298117843" crc="d267a722" md5="5a0f63388a7d2f115e7ff887cbe7f0bd" sha1="ef3bf2d94aea6bfa03476a10094c6b9196071617" date="1652911500" />
 		<rom name="RayCrisis (Japan).chd" size="298034703" crc="ca0503ba" md5="2d51c2d37cfd0f5a44c764c64b489abc" sha1="e7404450d87d3cac3bb1321cf77d29483e2cb6d8" date="1604423359" />
 		<rom name="Rayman (Japan).chd" size="308935456" crc="272311ca" md5="95760e802fb7ef419c7d9cd2dd91e3f7" sha1="349dc6c9c164046f1f4f342570e303afcfe34e7e" date="1604423444" />
 		<rom name="RayStorm (Japan) (Demo).chd" size="168111653" crc="83d93da6" md5="f9575c17034704e50104182c5be3f69a" sha1="660f3713bc0cd5fef3f473474234de7e71be6d07" date="1634299500" />
