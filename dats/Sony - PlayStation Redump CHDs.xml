@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-19</version>
-		<date>2022-05-19</date>
+		<version>2022-05-20</version>
+		<date>2022-05-20</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -3977,6 +3977,7 @@
 		<rom name="Kagayaku Kisetsu e (Japan) (Disc 1) (Shokai Genteiban).chd" size="258531935" crc="940e3491" md5="b92eb406a3f409e84e7e83a3ce024384" sha1="d869048b5ded0db2fcdcc03f49485c8ca99b1136" date="1650213644" />
 		<rom name="Kagayaku Kisetsu e (Japan) (Disc 2) (Special Disc) (Shokai Genteiban).chd" size="400593124" crc="81c7e82e" md5="73ee3b46bfb4f9535c191c3a43276947" sha1="ac6ee97e00bdd386b4a3e612bc19d1958b19f30a" date="1650213746" />
 		<rom name="Kagayaku Kisetsu e (Japan).chd" size="258531933" crc="e3a26e69" md5="640cbc85120c8e9385d3df30235ee63f" sha1="8cbab8604c3abb99ca5a966e27192e3fa3443a6c" date="1634224701" />
+		<rom name="Kagero - Kokumeikan Shinshou (Japan) (Demo).chd" size="201186387" crc="4072d32e" md5="3a5c51cbb94ae7648ec40a0b12913d77" sha1="bf4ad8bf24f05b70b15e4dcf8130467224e193fe" date="1652924534" />
 		<rom name="Kagero - Kokumeikan Shinshou (Japan).chd" size="275357468" crc="dadcac0f" md5="6c34c1d5a72d2bde09fde01dee70267a" sha1="076df824833b3170117814f231ca035affdb31a8" date="1651346979" />
 		<rom name="Kahen Soukou Gunbike - Speed Power Gunbike (Japan).chd" size="215089414" crc="f658a064" md5="e2705fd19d8c9b2d5fde8a171a74e924" sha1="47be5eb42a8b495e81e0f49a4f9446e24f53128a" date="1603214835" />
 		<rom name="Kaibutsu Para-Dice - Monster Paradise (Japan).chd" size="341278939" crc="5fcf9395" md5="22809b4f219f9327e6b83626f6ec235b" sha1="83a7b0da8633be3eb427606247db585a074addb1" date="1603214947" />
@@ -4189,6 +4190,7 @@
 		<rom name="Kosodate Quiz My Angel (Japan).chd" size="156852762" crc="42fc572e" md5="dfa5f0b9b15f0177bec3ce3d8bc44c13" sha1="0f17fc45f2404c384de3d58a78e650c1aee42d8a" date="1651445250" />
 		<rom name="Koten Tsumego-shuu - Shijin no Maki (Japan).chd" size="10349065" crc="891b125e" md5="de3b0476e3f338056bee3e3cceb2d05a" sha1="76a9746e5dac1815a3dd5e2b206a289ecc106bf9" date="1634225118" />
 		<rom name="Kotobuki Grand Prix - Mezase! Genchari King (Japan).chd" size="70143130" crc="78422327" md5="46853341acac34d1b91010b9ac4206bf" sha1="f4a5515c6622f77d9564696ea7fe509ac83e34d9" date="1603276682" />
+		<rom name="Koudelka (Japan) (Demo 1).chd" size="73892086" crc="c9f68ef8" md5="5a320cef0cdd330e2ba18586153adec9" sha1="7bfcb62c3d52fc87e86ea5c63c789d6949d8966e" date="1652995452" />
 		<rom name="Koudelka (Japan) (Disc 1).chd" size="223704587" crc="384fed77" md5="b059c3a6f777bf90104e8c6ecf99b097" sha1="3c95d2f761eb80a70bdf84208eed8ed2f32649f7" date="1603276731" />
 		<rom name="Koudelka (Japan) (Disc 2).chd" size="229801524" crc="888ceb24" md5="c5b6073ab40d4c4f0a0a65cc93e2b08e" sha1="1ccb53f5faf6bd6de869a0f59e63845d0fdd2370" date="1603276812" />
 		<rom name="Koudelka (Japan) (Disc 3).chd" size="273664340" crc="32a55d00" md5="d1d4ed2e0106bf137e56145d81a6a455" sha1="cf942c049397e8b49ce2c7a23918269d71d32746" date="1603276921" />
@@ -5273,6 +5275,7 @@
 		<rom name="Raiden Project (Japan).chd" size="16396813" crc="a9796dae" md5="3dcfc597f5595b1f735ae570b0ac658a" sha1="da8063f4c8215664750a539dfc16304946c6da6c" date="1604422587" />
 		<rom name="Rakugaki Showtime (Japan).chd" size="342329872" crc="4aecc67b" md5="a8223cc7b67648c6d1f5a8cf56851732" sha1="97f8b197bea0f81d845051645564e425a8addabd" date="1604422674" />
 		<rom name="Rally Cross (Japan).chd" size="350223422" crc="c9c564ae" md5="52d1dc15fad49e097516b9347588b54f" sha1="ef3581c022cf12b1d46bd9e7f64ea5ce1b348e4a" date="1604422761" />
+		<rom name="Rally de Africa (Japan) (Demo).chd" size="111956174" crc="748c861b" md5="9651dbd40f7b012eda747ee3751bdf13" sha1="74593fd0ebf597a9bb258affca11c1fdd55d324b" date="1652924560" />
 		<rom name="Rally de Africa (Japan).chd" size="113250370" crc="816a621d" md5="fbf62f4f86626cd0b409270718a772e5" sha1="b485d0f4863fe104ecc69c313e84bd45f9d17a34" date="1604422877" />
 		<rom name="Rally de Europe (Japan).chd" size="142984686" crc="3247e5a2" md5="58b072663cb43f5b5e3b2601086b6ae1" sha1="7910bc8dff1aa6442e14532db283356ef53f3668" date="1604422920" />
 		<rom name="Rami-chan no Ooedo Sugoroku - Keiou Yuugekitai Gaiden (Japan).chd" size="156299613" crc="9d860ea0" md5="8ee34cf2e69e644226c4ba2e9bfc56c9" sha1="357cbef905f860d16b5ef100aff34cca7fecf00e" date="1604422965" />
@@ -5354,6 +5357,8 @@
 		<rom name="Robbit mon Dieu (Japan).chd" size="359256936" crc="c09a1b23" md5="55a16e1dc7a377159efbf34d89ef671d" sha1="89adda1634a6824760c01f8f887a46cbadcb29b6" date="1604441487" />
 		<rom name="Robin Lloyd no Bouken (Japan).chd" size="99882942" crc="30dd407b" md5="7db910dd47acd8df3295e9bf62226b02" sha1="b476d484677a0433452f6327cfa671f22b9fbc2a" date="1604441543" />
 		<rom name="Robo Pit (Japan).chd" size="217155353" crc="46c0d72c" md5="a1977598caa8fe952ec08cf55152c549" sha1="e001477d309a0bba34cbf62b7c37c08fece44e05" date="1604441606" />
+		<rom name="Robo-Pit 2 (Japan) (Demo 1).chd" size="121920704" crc="68ea80a4" md5="37c0f32a600dee6d2a1684f0dfa0c51f" sha1="94f5b6b298a0c4f208d237ba045afb1894b901e3" date="1652995659" />
+		<rom name="Robo-Pit 2 (Japan) (Demo 2).chd" size="121919337" crc="d4e96b41" md5="d6624497c7abe19e713093995969dd1b" sha1="36da1ced04a96d305ba879752af04fb34c2bf6b7" date="1652995744" />
 		<rom name="Robo-Pit 2 (Japan, Asia).chd" size="299450470" crc="15753f4d" md5="a73b2f4e85f1d34c51481ed3848d16f3" sha1="c5607616ae0352355b2814b574ef27617e4e164d" date="1604441719" />
 		<rom name="Robot x Robot (Japan).chd" size="114748465" crc="ddb9f047" md5="8c5e8b42dc2210789eb4300fd2282f49" sha1="ab64c85be0e23b0feb1b76cc4b328fef6b575aa7" date="1604441751" />
 		<rom name="Robotron X (Japan).chd" size="421641210" crc="3a0df908" md5="65dff5bfff38faf48c1c6f39c98a856d" sha1="27f4c27bf036f65045ab00528021d309c31f5232" date="1604441853" />
