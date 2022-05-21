@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-20</version>
-		<date>2022-05-20</date>
+		<version>2022-05-21</version>
+		<date>2022-05-21</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -4030,6 +4030,7 @@
 		<rom name="Keitai Henshuu (Japan).chd" size="12214118" crc="0503147e" md5="c99e5d22843b08299518bd9be060faa2" sha1="53994dd37e6a6c94dc1a88892ae0b753a41854b1" date="1603218386" />
 		<rom name="Kekkon - Marriage (Japan).chd" size="402138841" crc="29839907" md5="489cd4bab78a6eeb33a296b77f66be61" sha1="f92d7d614272599153c5e9664f8261ba52c890ba" date="1603218477" />
 		<rom name="Kellogg Original Waku Waku Doki Doki Ninki Game Chara Daishuugou! (Japan).chd" size="138277325" crc="713193e2" md5="487b10607f510baf62a143c14b8391e0" sha1="980c51a0f84de68fbc429efd20a8511f61792999" date="1603218508" />
+		<rom name="Kellogg Original Waku Waku Doki Doki Ninki Game Chara Daishuugou! Waku Waku-shou (Japan) (Demo).chd" size="87116944" crc="2d697e6c" md5="1c1c8452b1ddde3dcbc40e747afdeee5" sha1="c080c8678892bebbf1e30338ad5aafa52381d4b9" date="1653083473" />
 		<rom name="Kenkaku Ibunroku - Yomigaerishi Souku no Yaiba - Samurai Spirits Shinshou (Japan) (Demo).chd" size="32197141" crc="cb6a4502" md5="9b7de5d547215ceca4c1ea1b424f3e0f" sha1="171d096c52678f3aec1fdbab620defcea0ec365b" date="1634259448" />
 		<rom name="Kenkaku Ibunroku - Yomigaerishi Souku no Yaiba - Samurai Spirits Shinshou (Japan, Asia).chd" size="439873300" crc="cec8ec14" md5="abadc603724d407e8ace74269388cd88" sha1="4aaa9079ee5888b242223c1aadc31125d5efae4a" date="1603218627" />
 		<rom name="Kenki Ippatsu! Crane Master ni Narou! (Japan) (Major Wave).chd" size="206016910" crc="a3a0847a" md5="e7989cb23b9c53ce13b958937bd82658" sha1="78229fac9aadfe6a68727c542c2f466f30c1b989" date="1603216108" />
@@ -4191,6 +4192,7 @@
 		<rom name="Koten Tsumego-shuu - Shijin no Maki (Japan).chd" size="10349065" crc="891b125e" md5="de3b0476e3f338056bee3e3cceb2d05a" sha1="76a9746e5dac1815a3dd5e2b206a289ecc106bf9" date="1634225118" />
 		<rom name="Kotobuki Grand Prix - Mezase! Genchari King (Japan).chd" size="70143130" crc="78422327" md5="46853341acac34d1b91010b9ac4206bf" sha1="f4a5515c6622f77d9564696ea7fe509ac83e34d9" date="1603276682" />
 		<rom name="Koudelka (Japan) (Demo 1).chd" size="73892086" crc="c9f68ef8" md5="5a320cef0cdd330e2ba18586153adec9" sha1="7bfcb62c3d52fc87e86ea5c63c789d6949d8966e" date="1652995452" />
+		<rom name="Koudelka (Japan) (Demo 2).chd" size="221723970" crc="5a9feca9" md5="6cc1e216678e13bf3f4c42947f7d9e94" sha1="50d83addbfd788374d3363be7a85ccb0f7b414f3" date="1653049667" />
 		<rom name="Koudelka (Japan) (Disc 1).chd" size="223704587" crc="384fed77" md5="b059c3a6f777bf90104e8c6ecf99b097" sha1="3c95d2f761eb80a70bdf84208eed8ed2f32649f7" date="1603276731" />
 		<rom name="Koudelka (Japan) (Disc 2).chd" size="229801524" crc="888ceb24" md5="c5b6073ab40d4c4f0a0a65cc93e2b08e" sha1="1ccb53f5faf6bd6de869a0f59e63845d0fdd2370" date="1603276812" />
 		<rom name="Koudelka (Japan) (Disc 3).chd" size="273664340" crc="32a55d00" md5="d1d4ed2e0106bf137e56145d81a6a455" sha1="cf942c049397e8b49ce2c7a23918269d71d32746" date="1603276921" />
@@ -5051,6 +5053,7 @@
 		<rom name="Paro Wars (Japan).chd" size="268147578" crc="3419df35" md5="8eb8afb9bdcf1184ecaaa905dc6f2e4c" sha1="8de4070982bf6149ad7f955090491639657cbced" date="1604276804" />
 		<rom name="Pastel Muses (Japan) (Demo).chd" size="16953119" crc="a9348dd8" md5="47bf9ecdf9be9a9f63741f2c43252039" sha1="01015ace5608f911e6955447738f8dfd5686b251" date="1634297872" />
 		<rom name="Pastel Muses (Japan).chd" size="73281742" crc="ed596eb9" md5="51921045986959f00c61e03ca95f6d06" sha1="7eb8f045eae1360a10f48a416106003cc39260e3" date="1604276849" />
+		<rom name="Patlabor - The Game - Taikenban Ver. 1.0 (Japan).chd" size="90883652" crc="6ba354c0" md5="e82cabdf7cba818879fc174a9be8269f" sha1="230cddf659bb44088cddd22699ec45f319bed2cc" date="1653049737" />
 		<rom name="PD Ultraman Invader (Japan).chd" size="243947052" crc="15bb89fd" md5="09086680d2250c9dd66413f61889ebe2" sha1="1d1e63051a7fcb782f68752718565182fbb4d500" date="1604276938" />
 		<rom name="Pebble Beach no Hatou Plus (Japan).chd" size="246376366" crc="6a83783f" md5="4e2dbb572f18270ada936568508b1b53" sha1="ea98a6000368daa40db120daee2eb4b3cdef63de" date="1604277012" />
 		<rom name="Pepsiman (Japan).chd" size="114964502" crc="93d53bd3" md5="abe4e2add75530a17fe70f1eb2c99d08" sha1="615525ba0acbfe9cb7b4a8f1cb6c5616f6bf3e58" date="1604277041" />
@@ -5107,6 +5110,7 @@
 		<rom name="Play de Oboeru Series - Sekaishi Keyword Deruderu 1800 (Japan).chd" size="42915851" crc="c49b6a18" md5="3d3a26fa7204ba7d96615115e5ffe666" sha1="9471ee90e2a65f4320d46e6322ba7381660eca52" date="1651716606" />
 		<rom name="Play! '98 Fuyu Taikenban (Japan) (Green Disc).chd" size="310901052" crc="8dad16be" md5="831bf46b549635ca855f645f80fffa4b" sha1="82b4d0a179635d36684c49f7023ceaaca3c15939" date="1604280886" />
 		<rom name="Play! '98 Fuyu Taikenban (Japan) (Red Disc).chd" size="319820078" crc="6107018a" md5="d15da1f2d8d33b8c6d5437c35d8b4f3a" sha1="8f9c89bed810f20cfc0fddb586f60222f95d8e9c" date="1604280962" />
+		<rom name="Play-Pre PlayStation Soukan Junbi-gou (Japan).chd" size="110365881" crc="8e7e7449" md5="f8288ef3df66832c59f9a810ab5ef174" sha1="f364d0670941c267855f84180007145076e8e3a3" date="1653049864" />
 		<rom name="PlayStadium 2 (Japan).chd" size="65935047" crc="1ca36d6c" md5="eeb0922fcaeb3bb03d44cf0d13f16e40" sha1="7eb64c232ac9f0c2d00c68e9f9e7fa68a1b74661" date="1604281017" />
 		<rom name="PlayStadium 3 (Japan).chd" size="115765929" crc="997d8e4a" md5="44afe5a98f1cba64c49f6a34af93a8e6" sha1="366edd533875545e2658be81173bcaab63f8e55b" date="1604281050" />
 		<rom name="PlayStadium 4 - Fumetsu no Dai League Ball (Japan).chd" size="140541764" crc="b8c8a81d" md5="e0698c6f92e19480fca3ee7d2e18f8a1" sha1="702dcfbccd85eeff88dafecd3dbdc3add5b04f8f" date="1604281083" />
@@ -5177,6 +5181,7 @@
 		<rom name="Power DoLLS 2 (Japan).chd" size="394290688" crc="0e4c2aca" md5="f3c56a0f255a2d00614cc5dcb4731baa" sha1="7fcff3fc927edf4a9f7e1472f01f19ef60cb5d3c" date="1604324010" />
 		<rom name="Power League (Japan).chd" size="190497977" crc="d0d5ae16" md5="0060ecb762853ff975d68d3247caae10" sha1="80f9007f7262cdd5d180e1882f8a2f63f2eab88e" date="1604324043" />
 		<rom name="Power Rangers Pinball (Japan).chd" size="188254502" crc="4c51aa07" md5="db62101e7329fc22d0b70d0910e1da25" sha1="28e7fa48f58cf497996dcd545ba5ebd974e7f2c2" date="1604324091" />
+		<rom name="Power Shovel ni Norou!! (Japan) (Demo).chd" size="64593302" crc="9295895e" md5="661f0c035f2c78a2908ac0a5817cc2ed" sha1="74a2f6c79d03d7ea2ef02e6908958fd051f18211" date="1653083531" />
 		<rom name="Power Shovel ni Norou!! (Japan).chd" size="156608179" crc="8b9aabe8" md5="7271ec5ffb1e156abb4b653880a6c38e" sha1="a541e30686081d4a8b92604a42ae4e3e1a9cc3ab" date="1604324140" />
 		<rom name="Power Stakes 2 (Japan).chd" size="419179306" crc="4f0b8597" md5="6c5cf60a3ac4dcff938e8da58e5e41f8" sha1="f5006f9b7ac45769307d8cb8fb2cb083ad2cb056" date="1604324306" />
 		<rom name="Power Stakes (Japan).chd" size="357653505" crc="b659f29e" md5="e6eee06320bab6ca5e7c16266ff1e049" sha1="90a453522d5308340d3a63ac168dae9755a10c65" date="1604324202" />
@@ -5289,6 +5294,7 @@
 		<rom name="Rayman (Japan).chd" size="308935456" crc="272311ca" md5="95760e802fb7ef419c7d9cd2dd91e3f7" sha1="349dc6c9c164046f1f4f342570e303afcfe34e7e" date="1604423444" />
 		<rom name="RayStorm (Japan) (Demo).chd" size="168111653" crc="83d93da6" md5="f9575c17034704e50104182c5be3f69a" sha1="660f3713bc0cd5fef3f473474234de7e71be6d07" date="1634299500" />
 		<rom name="RayStorm (Japan).chd" size="398405329" crc="fae27340" md5="f20ad8d1767a73b1f79c3ddfc98fb53b" sha1="ab061746c6c060f1944440746458beebfac31b0a" date="1604423632" />
+		<rom name="RC de Go! (Japan) (Demo).chd" size="90448254" crc="42607572" md5="bf45127b5c93ce981b1b3f7e5429ca0a" sha1="bf40dd9d0829cae4e396dc6a50bbddf24ad8d4ba" date="1653049958" />
 		<rom name="RC de Go! (Japan).chd" size="154260600" crc="a037622a" md5="262c1f38b030374685e229803c3b67ed" sha1="7d2e84e55f88f5fc812a20e858951bd1ffc7cdfb" date="1604424310" />
 		<rom name="RC Revenge (Japan).chd" size="326271263" crc="c461db98" md5="1fa0446b0770b77f9f77ddf50b5cfd70" sha1="cdff0a87e2afe1e50e2887f30b3fe1a11c5e11a6" date="1604424385" />
 		<rom name="Re-Volt (Japan).chd" size="345950432" crc="38840f42" md5="bf5730fcdfcfb968236df09870fffc99" sha1="9ca0d2569d17d1b509c1d6346982bf7ca115e8ab" date="1604424480" />
