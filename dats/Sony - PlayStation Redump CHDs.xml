@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-21</version>
-		<date>2022-05-21</date>
+		<version>2022-05-22</version>
+		<date>2022-05-22</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -3252,23 +3252,26 @@
 		<rom name="Famires, The (Japan).chd" size="153015541" crc="5ec2b764" md5="8f41a2afda748edfb015bbebc64619c4" sha1="dda9ceebcab94d3f0194b79e4a3e8f0183d9eedc" date="1603034572" />
 		<rom name="Famires, The - Shijou Saikyou no Menu (Japan) (Major Wave).chd" size="91901765" crc="d9e9cdfe" md5="c2e0de9f3328ba94188a24c1f31ab07c" sha1="ec02a609e0358347a057f5f1bd0fea3ed4e964fa" date="1603034601" />
 		<rom name="Famires, The - Shijou Saikyou no Menu (Japan).chd" size="45493873" crc="a9f5a255" md5="e054dcab49f8aa2a3dd61e84c8480e71" sha1="f4e8f01d877ea3e8925144e5e96b39caa44c2ea2" date="1603034620" />
-		<rom name="Famitsuu Wave 1gatsu-gou Vol. 6 (Japan).chd" size="250471079" crc="9e74fd08" md5="5126a852d8eba81d2c661ab804c9733a" sha1="1d56f5db6dc3acc7f2e708e1ce8fc2b0448cc3e8" date="1650166405" />
-		<rom name="Famitsuu Wave 1gatsu-gou Vol. 18 (Japan).chd" size="359060004" crc="c5c4bfc0" md5="322bee21e2858ca970c0c0507c274126" sha1="e351080af961f8235f3fe5b3fae94861a0862797" date="1650166331" />
-		<rom name="Famitsuu Wave 2gatsu-gou Vol. 7 (Japan).chd" size="255485123" crc="6c0f2a9d" md5="f3595f5790c55077d27a02e68432e5e4" sha1="338099731d2b3354461f288afe7115a2e60e635e" date="1650166593" />
-		<rom name="Famitsuu Wave 2gatsu-gou Vol. 19 (Japan).chd" size="390635511" crc="e8c762e2" md5="97f23f11de340a1e10c05b5238904260" sha1="7df48044ed960ec52aad37b5b61b0c24cc06279d" date="1650166515" />
-		<rom name="Famitsuu Wave 3gatsu-gou Vol. 8 (Japan).chd" size="238022951" crc="39cd446f" md5="b023e74d7487822d0e863c8ccef02c34" sha1="c9eade9bb7c3ce31f32d8a13ff301a3df731f706" date="1650166764" />
-		<rom name="Famitsuu Wave 3gatsu-gou Vol. 20 (Japan).chd" size="271474340" crc="c36d2640" md5="d187f0d1bfac1b6d61eced8c573bb852" sha1="9f107224e222a80fc0db462e24b34080f6a68f93" date="1650166672" />
-		<rom name="Famitsuu Wave 4gatsu-gou Vol. 9 (Japan).chd" size="237372800" crc="b154d597" md5="af6ff65cde371f29cae22098e6fb4f8a" sha1="9b198b833c7770b9d446f69524b790432443edd0" date="1650166847" />
-		<rom name="Famitsuu Wave 5gatsu-gou Vol. 10 (Japan).chd" size="241620735" crc="ea8908ef" md5="25433464e9a3106eedbd50b5124e9af2" sha1="bb112af3791d186fa1853c15f5e61cfd7b154c22" date="1650166927" />
-		<rom name="Famitsuu Wave 6gatsu-gou Vol. 11 (Japan).chd" size="354179697" crc="d0c93439" md5="1ed30f38012fe124c710e97d522cd022" sha1="c4b9f62877248401f6e9f24f1a68e2796821294d" date="1650167053" />
-		<rom name="Famitsuu Wave 7gatsu-gou Vol. 12 (Japan).chd" size="358343660" crc="2c8d5744" md5="2c76c6fc4feb1b46efb71a9147954dd4" sha1="cdc43e1a96c277da1cdfb8c29bd799814a9b6517" date="1650167164" />
-		<rom name="Famitsuu Wave 8gatsu-gou Vol. 13 (Japan).chd" size="363328785" crc="ca5ec0d8" md5="c50814cdf34c8b9c85b0fef63d432076" sha1="e7b24efa3c7ef39c6857c0b26457e003c2b90981" date="1650167260" />
-		<rom name="Famitsuu Wave 9gatsu-gou Vol. 14 (Japan).chd" size="301833051" crc="77357b9c" md5="77235f55566c76b6d1e165fa84f9d176" sha1="b357a17ef6cf5254f4ea41b4bfec7759eda6ab8f" date="1650167354" />
-		<rom name="Famitsuu Wave 10gatsu-gou Vol. 15 (Japan).chd" size="411333290" crc="b89efdab" md5="458011915afbc1e2b381727901e106e8" sha1="f6a2de8c141ba9c7f1ce2c7c4b73cfc451e8dddb" date="1650165841" />
-		<rom name="Famitsuu Wave 11gatsu-gou Vol. 4 (Japan).chd" size="353114194" crc="fd759e86" md5="58c0836331f6bc2522f8580d9fccf325" sha1="2f6295e31f7989db14b120b923c8dbf3a2b92fbc" date="1650166034" />
-		<rom name="Famitsuu Wave 11gatsu-gou Vol. 16 (Japan).chd" size="320726543" crc="83236e5d" md5="0ec6afc000a68b2b1ba0c01506d23336" sha1="3617f3e1eea3126d53d4d5b3f5c3065659be4ed9" date="1650165946" />
-		<rom name="Famitsuu Wave 12gatsu-gou Vol. 5 (Japan).chd" size="300969092" crc="138a695a" md5="c061696b64957fe14840b8a27221d60f" sha1="308fc6b7ae87440d36019b41f423d4ed631e2a6a" date="1650166212" />
-		<rom name="Famitsuu Wave 12gatsu-gou Vol. 17 (Japan).chd" size="286771374" crc="88a7dec1" md5="c7ff380d8dbab7535a0c553052538baf" sha1="52a66148889a759c5dd431cbe8cf834b61f7b471" date="1650166126" />
+		<rom name="Famitsu Wave 1gatsu-gou Vol. 6 (Japan).chd" size="250471079" crc="9e74fd08" md5="5126a852d8eba81d2c661ab804c9733a" sha1="1d56f5db6dc3acc7f2e708e1ce8fc2b0448cc3e8" date="1653171599" />
+		<rom name="Famitsu Wave 1gatsu-gou Vol. 18 (Japan).chd" size="359060004" crc="c5c4bfc0" md5="322bee21e2858ca970c0c0507c274126" sha1="e351080af961f8235f3fe5b3fae94861a0862797" date="1653171312" />
+		<rom name="Famitsu Wave 2gatsu-gou Vol. 7 (Japan).chd" size="255485123" crc="6c0f2a9d" md5="f3595f5790c55077d27a02e68432e5e4" sha1="338099731d2b3354461f288afe7115a2e60e635e" date="1653172321" />
+		<rom name="Famitsu Wave 2gatsu-gou Vol. 19 (Japan).chd" size="390635511" crc="e8c762e2" md5="97f23f11de340a1e10c05b5238904260" sha1="7df48044ed960ec52aad37b5b61b0c24cc06279d" date="1653171979" />
+		<rom name="Famitsu Wave 3gatsu-gou Vol. 8 (Japan).chd" size="238022951" crc="39cd446f" md5="b023e74d7487822d0e863c8ccef02c34" sha1="c9eade9bb7c3ce31f32d8a13ff301a3df731f706" date="1653173003" />
+		<rom name="Famitsu Wave 3gatsu-gou Vol. 20 (Japan).chd" size="271474340" crc="c36d2640" md5="d187f0d1bfac1b6d61eced8c573bb852" sha1="9f107224e222a80fc0db462e24b34080f6a68f93" date="1653172746" />
+		<rom name="Famitsu Wave 4gatsu-gou Vol. 9 (Japan).chd" size="237372800" crc="b154d597" md5="af6ff65cde371f29cae22098e6fb4f8a" sha1="9b198b833c7770b9d446f69524b790432443edd0" date="1653173366" />
+		<rom name="Famitsu Wave 5gatsu-gou Vol. 10 (Japan).chd" size="241620735" crc="ea8908ef" md5="25433464e9a3106eedbd50b5124e9af2" sha1="bb112af3791d186fa1853c15f5e61cfd7b154c22" date="1653173576" />
+		<rom name="Famitsu Wave 6gatsu-gou Vol. 11 (Japan).chd" size="354179697" crc="d0c93439" md5="1ed30f38012fe124c710e97d522cd022" sha1="c4b9f62877248401f6e9f24f1a68e2796821294d" date="1653173784" />
+		<rom name="Famitsu Wave 7gatsu-gou Vol. 12 (Japan).chd" size="358343660" crc="2c8d5744" md5="2c76c6fc4feb1b46efb71a9147954dd4" sha1="cdc43e1a96c277da1cdfb8c29bd799814a9b6517" date="1653174229" />
+		<rom name="Famitsu Wave 8gatsu-gou Vol. 13 (Japan).chd" size="363328785" crc="ca5ec0d8" md5="c50814cdf34c8b9c85b0fef63d432076" sha1="e7b24efa3c7ef39c6857c0b26457e003c2b90981" date="1653174625" />
+		<rom name="Famitsu Wave 9gatsu-gou Vol. 14 (Japan).chd" size="301833051" crc="77357b9c" md5="77235f55566c76b6d1e165fa84f9d176" sha1="b357a17ef6cf5254f4ea41b4bfec7759eda6ab8f" date="1653174862" />
+		<rom name="Famitsu Wave 10gatsu-gou Vol. 15 (Japan).chd" size="411333290" crc="b89efdab" md5="458011915afbc1e2b381727901e106e8" sha1="f6a2de8c141ba9c7f1ce2c7c4b73cfc451e8dddb" date="1653169165" />
+		<rom name="Famitsu Wave 11gatsu-gou Vol. 4 (Japan).chd" size="353114194" crc="fd759e86" md5="58c0836331f6bc2522f8580d9fccf325" sha1="2f6295e31f7989db14b120b923c8dbf3a2b92fbc" date="1653170114" />
+		<rom name="Famitsu Wave 11gatsu-gou Vol. 16 (Japan).chd" size="320726543" crc="83236e5d" md5="0ec6afc000a68b2b1ba0c01506d23336" sha1="3617f3e1eea3126d53d4d5b3f5c3065659be4ed9" date="1653169635" />
+		<rom name="Famitsu Wave 12gatsu-gou Vol. 5 (Japan).chd" size="300969092" crc="138a695a" md5="c061696b64957fe14840b8a27221d60f" sha1="308fc6b7ae87440d36019b41f423d4ed631e2a6a" date="1653170774" />
+		<rom name="Famitsu Wave 12gatsu-gou Vol. 17 (Japan).chd" size="286771374" crc="88a7dec1" md5="c7ff380d8dbab7535a0c553052538baf" sha1="52a66148889a759c5dd431cbe8cf834b61f7b471" date="1653170349" />
+		<rom name="Famitsu Wave Soukan-gou Vol. 1 (Japan).chd" size="334859681" crc="90a30373" md5="2eeef6baaa215f5ee4292bf11feafc44" sha1="076b303da43baeef9b5a58aedff3e259c84d6a5f" date="1653175216" />
+		<rom name="Famitsu Wave Soukan-gou Vol. 2 (Japan).chd" size="400153770" crc="48ea5180" md5="55af77a25bbee45023399414bd02f572" sha1="1a579684acb7e04272269b19359eabe4efd46824" date="1653175468" />
+		<rom name="Famitsu Wave Soukan-gou Vol. 3 (Japan).chd" size="311764332" crc="e2d73aae" md5="ad7b70405bc8437ca2fd9aeced9ebfdb" sha1="b23e4ae5b9d6aff769fecd5408d8bdb03d088e0a" date="1653175740" />
 		<rom name="Fantastic Fortune (Japan).chd" size="323214508" crc="f74ffdcc" md5="f710469b970738ec1ac389ee3259ac56" sha1="1c29d78f311bb327ce3ba61134763b32d87b326a" date="1603037672" />
 		<rom name="Fantastic Four (Japan).chd" size="266077980" crc="188416d3" md5="0bf660b3a44b11e866e60436018cc5bb" sha1="dc2abe6af42c1421100410065c19fe976cae3eb7" date="1603037740" />
 		<rom name="Fantastic Night Dreams - Cotton Original (Japan).chd" size="2016374" crc="a35b17df" md5="d473ac1c8d71404e2990ed9393594adc" sha1="42593a64bef4881a6ac21c0be35c6d460722bbd5" date="1603036406" />
@@ -3974,6 +3977,7 @@
 		<rom name="Kaeru no Ehon - Nakushita Kioku o Motomete (Japan).chd" size="86931724" crc="4fbc05d0" md5="83abfc34f174fa27e11a30bd422cb06e" sha1="43b44669ac29199ab8461becc63507694e412b7f" date="1603214607" />
 		<rom name="Kaette Kita Cyborg Kuro-chan (Japan).chd" size="21693403" crc="57bdb8f1" md5="f9f465d3d81d15720e88a7109690b099" sha1="75c70aa9e730111e888929dbebc4d4e46527a532" date="1603214620" />
 		<rom name="Kaette Kita Pachio-kun - Dream Collection (Japan).chd" size="27672935" crc="76ce1b6e" md5="464ca3d98f79fb8afcecddccdb181939" sha1="7ba9ffe0a727c06e3d9ba40fc1236c7bc18de2d6" date="1603214632" />
+		<rom name="Kagayaku Kisetsu e (Japan) (Demo).chd" size="57337741" crc="64aa3f0d" md5="97a6d62abc2ed8761957d590cd7b9932" sha1="c2f446db1b74f1903cacf016a7c6d09e88691dad" date="1653135598" />
 		<rom name="Kagayaku Kisetsu e (Japan) (Disc 1) (Shokai Genteiban).chd" size="258531935" crc="940e3491" md5="b92eb406a3f409e84e7e83a3ce024384" sha1="d869048b5ded0db2fcdcc03f49485c8ca99b1136" date="1650213644" />
 		<rom name="Kagayaku Kisetsu e (Japan) (Disc 2) (Special Disc) (Shokai Genteiban).chd" size="400593124" crc="81c7e82e" md5="73ee3b46bfb4f9535c191c3a43276947" sha1="ac6ee97e00bdd386b4a3e612bc19d1958b19f30a" date="1650213746" />
 		<rom name="Kagayaku Kisetsu e (Japan).chd" size="258531933" crc="e3a26e69" md5="640cbc85120c8e9385d3df30235ee63f" sha1="8cbab8604c3abb99ca5a966e27192e3fa3443a6c" date="1634224701" />
@@ -4003,6 +4007,9 @@
 		<rom name="Kanazawa Shougi '95 (Japan).chd" size="149889623" crc="cbe010fd" md5="9419751013d79124973e35a1de185332" sha1="8bb2db42f3addd1b5bff615820798c16a109c88f" date="1603215758" />
 		<rom name="Kanazawa Shougi - Tsuki (Japan).chd" size="236815588" crc="245823d0" md5="bfbe912028774357bee4aa4b7880f9a0" sha1="b4fd52658b2217aea0270e9284fc6fd9a8e96b3e" date="1606751675" />
 		<rom name="Karat PS1-you Pro Action Replay CDX3 (Japan) (Unl).chd" size="1024536" crc="d613ed97" md5="c20807c8e1226152fa49fbf9d6fa3d2e" sha1="dce40fac6640b79bc54d650f8fbea2f2a167afc1" date="1650217137" />
+		<rom name="Karat PS PS2-you Pro Action Replay CDX2 Demo-ban (Japan) (Unl).chd" size="1051603" crc="f7dc6618" md5="1df9f164874d79b09741ef5aed7ab1cb" sha1="0fd86e3190e19df0f91770415c9baf2f85838e89" date="1653138481" />
+		<rom name="Karat PS PS2-you Pro Action Replay CDX2 Sampler (Japan) (Unl).chd" size="814338" crc="68dfd51c" md5="91a3eea26f084bbd5b230e6b89418e74" sha1="c78376f9e512cf33bd0038dd9d186c924a608bb6" date="1653175747" />
+		<rom name="Karat PS PS2-you Pro Action Replay CDX2 Taikenban (Japan) (Unl).chd" size="1051668" crc="540b4c28" md5="0f25eb22dff534fa747a6ec8e04e47f2" sha1="3d3a24d73815792dbdaa663c1982eb1c5d6bb3e6" date="1653175749" />
 		<rom name="Karat PS-PS2-you Catalog &amp; Taikenban (Japan) (Unl).chd" size="47807352" crc="b3cd1188" md5="cb10c447066c47925e2983831ac56069" sha1="b2e754187ada4441d98cb49dc0a50f2d5c1c7bd2" date="1650217134" />
 		<rom name="Kart Race - Kimete wa Drift! (Japan).chd" size="166282252" crc="6d408314" md5="d768d501397b472e7e39f7407413f839" sha1="1f3e95e1b90dce1ce1c9e55a1e8247436d97e1d9" date="1603215825" />
 		<rom name="Karyuujou (Japan) (Disc 1) (Ryuu Hangan Hen).chd" size="239348746" crc="3945b696" md5="abe256a4ca8a9e9bac284f4aa8639dc9" sha1="6d74d2f77e8274cdf64c8b4047029ed651521245" date="1606751751" />
@@ -4130,6 +4137,7 @@
 		<rom name="King of Bowling (Japan).chd" size="273274247" crc="31f4be90" md5="858c498d8adcd02993cffbcbebd28c77" sha1="76ac026c898f3922337c8960e20a91ee653fe417" date="1603240276" />
 		<rom name="King of Fighters '95, The (Japan).chd" size="355511921" crc="84067b32" md5="7f5459a31f5eb3c0f5d7f0f5a75e2195" sha1="2f5edd4ad902a825ab02c5ecc0e21d3bb06a90a4" date="1603240427" />
 		<rom name="King of Fighters '96, The (Japan).chd" size="381178619" crc="34741675" md5="bf51b0556c18fae35cd9073c00a2795b" sha1="bc6c4ba395622c14e1810289c3ec746e2d3c2bac" date="1603240546" />
+		<rom name="King of Fighters '97, The (Japan) (Demo).chd" size="48852284" crc="f7a45793" md5="22beaea4a3328ce514a498e2e69c8663" sha1="bab8c65508ef7b68076bd838814d0a3ce2e18bba" date="1653135751" />
 		<rom name="King of Fighters '97, The (Japan).chd" size="203756340" crc="afaaaf1b" md5="05cf800730ef4df402c3c6c2c8d79925" sha1="58f6c2f541a72a07dfdec96171ba7352977bc260" date="1603240593" />
 		<rom name="King of Fighters '98, The - Dream Match Never Ends (Japan) (Rev 1).chd" size="157627213" crc="69b11558" md5="6b424bf925706dc27e9f44fc5238aefc" sha1="20f47865c67f82359947da5b39db0fcd0c2d02fd" date="1603240640" />
 		<rom name="King of Fighters '98, The - Dream Match Never Ends (Japan).chd" size="157623450" crc="3ce2ec50" md5="e561bd72efe85d6a3f25d9851f19f42c" sha1="a0b1f778382bfd734b019fd9bbdc3e21deb0f62d" date="1603240691" />
@@ -5111,6 +5119,24 @@
 		<rom name="Play! '98 Fuyu Taikenban (Japan) (Green Disc).chd" size="310901052" crc="8dad16be" md5="831bf46b549635ca855f645f80fffa4b" sha1="82b4d0a179635d36684c49f7023ceaaca3c15939" date="1604280886" />
 		<rom name="Play! '98 Fuyu Taikenban (Japan) (Red Disc).chd" size="319820078" crc="6107018a" md5="d15da1f2d8d33b8c6d5437c35d8b4f3a" sha1="8f9c89bed810f20cfc0fddb586f60222f95d8e9c" date="1604280962" />
 		<rom name="Play-Pre PlayStation Soukan Junbi-gou (Japan).chd" size="110365881" crc="8e7e7449" md5="f8288ef3df66832c59f9a810ab5ef174" sha1="f364d0670941c267855f84180007145076e8e3a3" date="1653049864" />
+		<rom name="Play-Pre Plus 001 - 1999 October (Japan) (Disc 1).chd" size="364011502" crc="884d8b34" md5="ee6e0f5efdb497eb3bf27ebc953341b6" sha1="33da3e4c4e76b34c5887c488aa332be5d367ad9d" date="1653139500" />
+		<rom name="Play-Pre Plus 001 - 1999 October (Japan) (Disc 2) (What's Next).chd" size="337604354" crc="77903d16" md5="c767ccc32ba4d8f44509fd6d9cd890b5" sha1="38e032a2face919767d622ff0d4ed587f9e15283" date="1653140098" />
+		<rom name="Play-Pre Plus 002 - 1999 December (Japan) (Disc 1).chd" size="352056726" crc="0a6246e0" md5="1a206f86a63f4952f597c1f8e3113a84" sha1="e06750e64a44c30aac5e237b8ec0d7427bf581a8" date="1653140704" />
+		<rom name="Play-Pre Plus 002 - 1999 December (Japan) (Disc 2) (What's Next).chd" size="249115416" crc="6b6dfd5b" md5="e68341cf6049809424d90195f15832da" sha1="a750655739f2818cebe826e36809cbc44380db32" date="1653140967" />
+		<rom name="Play-Pre Plus 003 - 2000 February (Japan).chd" size="325350855" crc="2ebebdd1" md5="f1e5e3696de64fe01c70ae2936100d29" sha1="bd1e271517f68026ae9bdfcfc6ff0526871dce5e" date="1653141135" />
+		<rom name="Play-Pre Plus 004 - 2000 June (Japan) (Disc 1).chd" size="251843983" crc="93c8795c" md5="e9441d7f7e7fb4e4d861460d5849e2d2" sha1="a46e5f81f4ebc8dc8d31862b8a1e1d67f27e8eb0" date="1653141344" />
+		<rom name="Play-Pre Plus 005 - 2000 August (Japan).chd" size="294106696" crc="32a26f5b" md5="1fb8d7bef3c8410f1fb40ec51d8fa870" sha1="315c0b377ad1203163cdefa09e2a8b400b398b5a" date="1653141533" />
+		<rom name="Play-Pre Plus 006 - 2000 October (Japan).chd" size="266177157" crc="8c261389" md5="28a7556aa1d71e635fc3b95e6a6bf2c2" sha1="b7c093574dbfb9a4db0bc41e5c3818adbe883589" date="1653141797" />
+		<rom name="Play-Pre Plus 007 - 2000 December (Japan).chd" size="357098231" crc="4b0e696e" md5="1b92978e1eeae9ad0434390e1ba93176" sha1="e7398cda05d36a08601b2e00b7f73b19d0c36198" date="1653142291" />
+		<rom name="Play-Pre Vol. 1 (Japan).chd" size="260801564" crc="4957faa4" md5="b0716734bff3ee06b81cd86d5e1f7e30" sha1="a23a12dd2bb7ecff462618ec8656affe436dac2c" date="1653175942" />
+		<rom name="Play-Pre Vol. 10 (Japan) (Disc 1).chd" size="219252704" crc="dc350191" md5="59bca67ec03750c2e342712bd6a127f4" sha1="4307664e1d142280c59933f332d8437d6ddcd91c" date="1653176065" />
+		<rom name="Play-Pre Vol. 10 (Japan) (Disc 2) (CM Collection III).chd" size="252893512" crc="681242d3" md5="13064ce36b2cf442ae233aa307e6a257" sha1="30eb101a562b4cd691fe05beb2d23fa081240e86" date="1653176207" />
+		<rom name="Play-Pre Vol. 11 (Japan).chd" size="234494594" crc="68c12061" md5="b9b39aee589e12693891a6f1240638af" sha1="67bbd1665e58ce39a7f13f1f17388ae7bcafb820" date="1653176340" />
+		<rom name="Play-Pre Vol. 12 (Japan).chd" size="356781541" crc="942e7b0b" md5="6d175f0042b7ae61f6742603961cea98" sha1="e4784f7ca0f2be9377e31da7427288ade63479c0" date="1653176790" />
+		<rom name="Play-Pre Vol. 13 (Japan) (Disc 1).chd" size="303182138" crc="7ac3b483" md5="a30d50d8fb5db4b373f7a268ad798887" sha1="cb176c58e3b49f5dd6cfc29aabae1af35116eb9e" date="1653177034" />
+		<rom name="Play-Pre Vol. 13 (Japan) (Disc 2) (Yarudora Trial Version).chd" size="235774831" crc="40511a67" md5="b6d7f364a4bd29840178b9ce406b32a9" sha1="1f5b266cfc2b883f5d12b035d27eb7d70d4e85aa" date="1653177240" />
+		<rom name="Play-Pre Vol. 14 (Japan) (Disc 1).chd" size="310777973" crc="1967e9af" md5="e0527a47e45832ba1fffd154c1b8e8f6" sha1="164f2a70b51eb9195082b091b734ca7dacfe0a11" date="1653177588" />
+		<rom name="Play-Pre Vol. 14 (Japan) (Disc 2) (Legaia Densetsu Trial Version).chd" size="111022303" crc="4cc11ffe" md5="2d02419f79e60a1416ad4a6631aec5dc" sha1="ec474801bb6044d3cd4e752cea62cd9318973295" date="1653177691" />
 		<rom name="PlayStadium 2 (Japan).chd" size="65935047" crc="1ca36d6c" md5="eeb0922fcaeb3bb03d44cf0d13f16e40" sha1="7eb64c232ac9f0c2d00c68e9f9e7fa68a1b74661" date="1604281017" />
 		<rom name="PlayStadium 3 (Japan).chd" size="115765929" crc="997d8e4a" md5="44afe5a98f1cba64c49f6a34af93a8e6" sha1="366edd533875545e2658be81173bcaab63f8e55b" date="1604281050" />
 		<rom name="PlayStadium 4 - Fumetsu no Dai League Ball (Japan).chd" size="140541764" crc="b8c8a81d" md5="e0698c6f92e19480fca3ee7d2e18f8a1" sha1="702dcfbccd85eeff88dafecd3dbdc3add5b04f8f" date="1604281083" />
@@ -5149,6 +5175,7 @@
 		<rom name="Pokeler (Japan).chd" size="1999414" crc="9bfc2b62" md5="2807b6b8238a3dc5cfb17840b8d9a1ec" sha1="0ccb8b977b821b035de2fc03bdbc6c0f83591650" date="1604282827" />
 		<rom name="Pokeler DX - Black (Japan).chd" size="1818522" crc="eddc1923" md5="55ac8c4b0ec966bef610776bd7f2c152" sha1="4042b93aa57abe1aef5f8fdb31d339f866f48b5d" date="1604282849" />
 		<rom name="Pokeler DX - Pink (Japan).chd" size="1840522" crc="58c7ec54" md5="249d16b22d0e097b6f7117cda97dc10f" sha1="d75b6bcf601d6760212927022fac3ccc6ec3f7b9" date="1604282857" />
+		<rom name="PokeTan (Japan) (Demo 1).chd" size="7095529" crc="15003955" md5="8791bc1b3078ac4b92dcd3b33d9ae850" sha1="b5aaba2df832697d12b345ae009d737489cdef77" date="1653135766" />
 		<rom name="PokeTan (Japan).chd" size="34992149" crc="a088c665" md5="5c9f9e0cd581fe4b584ae8792d4b0dde" sha1="fbf9e617a8dcc957e8da5e45e80ac976b837fec3" date="1604282888" />
 		<rom name="Policenauts (Japan) (Disc 1).chd" size="524646365" crc="f7de96a4" md5="642201dd88c4bc461a9ce4e3ba0dc94b" sha1="9454d46cadfe888977132007f6b44c8225963974" date="1604283067" />
 		<rom name="Policenauts (Japan) (Disc 2).chd" size="407550978" crc="0b2130c6" md5="a24ce5b7c06ce24b386a0f774d1cc2d8" sha1="a3baf8e2694fbf82082e97c24805858bc853c954" date="1604283238" />
