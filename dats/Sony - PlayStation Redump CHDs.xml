@@ -5,8 +5,8 @@
 		<name>Sony - PlayStation Redump CHDs</name>
 		<description>Sony - PlayStation Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-05-22</version>
-		<date>2022-05-22</date>
+		<version>2022-05-23</version>
+		<date>2022-05-23</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -1059,6 +1059,7 @@
 		<rom name="Little Big Adventure (Europe) (En,Fr,De,Es,It).chd" size="357483525" crc="089fe43c" md5="8eb5bd1421f57825258011167ab48762" sha1="e7165d9d94ad12a1caba357433a2d51fa4cc2973" date="1603419511" />
 		<rom name="Live Wire! (Europe) (Demo).chd" size="56558012" crc="1dd16ffd" md5="2037c7428353b88723aea6632da0b5e5" sha1="bc6acd75b93318cb30a9b79502122493be9cf6ec" date="1603419537" />
 		<rom name="Live Wire! (Europe) (En,Fr,De,Es,It).chd" size="366184738" crc="83b7ad7a" md5="76a7a5674c541dc4c8d5cb9785e886b8" sha1="6ed3ae0f8679b42d47d1c7482d7afed74a2f54f5" date="1603419633" />
+		<rom name="LMA Manager 2001 (Europe) (Beta).chd" size="228555663" crc="5c788f39" md5="9bc8e9e6c2bd6f1f7d7fb8c9f198b1cd" sha1="70ce2eb0c0ea8196aec7347d45becd418f7870b7" date="1653186136" />
 		<rom name="LMA Manager 2001 (Europe).chd" size="228555670" crc="4bfb6716" md5="c2eda677e734159fd1a7fddff65842f3" sha1="3444c438e5f89b10b67c9b13f53ec160cf5020ad" date="1603449899" />
 		<rom name="LMA Manager 2002 (Europe).chd" size="228697913" crc="d3bc913b" md5="09043d799e6ad6f6352faa7af8c7729a" sha1="f0d2e79a589820c0f255170307f04a520e1fd699" date="1603449960" />
 		<rom name="LMA Manager (Europe).chd" size="310698010" crc="d53e359b" md5="456fde080a5ee056c432c70c9d703397" sha1="47cf9b14807231ddb4f13497ac197e3cf6438a31" date="1603419694" />
@@ -3178,6 +3179,7 @@
 		<rom name="Emit Value Pack (Japan) (Disc 2) (Vol. 2 - Inochigake no Tabi).chd" size="139793272" crc="d4f70edc" md5="52236f097eb8d01d8a435a156ad37d96" sha1="986dad23471f6b1556dbdce48399876184e6e7a6" date="1603024843" />
 		<rom name="Emit Value Pack (Japan) (Disc 3) (Vol. 3 - Watashi ni Sayonara wo).chd" size="171411651" crc="78424261" md5="42fb5de33297d19df294627c485be5f4" sha1="7880e53a92a3bbe6b338ad6e342501b142aa9ed8" date="1603024870" />
 		<rom name="Emmyrea (Japan).chd" size="144314972" crc="36c9d978" md5="94d75a63735720801873e78a83b744f2" sha1="f32e2bbc85849ae1cffe3f7e31dba4be9dbeccfd" date="1603024886" />
+		<rom name="End Sector (Japan) (Demo).chd" size="218937331" crc="80e688ee" md5="d68cfd972a849f362566ba4c49cdf0c5" sha1="754fe82e62a0445f3b930c12257de5ef14202fef" date="1653187432" />
 		<rom name="End Sector (Japan).chd" size="298577466" crc="a7c0db24" md5="351e58688a33bb8313b03048afbee405" sha1="e9b6d578ff42d6b2141ce7aeef177b674bff402b" date="1603024914" />
 		<rom name="Enen Angel (Japan).chd" size="111425044" crc="88a6d2a1" md5="675ca6b2c3ae2e5e187babd446012d51" sha1="5a87dff393d4c3488b6be501ce515ae3cac03686" date="1603024927" />
 		<rom name="Engacho! (Japan).chd" size="222383599" crc="ca77e451" md5="c60b118faa128fd80e56edb7135c0d27" sha1="fd0aa92c5b8110267c8b2481b0037c076922fd40" date="1603024949" />
@@ -4074,6 +4076,7 @@
 		<rom name="Kids Station - Digimon Park (Japan).chd" size="119370875" crc="f3614fdf" md5="e9d3a36def2adf1d187fc6924ed3ee23" sha1="1f1470ec346900b375b784a66664e3d15626f572" date="1603220350" />
 		<rom name="Kids Station - Doraemon - Himitsu no Yojigen Pocket (Japan) (Controller Set).chd" size="131247783" crc="a3124fcf" md5="8f293de827697588101830d4e4c3d350" sha1="a3afd55fdd99026fd4811504cb4e9828b09bfaeb" date="1603220379" />
 		<rom name="Kids Station - Doraemon - Himitsu no Yojigen Pocket (Japan) (Demo).chd" size="131290391" crc="dc7742ec" md5="4d6584b18d99188954934dbf062641dc" sha1="ce320e28ce8e955ed280482a90e54935901807e2" date="1634259498" />
+		<rom name="Kids Station - Doraemon - Himitsu no Yojigen Pocket (Japan).chd" size="131247783" crc="7a686d0e" md5="d81c29686778f219c149b651f793c9b9" sha1="0e4616dbee1b530b7b946b27077902507a36985d" date="1653186142" />
 		<rom name="Kids Station - Hello Kitty no Oshaberi ABC (Japan).chd" size="101540100" crc="53830dad" md5="c0f7e69a5685a563205d0082fdaf73df" sha1="cbf6e052269050ee5892f9092ebf695959845daa" date="1603220466" />
 		<rom name="Kids Station - Hello Kitty no Oshaberi Town (Japan) (Controller Set).chd" size="81911771" crc="c5ac233d" md5="786c1c0a63a071bcf4c3d80c005db4ca" sha1="32d3e0fe8cd765f92bece11a57f32be02de2d21d" date="1603220496" />
 		<rom name="Kids Station - Hello Kitty no Oshaberi Town (Japan).chd" size="81810422" crc="219c7e19" md5="ac9c3ee43f9b811537739029ebd996fb" sha1="0ccecf5b1dd779937bbb2bdf0e7f8640fd43ca04" date="1603220531" />
@@ -4730,6 +4733,7 @@
 		<rom name="NASCAR Racing - Season 96 (Japan).chd" size="329166199" crc="24dad9e3" md5="cd7cb622a0f805e7322ad1edd1275794" sha1="a2ec358caf5ac4270586728f989d6d1870de0c52" date="1604006017" />
 		<rom name="Natsuiro Kenjutsu Komachi (Japan) (Disc 1).chd" size="367616698" crc="c6c50590" md5="c27ee1992ad87cc5b8e4a9aa744b6fc4" sha1="410c6165388e41e6142bd70270caf43c742e86b1" date="1604006091" />
 		<rom name="Natsuiro Kenjutsu Komachi (Japan) (Disc 2) (Special Disc).chd" size="151531252" crc="ff3ad35f" md5="a32bdd2a77d9445d36461ef6125c0420" sha1="49127d77573f2b900f0273b88d5843f6849d7e5b" date="1604006140" />
+		<rom name="Natsuiro Kenjutsu Komachi (Japan).chd" size="367551018" crc="e2986aa3" md5="8718812b869345838b53586d34cc4871" sha1="cb7c4c5f78bfa2505d1cc8aadea3817e0c48906a" date="1653186515" />
 		<rom name="Navit (Japan) (Demo).chd" size="317787505" crc="e63d2fa0" md5="90d36b0f3363e8f0800b6eecaa70cb53" sha1="6755ddb40e660b42a2c095ee7b426b10e3824315" date="1634262498" />
 		<rom name="Navit (Japan).chd" size="317852705" crc="3bd54b9f" md5="431303bfe577681efe21e1175b3b1841" sha1="f8433b522e0a4c743bd4782735d300f7b04adaaf" date="1604006219" />
 		<rom name="Nazoou (Japan).chd" size="343857793" crc="f351c662" md5="06766bc978f3846b98bb9e4889df8ad1" sha1="5cbc8dc6338ac7d0cea54f7b98c9f5366d3b5547" date="1604006300" />
@@ -5129,6 +5133,17 @@
 		<rom name="Play-Pre Plus 006 - 2000 October (Japan).chd" size="266177157" crc="8c261389" md5="28a7556aa1d71e635fc3b95e6a6bf2c2" sha1="b7c093574dbfb9a4db0bc41e5c3818adbe883589" date="1653141797" />
 		<rom name="Play-Pre Plus 007 - 2000 December (Japan).chd" size="357098231" crc="4b0e696e" md5="1b92978e1eeae9ad0434390e1ba93176" sha1="e7398cda05d36a08601b2e00b7f73b19d0c36198" date="1653142291" />
 		<rom name="Play-Pre Vol. 1 (Japan).chd" size="260801564" crc="4957faa4" md5="b0716734bff3ee06b81cd86d5e1f7e30" sha1="a23a12dd2bb7ecff462618ec8656affe436dac2c" date="1653175942" />
+		<rom name="Play-Pre Vol. 2 (Japan).chd" size="343868909" crc="62f2525c" md5="6bca34afc8d0eb5defa1dd0b35d84a93" sha1="04b8a04c5b1d5cd82701823d306e3b735ca191de" date="1653180589" />
+		<rom name="Play-Pre Vol. 3 (Japan).chd" size="267687413" crc="229efb23" md5="9796f145fd008e975717d698b7965fa1" sha1="c0b37da31705f6c344dcdc69a3fe3ff2caf5ab00" date="1653180771" />
+		<rom name="Play-Pre Vol. 4 (Japan).chd" size="228848342" crc="cc46d1a7" md5="a18994e7c2cfc14d77e7ff1874117656" sha1="517f885f4135bd389d6ada264528735171124372" date="1653180961" />
+		<rom name="Play-Pre Vol. 5 (Japan) (Disc 1).chd" size="184817368" crc="07db4b98" md5="8290e6043243615d9d2d93a632be5a58" sha1="464ce20749b30ea7a4eb490e83bcc8de2c92ceae" date="1653181082" />
+		<rom name="Play-Pre Vol. 5 (Japan) (Disc 2) (CM Collection).chd" size="433386900" crc="cc132be7" md5="b0354a094a5dd94e1733bf6313cf7414" sha1="a69d2c75ac1917b554fd2ab177f457c5f8817ff4" date="1653181579" />
+		<rom name="Play-Pre Vol. 6 (Japan) (Disc 1).chd" size="289961669" crc="aeeeac2f" md5="5f0bc2143527122808ede766738940cc" sha1="a76921337c6c449e3e8e232a14e4d447044c80de" date="1653181941" />
+		<rom name="Play-Pre Vol. 6 (Japan) (Disc 2) (CM Collection II).chd" size="238061877" crc="4ea7fc8a" md5="89606bae58f2f0ff1f90a5deaa2effd1" sha1="53ae99d774510895dfb45977572ba264d1455a62" date="1653182193" />
+		<rom name="Play-Pre Vol. 7 (Japan).chd" size="357172285" crc="6ccb336d" md5="8d8b622233480cc652b1efd9c3aaab3f" sha1="f97bdfe81f910c5a9b841566ca91ba5abecefa14" date="1653182606" />
+		<rom name="Play-Pre Vol. 8 (Japan).chd" size="338947769" crc="9e8bb8fc" md5="11b260cb67db1885546dc886f7167d57" sha1="833d63e868c0def99c5ccec87984b0d0834fc8dd" date="1653182933" />
+		<rom name="Play-Pre Vol. 9 (Japan) (Disc 1).chd" size="210314265" crc="3afc443b" md5="20c3cf464c1d0b0704f6ec599c36091e" sha1="b36d7a217cee01cb8999b65ab08631f79ae15561" date="1653183119" />
+		<rom name="Play-Pre Vol. 9 (Japan) (Disc 2) (Official Catalog CD-ROM).chd" size="305307812" crc="a42ec74b" md5="fe5e5bc2f7c5936a5e78f2e2f13f9d5a" sha1="23e6c074fbabe1962946250e3943d660081529ee" date="1653183367" />
 		<rom name="Play-Pre Vol. 10 (Japan) (Disc 1).chd" size="219252704" crc="dc350191" md5="59bca67ec03750c2e342712bd6a127f4" sha1="4307664e1d142280c59933f332d8437d6ddcd91c" date="1653176065" />
 		<rom name="Play-Pre Vol. 10 (Japan) (Disc 2) (CM Collection III).chd" size="252893512" crc="681242d3" md5="13064ce36b2cf442ae233aa307e6a257" sha1="30eb101a562b4cd691fe05beb2d23fa081240e86" date="1653176207" />
 		<rom name="Play-Pre Vol. 11 (Japan).chd" size="234494594" crc="68c12061" md5="b9b39aee589e12693891a6f1240638af" sha1="67bbd1665e58ce39a7f13f1f17388ae7bcafb820" date="1653176340" />
@@ -5137,6 +5152,16 @@
 		<rom name="Play-Pre Vol. 13 (Japan) (Disc 2) (Yarudora Trial Version).chd" size="235774831" crc="40511a67" md5="b6d7f364a4bd29840178b9ce406b32a9" sha1="1f5b266cfc2b883f5d12b035d27eb7d70d4e85aa" date="1653177240" />
 		<rom name="Play-Pre Vol. 14 (Japan) (Disc 1).chd" size="310777973" crc="1967e9af" md5="e0527a47e45832ba1fffd154c1b8e8f6" sha1="164f2a70b51eb9195082b091b734ca7dacfe0a11" date="1653177588" />
 		<rom name="Play-Pre Vol. 14 (Japan) (Disc 2) (Legaia Densetsu Trial Version).chd" size="111022303" crc="4cc11ffe" md5="2d02419f79e60a1416ad4a6631aec5dc" sha1="ec474801bb6044d3cd4e752cea62cd9318973295" date="1653177691" />
+		<rom name="Play-Pre Vol. 15 (Japan) (Disc 1).chd" size="342431419" crc="3a618c2a" md5="276039f9bcce0ed084d14df0fa309cf4" sha1="bef156e181afd00bceb08b7325e4b9ec6be6bc82" date="1653178066" />
+		<rom name="Play-Pre Vol. 15 (Japan) (Disc 2).chd" size="324648989" crc="1289acbd" md5="059cafe980836f845a83599686593ff5" sha1="0d9e1da00b45d3429a19837e037b3d85230786ce" date="1653178408" />
+		<rom name="Play-Pre Vol. 16 (Japan) (Disc 1).chd" size="241378763" crc="a81a3d08" md5="8d52bfaa086aa57a6f8665876dffc362" sha1="f535c98b9c62ca45aade99dcc660625c7e57fa2c" date="1653178730" />
+		<rom name="Play-Pre Vol. 16 (Japan) (Disc 2) (CM Collection IV).chd" size="219719824" crc="287dec14" md5="49b9ab4fa6ed64489bd5c258c7b1f7fa" sha1="8da346a0d57ce372a61a62dfee4cda430f86588c" date="1653178988" />
+		<rom name="Play-Pre Vol. 17 (Japan) (Disc 1).chd" size="216117384" crc="51027183" md5="9fa99891671a856622ca334758f23193" sha1="96bb56a827559e6a9f1169cfdc0053aa563ec911" date="1653179163" />
+		<rom name="Play-Pre Vol. 17 (Japan) (Disc 2) (Omega Boost Trial Version).chd" size="86566106" crc="2e4cc942" md5="e12768b84fcc52004c3688e6b387932d" sha1="d46bf4a8bb8c68d30ba75e577123451610318975" date="1653179254" />
+		<rom name="Play-Pre Vol. 18 (Japan) (Disc 1).chd" size="298695204" crc="09e67146" md5="d691c997e5d97e2d1dee65e53cce4eab" sha1="64605ef73461209ca9da8197eb65a528e3023ddc" date="1653179584" />
+		<rom name="Play-Pre Vol. 18 (Japan) (Disc 2) (What's Next).chd" size="425230134" crc="18d1838d" md5="52bd324557b327a1b09468ec41b7db5e" sha1="488c499a8db6eec4315aec60fe24841ce8ebe1c4" date="1653180078" />
+		<rom name="Play-Pre Vol. 19 (Japan) (Disc 1).chd" size="254858382" crc="d6fca260" md5="2caf47c13a635a9712d56fa0ad2123b4" sha1="6970453476a2024511f6f3d35432be71c6ecab9f" date="1653180221" />
+		<rom name="Play-Pre Vol. 19 (Japan) (Disc 2) (What's Next 1999 Aug).chd" size="363496411" crc="1b1cf75d" md5="e472777f66b86729a8898ffb8827be29" sha1="780db0c203e74465245f5ab8f1705797f49bbe17" date="1653180442" />
 		<rom name="PlayStadium 2 (Japan).chd" size="65935047" crc="1ca36d6c" md5="eeb0922fcaeb3bb03d44cf0d13f16e40" sha1="7eb64c232ac9f0c2d00c68e9f9e7fa68a1b74661" date="1604281017" />
 		<rom name="PlayStadium 3 (Japan).chd" size="115765929" crc="997d8e4a" md5="44afe5a98f1cba64c49f6a34af93a8e6" sha1="366edd533875545e2658be81173bcaab63f8e55b" date="1604281050" />
 		<rom name="PlayStadium 4 - Fumetsu no Dai League Ball (Japan).chd" size="140541764" crc="b8c8a81d" md5="e0698c6f92e19480fca3ee7d2e18f8a1" sha1="702dcfbccd85eeff88dafecd3dbdc3add5b04f8f" date="1604281083" />
@@ -7792,6 +7817,7 @@
 		<rom name="Herc's Adventures (Italy).chd" size="146424345" crc="98dfad60" md5="57977a4c788bcfba6d71cb1cd1f0d99b" sha1="4cebd56196c84df379f79d14ec872f31326af0eb" date="1603627805" />
 		<rom name="Herc's Adventures (Spain).chd" size="146666906" crc="00a28cea" md5="0f74d86328c27e43da1ab2cfde4a1c02" sha1="c92f7b64d7bcfe4a2a0bcb5e01815ad9090e88b7" date="1603627822" />
 		<rom name="Hi-Octane + Ridge Racer + Mortal Kombat 3 + Evolva (France).chd" size="127630854" crc="d606ad9c" md5="aad527e2745c6d7d1d384f02d3194143" sha1="76638cc91f8939fb98b9569e07e6863328f415da" date="1603627837" />
+		<rom name="HMV CodeBuster (UK) (Unl).chd" size="414565" crc="b56a1e2b" md5="1394cae7fc8b56cc55c72c7c6dcdcf50" sha1="4005a4149657f787e92ead45a9b4a065565459f6" date="1653186190" />
 		<rom name="Hogs of War - Nati per Soffritto (Italy).chd" size="205197256" crc="71e0d256" md5="6e18e17b53da396a4ca478424a823eee" sha1="4189c68cec2e770ff817d7f1ca4097762deee46d" date="1603627855" />
 		<rom name="Hugo 2 (Denmark).chd" size="282978997" crc="176c706b" md5="0edb5032973c19ccd92dff12b8082fbb" sha1="2656f90609a5f0b66ea3b2f617646d6ab8580861" date="1603628290" />
 		<rom name="Hugo 2 (Finland).chd" size="283854147" crc="fb123374" md5="85f49a583a549fad4ddb38d21dacc8b3" sha1="783cd4b1a787602dee5c99ca5759c819ac0f8bd2" date="1603628318" />
@@ -9185,7 +9211,7 @@
 		<rom name="Felony 11-79 (USA).chd" size="233255110" crc="84d9bef7" md5="de5ea9a20e16ee9f0f522560a237d15c" sha1="5ed1521764ca9d7ae8b09b5f73b5fa2b27a10fc6" date="1601678588" />
 		<rom name="FIFA 99 (USA).chd" size="448561316" crc="09767752" md5="e280cf5485ce8cbbe67664bd9da424fc" sha1="5bbc77fcb9f2970cd785415d3a4e79cb6a4b6671" date="1601678870" />
 		<rom name="FIFA 2000 - Major League Soccer (USA) (En,De,Es,Nl,Sv).chd" size="305924436" crc="7a585d72" md5="886e34ba72daf1e333d52bb14c5ad6ee" sha1="a5e3e015220e61887475fe2ad99213b51379cdc5" date="1601678736" />
-		<rom name="FIFA 2001 (USA).chd" size="393667836" crc="bf1c2405" md5="15b35949ad995e0fa54a9d21ad3279ac" sha1="6b6a950697da3349f344bbcb43f5d60d71a80cb4" date="1601678799" />
+		<rom name="FIFA 2001 (USA) (En,De,Es,Nl,Sv).chd" size="393667836" crc="bf1c2405" md5="15b35949ad995e0fa54a9d21ad3279ac" sha1="6b6a950697da3349f344bbcb43f5d60d71a80cb4" date="1653187272" />
 		<rom name="FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,Nl,Sv).chd" size="376660635" crc="f0db6902" md5="ca4546b1c03c9d70bbe58d4c746f424f" sha1="7f234ea9e4075470ae31d2445e07b9d36510f0aa" date="1601678668" />
 		<rom name="FIFA Soccer 96 (USA).chd" size="333677536" crc="d1950e86" md5="f63e859e91380cb158c429fb01d6a6b9" sha1="58777faa80a6545f6f51bca3ee401e9737aff394" date="1601679227" />
 		<rom name="FIFA Soccer 97 (USA).chd" size="389825790" crc="ab5647da" md5="18e784d1a1a3756104ea5ecde88b0ddd" sha1="d358acba3dbf1d25523dfb09bc9728e5424d3673" date="1601679317" />
