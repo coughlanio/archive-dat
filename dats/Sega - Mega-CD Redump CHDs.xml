@@ -5,8 +5,8 @@
 		<name>Sega - Mega-CD Redump CHDs</name>
 		<description>Sega - Mega-CD Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-09-24</version>
-		<date>2022-09-24</date>
+		<version>2022-09-25</version>
+		<date>2022-09-25</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -118,6 +118,7 @@
 		<rom name="Shadowrun (Japan).chd" size="165395299" crc="820cf785" md5="22961e5adb6afbf9b665a6882b97063b" sha1="0f665aecbf14597616637773c14ec47e89d4b92a" date="1603721708" />
 		<rom name="Shin Megami Tensei (Japan).chd" size="215096274" crc="c9ba4e43" md5="090ed1552d2f88ea4a277df1b9db7426" sha1="9ea9bf5db4bfafb9b12da0378db95c3d2f666603" date="1603721761" />
 		<rom name="Shining Force CD (Japan).chd" size="244900241" crc="d85e1ccc" md5="fd1062a9d98c522ff18b5e756726beb2" sha1="078340333e70ea4bd157accaddd8f0f54e846ec1" date="1603721796" />
+		<rom name="Silpheed (Japan) (Demo) (Fixed Dump).chd" size="115304668" crc="957d240e" md5="1933426ef02683de4a25235ec934f3fa" sha1="e3db23ffbbea33d96359e93f75783044e33abdca" date="1663979314" />
 		<rom name="Silpheed (Japan) (Demo).chd" size="182239445" crc="87124dfb" md5="e38996503639ea3a671e30a9325767a9" sha1="27a72dbf4e0d5b534545a7406e78f3389eb00b4d" date="1603721840" />
 		<rom name="Silpheed (Japan).chd" size="235329679" crc="4af04249" md5="128445453dd5746695eb892a2190b52d" sha1="6f7fdbe9674990a3eefd9e38fbc113eff5a6aad9" date="1603721880" />
 		<rom name="SimEarth (Japan).chd" size="126038301" crc="2ae80de5" md5="c7739390010223d88f0fb72805b92197" sha1="779d3a85f0b82b33c50f120a0d9ee033897f1f8c" date="1603721906" />
