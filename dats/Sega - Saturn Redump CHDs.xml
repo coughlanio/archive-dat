@@ -5,8 +5,8 @@
 		<name>Sega - Saturn Redump CHDs</name>
 		<description>Sega - Saturn Redump CHDs</description>
 		<category>Archive.org Redump CHDs</category>
-		<version>2022-10-09</version>
-		<date>2022-10-09</date>
+		<version>2022-10-10</version>
+		<date>2022-10-10</date>
 		<author>Teddy</author>
 		<comment>Generated from Archive.org XMLs</comment>
 	</header>
@@ -2340,6 +2340,7 @@
 		<rom name="USA/Space Jam (USA).chd" size="131365659" crc="4515c9a4" md5="4ea79c703f7545fae0e9d17e1b9fece7" sha1="08dcc24f7830257027388c9fdfc1dbf26b414d37" date="1601904831" />
 		<rom name="USA/Spot Goes to Hollywood (USA).chd" size="344649244" crc="ade675bb" md5="fd91554573c7e6975acb87e9cf7abc95" sha1="cfc61b8c2d028ede1dcf8859c19cfe6bd346d7d5" date="1601904873" />
 		<rom name="USA/Star Fighter (USA).chd" size="302751563" crc="10e66ba4" md5="dde44c0916a4a25205511f47cca01378" sha1="82ffc122097ea24b30807a92430e64446cd834b3" date="1601904907" />
+		<rom name="USA/Star Wars - Rebel Strike (USA) (Proto).chd" size="539245" crc="8cd1e471" md5="5cebf569856950ecb5d5f80bf6f55e7f" sha1="4bbf1dd65c7e70ec8e8ffed2479477c8f1dea537" date="1665318295" />
 		<rom name="USA/Steep Slope Sliders (USA).chd" size="228184245" crc="60638345" md5="93544b597917cc4af26395d68c40e804" sha1="d285925b742530a6ce757b152fd960774cb1ac93" date="1601904930" />
 		<rom name="USA/Street Fighter - The Movie (USA).chd" size="404446196" crc="3bcfb35a" md5="183ea68f3c43c606777fb56702bfb093" sha1="0ea747876115b3683317db0c4129a7719074f5c5" date="1601904965" />
 		<rom name="USA/Street Fighter Alpha 2 (USA).chd" size="345775916" crc="56ac804e" md5="73f7b017acda3ca27894032a5969f423" sha1="77936943b18734a3ab7b1a172d6be1a2a99867ee" date="1601905064" />
