@@ -43,6 +43,14 @@ CONFIGS = [
             "https://archive.org/download/chd_psx_misc/chd_psx_misc_files.xml",
         ],
     },
+    {
+        "manufacturer": "SNK",
+        "system": "Neo Geo CD",
+        "type": "Redump CHDs",
+        "files": [
+            "https://archive.org/download/chd_neogeocd/chd_neogeocd_files.xml",
+        ],
+    },
 ]
 
 st_dir = tempfile.mkdtemp()
