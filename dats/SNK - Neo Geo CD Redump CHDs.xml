@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>SNK - Neo Geo CD Redump CHDs</name>
+		<description>SNK - Neo Geo CD Redump CHDs</description>
+		<category>Archive.org Redump CHDs</category>
+		<version>2023-07-05</version>
+		<date>2023-07-05</date>
+		<author>Teddy</author>
+		<comment>Generated from Archive.org XMLs</comment>
+	</header>
+	<machine name="CHD-NeoGeoCD">
+		<description>CHD-NeoGeoCD</description>
+		<rom name="2020 Super Baseball (Japan) (En,Ja).chd" size="183668455" crc="b4509a1d" md5="0a2c62bf72556b4e8f8564696442afb1" sha1="f20fe82c4c14d85c2d98c2fc087a8a6a0e3d307b" date="1600075608" />
+		<rom name="ADK World (Japan).chd" size="360294784" crc="2dbfd1cc" md5="b28284af49bff7544aa1d4a8e05cba39" sha1="1911eeb434a3edbeac7451c6f4cbb42816b85ee8" date="1600075809" />
+		<rom name="Andro Dunos (France) (Unl).chd" size="1772736" crc="031da3db" md5="7a76ab98264d7c2e32c1685f4bb5aefa" sha1="7220802b5a94d8bb25bced5bec9901938045d2a8" date="1600075814" />
+		<rom name="Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (World) (En,Ja,Es,Pt).chd" size="328624650" crc="58a544c2" md5="575a08424768021c60b5c8eb8723f9ec" sha1="eff46badc1aea0f0008ed78e531e344b625e7828" date="1648845012" />
+		<rom name="ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja).chd" size="277459669" crc="be8aed12" md5="134778f89e20995c05a0c0a75f2a3722" sha1="abfcb445b3f295815b61b57367b6d5a4d3953a77" date="1600075894" />
+		<rom name="Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt).chd" size="305857231" crc="f8189214" md5="78a0deec9c3f7243c1db5a5d81d784c2" sha1="ef6773f565fb531dfa944fd82f55fbf6e0206d97" date="1600075963" />
+		<rom name="Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt).chd" size="292674593" crc="40a7ab86" md5="6c1890abb44b4d465f867cffd1ff17b7" sha1="a02ae2c7add433af2e62f61244388fd47131426d" date="1600075993" />
+		<rom name="Bang^2 Busters (France) (En,Ja) (Unl).chd" size="7560488" crc="70185179" md5="fc6218e6ce97f6aea23669a6d05bce71" sha1="8a4e1018857c9ab6bdf7cff108fc82a3a1762287" date="1648850058" />
+		<rom name="Baseball Stars 2 (Japan) (En,Ja).chd" size="144969808" crc="c19a7ca3" md5="f47da4debce91e6bbda79b64413c7cbb" sha1="5107928a46938eda53b466bc839bbb13090ced77" date="1600076011" />
+		<rom name="Baseball Stars Professional (Japan) (En,Ja).chd" size="124071524" crc="2807191a" md5="89b25d7881897a0987c29a4f6714daf4" sha1="b582a96f6038822a10d620ddd96c2cdf1e69a496" date="1600076025" />
+		<rom name="Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja).chd" size="221284281" crc="ff5ab6e1" md5="03d34124cf6c04fd1e0fc9006427bfad" sha1="7038c991094069b5288734004f8c42682101de1b" date="1600076045" />
+		<rom name="Breakers (Japan) (En,Ja).chd" size="308374983" crc="f41dd680" md5="120db6f4270488782a72b012cabc458f" sha1="ddd5f59e98bf9977d1eda2e0dff3f4ae9651e4e4" date="1600076072" />
+		<rom name="Burning Fight (Japan) (En,Ja).chd" size="174912287" crc="aa07332f" md5="03dd5f921199125de406069bee3d879f" sha1="2938dcfad6e916484d324bad1be9b19648f14e99" date="1600076119" />
+		<rom name="Choujin Gakuen - Gowcaizer (Japan) (En,Ja).chd" size="413228446" crc="2ce93390" md5="f2c7b0926a3e3a3850aca52ef5dc3ffa" sha1="f63e27f25a9b7a954d9e766883bac655f857865f" date="1600076158" />
+		<rom name="Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja).chd" size="434314526" crc="8a8a9429" md5="4cdc89ee4438c5450b8dd06b477b95b1" sha1="6d7aa81f3e852a38b7c9377b74347eb449761e26" date="1628519195" />
+		<rom name="Crossed Swords (Japan).chd" size="212364448" crc="850c0c6a" md5="86e2e8dbc2d72a5e11f7697ec22e9490" sha1="baf8ede19fc080a353896e5cef7c0565c046fbb5" date="1600076179" />
+		<rom name="Crossed Swords II (Japan) (En,Ja).chd" size="251341847" crc="8793ddbd" md5="4541fd1b94d653498eeb9bce247d4db0" sha1="251f32933c3f7c09970c59c0256f9dccd7fceb04" date="1600076204" />
+		<rom name="Cyber-Lip (Japan) (En,Ja).chd" size="356604547" crc="4439907d" md5="e0666c1238604916651228e0f2ea64e7" sha1="87c2d417a73fcf90d4641d368963f396d92e26da" date="1600076251" />
+		<rom name="Double Dragon (Export) (En,Ja).chd" size="443174042" crc="fc586b34" md5="bbab91d04d57e95c8d2afcf2626cca94" sha1="149fe7fc1d6050406681e96fb0f2ec52f5add3c3" date="1648872187" />
+		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1).chd" size="443181476" crc="c7aaab1f" md5="b962c70f958efc18b8fc97068f32d3a8" sha1="3f06514f31476fe9872850899a3ba912dadfc675" date="1600076287" />
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (World).chd" size="208542555" crc="5f04df40" md5="b483d148dfc84b7229d654bb35bb173a" sha1="b0a7264f0c0b1981083d39ef2044197ef447c6ec" date="1648858154" />
+		<rom name="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja).chd" size="318151033" crc="150a31cf" md5="9b18f923875fa98c49fa6c19aa2d311f" sha1="bc9bae55825b9012be7d05178cee0c8e5b5626b1" date="1600076369" />
+		<rom name="Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja).chd" size="374635897" crc="7aae9603" md5="23786e1ab736ce4a62eda7efd7bbff03" sha1="2a2ee4e341d0a540abb03ba0225c6e5d5c2b1f3d" date="1600076410" />
+		<rom name="Fire Suplex ~ 3 Count Bout (World) (En,Ja).chd" size="238219784" crc="1e498f2c" md5="48e144069e5d2a825a0117df3e97548d" sha1="39ad02374da4585b75a2d73f916cb489756e2fc2" date="1648869122" />
+		<rom name="Flying Power Disc ~ Windjammers (Japan) (En,Ja).chd" size="121494536" crc="7cd9f211" md5="dfec62f6cdefc509688514bffece48f3" sha1="d6328e1ec523d5a5d3725a7862ab969586854b37" date="1600076442" />
+		<rom name="Football Frenzy (Japan) (En,Ja).chd" size="155793062" crc="46c69712" md5="6cad92895416d3173b7928c1acc51781" sha1="2d3005a43af5a9ae46c5a00d1565e82f3fb1a228" date="1600076458" />
+		<rom name="Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja).chd" size="410333951" crc="db656d1d" md5="7cab5b95ee3d133eef40b019537b3ce7" sha1="9b9b441df15ce46d794d641b5e6b5129e3bc59d0" date="1600076492" />
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1).chd" size="339523378" crc="feb7f933" md5="bb33cc872129d42ef720b1f288a9cafa" sha1="f49553609a409842eaa61637a99a5fe688772c9c" date="1648869258" />
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt).chd" size="339487745" crc="1f9bb3e2" md5="b9a748043e81130b6b2373d66591a292" sha1="054827ac2453ee836ffcc047994e20ba87f1204e" date="1600076521" />
+		<rom name="Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es).chd" size="420491754" crc="3918df23" md5="dfde00edf978f61c10eecbfc4649d01b" sha1="bdaaafd89ea68f7354584230df2b6f416cbbd604" date="1600076580" />
+		<rom name="Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja).chd" size="336211372" crc="062f729c" md5="09af662dd195e873c3448b9a3bc9a4ef" sha1="45c10656f41282fb10915c5bb365efad2fa7be6e" date="1600076658" />
+		<rom name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2).chd" size="397685235" crc="a7c298f0" md5="d7aecf1a2aaf4d608b78b31fa3042979" sha1="971deac7d51171bb652873983b515dc1e6d0c847" date="1648869400" />
+		<rom name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3).chd" size="397684846" crc="2c20ba9f" md5="9de55379f854279f0f21eb5fd3f49978" sha1="5121bb2230b3d9cc3de4c1853427f42311037ea9" date="1648904228" />
+		<rom name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt).chd" size="397685133" crc="2690239e" md5="4770fb3df60cad81c349cdf571080548" sha1="631508cd28fc5328d6fd903940747a2ceb1d4215" date="1600076695" />
+		<rom name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1).chd" size="397685229" crc="75fb26aa" md5="ae81880c97c6694ab71a31ddc878beee" sha1="2e17467b6827e04371f7ffa723a9a954070d5afa" date="1648929511" />
+		<rom name="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja).chd" size="369879920" crc="4e0ac93c" md5="5206c61c9ad894dfdfeab4fb7fb60684" sha1="77e22bc7bc69cc9cd0d6a7c60919bc346528d44e" date="1600076617" />
+		<rom name="Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja).chd" size="404514081" crc="37948281" md5="d1fa047578b28e80733c237f4c41ca90" sha1="8f28ae108794c584fbbf207db606fc0a95f1a8bb" date="1600076831" />
+		<rom name="Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1).chd" size="404524583" crc="17b4e242" md5="368b9ebc1c748b5db1c74f487cd627ac" sha1="dcd63eefbcf370e0ccbc72ee0c1fc90b01ad1ee0" date="1648996482" />
+		<rom name="Ghost Pilots (Japan).chd" size="349750018" crc="407bdd8e" md5="0fef61e5b474dc5981bce8393284fb6a" sha1="5c85b897a33b320643bd3b285776b3d350870005" date="1600076894" />
+		<rom name="Idol Mahjong - Final Romance 2 (Japan).chd" size="140480300" crc="e32d491c" md5="dc28b4f604951101f5e21a4b7afc3bff" sha1="dd847973057984d68bf636d1ae382c45b11c57aa" date="1600076906" />
+		<rom name="Janshin Densetsu - Quest of Jongmaster (Japan).chd" size="273051552" crc="9201f97b" md5="a076aa07984bd4953ef7dfdfb07915a7" sha1="030efa0112b901cc31b0b7e60f75ec909e77bd92" date="1600076928" />
+		<rom name="Joy Joy Kid ~ Puzzled (Japan) (En,Ja).chd" size="252098400" crc="f96b891c" md5="21b93b9e3f087c985b79db8e5f1cba2f" sha1="07a53c77ede08038b72d5fc9fa07b63151535d4d" date="1600076963" />
+		<rom name="King of Fighters '94, The (Japan) (En,Ja).chd" size="372110301" crc="725e96cc" md5="bc9bea2b08018551eeded7f70be38c0a" sha1="53580dae66634bba3b90aa2414725f23e388bf30" date="1600076992" />
+		<rom name="King of Fighters '94, The (World) (En,Ja) (Rev 1).chd" size="372167587" crc="d237c974" md5="ef85e356058666b839daed99e273c835" sha1="8818beb62deb9a27b69bd48f55440bbcdb5bc455" date="1648996600" />
+		<rom name="King of Fighters '95, The (Japan) (En,Ja) (Rev 1).chd" size="354626535" crc="965128b4" md5="70af57194ac64f364df554faf2f05fee" sha1="82755a4a5019ae1198fe1aa52386aa8d309a543a" date="1600077067" />
+		<rom name="King of Fighters '95, The (World) (En,Ja).chd" size="354626599" crc="97a8fbc4" md5="801488f0c2fdd18108b4dea016e582e4" sha1="daf875534026ab2f816820d4a333c2464292e1c6" date="1649001404" />
+		<rom name="King of Fighters '96 NeoGeo Collection, The (Japan).chd" size="274292946" crc="0b2a32d9" md5="b56508a28a83543ffab3fb87bc039501" sha1="c7a49b935cc3fb022f433afd7b8c2e6e3702814d" date="1600077141" />
+		<rom name="King of Fighters '96, The (World) (En,Ja).chd" size="382606444" crc="4c355269" md5="95f44930549ed21a2754538685e56960" sha1="fa6cd0a15817ed07924e053e9ed29ca678b30f33" date="1649011306" />
+		<rom name="King of Fighters '97, The (Japan) (En,Ja).chd" size="387805531" crc="065909eb" md5="846d1df6a402c8d1526ba62bdc37bc17" sha1="a85b82acfa3b03d1bcf08ec00bc779e23c420d2a" date="1600077212" />
+		<rom name="King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja).chd" size="403398273" crc="78e7b7cf" md5="424db8af2d6f99296118edb60b8a6ddc" sha1="839b57773c3b304038037460ec5ef45cccf6df3a" date="1600077243" />
+		<rom name="King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (World) (En,Ja,Es,Pt).chd" size="391740874" crc="7c376f25" md5="4ee92e971eb473c7059be83bedf98330" sha1="cd4f3fd5acfe2a46aecf2c970a602659001fd087" date="1649025567" />
+		<rom name="Last Hope (Germany) (Unl).chd" size="128870497" crc="093fce2e" md5="8f5d8bf64a777d01f39e1b06f55302ba" sha1="98e6de61c6b900ecf3a386e015a7cc887d7b7828" date="1629224375" />
+		<rom name="Last Resort (Japan) (En,Ja).chd" size="215255765" crc="d0dc7dc9" md5="d164373049bf506433b53b67744a07ad" sha1="b2306ee501303a52e54c39b4e59fca0828bbb11f" date="1600077299" />
+		<rom name="League Bowling (Japan) (En,Ja).chd" size="2719657" crc="f133b0f5" md5="97705982edd5804ff8c3a3f9f9ec3475" sha1="0cc28328d59f86429eb6e143b991fe8b2bff5ce1" date="1600077302" />
+		<rom name="Magical Drop 2 (Japan) (En,Ja).chd" size="407939003" crc="63fe3dae" md5="12bfbfe95fe1dc1747c0e523c27ace96" sha1="5beb295b8fb3f6200909fe5109d4cf390c5986ce" date="1600077339" />
+		<rom name="Magician Lord (Japan) (En,Ja).chd" size="187811108" crc="269dc428" md5="068f591892fedd7d0020c0e06d020e96" sha1="b220b315b42f583cb4ba53b6c31f08b79b2c3f4c" date="1600077367" />
+		<rom name="Mahjong-kyou Retsuden - Nishi Nihon-hen (Japan).chd" size="140481452" crc="7df15e4d" md5="bdc7fcc6ad84a8649b63ede1c419a6bf" sha1="0b68fab3e76e464b90c70c2ff3cbab1904d50f10" date="1600077395" />
+		<rom name="Metal Slug 2 (World) (En,Ja).chd" size="476464518" crc="11803f59" md5="8a3b2188c1eda80b93673d42a264aa4c" sha1="00b37e38a5161c80b5ad18d1e0784346ab6ab8b2" date="1649025734" />
+		<rom name="Metal Slug (Japan) (En,Ja).chd" size="431225741" crc="3c7c4d1c" md5="64d52ef27e8cf38dcb735bc3d4c4c91c" sha1="32f52b318a86b50d6050c86b6843080684cc92e6" date="1600077432" />
+		<rom name="Mutation Nation (Japan) (En,Ja).chd" size="324243554" crc="d8ef964b" md5="89ae1fd3a9485a73a3aea0c736ce9b8f" sha1="98cfa4e2703a4ce6d494bc971b657047044ece66" date="1600077500" />
+		<rom name="Nam-1975 (Japan) (En,Ja).chd" size="241834340" crc="2fa7c75f" md5="e984e113712a690d73aedd965f8578c8" sha1="a5d77ea4b1c29e456e389592a7923458f3ad040c" date="1600077524" />
+		<rom name="Neo Drift Out - New Technology (Japan).chd" size="168824156" crc="bfa55b7d" md5="2df74f3aff76ccd0a0078f1d25379618" sha1="39cea38be443c640116ce663b11a7d2a3d6c2894" date="1628519387" />
+		<rom name="Neo-Geo CD Special (Japan).chd" size="353171817" crc="7355ee9b" md5="4ce4b1f691bab5c20dc44f0cdae0b45f" sha1="3872ec48f4dee61ee702208c9b64e9da0877c6ca" date="1600077559" />
+		<rom name="Next Thing, The - King of the Monsters 2 (World) (En,Ja).chd" size="393532589" crc="2abfb873" md5="6916d9a9475b5ec64641278247db23a2" sha1="ba2a4264383f88e8ea7fc867183c70ae99b3853a" date="1649044433" />
+		<rom name="Ninja Combat (Japan) (En,Ja).chd" size="288095243" crc="088ff8ca" md5="f7ac0e4df0f33def1a5aff950101546a" sha1="23d2a89d98a69dc541695265101881ec18895908" date="1600077622" />
+		<rom name="Ninja Commando (Japan) (En,Ja).chd" size="261954228" crc="2ad4e1d0" md5="f4fe9251dea5d4ca1c48288063c9225f" sha1="bde52776eaf5c3c935f925b477e26055fb8eb80d" date="1600077662" />
+		<rom name="Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja).chd" size="337595328" crc="5d263239" md5="46060fa04596ea6315c31377e4d27888" sha1="9800f730c7b80f4b2ed760ec07dd983009403147" date="1628519486" />
+		<rom name="Oshidashi Zintrick ~ ZinTricK (Japan) (En,Ja).chd" size="231578768" crc="cb7d95e7" md5="6bb398587dfd2e69a8d0705272457ff3" sha1="65859dc38b0e54510b394a1f8f6699f3a7fb892e" date="1628519528" />
+		<rom name="OverTop (Japan) (En,Ja).chd" size="342851576" crc="7d93432e" md5="b0f18a9dc0a2f9b744b16446a4f266a0" sha1="a3457bf157beac805bdf44665731b7d316db2fdb" date="1628519646" />
+		<rom name="Power Spikes II (Japan) (En,Ja).chd" size="275959265" crc="8acad320" md5="3a06b7d2e710fa6e06900562c7ffb3f2" sha1="009c44c9ad0c738656e1c6988dc6a2a9ef219aef" date="1600077745" />
+		<rom name="Pulstar (Japan).chd" size="354366576" crc="9d7879ed" md5="32809943e5a4e665b17b91443c34ce70" sha1="97036a3b97c84292ea3a33b12ec65035adbaca01" date="1600077782" />
+		<rom name="Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja).chd" size="1095740" crc="1702b307" md5="b04e5652ef932fc57f24a3619432618b" sha1="78df1c90a4f43b668a64286367214311515ec8ec" date="1628519649" />
+		<rom name="Quiz King of Fighters (Japan).chd" size="408639481" crc="f42a0bd1" md5="c2adc354f88ec473637418b3f4c465ca" sha1="057049b747e4511ef8159a830c40fa72088425e6" date="1600077841" />
+		<rom name="Raguy ~ Blue's Journey (Japan) (En,Ja).chd" size="239683942" crc="baf9a069" md5="e5528a08eb1f6598639610be8d7c7332" sha1="f340c76765557a776c5b4c923679fd8e9ceab9c5" date="1600077862" />
+		<rom name="Rally Chase (Japan) (En,Ja).chd" size="169289802" crc="c9ca2ead" md5="ed5b56bbe66ab2e7199b411ade02fcbf" sha1="5635d249215e3d93f0acadd47aee8e3c568d915c" date="1600077878" />
+		<rom name="RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja).chd" size="417368063" crc="a010f140" md5="f860afae7b5340499e60b0da9317e574" sha1="fae7b91a5b63278e05ef11ef346929366db4326d" date="1600077910" />
+		<rom name="Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (World) (En,Ja,Es,Pt).chd" size="405792807" crc="10e9da01" md5="e3ef468306ed6e84831b307d5d182915" sha1="4ea78a696542b6cb77f541bfc472bdb0804e0e60" date="1649044562" />
+		<rom name="Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt).chd" size="449532218" crc="0850d5ed" md5="6ecd9d2cb029cbe783be276f09ac3cf6" sha1="91fbcf22856eebb44fa4bda2ace8e50211807edc" date="1649044696" />
+		<rom name="Riding Hero (Japan) (En,Ja).chd" size="247987567" crc="6ccb479b" md5="f4805838e6f3a0499de2498b9ba5bb41" sha1="5d55bce4437fb50db8653eb61b05639099d88205" date="1600078034" />
+		<rom name="Robo Army (Japan) (En,Ja).chd" size="213438783" crc="0d4cbfd7" md5="66bf0552ae78d972448ae2166e03cd28" sha1="7c3d2b4334e421d35e572e07a93e9a8d67af07e4" date="1600078060" />
+		<rom name="Ryuuko no Ken 2 ~ Art of Fighting 2 (World) (En,Ja,Es).chd" size="388401257" crc="f572ef1e" md5="ed5029c316e72bc2d610d46d5cc903d2" sha1="237642f158f8a1ed618dd74e08f556cec3d5be3c" date="1649084592" />
+		<rom name="Ryuuko no Ken ~ Art of Fighting (World) (En,Ja,Es).chd" size="247284510" crc="ae3c5106" md5="2a4334d2a95d685756392c3130659a14" sha1="9ab4475d722b0ed5b26305648b9ceba37c606ac4" date="1649088311" />
+		<rom name="Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (World) (En,Ja,Es,Pt).chd" size="295112991" crc="eb375f7f" md5="d6cde084d1b1e03a2b6e54a5022fafa2" sha1="ca851a790b682cd50a2cd79b76de64f863090cf0" date="1649097648" />
+		<rom name="Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (World) (En,Ja,Es,Pt).chd" size="334127811" crc="0d559daa" md5="d4fd7db596c71ca086bd5dbed472ce4d" sha1="89f9f6c2b3236e7f66790890492a252f57c684e9" date="1649166636" />
+		<rom name="Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja).chd" size="319645007" crc="b1256215" md5="a671fdf36d27f7873d4b962fd374989c" sha1="7a9f9449254eea9193c6d395de7dbdc7f3541834" date="1600078260" />
+		<rom name="Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja).chd" size="340945374" crc="47aaf926" md5="74a5af44d44121fc42914dd7e4dc5e73" sha1="07c990e9ac84a18a4c2bcfcf6f9507c80425b16d" date="1600078294" />
+		<rom name="Sengoku Denshou ~ Sengoku (Japan) (En,Ja).chd" size="374731936" crc="114fa04b" md5="99262affe8675156aff6794ffb2506b2" sha1="b9d281dcb6534cc944b138e4ed15c597b61131c0" date="1628519907" />
+		<rom name="Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (World) (En,Ja).chd" size="337291273" crc="274fa240" md5="c9838d16135e1d7e12b7129c22fb5271" sha1="bbaa2f93ca973bc2a703a3289d267c8d6514973f" date="1649166732" />
+		<rom name="Shinouken ~ Ragnagard (Japan) (En,Ja,Es).chd" size="432251059" crc="0b6324b8" md5="115cda991cbf7276d12b0c6b9d1ab6de" sha1="a5e15aa60fd2d226637c7bfa20c6214cfedd0dba" date="1600078364" />
+		<rom name="Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan).chd" size="301953426" crc="ec54a176" md5="1143c0705fe05a033ff9dbf535aa2422" sha1="2273456218e3df54abc26c44206494ed7ce1d96c" date="1600078389" />
+		<rom name="Shougi no Tatsujin - Master of Syougi (Japan).chd" size="226668536" crc="1dec397e" md5="d1e15fc8b2668e138b854baaf93206a7" sha1="411bfb047d25b576eb5c8cd74f11d2512921d8dd" date="1600078431" />
+		<rom name="Soccer Brawl (Japan).chd" size="134595069" crc="22b67045" md5="c698f475bb8bdd47c25c3ebac534c709" sha1="8848e58ac9eaa28eaf659b3d4635432ba0860767" date="1600078447" />
+		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (Japan) (En,Ja).chd" size="352487491" crc="503d493c" md5="45a819369ff44aa4f753ba8a545d4df6" sha1="e6db0a76170c232f8018590a5f4df9df4da8459b" date="1600078487" />
+		<rom name="Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja).chd" size="211677820" crc="3fdaa91f" md5="7ea7d67848f5ca8644adaf5a2bcabbcb" sha1="1ae3164837505288fd91ea6a362050a7a9f0130b" date="1600078508" />
+		<rom name="Stakes Winner - GI Kanzen Seiha e no Michi (Japan).chd" size="228588224" crc="49efdd4d" md5="f4247740312bd62319b85da07460f610" sha1="432f1808025f119352613c7670f7ae8c080344ba" date="1600078560" />
+		<rom name="Super Sidekicks - Tokuten-ou (Japan) (En,Ja).chd" size="130098426" crc="6ec28ba4" md5="2c50cf9c54e54432bc8cf4fd5b9e0e13" sha1="c0c7d05cf9dab77bf3a0a5c9be93f80abf640752" date="1600078572" />
+		<rom name="Super Spy, The (Japan) (En,Ja).chd" size="235922152" crc="411a0c6c" md5="0d23a017bef21912b128f7d877731898" sha1="f8e7a5697a24ff7d9bbaadaef9f098729fb0c5be" date="1600078592" />
+		<rom name="Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es).chd" size="302960132" crc="fdf83f24" md5="58b3d88bb3afe9d2d82193287527eaa7" sha1="e0f7aad8bca140ef276237926c03175ab005036a" date="1600078617" />
+		<rom name="Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt).chd" size="282282491" crc="768dd36b" md5="abf0b60a516ec9db3f47276c094020b0" sha1="16d058257e1c80965c6de58662423114b0d16054" date="1649166845" />
+		<rom name="Top Hunter - Roddy &amp; Cathy (Japan) (En,Ja).chd" size="315554129" crc="f145affb" md5="19ae6f8aefd73e4d684b7edea43ecf62" sha1="8a4b0766fec514f2081725db0dc916aea4a360f8" date="1600078682" />
+		<rom name="Top Player's Golf (Japan) (En,Ja).chd" size="164109497" crc="0e4a7e81" md5="b873a40a43100b9cfcd1afbf7a70411f" sha1="2a5aefeff28216bf9f7c627f6e62998b1e2074b6" date="1600078699" />
+		<rom name="Treasure of the Caribbean (France) (En,Ja) (Unl).chd" size="174027977" crc="da35c34d" md5="63a9c09011b60619d5b9c18053448737" sha1="16f0cec153c9e4569abd8c50b90c78e97a8f7349" date="1600078721" />
+		<rom name="Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (World) (En,Ja).chd" size="360220738" crc="a9432569" md5="5a3e1ebc68ce5b92f50d4aefe07aa7ce" sha1="81234cae7cf996fc6cdcfd9d5d7186d1bf7ba5ea" date="1649166938" />
+		<rom name="Twinkle Star Sprites (Japan) (En,Ja).chd" size="366492598" crc="8885cc6c" md5="d91fdbf9e3648ed9a63215c97657bfa7" sha1="ff21b80c9b4666e72df058851d02569a149780cb" date="1628520097" />
+		<rom name="Viewpoint (Japan).chd" size="191342836" crc="23733eca" md5="6274aa6cd72851aa37b87b9ba13a9399" sha1="937bb27d9227a3b9bf391da724d2677312458a97" date="1600078770" />
+		<rom name="World Heroes 2 (Japan) (En,Ja).chd" size="346384494" crc="70794ee1" md5="27d1442c08ef04b37cee2148f05282df" sha1="fdb65262ccadee4a5b53e9a6ca317c6ba881d7f3" date="1600078838" />
+		<rom name="World Heroes 2 Jet (Japan) (En,Ja).chd" size="252560387" crc="8d86c4a4" md5="2f43a4ba5e63ec864b0e59218fce992f" sha1="eb8d3bc42a3dd618aee70726baa8e127da74a383" date="1600078862" />
+		<rom name="World Heroes (Japan) (En,Ja).chd" size="328284448" crc="b71647ba" md5="b5fb604125af421fb727f2a996c7b444" sha1="56edf1c6867a8605951b5a1993c0292b3e0a3f8b" date="1600078798" />
+		<rom name="World Heroes Perfect (Export) (En,Ja) (Rev 1).chd" size="394167768" crc="dd2eecf6" md5="998b6d4c16c23d4845ce4f9d5fb989a6" sha1="fa273a7cbb12d61a0e4bd506b6fabae04593538a" date="1655606228" />
+		<rom name="World Heroes Perfect (World) (En,Ja).chd" size="394167740" crc="fb778448" md5="004c22ff4ca4cf1484c9dc91bdff0ac4" sha1="e0729b89b2b3a713a7c50b39a680e2b545907a99" date="1649174306" />
+		<rom name="Xeno Crisis (World) (Unl).chd" size="437832031" crc="6dab7a83" md5="b2562f98459a1844f313b99342a64092" sha1="37913b3f2a2de21198bcf46403bf6f3df3787eaa" date="1663605982" />
+	</machine>
+	<machine name="CHD-NeoGeoCD-Cracked">
+		<description>CHD-NeoGeoCD-Cracked</description>
+		<rom name="Art of Fighting - Ryuuko no Ken Gaiden (NGCD-0961) (Japan) (Cracked).chd" size="328053144" crc="cbf81e53" md5="1607d8c11b0467fd88045189f62cb9e4" sha1="310684cd998e5a4b807492f695d19a9093ac6678" date="1603145639" />
+		<rom name="Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (Japan, USA) (En,Ja,Es,Pt) (Cracked).chd" size="328624649" crc="158729fc" md5="3709e5aac0c40b52a0c150345d9de3bf" sha1="6f4cf224d7bc9baaca68c27ad54c111dacd265c9" date="1603115355" />
+		<rom name="Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt) (Cracked).chd" size="305857228" crc="9a36872e" md5="5a879ae05a2797b2c45deab3f6640a6d" sha1="30c4257d6cf08ffc2e5a4af80bbd676792ce62d6" date="1603115449" />
+		<rom name="Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt) (Cracked).chd" size="292674592" crc="fcb2df36" md5="e55ab80dc5847504ba305b1376392cfe" sha1="10c4db0e68f5e1ad7d1bc43123c517237a2f3a2f" date="1603115518" />
+		<rom name="Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja) (Cracked).chd" size="221284281" crc="f2790df7" md5="fc49a01577a1f2f16dcf79347e5df496" sha1="7c686f397cb38eb0fa5a49a10e083053d2f39748" date="1603058781" />
+		<rom name="Breakers (Japan) (En,Ja) (Cracked).chd" size="308374983" crc="c9f60ed6" md5="8d1e7c3acab199135ac9532f0b4e11c3" sha1="caf09c3195d37846999fba539e581489fada60dc" date="1603058861" />
+		<rom name="Choutetsu Brikin'ger ~ Ironclad (Japan) (Cracked).chd" size="433819930" crc="3eac3665" md5="862169c9e614e9146e878fe4b0f41728" sha1="6ee0f070ef83895e2a3a0bdc05d26406dd24a398" date="1603145742" />
+		<rom name="Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja) (Cracked).chd" size="410333956" crc="3538d765" md5="e15a6d9523201402073991a91152bff3" sha1="8e42000c68403fe756ccd62053c9c0e44bdcc516" date="1603058948" />
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) (Cracked).chd" size="339487745" crc="68f8f5cd" md5="8e176e56ad778756d0906782bf39c79d" sha1="2bd6aa9f32a47ea7a4abac5c4290bcae75a4a257" date="1603136949" />
+		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (USA) (En,Ja,Es,Pt) (Rev 1) (Cracked).chd" size="339523376" crc="936cb3ab" md5="d0f6c5eb4f745eb4b66fb717de34eaa1" sha1="27c20df4538c33e8648ca0def55c875ccb803390" date="1603136976" />
+		<rom name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt) (Cracked).chd" size="397685134" crc="2ba9ddf9" md5="96168e04b4fbf25599da29945e4f5a17" sha1="2572423d5d48cec56a3d15b1b01835d5edecfdc9" date="1603145787" />
+		<rom name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan, USA) (En,Ja,Es,Pt) (Rev 1) (Cracked).chd" size="397685229" crc="ccd163db" md5="290a8dfbc7e59e84ea43978232238523" sha1="38dcdd19f6662f85b106ccc9161c5a429c3be923" date="1603145820" />
+		<rom name="Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (USA) (En,Ja,Es,Pt) (Rev 3) (Cracked).chd" size="397684846" crc="9de51240" md5="43c8dd5f8a19f5517a4b7ea9560cba88" sha1="db51bf7bfc565a048adc99ff7da8ee76c55e0179" date="1603145850" />
+		<rom name="King of Fighters '95, The (Japan) (En,Ja) (Rev 1) (Cracked).chd" size="354626538" crc="09778da7" md5="9d9a16b60a669f7249c1ce13e2b7b20a" sha1="695b4eb91181851f3b5f22fa7df78b8bb15c38d2" date="1603137008" />
+		<rom name="King of Fighters '95, The (Japan, USA) (En,Ja) (Cracked).chd" size="354626602" crc="6b278a50" md5="f7c103561e688eeb0dd45603eb34a03a" sha1="cc9627acb9e093f802a6a21a20ee7ebdd330e309" date="1603137042" />
+		<rom name="King of Fighters '96 NeoGeo Collection, The (Japan) (Cracked).chd" size="274292945" crc="3ad74dea" md5="5d200127815085092d57bbe7fe58aa6a" sha1="0b7c079e061100f374be5865e95aefc3c9cca4c2" date="1603115599" />
+		<rom name="King of Fighters '96, The (Japan, USA) (En,Ja) (Cracked).chd" size="382606448" crc="f8cd74d5" md5="79cf74d289d68191e21a537e8b07086b" sha1="73fbdc8b0c5acbbee08c3cfaa4fd754f52ca9720" date="1603115702" />
+		<rom name="King of Fighters '97, The (Japan) (En,Ja) (Cracked).chd" size="387805535" crc="2e67d390" md5="32f72967e27c9e8e95d496ab0101fbd6" sha1="6a465d11a91ef77bd2ff48ef976c5be3038615c5" date="1603071030" />
+		<rom name="King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja) (Cracked).chd" size="403398275" crc="e0cc4972" md5="7d074b87cd07983c36d3e62ce548f194" sha1="c889d705db8821cfc553ac8f99cb6b7aab510665" date="1603115806" />
+		<rom name="King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan, USA) (En,Ja,Es,Pt) (Cracked).chd" size="391740875" crc="bc83229c" md5="da7dc36d61c8c0c60ffb12dae438b735" sha1="4a944b164935f81659a78fc3f249336dff5afe97" date="1603115909" />
+		<rom name="Magical Drop 2 (Japan) (En,Ja) (Cracked).chd" size="407939005" crc="ff3ad429" md5="640614e1eb013231a5b2b85936cbbec5" sha1="04db6eb5a26c4f8a4b211b1ea88459877fcb0784" date="1603059052" />
+		<rom name="Metal Slug 2 (Japan, USA) (En,Ja) (Cracked).chd" size="476464518" crc="79b7f74b" md5="e70a017bde5810fa159cf748d063a3d7" sha1="f999ef5d5b0890be129f840336f3742cd3b2a060" date="1603059120" />
+		<rom name="Metal Slug (Japan) (En,Ja) (Cracked).chd" size="431225742" crc="5fa9095e" md5="d2d7d54ad82942f909db12b433550d53" sha1="371592c787a14aa1998904242052fd1fd1593d1c" date="1603050678" />
+		<rom name="Neo DriftOut (Japan) (Cracked).chd" size="168780505" crc="59006215" md5="31eb603f8504d002a6c186f76e0f80f3" sha1="f12195fafe1e81bb7fac2790d875761de562bf7a" date="1603065380" />
+		<rom name="Neo Geo CD Special (Japan) (Cracked).chd" size="352323325" crc="7f3fe6dd" md5="ceb62cf7ba44d2361a60c735770b81d9" sha1="c58275fe97b278f3d0d1146d8c488bbcca0601f9" date="1603148444" />
+		<rom name="Ninja Master's - Haou Ninpou-Chou (Japan) (Cracked).chd" size="337427714" crc="2e643db9" md5="a59300091b7120b533b4ebc308b0135d" sha1="73484267b01dfab29a42c7bd2b181fe4b7e00c39" date="1603065463" />
+		<rom name="RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja) (Cracked).chd" size="417368065" crc="6c29cacc" md5="2bc6b1b00ec683761f6f6ebccb1b97b0" sha1="d2435afccf49743903fc19d30d87987342054e40" date="1603116022" />
+		<rom name="Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (Japan, USA) (En,Ja,Es,Pt) (Cracked).chd" size="405792806" crc="dc0b350b" md5="8f614da8c22864d134e58fbdf6621f48" sha1="f247df568a660ea9897f1e971e90c4224b4a1ae7" date="1603137074" />
+		<rom name="Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan, USA) (En,Ja,Es,Pt) (Cracked).chd" size="449532221" crc="58d13702" md5="145ec37d5f3a55e046f3f63cda71ce79" sha1="0f352e2fbfddc6415f134c1790b2a335d271746d" date="1603116301" />
+		<rom name="Robo Army (Japan) (En,Ja) (Cracked).chd" size="213438782" crc="b0c5dda7" md5="216b637e3835f45923448ae6ef218345" sha1="3d26f6402df7b1b3a8a4adbc59b9fed2344bfdac" date="1603137104" />
+		<rom name="Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (Japan) (En,Ja,Es,Pt) (Cracked).chd" size="295112993" crc="aa5f16ef" md5="c829123e9f8cce617790a6548c32319d" sha1="fa289447ca4123a3a4a15903e25e19f6d8de008d" date="1603137139" />
+		<rom name="Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (Japan, USA) (En,Ja,Es,Pt) (Cracked).chd" size="334127812" crc="d5ebb056" md5="fc7580e29e054e88c1e316f6551fb32e" sha1="bafe9c21e8103901c05986dfdb0a02b050533440" date="1603137188" />
+		<rom name="Shinouken ~ Ragnagard (Japan) (En,Ja,Es) (Cracked).chd" size="432251060" crc="df84ac8d" md5="6df3fbf1f287cce3919622595d79af59" sha1="946933b4ce399033e2fd29ae41ca515f1c456874" date="1603059196" />
+		<rom name="Shinsetsu Samurai Spirits - Bushidohretsuden (Japan) (Cracked).chd" size="288733207" crc="bb8deed7" md5="393c7d81621697744eab1e875b9f2c79" sha1="6e04be551bdb0b35a7feb87d263e21a7962653e7" date="1603148467" />
+		<rom name="Soccer Brawl (Japan) (Cracked).chd" size="134595069" crc="96a9691c" md5="e72556afe8612bd6a5ec01c7b1ecb066" sha1="b81ba7d16d74d4e04e5ba1c875ef3673a36de2c4" date="1603137206" />
+		<rom name="Stakes Winner - GI Kanzen Seiha e no Michi (Japan) (Cracked).chd" size="228588224" crc="f88b165d" md5="4ce4235b8878fe6d637f957798251360" sha1="0a27c43f6ed06ccbb04c3e1d243b1f20d94e4c99" date="1603059247" />
+		<rom name="Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (Japan, USA) (En,Ja,Fr,Es,It,Pt) (Cracked).chd" size="282282488" crc="69193f93" md5="88c37a441b2784e623835d02df1d5d34" sha1="e54cc8130541a646e4dd8fba34c43eb3f1bdd3cb" date="1603145881" />
+		<rom name="Twinkle Star Sprites (Japan) (Cracked).chd" size="366401264" crc="767b819b" md5="9d283e2c974a956af6970c31546b5194" sha1="ce109a1e18b3161ba448d36656ebc79c2c3f7361" date="1603064420" />
+	</machine>
+</datafile>
